@@ -166,3 +166,24 @@ root:
         !h af61d9af: false
         !h b3350fa7: !l 0
         !h efcf2112: Demo_Office_OR
+      - !h 4955548b: IdrMuseumEnt02
+        !h 649b96d3: StructureInside_MuseumEnt01
+        !h 712a095a: cStrMuseumEnt
+        !h a8aaebc0: 時間連動
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: DefaultName
+      - !h 4955548b: IdrTsunekichi
+        !h 649b96d3: DefaultName
+        !h 712a095a: cDefault
+        !h a8aaebc0: 夜
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_Tsunekichi_OR
+      - !h 4955548b: IdrMuseumArt_0
+        !h 649b96d3: DefaultName
+        !h 712a095a: cStrMuseumFish02
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumArt01_OR

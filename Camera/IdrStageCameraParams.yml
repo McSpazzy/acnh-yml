@@ -5,8 +5,10 @@ HasReferenceNodes: False
 root:
   !h IdrStageCameraParams:
     !h mParams:
+      !h 1dd29a22: {!h 91e8403d: 0.00000, !h 921ba072: 30.00000, !h d03ea70f: 0.00000, !h d3cd4740: 0.00000}
       !h IdrMuseumFish_1: {!h 91e8403d: 0.00000, !h 921ba072: 30.00000, !h d03ea70f: 26.00000, !h d3cd4740: 26.00000}
       !h IdrMarket01: {!h 91e8403d: 20.00000, !h 921ba072: 18.00000, !h d03ea70f: 45.00000, !h d3cd4740: 45.00000}
+      !h 5334cf79: {!h 91e8403d: 20.00000, !h 921ba072: 18.00000, !h d03ea70f: 30.00000, !h d3cd4740: 30.00000}
       !h IdrMuseumEnt02: {!h 91e8403d: -56.00000, !h 921ba072: 5.00000, !h d03ea70f: 75.00000, !h d3cd4740: 75.00000}
       !h IdrMuseumFish_0: {!h 91e8403d: 0.00000, !h 921ba072: 24.00000, !h d03ea70f: 34.00000, !h d3cd4740: 38.00000}
       !h IdrMuseumInsect_0: {!h 91e8403d: 42.00000, !h 921ba072: 32.00000, !h d03ea70f: 38.00000, !h d3cd4740: 38.00000}

@@ -1,0 +1,227 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h DynamicLightSceneParam:
+    !h mSpotParamArray[]:
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 322b9edc:
+          - 0.50000
+          - 1.00000
+          - 0.70000
+          - 1.00000
+        !h 32af8f76:
+          - 137.06680
+          - 52.00000
+          - 168.80160
+        !h 45c202fb: 0.00000
+        !h 4a07fd06:
+          - 0.00000
+          - -1.00000
+          - 0.00000
+        !h 55a5c25d: 
+        !h 6404e56c: Spot1
+        !h 79a61e3f: 70.00000
+        !h 94f81f90: 36.00000
+        !h c09bb276: 0.95993
+        !h c6d52e9b: 
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 322b9edc:
+          - 0.60000
+          - 1.00000
+          - 0.80000
+          - 1.00000
+        !h 32af8f76:
+          - 194.34000
+          - 45.08688
+          - 181.90220
+        !h 45c202fb: 0.00000
+        !h 4a07fd06:
+          - -0.16683
+          - -0.90648
+          - -0.38789
+        !h 55a5c25d: 
+        !h 6404e56c: Spot2
+        !h 79a61e3f: 70.00000
+        !h 94f81f90: 4.50000
+        !h c09bb276: 0.92503
+        !h c6d52e9b: 
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 322b9edc:
+          - 0.60000
+          - 1.00000
+          - 0.80000
+          - 1.00000
+        !h 32af8f76:
+          - 117.60000
+          - 48.80000
+          - 193.20000
+        !h 45c202fb: 0.00000
+        !h 4a07fd06:
+          - -0.05214
+          - -0.93102
+          - -0.36123
+        !h 55a5c25d: 
+        !h 6404e56c: Spot3
+        !h 79a61e3f: 70.00000
+        !h 94f81f90: 0.30000
+        !h c09bb276: 0.61087
+        !h c6d52e9b: 
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 322b9edc:
+          - 1.00000
+          - 0.85000
+          - 0.55000
+          - 1.00000
+        !h 32af8f76:
+          - 115.00000
+          - 8.18010
+          - 210.06410
+        !h 45c202fb: 0.00000
+        !h 4a07fd06:
+          - 0.00000
+          - 0.00000
+          - -1.00000
+        !h 55a5c25d: 
+        !h 6404e56c: Identify
+        !h 79a61e3f: 150.00000
+        !h 94f81f90: 3.00000
+        !h c09bb276: 0.61087
+        !h c6d52e9b: 
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 322b9edc:
+          - 0.90000
+          - 0.90000
+          - 0.90000
+          - 1.00000
+        !h 32af8f76:
+          - 197.50000
+          - 40.00000
+          - 155.00000
+        !h 45c202fb: 0.00000
+        !h 4a07fd06:
+          - -0.09786
+          - -0.94109
+          - -0.32370
+        !h 55a5c25d: 
+        !h 6404e56c: Spot4
+        !h 79a61e3f: 62.00000
+        !h 94f81f90: 1.50000
+        !h c09bb276: 0.73304
+        !h c6d52e9b: 
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 322b9edc:
+          - 0.90000
+          - 0.90000
+          - 0.90000
+          - 1.00000
+        !h 32af8f76:
+          - 178.00000
+          - 40.00000
+          - 155.00000
+        !h 45c202fb: 0.00000
+        !h 4a07fd06:
+          - -0.09786
+          - -0.94109
+          - -0.32370
+        !h 55a5c25d: 
+        !h 6404e56c: Spot5
+        !h 79a61e3f: 62.00000
+        !h 94f81f90: 1.50000
+        !h c09bb276: 0.73304
+        !h c6d52e9b: 
+    !h mPointParamArray[]:
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 2cc46ab6: false
+        !h 322b9edc:
+          - 1.00000
+          - 0.00000
+          - 0.00000
+          - 1.00000
+        !h 32af8f76:
+          - 107.00000
+          - 19.00000
+          - 176.00000
+        !h 341a207f: 1.00000
+        !h 45c202fb: 1.00000
+        !h 47d316df:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h 5260faf: 0.09000
+        !h 55a5c25d: 
+        !h 6404e56c: Red1
+        !h 8139ecd8: 0.05000
+        !h 83b27d01: 0.00300
+        !h 94f81f90: 30.00000
+        !h 99275374: 4.00000
+        !h c6999608: 0.20000
+        !h c6d52e9b: 
+        !h ca983c88: false
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 2cc46ab6: false
+        !h 322b9edc:
+          - 1.00000
+          - 0.85000
+          - 0.45000
+          - 1.00000
+        !h 32af8f76:
+          - 202.00000
+          - 23.00000
+          - 175.00000
+        !h 341a207f: 20.00000
+        !h 45c202fb: 0.00000
+        !h 47d316df:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h 5260faf: 0.18000
+        !h 55a5c25d: 
+        !h 6404e56c: RightDoor
+        !h 8139ecd8: 0.10000
+        !h 83b27d01: 0.00600
+        !h 94f81f90: 5.00000
+        !h 99275374: 34.00000
+        !h c6999608: 0.40000
+        !h c6d52e9b: 
+        !h ca983c88: false
+      - !h mNormAreaSidemRemakeTool: false
+        !h 2cac3d2e: true
+        !h 2cc46ab6: false
+        !h 322b9edc:
+          - 0.40000
+          - 1.00000
+          - 0.40000
+          - 1.00000
+        !h 32af8f76:
+          - 202.30000
+          - 25.00000
+          - 175.00000
+        !h 341a207f: 1.00000
+        !h 45c202fb: 0.00000
+        !h 47d316df:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h 5260faf: 0.09000
+        !h 55a5c25d: 
+        !h 6404e56c: RightDoorCore
+        !h 8139ecd8: 0.05000
+        !h 83b27d01: 0.00300
+        !h 94f81f90: 4500.00000
+        !h 99275374: 5.50000
+        !h c6999608: 0.20000
+        !h c6d52e9b: 
+        !h ca983c88: false

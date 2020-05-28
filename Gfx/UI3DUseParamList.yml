@@ -38,7 +38,7 @@ root:
       - !h 377c08f8: 作業台：クラフト
         !h 4a87e41d: WorkBenchCraft
         !h 9532c98a: !l 4
-        !h ae26120b: !l 11
+        !h ae26120b: !l 9
         !h X_Encoding[]:
           - 660.00000
           - 580.00000
@@ -143,3 +143,15 @@ root:
           - 0.00000
         !h f16f4d1:
           - {!h 9850be74: !l 0, !h a5f023ea: MyDesignExchange, !h b05d5515: !l 13}
+      - !h 377c08f8: あいのけっしょう交換リスト
+        !h 4a87e41d: CatalogGift
+        !h 9532c98a: !l 0
+        !h ae26120b: !l 2
+        !h X_Encoding[]:
+          - 450.00000
+          - 600.00000
+        !h dc6cf31c:
+          - -475.00000
+          - -50.00000
+        !h f16f4d1:
+          - {!h 9850be74: !l 0, !h a5f023ea: CatalogGift, !h b05d5515: !l 14}

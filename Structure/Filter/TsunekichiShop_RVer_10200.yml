@@ -1,0 +1,38 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h TsunekichiShop_RVer_10200:
+    !h mUnitFilterAppearMoth:
+      !h 2daf6231:
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - true
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
