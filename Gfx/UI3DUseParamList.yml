@@ -131,3 +131,15 @@ root:
           - 0.00000
         !h f16f4d1:
           - {!h 9850be74: !l 0, !h a5f023ea: ShopTailor, !h b05d5515: !l 12}
+      - !h 377c08f8: マイデザイン交換ステージ
+        !h 4a87e41d: MyDesignExchange
+        !h 9532c98a: !l 0
+        !h ae26120b: !l 0
+        !h b8ff62ca:
+          - 100.00000
+          - 100.00000
+        !h dc6cf31c:
+          - 0.00000
+          - 0.00000
+        !h f16f4d1:
+          - {!h 9850be74: !l 0, !h a5f023ea: MyDesignExchange, !h b05d5515: !l 13}

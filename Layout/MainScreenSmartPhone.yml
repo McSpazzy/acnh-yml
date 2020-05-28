@@ -9,3 +9,4 @@ root:
     !h 718df20d: false
     !h a8e79f6f:
       - {!h 2c49113d: Flash, !h 8625d6ec: !l 0}
+      - {!h 2c49113d: FlashFriend, !h 8625d6ec: !l 0}
