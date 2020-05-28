@@ -3,9 +3,9 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 255c8133:
+  !h EvtobjBlackVR[]:
     - !h 1b7fce6f: ポイントライト
-      !h 23b59619: false
+      !h mNormAreaSidemRemakeTool: false
       !h 2cc46ab6: false
       !h 32af8f76:
         - 0.00000

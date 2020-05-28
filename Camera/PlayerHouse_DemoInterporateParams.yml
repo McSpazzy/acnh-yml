@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h c660f8c4:
-    !h 23be9c62:
+  !h PlayerHouse_DemoInterporateParams:
+    !h mParamsBuffer[]:
       - !h 1368cc8:
           - !l 10
           - - 0.00000

@@ -4,9 +4,9 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h OverrideEnvPaletteList:
-    !h eb658d9a:
+    !h mPaletteList[]:
       - !h 23c65a5f: Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -94,7 +94,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Fine_OR
       - !h 23c65a5f: Morning_BeforeCloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -182,7 +182,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Fine_BeforeCloudy_OR
       - !h 23c65a5f: Morning_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -270,7 +270,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Fine_BeforeRainy_OR
       - !h 23c65a5f: Forenoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -358,7 +358,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Forenoon_Fine_OR
       - !h 23c65a5f: Afternoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -446,7 +446,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Afternoon_Fine_OR
       - !h 23c65a5f: Teatime
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -534,7 +534,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Teatime_Fine_OR
       - !h 23c65a5f: Twilight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -622,7 +622,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_Fine_OR
       - !h 23c65a5f: Twilight_BeforeCloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -710,7 +710,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_Fine_BeforeCloudy_OR
       - !h 23c65a5f: Twilight_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -798,7 +798,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_Fine_BeforeRainy_OR
       - !h 23c65a5f: Night
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -886,7 +886,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Night_Fine_OR
       - !h 23c65a5f: Midnight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -974,7 +974,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Midnight_Fine_OR
       - !h 23c65a5f: Dawn_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -1062,7 +1062,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Dawn_Fine_OR
       - !h 23c65a5f: Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -1150,7 +1150,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_BeforeCloudy_OR
       - !h 23c65a5f: Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -1238,7 +1238,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_BeforeRainy_OR
       - !h 23c65a5f: Twilight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -1326,7 +1326,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_BeforeRainy_OR
       - !h 23c65a5f: Twilight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -1414,7 +1414,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_BeforeCloudy_OR
       - !h 23c65a5f: Morning_BeforeCloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -1502,7 +1502,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Cloudy_OR
       - !h 23c65a5f: Afternoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -1590,7 +1590,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Afternoon_Cloudy_OR
       - !h 23c65a5f: Twilight_BeforeCloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -1678,7 +1678,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_Cloudy_OR
       - !h 23c65a5f: Night
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -1766,7 +1766,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Night_Cloudy_OR
       - !h 23c65a5f: Midnight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -1854,7 +1854,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Midnight_Cloudy_OR
       - !h 23c65a5f: Morning_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -1942,7 +1942,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Rainy_OR
       - !h 23c65a5f: Afternoon_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2030,7 +2030,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Afternoon_Rainy_OR
       - !h 23c65a5f: Twilight_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2118,7 +2118,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_Rainy_OR
       - !h 23c65a5f: Night_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -2206,7 +2206,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Night_Rainy_OR
       - !h 23c65a5f: Midnight_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -2294,7 +2294,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Midnight_Rainy_OR
       - !h 23c65a5f: Night
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -2382,7 +2382,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Dawn_OR
       - !h 23c65a5f: Dawn_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -2470,7 +2470,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Dawn_Cloudy_OR
       - !h 23c65a5f: Morning_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2558,7 +2558,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Snow_OR
       - !h 23c65a5f: Afternoon_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2646,7 +2646,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Afternoon_Snow_OR
       - !h 23c65a5f: Twilight_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2734,7 +2734,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_Snow_OR
       - !h 23c65a5f: Night_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2822,7 +2822,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Night_Snow_OR
       - !h 23c65a5f: Midnight_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2910,7 +2910,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Midnight_Snow_OR
       - !h 23c65a5f: Inside_Night
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -2998,7 +2998,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonEast_OR
       - !h 23c65a5f: Inside_Night_MoonEast_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -3086,7 +3086,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonWest_OR
       - !h 23c65a5f: Inside_Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -3174,7 +3174,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Cloudy_OR
       - !h 23c65a5f: Inside_Afternoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -3262,7 +3262,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_Cloudy_OR
       - !h 23c65a5f: Inside_Twilight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -3350,7 +3350,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Cloudy_OR
       - !h 23c65a5f: Inside_Night_MoonWest_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -3438,7 +3438,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonWest_Cloudy_OR
       - !h 23c65a5f: Inside_Night_MoonEast_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -3526,7 +3526,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonEast_Cloudy_OR
       - !h 23c65a5f: Inside_Morning_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -3614,7 +3614,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Rainy_OR
       - !h 23c65a5f: Inside_Night
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -3702,7 +3702,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Dawn_OR
       - !h 23c65a5f: Inside_Afternoon_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -3790,7 +3790,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_Rainy_OR
       - !h 23c65a5f: Inside_Twilight_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -3878,7 +3878,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Rainy_OR
       - !h 23c65a5f: Morning_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -3966,7 +3966,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Cloudy_BeforeRainy_OR
       - !h 23c65a5f: Afternoon_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -4054,7 +4054,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Afternoon_Cloudy_BeforeRainy_OR
       - !h 23c65a5f: Twilight_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -4142,7 +4142,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_Cloudy_BeforeRainy_OR
       - !h 23c65a5f: Night_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -4230,7 +4230,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Night_Cloudy_BeforeRainy_OR
       - !h 23c65a5f: Midnight_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -4318,7 +4318,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Midnight_Cloudy_BeforeRainy_OR
       - !h 23c65a5f: Dawn_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -4406,7 +4406,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Dawn_Cloudy_BeforeRainy_OR
       - !h 23c65a5f: Morning_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -4494,7 +4494,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_HeavyRain_OR
       - !h 23c65a5f: Afternoon_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -4582,7 +4582,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Afternoon_HeavyRain_OR
       - !h 23c65a5f: Twilight_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -4670,7 +4670,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_HeavyRain_OR
       - !h 23c65a5f: Night_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -4758,7 +4758,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Night_HeavyRain_OR
       - !h 23c65a5f: Midnight_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -4846,7 +4846,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Midnight_HeavyRain_OR
       - !h 23c65a5f: Inside_Night
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -4934,7 +4934,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Night_OR
       - !h 23c65a5f: Inside_Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5022,7 +5022,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Nowindow_OR
       - !h 23c65a5f: Inside_Twilight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5110,7 +5110,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Nowindow_OR
       - !h 23c65a5f: Morning_Snow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -5198,7 +5198,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_HeavySnow_OR
       - !h 23c65a5f: Afternoon_Snow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -5286,7 +5286,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Afternoon_HeavySnow_OR
       - !h 23c65a5f: Twilight_Snow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -5374,7 +5374,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Twilight_HeavySnow_OR
       - !h 23c65a5f: Night_Snow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5462,7 +5462,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Night_HeavySnow_OR
       - !h 23c65a5f: Midnight_Snow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5550,7 +5550,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Midnight_HeavySnow_OR
       - !h 23c65a5f: Inside_Morning_Nowindow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5638,7 +5638,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Nowindow_Cloudy_OR
       - !h 23c65a5f: Inside_Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5726,7 +5726,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Morning_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5814,7 +5814,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Cloudy_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Morning_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5902,7 +5902,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Rainy_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Afternoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -5990,7 +5990,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Afternoon_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6078,7 +6078,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_Cloudy_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Afternoon_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6166,7 +6166,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_Rainy_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Night_MoonEast_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6254,7 +6254,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonRight_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Night_MoonEast_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6342,7 +6342,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Twilight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6430,7 +6430,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_CloseCurtain_left_OR
       - !h 23c65a5f: Inside_Twilight_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6518,7 +6518,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Cloudy_CloseCurtain_left_OR
       - !h 23c65a5f: Inside_Twilight_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6606,7 +6606,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Rainy_CloseCurtain_left_OR
       - !h 23c65a5f: Inside_Night_MoonWest_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6694,7 +6694,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonLeft_CloseCurtain_left_OR
       - !h 23c65a5f: Inside_Night_MoonWest_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6782,7 +6782,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
       - !h 23c65a5f: Inside_Afternoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6870,7 +6870,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_CloseCurtain_both_OR
       - !h 23c65a5f: Inside_Afternoon_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -6958,7 +6958,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_Cloudy_CloseCurtain_both_OR
       - !h 23c65a5f: Inside_Afternoon_Rainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7046,7 +7046,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Afternoon_Rainy_CloseCurtain_both_OR
       - !h 23c65a5f: Inside_Twilight_Nowindow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7134,7 +7134,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Nowindow_CloseCurtain_OR
       - !h 23c65a5f: Inside_Twilight_Nowindow_Cloudy
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7222,7 +7222,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Nowindow_Cloudy_CloseCurtain_OR
       - !h 23c65a5f: Inside_Twilight_Nowindow_Rainy
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7310,7 +7310,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Twilight_Nowindow_Rainy_CloseCurtain_OR
       - !h 23c65a5f: Inside_Morning_Nowindow_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7398,7 +7398,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Nowindow_CloseCurtain_OR
       - !h 23c65a5f: Inside_Morning_Nowindow_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7486,7 +7486,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Nowindow_Cloudy_CloseCurtain_OR
       - !h 23c65a5f: Inside_Morning_Nowindow_Rainy
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7574,7 +7574,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Morning_Nowindow_Rainy_CloseCurtain_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -7662,7 +7662,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumFossil_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -7750,7 +7750,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Market_Morning_OR
       - !h 23c65a5f: Dawn_Cloudy_BeforeRainy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -7838,7 +7838,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Dawn_Snow_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -7926,7 +7926,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Afternoon_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8014,7 +8014,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Twilight_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8102,7 +8102,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Night_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8190,7 +8190,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Morning_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Morning_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8278,7 +8278,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Morning_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8366,7 +8366,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Afternoon_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Twilight_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8454,7 +8454,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Twilight_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -8542,7 +8542,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_Night_Cloudy_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8630,7 +8630,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumEntrance_Morning_OR
       - !h 23c65a5f: Morning_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8718,7 +8718,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Cloudy_Fog_OR
       - !h 23c65a5f: ModelOnUI
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8806,7 +8806,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: ModelOnUI_PlayerHouse_OR
       - !h 23c65a5f: ModelOnUI
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8894,7 +8894,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: ModelOnUI_DIY_OR
       - !h 23c65a5f: ModelOnUI
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -8982,7 +8982,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: ModelOnUI_CharaMake_OR
       - !h 23c65a5f: ModelOnUI
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -9070,7 +9070,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: ModelOnUI_MyDesign_OR
       - !h 23c65a5f: Inside_Structure_Market_Morning_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -9158,7 +9158,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Market_Night_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -9246,7 +9246,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumFish_02_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -9334,7 +9334,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Tanukichi_OR
       - !h 23c65a5f: Inside_Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -9422,7 +9422,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Morning_OR
       - !h 23c65a5f: Inside_Afternoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -9510,7 +9510,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Afternoon_OR
       - !h 23c65a5f: Inside_Twilight
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -9598,7 +9598,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Twilight_OR
       - !h 23c65a5f: Inside_Tent_Morning_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -9686,7 +9686,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Morning_Rainy_OR
       - !h 23c65a5f: Inside_Tent_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -9774,7 +9774,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Afternoon_Rainy_OR
       - !h 23c65a5f: Inside_Tent_Twilight_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -9862,7 +9862,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Twilight_Rainy_OR
       - !h 23c65a5f: Inside_Tent_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -9950,7 +9950,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Tent_Night_Rainy_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10038,7 +10038,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumTent_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10126,7 +10126,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumFish_00_OR
       - !h 23c65a5f: ModelOnUI
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10214,7 +10214,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: ModelOnUI_Catalog_OR
       - !h 23c65a5f: Inside_Structure_MuseumFish_00_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10302,7 +10302,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumFish_01_OR
       - !h 23c65a5f: Inside_Structure_Airport_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10390,7 +10390,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Morning_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10478,7 +10478,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Afternoon_OR
       - !h 23c65a5f: Inside_Structure_Airport_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10566,7 +10566,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Twilight_OR
       - !h 23c65a5f: Inside_Structure_Airport_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -10654,7 +10654,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Night_OR
       - !h 23c65a5f: Inside_Structure_Airport_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -10742,7 +10742,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Night_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_Airport_Morning_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -10830,7 +10830,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Morning_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_Airport_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -10918,7 +10918,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Afternoon_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_Airport_Twilight_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11006,7 +11006,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Twilight_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_Airport_Morning_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -11094,7 +11094,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Morning_Rainy_OR
       - !h 23c65a5f: Inside_Structure_Airport_Afternoon_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -11182,7 +11182,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Afternoon_Rainy_OR
       - !h 23c65a5f: Inside_Structure_Airport_Twilight_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -11270,7 +11270,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Twilight_Rainy_OR
       - !h 23c65a5f: Inside_Structure_Airport_Night_Cloudy_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -11358,7 +11358,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Airport_Night_Rainy_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11446,7 +11446,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Afternoon_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_02_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11534,7 +11534,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Night_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11622,7 +11622,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Afternoon_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_01_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11710,7 +11710,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Morning_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_01_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11798,7 +11798,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Twilight_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_01_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11886,7 +11886,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Night_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_01_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -11974,7 +11974,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Afternoon_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_01_Morning_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -12062,7 +12062,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Morning_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_01_Twilight_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -12150,7 +12150,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Twilight_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_01_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -12238,7 +12238,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_02_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -12326,7 +12326,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Morning_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_02_Afternoon_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -12414,7 +12414,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Twilight_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_02_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -12502,7 +12502,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Morning_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_02_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -12590,7 +12590,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Afternoon_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_02_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -12678,7 +12678,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Twilight_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_MuseumInsect_02_Night_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -12766,7 +12766,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
       - !h 23c65a5f: ModelOnUI_PlayerHouse_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -12854,7 +12854,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: ModelOnUI_PlayerHouse_Night_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -12942,7 +12942,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Office
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -13030,7 +13030,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Market_02_Morning_OR
       - !h 23c65a5f: Morning
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13118,7 +13118,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Newyear_OR
       - !h 23c65a5f: Morning_Newyear_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13206,7 +13206,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Morning_Fine_Newyear_OR
       - !h 23c65a5f: Inside_Structure_MuseumEntrance_Morning_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -13294,7 +13294,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_MuseumEntrance_Night_OR
       - !h 23c65a5f: Forenoon
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13382,7 +13382,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Forenoon_Newyear_OR
       - !h 23c65a5f: Forenoon_Fine_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13470,7 +13470,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Forenoon_Newyear_Fine_OR
       - !h 23c65a5f: ModelOnUI_PlayerHouse_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -13558,7 +13558,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: ModelOnUI_BridgeSlope_OR
       - !h 23c65a5f: Inside_Structure
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: true}
@@ -13646,7 +13646,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Structure_Tailor
       - !h 23c65a5f: Inside_Dawn_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13734,7 +13734,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Dawn_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Dawn_CloseCurtain_Right_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13822,7 +13822,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Dawn_Cloudy_CloseCurtain_Right_OR
       - !h 23c65a5f: Inside_Dawn_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13910,7 +13910,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Inside_Dawn_Cloudy_OR
       - !h 23c65a5f: Inside_Structure_Office
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -13998,7 +13998,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Demo_Office_OR
       - !h 23c65a5f: Capture_Artwork_Default
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}
@@ -14086,7 +14086,7 @@ root:
           - {!h 6404e56c: mMoonAgePalette/mNewMoonParam/mMoonlightEdgeLightIntensity, !h df5b2897: false}
         !h efcf2112: Capture_Artwork_Player_OR
       - !h 23c65a5f: Inside_Structure_MuseumFossil_OR
-        !h 2c75a2a8:
+        !h mOverrideData[]:
           - {!h 6404e56c: mPaletteName, !h df5b2897: false}
           - {!h 6404e56c: mReleaseVersion, !h df5b2897: false}
           - {!h 6404e56c: mDirectLightColor, !h df5b2897: false}

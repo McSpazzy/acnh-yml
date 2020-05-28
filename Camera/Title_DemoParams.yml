@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 76b7b00a:
-    !h 23be9c62:
+  !h Title_DemoParams:
+    !h mParamsBuffer[]:
       - !h 1abc5aed: 46.00000
         !h 1f74b3d1: GrowupDemoTalkBefore
         !h 26343c06: 0.00000

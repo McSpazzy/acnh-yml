@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 1f134845:
-    !h 23be9c62:
+  !h IdrMuseumFossil_0_DemoInterporateParams:
+    !h mParamsBuffer[]:
       - !h 1368cc8:
           - !l 10
           - - 0.00000

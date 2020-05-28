@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h IdrLightMgrParam: {!h 898556c2: null, !h e1789861: null}
+  !h IdrLightMgrParam: {!h 'mPointLightParam[]': null, !h 'mSpotLightParam[]': null}

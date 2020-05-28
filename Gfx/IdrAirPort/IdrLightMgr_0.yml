@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h IdrLightMgrParam:
-    !h 898556c2:
+    !h mPointLightParam[]:
       - !h 2cac3d2e: true
         !h 6404e56c: 通路ポイント
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -37,7 +37,7 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -68,8 +68,8 @@ root:
             !h ca983c88: false
       - !h 2cac3d2e: true
         !h 6404e56c: 全体ライト
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -98,7 +98,7 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -127,11 +127,11 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-    !h e1789861:
+    !h mSpotLightParam[]:
       - !h 2cac3d2e: true
         !h 6404e56c: ドードー周り
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -153,7 +153,7 @@ root:
             !h 94f81f90: 120.00000
             !h c09bb276: 1.57080
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 322b9edc:
               - 1.00000
@@ -177,8 +177,8 @@ root:
             !h c6d52e9b: 
       - !h 2cac3d2e: true
         !h 6404e56c: 植物：左
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -200,7 +200,7 @@ root:
             !h 94f81f90: 1.00000
             !h c09bb276: 1.04720
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 322b9edc:
               - 1.00000
@@ -224,8 +224,8 @@ root:
             !h c6d52e9b: 
       - !h 2cac3d2e: true
         !h 6404e56c: 通路スポット
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -247,7 +247,7 @@ root:
             !h 94f81f90: 0.00000
             !h c09bb276: 0.78540
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 322b9edc:
               - 1.00000
@@ -271,8 +271,8 @@ root:
             !h c6d52e9b: 
       - !h 2cac3d2e: true
         !h 6404e56c: 手紙周り
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -294,7 +294,7 @@ root:
             !h 94f81f90: 5.00000
             !h c09bb276: 0.86708
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 322b9edc:
               - 1.00000
@@ -318,8 +318,8 @@ root:
             !h c6d52e9b: 
       - !h 2cac3d2e: true
         !h 6404e56c: ゲート周り
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -341,7 +341,7 @@ root:
             !h 94f81f90: 5.00000
             !h c09bb276: 2.09440
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 322b9edc:
               - 1.00000
@@ -365,8 +365,8 @@ root:
             !h c6d52e9b: 
       - !h 2cac3d2e: true
         !h 6404e56c: 植物：右
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -388,7 +388,7 @@ root:
             !h 94f81f90: 5.00000
             !h c09bb276: 1.04720
             !h c6d52e9b: "\t\t\t"
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000

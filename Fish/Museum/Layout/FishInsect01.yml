@@ -3,6 +3,6 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 313420a:
+  !h FishMuseumLayout[]:
     - {!h 25ebecb6: !l 0, !h 4fe63192: -60.00000, !h 5256ba20: !l 0, !h 89d12daa: !l 2226, !h ee35e2de: 0.00000}
     - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 2220, !h ee35e2de: 0.10000}

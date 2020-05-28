@@ -45,7 +45,7 @@ root:
     !h 4187c455: 0.80000
     !h 41c18341: 1.00000
     !h 4236c0e1: -10.00000
-    !h 43a8779: 0.00500
+    !h mStarAmountDeclined: 0.00500
     !h 4435017b: 0.20000
     !h 4597bb9e: 0.40000
     !h 46fbdaa9: 0.00000
@@ -94,7 +94,7 @@ root:
     !h 6dcb2425: 5.00000
     !h 6ddfa6d7: !l 15
     !h 6e82bcc1: 45.00000
-    !h 6ecdfce0: 7.00000
+    !h cMyDesignExchangeNAME: 7.00000
     !h 6eec02b2: 3.50000
     !h 6f1a5857: 0.11000
     !h 6f271fbf: 0.01400

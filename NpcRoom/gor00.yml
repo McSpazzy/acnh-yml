@@ -14,7 +14,7 @@ root:
     !h 478a17ec: !l 32
     !h 9cefe26e: 29.07375
     !h 9f1d28c5: 26.61903
-    !h b3a97a50:
+    !h mFtrList[]:
       - !h 42ea11db: !l 36
         !h mItemSaveParam: {!h 5bc12308: !l 71326}
         !h e8e3d950: !l 26

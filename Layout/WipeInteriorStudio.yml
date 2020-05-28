@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h XLink:
-    !h 213f7f84: null
+    !h mPartsParamBuffer[]: null
     !h 4309561a: UI_WipeInteriorStudio
     !h 718df20d: false
     !h a8e79f6f:

@@ -3,10 +3,10 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 3dcee697:
+  !h FieldScorpionParams:
     !h mCommon: null
     !h mUniqueDummy: null
     !h mCommonDummy: null
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - {!h 20e90aef: Taranchura}
       - {!h 20e90aef: Sasori}

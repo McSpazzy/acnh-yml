@@ -4,8 +4,8 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h DynamicLightSceneParam:
-    !h 3bde34d:
-      - !h 23b59619: false
+    !h mSpotParamArray[]:
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 322b9edc:
           - 0.60000
@@ -27,7 +27,7 @@ root:
         !h 94f81f90: 14.00000
         !h c09bb276: 1.30900
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 322b9edc:
           - 1.00000
@@ -49,7 +49,7 @@ root:
         !h 94f81f90: 12.00000
         !h c09bb276: 0.95993
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 322b9edc:
           - 1.00000
@@ -71,7 +71,7 @@ root:
         !h 94f81f90: 16.00000
         !h c09bb276: 1.04720
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 322b9edc:
           - 1.00000
@@ -93,7 +93,7 @@ root:
         !h 94f81f90: 16.00000
         !h c09bb276: 1.04720
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 322b9edc:
           - 1.00000
@@ -115,8 +115,8 @@ root:
         !h 94f81f90: 16.00000
         !h c09bb276: 1.04720
         !h c6d52e9b: 
-    !h 6b402dee:
-      - !h 23b59619: false
+    !h mPointParamArray[]:
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 2cc46ab6: false
         !h 322b9edc:
@@ -145,7 +145,7 @@ root:
         !h c6999608: 0.20000
         !h c6d52e9b: 
         !h ca983c88: false
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 2cc46ab6: false
         !h 322b9edc:

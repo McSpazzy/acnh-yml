@@ -21,7 +21,7 @@ root:
       !h 85afe209: 0.06250
       !h ab07ced8: 15.00000
     !h mCommonDummy: null
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - !h 20e90aef: YutaroWisp
         !h 3b5e456f: 0.99976
         !h 4e445482: 1.25000

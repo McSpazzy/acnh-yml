@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h e5fc1186:
+  !h NpcCoordinatePoint:
     !h 1dadc1a1: !l 10
     !h 2ca8223e: !l -100
     !h 37f61f5b: !l 10

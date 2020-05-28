@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h DynamicLightSceneParam:
-    !h 3bde34d:
+    !h mSpotParamArray[]:
       - !h 2cac3d2e: false
         !h 322b9edc:
           - 1.00000
@@ -5381,7 +5381,7 @@ root:
         !h 94f81f90: 1.00000
         !h c09bb276: 0.78540
         !h c6d52e9b: 
-    !h 6b402dee:
+    !h mPointParamArray[]:
       - !h 2cac3d2e: true
         !h 322b9edc:
           - 1.00000

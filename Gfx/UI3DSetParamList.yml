@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h UI3DSetParamList:
-    !h eb658d9a:
+    !h mPaletteList[]:
       - !h 21452572: 
         !h 2587c18: 0.00000
         !h 2dd80d20:

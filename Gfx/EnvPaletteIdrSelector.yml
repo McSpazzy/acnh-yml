@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h EnvPaletteIdrSelector:
-    !h eb658d9a:
+    !h mPaletteList[]:
       - !h 4955548b: IdrMuseumFossil_1
         !h 649b96d3: DefaultName
         !h 712a095a: cStrMuseumFossil

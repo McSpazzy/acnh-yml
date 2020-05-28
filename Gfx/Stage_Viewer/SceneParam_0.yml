@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 6ce54b42:
+  !h SceneParam:
     !h 1056ed7d: true
     !h 4571271:
       - 0.00000

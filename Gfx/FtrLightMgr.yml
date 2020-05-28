@@ -11,7 +11,7 @@ root:
       - {!h 244db188: false, !h 47b1beac: 0.25000, !h 84bbe5f1: 1.00000, !h 874805be: 0.20000}
       - {!h 244db188: false, !h 47b1beac: 0.25000, !h 84bbe5f1: 1.00000, !h 874805be: 0.20000}
       - {!h 244db188: false, !h 47b1beac: 0.25000, !h 84bbe5f1: 1.00000, !h 874805be: 0.20000}
-    !h 43846714:
+    !h mFtrLightColorParamArray[]:
       - !h 726996b1:
           - 0.00000
           - 0.00000
@@ -72,8 +72,8 @@ root:
     !h 6e1ecc34: 0.75000
     !h 79502cd0: 49.50000
     !h 8ce4b101: 5.00000
-    !h ba6f633e:
-      - !h 23b59619: false
+    !h mFtrLightParamArray[]:
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 2cc46ab6: false
         !h 322b9edc:
@@ -102,7 +102,7 @@ root:
         !h c6999608: 0.20000
         !h c6d52e9b: 
         !h ca983c88: false
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 2cc46ab6: false
         !h 322b9edc:
@@ -131,7 +131,7 @@ root:
         !h c6999608: 0.20000
         !h c6d52e9b: 
         !h ca983c88: false
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 2cc46ab6: true
         !h 322b9edc:
@@ -160,7 +160,7 @@ root:
         !h c6999608: 0.20000
         !h c6d52e9b: 
         !h ca983c88: false
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: false
         !h 2cc46ab6: false
         !h 322b9edc:
@@ -189,7 +189,7 @@ root:
         !h c6999608: 0.20000
         !h c6d52e9b: 
         !h ca983c88: false
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: false
         !h 2cc46ab6: false
         !h 322b9edc:
@@ -218,7 +218,7 @@ root:
         !h c6999608: 0.20000
         !h c6d52e9b: 
         !h ca983c88: false
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: false
         !h 2cc46ab6: false
         !h 322b9edc:
@@ -247,7 +247,7 @@ root:
         !h c6999608: 0.20000
         !h c6d52e9b: 
         !h ca983c88: false
-    !h efd19ad7:
+    !h mLightKindParamArray[]:
       - {!h ed25f41e: cPointLight}
       - {!h ed25f41e: cPointLight}
       - {!h ed25f41e: cPointLight}
@@ -255,7 +255,7 @@ root:
       - {!h ed25f41e: cSpotLight}
       - {!h ed25f41e: cSpotLight}
     !h f83fddd6:
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: false
         !h 322b9edc:
           - 1.00000
@@ -277,7 +277,7 @@ root:
         !h 94f81f90: 1.00000
         !h c09bb276: 0.78540
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: false
         !h 322b9edc:
           - 1.00000
@@ -299,7 +299,7 @@ root:
         !h 94f81f90: 1.00000
         !h c09bb276: 0.78540
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: false
         !h 322b9edc:
           - 1.00000
@@ -321,7 +321,7 @@ root:
         !h 94f81f90: 1.00000
         !h c09bb276: 0.78540
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: false
         !h 322b9edc:
           - 1.00000
@@ -343,7 +343,7 @@ root:
         !h 94f81f90: 1.00000
         !h c09bb276: 0.78540
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 322b9edc:
           - 1.00000
@@ -365,7 +365,7 @@ root:
         !h 94f81f90: 8.00000
         !h c09bb276: 0.78540
         !h c6d52e9b: 
-      - !h 23b59619: false
+      - !h mNormAreaSidemRemakeTool: false
         !h 2cac3d2e: true
         !h 322b9edc:
           - 1.00000

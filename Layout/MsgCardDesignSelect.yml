@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h XLink:
-    !h 213f7f84:
+    !h mPartsParamBuffer[]:
       - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogFinish_00/L_BtnL_00, !h eedd76eb: Dialog_L}
       - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogFinish_00/L_BtnR_00, !h eedd76eb: Dialog_R}
     !h 4309561a: UI_MessageCardDesignSelect

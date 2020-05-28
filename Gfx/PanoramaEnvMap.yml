@@ -8,7 +8,7 @@ root:
       - 512.00000
       - 256.00000
     !h 6df92e09: !l 6
-    !h a5b3dc:
+    !h mLightInfo[]:
       - !h 2cac3d2e: true
         !h 322b9edc:
           - 2.19550

@@ -7,7 +7,7 @@ root:
     !h mCommon: {!h d527b8cb: 90.00000, !h d6d45884: 180.00000, !h ec5cf66d: 150.00000, !h efaf1622: 30.00000}
     !h mUniqueDummy: {!h 20e90aef: '', !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
     !h mCommonDummy: {!h d527b8cb: 90.00000, !h d6d45884: 180.00000, !h ec5cf66d: 150.00000, !h efaf1622: 30.00000}
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - {!h 20e90aef: Ohsenchikogane, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
       - {!h 20e90aef: Purachinakogane, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
       - {!h 20e90aef: Housekizoumushi, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}

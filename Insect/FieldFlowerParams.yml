@@ -13,7 +13,7 @@ root:
       !h 901ee31: 0.12500
       !h fd127c9c: 0.10000
     !h mCommonDummy: {!h 59b9c438: 3.00000, !h 5a4a2477: 1.00000, !h e94e0b49: 3.00000, !h eabdeb06: 1.00000}
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - !h 20e90aef: Kamakiri
         !h 338940d8: 1.20000
         !h 3dc5702b: 5.00000

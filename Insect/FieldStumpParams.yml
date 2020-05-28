@@ -19,7 +19,7 @@ root:
       !h 9d411c4f: 5.00000
       !h e94e0b49: 5.00000
       !h eabdeb06: 2.50000
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - {!h 1244d3e8: 0.15000, !h 20e90aef: Baiorinmushi, !h 2fbbf489: 1.20000, !h 6993bc85: 1.40625, !h fd127c9c: 0.03125}
       - {!h 1244d3e8: 0.25000, !h 20e90aef: Gomadarakamikiri, !h 2fbbf489: 1.00000, !h 6993bc85: 1.40625, !h fd127c9c: 0.03125}
       - {!h 1244d3e8: 0.15000, !h 20e90aef: Tamamushi, !h 2fbbf489: 1.50000, !h 6993bc85: 1.40625, !h fd127c9c: 0.03125}

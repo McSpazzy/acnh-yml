@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h IdrLightMgrParam:
-    !h 898556c2:
+    !h mPointLightParam[]:
       - !h 2cac3d2e: true
         !h 6404e56c: メインライト
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -37,7 +37,7 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: true
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -66,4 +66,4 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-    !h e1789861: null
+    !h mSpotLightParam[]: null

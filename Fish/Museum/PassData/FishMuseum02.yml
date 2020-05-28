@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FishMuseumPassData:
-    !h 35f568b2:
+    !h mPassBuffer[]:
       - !h 10cfbcbe: !l -1
         !h 10fbb9ec: 川：上流
         !h 5ceb7780: !l 0
@@ -13,7 +13,7 @@ root:
           - 18.00000
           - 114.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 20.00000
@@ -52,7 +52,7 @@ root:
           - 14.00000
           - 105.86590
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 20.00000
@@ -141,7 +141,7 @@ root:
           - 5.00182
           - 107.35160
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 20.00000
@@ -200,7 +200,7 @@ root:
           - -10.00000
           - 238.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 20.00000
@@ -289,7 +289,7 @@ root:
           - -14.00000
           - 195.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 5.00000
@@ -388,7 +388,7 @@ root:
           - 15.00000
           - 192.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 10.00000
@@ -427,7 +427,7 @@ root:
           - 20.00000
           - 192.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 5.00000
@@ -536,7 +536,7 @@ root:
           - 11.00000
           - 216.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 20.00000
@@ -605,7 +605,7 @@ root:
           - 10.00000
           - 228.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 20.00000
@@ -654,7 +654,7 @@ root:
           - 28.00000
           - 205.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 2.00000
             !h 4dccf8d: 5.00000
@@ -763,7 +763,7 @@ root:
           - 14.00000
           - 208.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 3.00000
             !h 4dccf8d: 3.00000
@@ -832,7 +832,7 @@ root:
           - 2.00000
           - 250.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 4.00000
             !h 4dccf8d: 4.00000
@@ -911,7 +911,7 @@ root:
           - 12.04465
           - 193.14170
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 15.30000
@@ -1200,7 +1200,7 @@ root:
           - 20.00000
           - 210.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 5.00000
@@ -1289,7 +1289,7 @@ root:
           - 15.00000
           - 208.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 3.00000
@@ -1368,7 +1368,7 @@ root:
           - 23.61021
           - 207.03400
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 3.00000
             !h 4dccf8d: 5.00000
@@ -1457,7 +1457,7 @@ root:
           - -12.00000
           - 210.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 8.00000
@@ -1576,7 +1576,7 @@ root:
           - -12.00000
           - 180.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 6.00000
@@ -1695,7 +1695,7 @@ root:
           - -16.00000
           - 180.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 10.00000
@@ -1804,7 +1804,7 @@ root:
           - -9.00000
           - 185.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 5.00000
@@ -1903,7 +1903,7 @@ root:
           - 0.00000
           - 200.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 4.00000
@@ -1992,7 +1992,7 @@ root:
           - 10.00000
           - 262.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 12.00000
@@ -2121,7 +2121,7 @@ root:
           - 8.00000
           - 246.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 3.00000
             !h 4dccf8d: 3.00000
@@ -2240,7 +2240,7 @@ root:
           - 8.00000
           - 224.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 3.00000
@@ -2359,7 +2359,7 @@ root:
           - 0.00000
           - 227.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 4.00000
@@ -2448,7 +2448,7 @@ root:
           - 0.00000
           - 224.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 4.00000

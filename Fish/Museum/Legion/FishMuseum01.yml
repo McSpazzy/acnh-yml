@@ -3,5 +3,5 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 6fd5610f:
+  !h FishMuseumLegion[]:
     - {!h 27bb2859: 20.00000, !h 89d12daa: !l 4201, !h a8a6571c: 20.00000}

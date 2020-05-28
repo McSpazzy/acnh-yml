@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h abd47e99:
+  !h InsectBook[]:
     - {!h 89d12daa: !l 626}
     - {!h 89d12daa: !l 625}
     - {!h 89d12daa: !l 583}

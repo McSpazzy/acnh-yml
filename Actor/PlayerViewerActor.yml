@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h a8a0d284:
+  !h PlayerViewerActor:
     !h 4e5d79a1: 1.00000
     !h 58682483: 0.00000
     !h 65080d33: 14.00000

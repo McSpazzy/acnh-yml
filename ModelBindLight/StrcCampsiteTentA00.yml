@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h 294176f:
     - !h 1b7fce6f: ポイントライト
-      !h 23b59619: true
+      !h mNormAreaSidemRemakeTool: true
       !h 2cc46ab6: false
       !h 32af8f76:
         - 0.00000
@@ -33,7 +33,7 @@ root:
       !h ca983c88: false
       !h e6163d5b: false
     - !h 1b7fce6f: ポイントライト
-      !h 23b59619: true
+      !h mNormAreaSidemRemakeTool: true
       !h 2cc46ab6: false
       !h 32af8f76:
         - -14.40000

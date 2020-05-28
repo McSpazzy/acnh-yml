@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 67c331fb:
+  !h EdgeHighlight:
     !h 4e67858c:
       - 1920.00000
       - 1080.00000

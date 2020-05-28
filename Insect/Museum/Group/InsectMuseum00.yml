@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h a08bef2e:
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -17,12 +17,12 @@ root:
         - {!h 3215b080: 5.00000, !h 99275374: 80.00000}
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: 花畑上空
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -35,12 +35,12 @@ root:
         - {!h 3215b080: 8.00000, !h 99275374: 46.00000}
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: 温帯林上空
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -53,12 +53,12 @@ root:
         - {!h 3215b080: 15.00000, !h 99275374: 34.00000}
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: トンボ(通路上空)
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -71,12 +71,12 @@ root:
         - {!h 3215b080: 20.00000, !h 99275374: 13.00000}
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: ホタル01
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -89,12 +89,12 @@ root:
       !h 346440e2: null
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: ホタル02
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -107,12 +107,12 @@ root:
         - {!h 3215b080: 20.00000, !h 99275374: 17.00000}
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: ホタル03
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -125,12 +125,12 @@ root:
       !h 346440e2: null
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: トンボ（マングローブ）
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -143,8 +143,8 @@ root:
         - {!h 3215b080: 21.00000, !h 99275374: 26.00000}
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: トンボ（池上空）

@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h 9123b77:
     - !h 1b7fce6f: スポットライト
-      !h 23b59619: true
+      !h mNormAreaSidemRemakeTool: true
       !h 32af8f76:
         - 4.90000
         - 27.20000

@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h IdrLightMgrParam:
-    !h 898556c2:
+    !h mPointLightParam[]:
       - !h 2cac3d2e: true
         !h 6404e56c: 室内灯
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -37,7 +37,7 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -68,8 +68,8 @@ root:
             !h ca983c88: false
       - !h 2cac3d2e: true
         !h 6404e56c: 通路灯
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -98,7 +98,7 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -127,11 +127,11 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-    !h e1789861:
+    !h mSpotLightParam[]:
       - !h 2cac3d2e: true
         !h 6404e56c: 天空光
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 0.80000
@@ -153,7 +153,7 @@ root:
             !h 94f81f90: 3.00000
             !h c09bb276: 0.87267
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 0.30000
@@ -177,8 +177,8 @@ root:
             !h c6d52e9b: 
       - !h 2cac3d2e: true
         !h 6404e56c: 棚ライト
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -200,7 +200,7 @@ root:
             !h 94f81f90: 2.00000
             !h c09bb276: 0.83776
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000

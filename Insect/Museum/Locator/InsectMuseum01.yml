@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h b246169f:
+  !h InsectMuseumLocator[]:
     - {!h 10cfbcbe: !l 0, !h 594ac826: !l 586}
     - {!h 10cfbcbe: !l 1, !h 594ac826: !l 636}
     - {!h 10cfbcbe: !l 2, !h 594ac826: !l 583}

@@ -4,12 +4,12 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h UI3DDisplayUseParamList:
-    !h eb658d9a:
+    !h mPaletteList[]:
       - !h 377c08f8: キャラメイク
         !h 4a87e41d: CharaMake
         !h 9532c98a: !l 0
         !h ae26120b: !l 8
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 100.00000
           - 100.00000
         !h dc6cf31c:
@@ -27,7 +27,7 @@ root:
         !h 4a87e41d: Closet
         !h 9532c98a: !l 0
         !h ae26120b: !l 2
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 100.00000
           - 100.00000
         !h dc6cf31c:
@@ -39,7 +39,7 @@ root:
         !h 4a87e41d: WorkBenchCraft
         !h 9532c98a: !l 4
         !h ae26120b: !l 11
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 660.00000
           - 580.00000
         !h dc6cf31c:
@@ -51,7 +51,7 @@ root:
         !h 4a87e41d: ShopSonkatsu
         !h 9532c98a: !l 0
         !h ae26120b: !l 8
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 450.00000
           - 450.00000
         !h dc6cf31c:
@@ -63,7 +63,7 @@ root:
         !h 4a87e41d: CustomHome
         !h 9532c98a: !l 0
         !h ae26120b: !l 8
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 100.00000
           - 100.00000
         !h dc6cf31c:
@@ -75,7 +75,7 @@ root:
         !h 4a87e41d: WorkBenchRemake
         !h 9532c98a: !l 0
         !h ae26120b: !l 8
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 800.00000
           - 400.00000
         !h dc6cf31c:
@@ -87,7 +87,7 @@ root:
         !h 4a87e41d: MyDesignEdit
         !h 9532c98a: !l 0
         !h ae26120b: !l 2
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 450.00000
           - 450.00000
         !h dc6cf31c:
@@ -99,7 +99,7 @@ root:
         !h 4a87e41d: Catalog
         !h 9532c98a: !l 0
         !h ae26120b: !l 8
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 450.00000
           - 600.00000
         !h dc6cf31c:
@@ -111,7 +111,7 @@ root:
         !h 4a87e41d: ShopBridgeSlope
         !h 9532c98a: !l 0
         !h ae26120b: !l 2
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 100.00000
           - 100.00000
         !h dc6cf31c:
@@ -123,7 +123,7 @@ root:
         !h 4a87e41d: ShopTailor
         !h 9532c98a: !l 0
         !h ae26120b: !l 8
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 100.00000
           - 100.00000
         !h dc6cf31c:
@@ -135,7 +135,7 @@ root:
         !h 4a87e41d: MyDesignExchange
         !h 9532c98a: !l 0
         !h ae26120b: !l 0
-        !h b8ff62ca:
+        !h X_Encoding[]:
           - 100.00000
           - 100.00000
         !h dc6cf31c:

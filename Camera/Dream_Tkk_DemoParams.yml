@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 8edc2a20:
-    !h 23be9c62:
+  !h Dream_Tkk_DemoParams:
+    !h mParamsBuffer[]:
       - !h 1abc5aed: 0.00000
         !h 1f74b3d1: CutSpotlight
         !h 26343c06: 0.00000

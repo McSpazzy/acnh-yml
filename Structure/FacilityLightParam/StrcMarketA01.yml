@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h StrcMarketA01:
-    !h af29e6e5:
+    !h mLightParamArray[]:
       - {!h 70b3ff04: !l 1}
       - {!h 70b3ff04: !l 0}
       - {!h 70b3ff04: !l 0}

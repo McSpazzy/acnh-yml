@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 109eab9d:
+  !h FishMuseumLocator[]:
     - {!h 10cfbcbe: !l 0, !h 89d12daa: !l 4201}
     - {!h 10cfbcbe: !l 1, !h 89d12daa: !l 2264}
     - {!h 10cfbcbe: !l 2, !h 89d12daa: !l 4203}

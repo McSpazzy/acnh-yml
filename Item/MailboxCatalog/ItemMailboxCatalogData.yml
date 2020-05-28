@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 7a08997e:
+  !h MailboxCatalog[]:
     - {!h 89d12daa: !l 2571}
     - {!h 89d12daa: !l 8666}
     - {!h 89d12daa: !l 8661}

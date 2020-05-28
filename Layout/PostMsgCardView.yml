@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h XLink:
-    !h 213f7f84:
+    !h mPartsParamBuffer[]:
       - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_ArrowL_00, !h eedd76eb: ArrowL}
       - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_ArrowR_00, !h eedd76eb: ArrowR}
     !h 4309561a: UI_PostCardView

@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 1055c50f:
-    !h 23be9c62:
+  !h AirPlane_DemoParams:
+    !h mParamsBuffer[]:
       - !h 1f74b3d1: Cut0
         !h 57065eee:
           - 0.00000

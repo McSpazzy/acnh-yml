@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h a0d3e631:
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -18,7 +18,7 @@ root:
       !h 7f3f253c: 水辺00
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -32,7 +32,7 @@ root:
       !h 7f3f253c: 水辺01
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -46,7 +46,7 @@ root:
       !h 7f3f253c: 水辺02
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -60,7 +60,7 @@ root:
       !h 7f3f253c: 花壇00
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -74,7 +74,7 @@ root:
       !h 7f3f253c: 水辺03
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -88,7 +88,7 @@ root:
       !h 7f3f253c: 水辺04
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:

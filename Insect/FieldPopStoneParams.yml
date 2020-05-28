@@ -14,7 +14,7 @@ root:
       !h cac0a6a1: !l 20
       !h fd127c9c: 0.09375
     !h mCommonDummy: {!h 3baa62b6: 2.00000, !h a40c04b5: 20.00000}
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - !h 20e90aef: Dangomushi
         !h 964930c9: -0.01563
         !h 9cd4b898: 0.15625

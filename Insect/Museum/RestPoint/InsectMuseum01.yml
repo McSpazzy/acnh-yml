@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h a0d3e631:
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -18,7 +18,7 @@ root:
       !h 7f3f253c: p00
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -33,7 +33,7 @@ root:
       !h 7f3f253c: モンキ用
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -48,7 +48,7 @@ root:
       !h 7f3f253c: p01
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -62,7 +62,7 @@ root:
       !h 7f3f253c: p02
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -76,7 +76,7 @@ root:
       !h 7f3f253c: p03
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -90,7 +90,7 @@ root:
       !h 7f3f253c: p04
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -104,7 +104,7 @@ root:
       !h 7f3f253c: p05
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -118,7 +118,7 @@ root:
       !h 7f3f253c: ニシキ用00
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -132,7 +132,7 @@ root:
       !h 7f3f253c: ニシキ用01
       !h 96669c70: null
       !h ba27eafd: false
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:

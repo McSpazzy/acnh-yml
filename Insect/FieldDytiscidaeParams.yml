@@ -9,7 +9,7 @@ root:
       !h 11b10039: -2.00000
       !h 12a2571a: 7.50000
       !h 20e90aef: 
-      !h 250b3b5e: !l 150
+      !h RestartPriceBottom: !l 150
       !h 26f8db11: !l 300
       !h 2b757576: -2.50000
       !h 33a9de21: 0.00781
@@ -25,11 +25,11 @@ root:
       !h f3fdc70d: 1.00000
       !h f8b68fc: 5.00000
     !h mCommonDummy: null
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - !h 11b10039: -1.50000
         !h 12a2571a: 10.00000
         !h 20e90aef: Gengorou
-        !h 250b3b5e: !l 0
+        !h RestartPriceBottom: !l 0
         !h 26f8db11: !l 0
         !h 2b757576: -2.50000
         !h 33a9de21: 0.01000
@@ -47,7 +47,7 @@ root:
       - !h 11b10039: -1.50000
         !h 12a2571a: 10.00000
         !h 20e90aef: Tagame
-        !h 250b3b5e: !l 300
+        !h RestartPriceBottom: !l 300
         !h 26f8db11: !l 600
         !h 2b757576: -2.50000
         !h 33a9de21: 0.00781

@@ -3,9 +3,9 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 1f9f2ebc:
+  !h FieldSeaSlaterParams:
     !h mCommon: null
     !h mUniqueDummy: null
     !h mCommonDummy: null
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - {!h 20e90aef: Funamushi}

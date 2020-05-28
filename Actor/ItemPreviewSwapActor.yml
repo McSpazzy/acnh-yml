@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h ItemPreviewSwapActor:
-    !h 10cc1e64:
+    !h mCatalogArray[]:
       - null
       - null
       - !h 4a42cf70:
@@ -125,7 +125,7 @@ root:
           - 0.00000
         !h e106163f: 40.00000
     !h 20287bad: 1.00000
-    !h 23b59e7c:
+    !h mMyDesignEditArray[]:
       - !h 4a42cf70:
           - 5.00000
           - -15.00000
@@ -288,7 +288,7 @@ root:
           - -150.00000
           - 0.00000
         !h e106163f: 29.00000
-    !h 2bac838:
+    !h mCatalogFossilArray[]:
       - !h 4a42cf70:
           - 15.00000
           - 20.00000
@@ -472,7 +472,7 @@ root:
         !h e106163f: 29.00000
     !h 6ebe17da: 35.00000
     !h 80de4298: 1.40000
-    !h a3295073:
+    !h mCatalogFtrArray[]:
       - !h 4a42cf70:
           - 15.00000
           - 20.00000
@@ -519,7 +519,7 @@ root:
           - 0.00000
         !h e106163f: 15.00000
     !h a8e6ccb: true
-    !h ae4c5aed:
+    !h mCatalogRugArray[]:
       - !h 4a42cf70:
           - 45.00000
           - 10.00000
@@ -540,7 +540,7 @@ root:
           - 10.00000
           - 0.00000
         !h e106163f: 7.00000
-    !h b50edc75:
+    !h mBridgeSlopeArray[]:
       - !h 4a42cf70:
           - 20.00000
           - 12.00000
@@ -560,7 +560,7 @@ root:
           - 0.00000
         !h e106163f: 8.00000
     !h ce7fedb4: 30.00000
-    !h ec659b7f:
+    !h mDIYArray[]:
       - null
       - !h 4a42cf70:
           - 1.50000

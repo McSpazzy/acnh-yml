@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 693ac7bd:
-    !h 23be9c62:
+  !h IdrMuseumFish_2_DemoParams:
+    !h mParamsBuffer[]:
       - !h 1abc5aed: 100.00000
         !h 1f74b3d1: IdrMuseumFish_2
         !h 26343c06: 0.00000

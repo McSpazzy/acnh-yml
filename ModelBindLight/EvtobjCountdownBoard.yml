@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h 8c3a7b05:
     - !h 1b7fce6f: なし
-      !h 447ea820: mEvtCountdownDenshoku
+      !h cParamCameraCatcher: mEvtCountdownDenshoku
       !h 47d316df:
         - 0.00000
         - 0.00000

@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h SnowDrawParam:
-    !h 1c4a3591: !l 128
+    !h MultiFilterTrimmingConvert: !l 128
     !h 322b9edc:
       - 1.00000
       - 1.00000

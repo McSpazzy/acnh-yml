@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 343a4c71:
-    !h 23be9c62:
+  !h IdrTailor_DemoParams:
+    !h mParamsBuffer[]:
       - !h 1abc5aed: 112.00000
         !h 1f74b3d1: MyDesignCenter
         !h 26343c06: 0.00000

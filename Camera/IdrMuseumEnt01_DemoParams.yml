@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 8064f7c1:
-    !h 23be9c62:
+  !h IdrMuseumEnt01_DemoParams:
+    !h mParamsBuffer[]:
       - !h 1abc5aed: 0.00000
         !h 1f74b3d1: IdrMuseumEnt01
         !h 26343c06: 0.00000

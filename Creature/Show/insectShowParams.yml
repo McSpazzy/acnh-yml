@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 383b1096:
+  !h CreatureShow[]:
     - !h 24883696:
         - -55.00000
         - 180.00000

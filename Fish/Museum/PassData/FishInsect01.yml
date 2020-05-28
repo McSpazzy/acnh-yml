@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FishMuseumPassData:
-    !h 35f568b2:
+    !h mPassBuffer[]:
       - !h 10cfbcbe: !l -1
         !h 10fbb9ec: カエル
         !h 5ceb7780: !l 0
@@ -13,7 +13,7 @@ root:
           - 10.00000
           - 160.00000
         !h d253e355: false
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 0.00000
             !h 4dccf8d: 20.00000
@@ -32,7 +32,7 @@ root:
           - 12.92829
           - 179.72760
         !h d253e355: true
-        !h fa070a75:
+        !h mPointBuffer[]:
           - !h 1f911e4f: !l -1
             !h 31bc320f: 3.00000
             !h 4dccf8d: 3.00000

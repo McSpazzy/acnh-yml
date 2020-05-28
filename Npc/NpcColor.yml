@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h NpcColor:
-    !h 23be9c62:
+    !h mParamsBuffer[]:
       - !h 5b63eea9:
           - 0.38824
           - 0.84314

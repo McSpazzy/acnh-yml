@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h a08bef2e:
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -17,12 +17,12 @@ root:
       !h 346440e2: null
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: カーズ
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -35,12 +35,12 @@ root:
         - {!h 3215b080: 10.00000, !h 99275374: 4.40000}
       !h 56953b0c: null
       !h 6fa05392: null
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: ハエーズ
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -53,12 +53,12 @@ root:
       !h 56953b0c: null
       !h 6fa05392:
         - {!h 3974e33d: 5.00000, !h 6807301b: 5.50000}
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: ノミーズ
-    - !h 1493697d:
+    - !h mPointParamsBuffer[]:
         - !h 10cfbcbe: !l -1
           !h 1f5e4e02: false
           !h e4ee1e96:
@@ -71,8 +71,8 @@ root:
       !h 56953b0c: null
       !h 6fa05392:
         - {!h 3974e33d: 13.00000, !h 6807301b: 13.00000}
-      !h 8cccb293: null
+      !h mPalmParamsBuffer[]: null
       !h 96669c70: null
       !h ba27eafd: false
-      !h d15d6535: null
+      !h mTreeParamsBuffer[]: null
       !h eedd76eb: フナムシーズ

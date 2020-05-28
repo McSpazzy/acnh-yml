@@ -19,7 +19,7 @@ root:
       !h ebe1259e: 1.50000
       !h f70566c: 10.00000
     !h mCommonDummy: null
-    !h b8b250e4:
+    !h mUniqueBuffer[]:
       - !h 20e90aef: Hanmyou
         !h 406147f9: 1.34500
         !h 512348b7: 0.22450

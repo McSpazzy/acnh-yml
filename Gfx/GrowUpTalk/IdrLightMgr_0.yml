@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h IdrLightMgrParam:
-    !h 898556c2:
+    !h mPointLightParam[]:
       - !h 2cac3d2e: true
         !h 6404e56c: ルームライト
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -37,7 +37,7 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 2cc46ab6: false
             !h 322b9edc:
@@ -66,11 +66,11 @@ root:
             !h c6999608: 0.20000
             !h c6d52e9b: 
             !h ca983c88: false
-    !h e1789861:
+    !h mSpotLightParam[]:
       - !h 2cac3d2e: true
         !h 6404e56c: フィルライト
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -92,7 +92,7 @@ root:
             !h 94f81f90: 20.00000
             !h c09bb276: 0.78540
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 1.00000
@@ -116,8 +116,8 @@ root:
             !h c6d52e9b: 
       - !h 2cac3d2e: true
         !h 6404e56c: 窓ライト
-        !h c2a38d27:
-          - !h 23b59619: false
+        !h mParam[]:
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 0.70000
@@ -139,7 +139,7 @@ root:
             !h 94f81f90: 20.00000
             !h c09bb276: 0.73304
             !h c6d52e9b: 
-          - !h 23b59619: false
+          - !h mNormAreaSidemRemakeTool: false
             !h 2cac3d2e: false
             !h 322b9edc:
               - 0.70000
