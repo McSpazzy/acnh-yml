@@ -1,0 +1,12 @@
+Version: 3
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h CapsuleAo:
+    !h 1f6b2e93: 0.00000
+    !h 4e67858c:
+      - 512.00000
+      - 512.00000
+    !h 6df92e09: !l 3
+    !h 94f81f90: 0.50000

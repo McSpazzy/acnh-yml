@@ -1,0 +1,86 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h duk00:
+    !h mWall: {!h 5bc12308: !l 4836}
+    !h mDIYWorkbench:
+      !h 42ea11db: !l 26
+      !h mItemSaveParam: {!h 5bc12308: !l 3943}
+      !h e8e3d950: !l 30
+      !h ec86704a: !l 0
+    !h 3f811252: !l 4
+    !h 478a17ec: !l 26
+    !h 9cefe26e: 14.82233
+    !h 9f1d28c5: 19.73129
+    !h b3a97a50:
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 717}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !ul 8590069635}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 4294968224}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 2
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 8589938564}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 31
+        !h mItemSaveParam: {!h 5bc12308: !l 203956}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 6
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 562949953422106}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 1
+      - !h 42ea11db: !l 33
+        !h mItemSaveParam: {!h 5bc12308: !l 6031}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 138481}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 23
+        !h mItemSaveParam: {!h 5bc12308: !ul 8589938562}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 2
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 4294968006}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 3344}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 1
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 3344}
+        !h e8e3d950: !l 32
+        !h ec86704a: !l 1
+      - !h 42ea11db: !l 32
+        !h mItemSaveParam: {!h 5bc12308: !ul 4294975092}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !ul 4294975093}
+        !h e8e3d950: !l 35
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !ul 4295106165}
+        !h e8e3d950: !l 35
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 23
+        !h mItemSaveParam: {!h 5bc12308: !ul 12885041375}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 4
+    !h mFloor: {!h 5bc12308: !l 4964}
+    !h mMusic: {!h 5bc12308: !l 2427}
+    !h e954c311: !l 0
+    !h ed83df67: !l 30
+    !h f2925a13: !l 4

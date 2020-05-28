@@ -1,0 +1,148 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h a0d3e631:
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 167.50000
+            - 18.00000
+            - 153.00000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: p00
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 143.50000
+            - 12.00000
+            - 153.00000
+      !h 2a68506f: 円
+      !h 346440e2: null
+      !h 56953b0c:
+        - {!h 99275374: 1.40000}
+      !h 752a1697: チョウ
+      !h 7f3f253c: モンキ用
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 147.50000
+            - 12.00000
+            - 148.50000
+      !h 2a68506f: 円
+      !h 346440e2: null
+      !h 56953b0c:
+        - {!h 99275374: 1.40000}
+      !h 752a1697: チョウ
+      !h 7f3f253c: p01
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 177.50000
+            - 19.20000
+            - 211.50000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: p02
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 133.00000
+            - 27.50000
+            - 216.50000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: p03
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 139.70000
+            - 27.50000
+            - 217.50000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: p04
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 116.50000
+            - 40.00000
+            - 124.25000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: p05
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 198.00000
+            - 22.80000
+            - 114.50000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: ニシキ用00
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 202.00000
+            - 22.80000
+            - 118.25000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: ニシキ用01
+      !h 96669c70: null
+      !h ba27eafd: false
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 205.50000
+            - 22.80000
+            - 122.50000
+      !h 2a68506f: 点
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 752a1697: チョウ
+      !h 7f3f253c: ニシキ用02
+      !h 96669c70: null
+      !h ba27eafd: false

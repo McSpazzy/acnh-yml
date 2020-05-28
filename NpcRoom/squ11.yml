@@ -1,0 +1,70 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h squ11:
+    !h mWall: {!h 5bc12308: !l 5481}
+    !h mDIYWorkbench:
+      !h 42ea11db: !l 26
+      !h mItemSaveParam: {!h 5bc12308: !l 7142}
+      !h e8e3d950: !l 26
+      !h ec86704a: !l 0
+    !h 3f811252: !l 4
+    !h 478a17ec: !l 26
+    !h 9cefe26e: 1.44815
+    !h 9f1d28c5: 10.66627
+    !h b3a97a50:
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 5791}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 5790}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !ul 562958543494212}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !ul 4295099996}
+        !h e8e3d950: !l 28
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 31
+        !h mItemSaveParam: {!h 5bc12308: !l 2319}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 1170}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !ul 416611894868}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 6080}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 198232}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 12884902221}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !ul 4294970692}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 31
+        !h mItemSaveParam: {!h 5bc12308: !ul 17180066874}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 1
+    !h mFloor: {!h 5bc12308: !l 5005}
+    !h mMusic: {!h 5bc12308: !l 2481}
+    !h e954c311: !l 0
+    !h ed83df67: !l 26
+    !h f2925a13: !l 4

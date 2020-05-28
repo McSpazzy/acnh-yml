@@ -1,0 +1,47 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumBeetleBattleParams:
+    !h mCommon:
+      !h 55adc017: 10.00000
+      !h 5d408cc6: 283.00000
+      !h 6c0d8a66: 0.40000
+      !h 92451b62: 3.00000
+      !h 934981d6: 1.00000
+      !h 9cce5306: 50.00000
+      !h a1711308: 0.62500
+      !h a98a5a9: 2.00000
+      !h b943f1d: 0.10000
+      !h bda8c4d0: !l 6
+      !h be5b249f: !l 3
+      !h c611bca2: 3.00000
+      !h c71d2616: 3.00000
+    !h mUniqueDummy: {!h 134d7a21: 3.00000, !h 20e90aef: '', !h 58112872: 2.00000, !h afc0188f: !l 1}
+    !h mCommonDummy:
+      !h 55adc017: 4.39453
+      !h 5d408cc6: 283.09570
+      !h 6c0d8a66: 0.10000
+      !h 92451b62: 3.00000
+      !h 934981d6: 1.00000
+      !h 9cce5306: 65.91797
+      !h a1711308: 0.62500
+      !h a98a5a9: 60.00000
+      !h b943f1d: 0.00000
+      !h bda8c4d0: !l 5
+      !h be5b249f: !l 1
+      !h c611bca2: 3.00000
+      !h c71d2616: 3.00000
+    !h b8b250e4:
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Ougononikuwagata, !h 58112872: 1.60000, !h afc0188f: !l 2}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Miyamakuwagata, !h 58112872: 1.60000, !h afc0188f: !l 1}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Ohkuwagata, !h 58112872: 1.60000, !h afc0188f: !l 3}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Hosoakakuwagata, !h 58112872: 2.00000, !h afc0188f: !l 2}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Nijiirokuwagata, !h 58112872: 1.60000, !h afc0188f: !l 1}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Kohkasasuohkabuto, !h 58112872: 1.60000, !h afc0188f: !l 3}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Herakuresuohkabuto, !h 58112872: 2.00000, !h afc0188f: !l 4}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Girafanokogirikuwagata, !h 58112872: 2.00000, !h afc0188f: !l 3}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Kabutomushi, !h 58112872: 1.60000, !h afc0188f: !l 1}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Nokogirikuwagata, !h 58112872: 1.60000, !h afc0188f: !l 1}
+      - {!h 134d7a21: 3.00000, !h 20e90aef: Zoukabuto, !h 58112872: 1.80000, !h afc0188f: !l 2}

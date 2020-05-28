@@ -1,0 +1,15 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h InsectParamsMuseumLargeTree:
+    !h 2acc3806: !l 6
+    !h 3a0beebd: 6.00000
+    !h 757ea184: 10.40000
+    !h 9a720d59: 106.00000
+    !h c2315634:
+      - 265.00000
+      - 45.50000
+      - 50.50000
+    !h f43b620a: 2.00000

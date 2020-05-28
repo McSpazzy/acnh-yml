@@ -1,0 +1,25 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h StarDrawer:
+    !h 322b9edc:
+      - 1.00000
+      - 0.94200
+      - 0.53200
+      - 1.00000
+    !h 4e67858c:
+      - 1920.00000
+      - 1080.00000
+    !h 643105f4: 2.33874
+    !h 6740fa4b: 0.40000
+    !h 7ee5cdda: 0.39270
+    !h 94f81f90: 4.00000
+    !h 99275374: 600.00000
+    !h 9930c9a2: 0.78540
+    !h ab20346d: 1.20000
+    !h c88ac544: !l 11
+    !h d28863f7: !l 240
+    !h dec2b5b3: 1.00000
+    !h fecf3cbc: 15.00000

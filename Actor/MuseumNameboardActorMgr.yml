@@ -1,0 +1,6 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumNameboardActorMgr: {!h 9b688a4c: 60.00000, !h f1982c8c: 15.00000}

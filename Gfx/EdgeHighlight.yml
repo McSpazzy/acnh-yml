@@ -1,0 +1,13 @@
+Version: 3
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 67c331fb:
+    !h 4e67858c:
+      - 1920.00000
+      - 1080.00000
+    !h 62d4d855: false
+    !h 6df92e09: !l 1
+    !h 820d833: 0.00000
+    !h 94f81f90: 10000.00000

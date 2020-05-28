@@ -1,0 +1,58 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h mnk02:
+    !h mWall: {!h 5bc12308: !l 5500}
+    !h mDIYWorkbench:
+      !h 42ea11db: !l 35
+      !h mItemSaveParam: {!h 5bc12308: !l 72678}
+      !h e8e3d950: !l 26
+      !h ec86704a: !l 0
+    !h 3f811252: !l 4
+    !h 478a17ec: !l 34
+    !h 9cefe26e: 2.25890
+    !h 9f1d28c5: 13.53154
+    !h b3a97a50:
+      - !h 42ea11db: !l 35
+        !h mItemSaveParam: {!h 5bc12308: !l 72678}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !l 1430}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 1433}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 8589935735}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 34
+        !h mItemSaveParam: {!h 5bc12308: !ul 562949953619628}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 343}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !l 71327}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 31
+        !h mItemSaveParam: {!h 5bc12308: !l 202398}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !ul 412316993108}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+    !h mFloor: {!h 5bc12308: !l 4983}
+    !h mMusic: {!h 5bc12308: !l 2429}
+    !h e954c311: !l 0
+    !h ed83df67: !l 26
+    !h f2925a13: !l 4

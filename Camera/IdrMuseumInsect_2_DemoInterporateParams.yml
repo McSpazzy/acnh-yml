@@ -1,0 +1,13 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h ca84d129:
+    !h 23be9c62:
+      - !h 1368cc8:
+          - !l 0
+          - - 0.00000
+            - 1.00000
+        !h 1f74b3d1: IdrMuseumInsect_2
+        !h 66f1928a: !l 30

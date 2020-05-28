@@ -1,0 +1,31 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: CraftBtn, !h eedd76eb: BtnCraft}
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: EquipIn, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 0
+        !h d17c5197: BtnMain
+        !h eedd76eb: BtnMain
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: EquipIn, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 0
+        !h d17c5197: BtnSub
+        !h eedd76eb: BtnSub
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogCheck_00/L_BtnL_00, !h eedd76eb: BtnLeft}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogCheck_00/L_BtnR_00, !h eedd76eb: BtnRight}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_RemakeBtn_00, !h eedd76eb: BtnRemake_00}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_RemakeBtn_01, !h eedd76eb: BtnRemake_01}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_RemakeBtn_00/L_ArrowL_00, !h eedd76eb: BtnRemake_L}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_RemakeBtn_00/L_ArrowR_00, !h eedd76eb: BtnRemake_R}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_RemakeBtn_01/L_ArrowL_00, !h eedd76eb: BtnRemake_L}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_RemakeBtn_01/L_ArrowR_00, !h eedd76eb: BtnRemake_R}
+    !h 4309561a: UI_RemakeSelect
+    !h 718df20d: false
+    !h a8e79f6f: null

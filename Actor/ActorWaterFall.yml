@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h ActorWaterFall:
+    !h 2dcf091f: !l 8
+    !h 6ba1ef3c: 97.00000
+    !h 74a89c78: 0.20000
+    !h b17349b6: 200.00000
+    !h e498dc67: !l 0
+    !h e578c4a3: 40.00000

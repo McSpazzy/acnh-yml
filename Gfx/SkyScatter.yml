@@ -1,0 +1,22 @@
+Version: 3
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h SkyScatter:
+    !h 2f81b3b6: 0.06000
+    !h 45dc5e9c: 40.00000
+    !h 46d1bdf: 0.00000
+    !h 4e67858c:
+      - 256.00000
+      - 128.00000
+    !h 695b8d16: 400.00000
+    !h 6df92e09: !l 1
+    !h b8adc746:
+      - 1.00000
+      - 1.00000
+      - 1.00000
+      - 1.00000
+    !h cdd69bef: 0.00000
+    !h ee5a77ac: 10.00000
+    !h ff06587b: 0.00000

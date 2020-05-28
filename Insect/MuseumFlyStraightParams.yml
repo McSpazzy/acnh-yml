@@ -1,0 +1,40 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumFlyStraightParams:
+    !h mCommon:
+      !h 1f5c199c: 120.00000
+      !h 3fce250d: 2.28000
+      !h a8e4e028: 2.00000
+      !h ab170067: 0.00000
+      !h af3eaa8a: 0.07813
+      !h cc4cf96b: 2.99927
+      !h d9b3af9a: 0.00000
+      !h efd86668: -0.39063
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 2c95f3e1: 15.00000
+      !h 2f6613ae: 20.00000
+      !h 59b8b287: 22.50000
+      !h a19b3e89: 0.15625
+      !h b47c2114: 25.00000
+      !h cac0a6a1: !l 45
+    !h mCommonDummy:
+      !h 1f5c199c: 120.00000
+      !h 3fce250d: 1.87500
+      !h a8e4e028: 2.00000
+      !h ab170067: 0.00000
+      !h af3eaa8a: 0.07813
+      !h cc4cf96b: 2.99927
+      !h d9b3af9a: 0.03906
+      !h efd86668: -0.39063
+    !h b8b250e4:
+      - !h 20e90aef: Oniyanma
+        !h 2c95f3e1: 15.00000
+        !h 2f6613ae: 20.00000
+        !h 59b8b287: 22.50000
+        !h a19b3e89: 0.15625
+        !h b47c2114: 25.00000
+        !h cac0a6a1: !l 45

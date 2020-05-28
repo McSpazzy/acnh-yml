@@ -1,0 +1,66 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h rhn08:
+    !h mWall: {!h 5bc12308: !l 5520}
+    !h mDIYWorkbench:
+      !h 42ea11db: !l 26
+      !h mItemSaveParam: {!h 5bc12308: !ul 30064772313}
+      !h e8e3d950: !l 34
+      !h ec86704a: !l 0
+    !h 3f811252: !l 4
+    !h 478a17ec: !l 26
+    !h 9cefe26e: 3.95233
+    !h 9f1d28c5: 14.75223
+    !h b3a97a50:
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !ul 25770004525}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 136863}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 136862}
+        !h e8e3d950: !l 28
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 136862}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !ul 562949953487789}
+        !h e8e3d950: !l 28
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 12884906031}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !ul 824633790510}
+        !h e8e3d950: !l 32
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 150323858981}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 23
+        !h mItemSaveParam: {!h 5bc12308: !ul 25769807920}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 2
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 12884903129}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 27
+        !h mItemSaveParam: {!h 5bc12308: !l 592879}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 3
+    !h mFloor: {!h 5bc12308: !l 6848}
+    !h mMusic: {!h 5bc12308: !l 2446}
+    !h e954c311: !l 0
+    !h ed83df67: !l 34
+    !h f2925a13: !l 4

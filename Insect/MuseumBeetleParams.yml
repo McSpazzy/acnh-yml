@@ -1,0 +1,27 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumBeetleParams:
+    !h mCommon: {!h d527b8cb: 90.00000, !h d6d45884: 180.00000, !h ec5cf66d: 150.00000, !h efaf1622: 30.00000}
+    !h mUniqueDummy: {!h 20e90aef: '', !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+    !h mCommonDummy: {!h d527b8cb: 90.00000, !h d6d45884: 180.00000, !h ec5cf66d: 150.00000, !h efaf1622: 30.00000}
+    !h b8b250e4:
+      - {!h 20e90aef: Ohsenchikogane, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Purachinakogane, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Housekizoumushi, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Tamamushi, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Goraiasuohtsunohanamuguri, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Ougononikuwagata, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Kanabun, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Miyamakuwagata, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Ohkuwagata, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Hosoakakuwagata, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Nijiirokuwagata, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Kohkasasuohkabuto, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Herakuresuohkabuto, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Girafanokogirikuwagata, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Kabutomushi, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Nokogirikuwagata, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}
+      - {!h 20e90aef: Zoukabuto, !h 32b5c38a: 1.00000, !h 704a9c53: 0.25000}

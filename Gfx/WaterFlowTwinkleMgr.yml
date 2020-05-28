@@ -1,0 +1,14 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h WaterFlowTwinkleParam:
+    !h 4d62b93a:
+      - 0.00000
+      - 0.01000
+      - 15.00000
+    !h 9cd379ef:
+      - 65.00000
+      - 110.00000
+    !h af242926: 0.84000

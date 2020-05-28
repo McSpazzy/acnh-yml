@@ -1,0 +1,38 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldWispParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 3b5e456f: 0.99976
+      !h 4e445482: 1.25000
+      !h 5106f9ba: 0.06250
+      !h 512348b7: 0.11719
+      !h 536026a: 5.00000
+      !h 7b3fa944:
+        - !l 6
+        - !l 6
+      !h 7bc732ca:
+        - !l 6
+        - !l 6
+      !h 85afe209: 0.06250
+      !h ab07ced8: 15.00000
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 20e90aef: YutaroWisp
+        !h 3b5e456f: 0.99976
+        !h 4e445482: 1.25000
+        !h 5106f9ba: 0.06250
+        !h 512348b7: 0.11719
+        !h 536026a: 5.00000
+        !h 7b3fa944:
+          - !l 6
+          - !l 6
+        !h 7bc732ca:
+          - !l 6
+          - !l 6
+        !h 85afe209: 0.06250
+        !h ab07ced8: 15.00000

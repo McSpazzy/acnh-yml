@@ -1,0 +1,13 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h BeatAwayStumpParam:
+    !h 209f89de: 1.00000
+    !h 673ff30e: 1.50000
+    !h 85afe209: 1.50000
+    !h 894e9129: 0.50000
+    !h a48ad048: !l 17
+    !h ab9460c0: 0.20000
+    !h b725c302: !l 0

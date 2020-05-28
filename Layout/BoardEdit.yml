@@ -1,0 +1,25 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - !h 383f6e2e: false
+        !h a8e79f6f:
+          - {!h 2c49113d: Shake, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 0
+        !h d17c5197: /L_InkMeter_00
+        !h eedd76eb: InkMeter
+      - !h 383f6e2e: false
+        !h a8e79f6f:
+          - {!h 2c49113d: Reverse, !h 8625d6ec: !l 1}
+        !h ce24f49e: !l 0
+        !h d17c5197: /L_Undo_00
+        !h eedd76eb: Undo
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_ToolBar_00/, !h eedd76eb: ToolBar}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_Erase_00, !h eedd76eb: Erase}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_PenSize_00, !h eedd76eb: PenSize}
+    !h 4309561a: UI_BoardEdit
+    !h 718df20d: false
+    !h a8e79f6f: null

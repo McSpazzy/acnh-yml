@@ -1,0 +1,46 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldThreadParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 15f286ca: 17.00000
+      !h 161e0d67: 60.00000
+      !h 20e90aef: 
+      !h 5f6b6c25: 0.05000
+      !h 7cc94ee1: 1.00000
+      !h 8671f6f3: 0.62500
+      !h ab9460c0: -0.10000
+      !h e07bb13f: -1.50000
+      !h e15b8d73: 30.00000
+      !h e94e0b49: 4.00000
+      !h eabdeb06: 2.00000
+      !h fcb1a593: -1.87500
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 15f286ca: 14.00000
+        !h 161e0d67: 60.00000
+        !h 20e90aef: Kumo
+        !h 5f6b6c25: 0.05000
+        !h 7cc94ee1: 1.00000
+        !h 8671f6f3: 6.00000
+        !h ab9460c0: -0.10000
+        !h e07bb13f: -1.50000
+        !h e15b8d73: 30.00000
+        !h e94e0b49: 4.00000
+        !h eabdeb06: 2.00000
+        !h fcb1a593: 2.00000
+      - !h 15f286ca: 15.00000
+        !h 161e0d67: 60.00000
+        !h 20e90aef: Minomushi
+        !h 5f6b6c25: 0.05000
+        !h 7cc94ee1: 0.10000
+        !h 8671f6f3: 6.00000
+        !h ab9460c0: -0.10000
+        !h e07bb13f: -1.50000
+        !h e15b8d73: 30.00000
+        !h e94e0b49: 4.00000
+        !h eabdeb06: 2.00000
+        !h fcb1a593: 3.00000

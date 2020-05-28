@@ -1,0 +1,14 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h ObjectPinataActor:
+    !h 13441bd5: 20.00000
+    !h 1d2fb0bf: 15.00000
+    !h 20e00272: !l 3
+    !h 47e2a920: 0.85000
+    !h 655a01da: 0.95000
+    !h 67efe3df: 20.00000
+    !h 698448b5: 30.00000
+    !h a68c6d8d: 0.85000

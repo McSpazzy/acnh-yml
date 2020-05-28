@@ -1,0 +1,32 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldCastOffSkinParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 15fed5ca: 247.99990
+      !h 20e90aef: 
+      !h 482b122c: 1.00000
+      !h 5252fc1a: 2.50000
+      !h 5f6b6c25: 0.03125
+      !h 66b98ab7: 2.00000
+      !h 7cc94ee1: 0.62500
+      !h ab07ced8: 7.81250
+      !h ab9460c0: -0.06250
+      !h e07bb13f: -0.93750
+      !h f8b68fc: 0.00000
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 15fed5ca: 247.99990
+        !h 20e90aef: Seminonukegara
+        !h 482b122c: 1.00000
+        !h 5252fc1a: 2.50000
+        !h 5f6b6c25: 0.03125
+        !h 66b98ab7: 2.00000
+        !h 7cc94ee1: 0.62500
+        !h ab07ced8: 7.81250
+        !h ab9460c0: -0.06250
+        !h e07bb13f: -0.93750
+        !h f8b68fc: 2.00000

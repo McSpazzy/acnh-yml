@@ -1,0 +1,4047 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h EnvPaletteSetList:
+    !h eb658d9a:
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Midnight_Fine_OR
+              - 
+              - 
+              - 
+              - Midnight_Fine_OR
+              - Dawn_Fine_OR
+              - Dawn_Fine_OR
+              - Morning_Fine_OR
+              - 
+              - Forenoon_Fine_OR
+              - 
+              - 
+              - Afternoon_Fine_OR
+              - 
+              - 
+              - 
+              - Teatime_Fine_OR
+              - 
+              - Twilight_Fine_OR
+              - Night_Fine_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight
+              - 
+              - 
+              - 
+              - Midnight
+              - Dawn_OR
+              - Dawn_OR
+              - Morning
+              - 
+              - Forenoon
+              - 
+              - 
+              - Afternoon
+              - 
+              - 
+              - 
+              - Teatime
+              - 
+              - Twilight
+              - Night
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Cloudy_OR
+              - 
+              - 
+              - 
+              - Midnight_Cloudy_OR
+              - 
+              - Dawn_Cloudy_OR
+              - Morning_Cloudy_OR
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Twilight_Cloudy_OR
+              - Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - Dawn_Cloudy_BeforeRainy_OR
+              - Morning_Cloudy_BeforeRainy_OR
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Twilight_Cloudy_BeforeRainy_OR
+              - Night_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_Rainy_OR
+              - Morning_Rainy_OR
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Twilight_Rainy_OR
+              - Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavyRain_OR
+              - Morning_HeavyRain_OR
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Twilight_HeavyRain_OR
+              - Night_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Snow_OR
+              - 
+              - 
+              - 
+              - Midnight_Snow_OR
+              - 
+              - Dawn_Snow_OR
+              - Morning_Snow_OR
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Twilight_Snow_OR
+              - Night_Snow_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavySnow_OR
+              - Morning_HeavySnow_OR
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Twilight_HeavySnow_OR
+              - Night_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: NormalOutside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_OR
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_OR
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_OR
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+        !h 649b96d3: NormalInside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Viewer
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: Viewer
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_OR
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_OR
+              - Inside_Twilight_Nowindow_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_OR
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_OR
+              - Inside_Twilight_Nowindow_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_OR
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_OR
+              - Inside_Twilight_Nowindow_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Cloudy
+              - Inside_Twilight_Nowindow_Cloudy
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Cloudy
+              - Inside_Twilight_Nowindow_Cloudy
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Rainy
+              - Inside_Twilight_Nowindow_Rainy
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Cloudy
+              - Inside_Twilight_Nowindow_Cloudy
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_OR
+              - Inside_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Rainy
+              - Inside_Twilight_Nowindow_Rainy
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+        !h 649b96d3: WindowRightOnlyInside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Rainy
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_OR
+              - Inside_Twilight_Rainy_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Rainy
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_OR
+              - Inside_Twilight_Rainy_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+        !h 649b96d3: WindowLeftOnlyInside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: WindowNothingInside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - Inside_Tent_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_OR
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - Inside_Tent_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_OR
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - Inside_Tent_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_OR
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - Inside_Tent_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_OR
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - Inside_Tent_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_OR
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_Rainy_OR
+              - 
+              - Inside_Tent_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_Rainy_OR
+              - 
+              - Inside_Tent_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - Inside_Tent_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_OR
+              - 
+              - Inside_Tent_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Night_Rainy_OR
+              - 
+              - Inside_Tent_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Tent_Twilight_Rainy_OR
+              - 
+              - Inside_Tent_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: TentInside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Inside_Structure
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: IdrInside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Cloudy_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_Cloudy_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Cloudy_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_Cloudy_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Rainy_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_Rainy_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Cloudy_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_Cloudy_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Nowindow_Rainy_CloseCurtain_OR
+              - Inside_Twilight_Nowindow_Rainy_CloseCurtain_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+        !h 649b96d3: WindowRightOnlyInsideCurtainClose
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Cloudy_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Cloudy_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Rainy_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Cloudy_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Nowindow_Rainy_CloseCurtain_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - 
+              - 
+              - Inside_MidNight
+        !h 649b96d3: WindowLeftOnlyInsideCurtainClose
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Morning_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Morning_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Morning_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_both_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+        !h 649b96d3: NormalInsideCurtainClose
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Morning_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Morning_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_CloseCurtain_Right_OR
+              - Inside_Morning_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight
+              - Inside_Twilight
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_OR
+              - Inside_Twilight_Rainy_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonWest_Cloudy_OR
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Twilight_Cloudy_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonRight_Cloudy_CloseCurtain_Right_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - Inside_Dawn_Cloudy_CloseCurtain_Right_OR
+              - Inside_Morning_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_OR
+              - Inside_Twilight_Rainy_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+        !h 649b96d3: NormalInsideRightCurtainClose
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Twilight_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night_MoonLeft_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Cloudy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Twilight_Cloudy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night_MoonEast_Cloudy_OR
+              - 
+              - Inside_MidNight
+          - !h 4fe43bb1:
+              - Inside_MidNight
+              - Inside_MidNight
+              - 
+              - Inside_Night
+              - Inside_Night
+              - Inside_Night
+              - 
+              - Inside_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Afternoon_Rainy_CloseCurtain_Right_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Twilight_Rainy_CloseCurtain_left_OR
+              - Inside_Night
+              - 
+              - Inside_Night
+              - 
+              - Inside_MidNight
+        !h 649b96d3: NormalInsideLeftCurtainClose
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_OR
+              - Inside_Structure_MuseumInsect_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_OR
+              - Inside_Structure_MuseumInsect_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_OR
+              - Inside_Structure_MuseumInsect_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: StructureInside_MuseumInsect
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Market_Morning_OR
+              - 
+              - Inside_Structure_Market_Night_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: StructureInside_Market
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_OR
+              - 
+              - Inside_Structure_Airport_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_OR
+              - Inside_Structure_Airport_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_OR
+              - 
+              - Inside_Structure_Airport_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_OR
+              - Inside_Structure_Airport_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_OR
+              - 
+              - Inside_Structure_Airport_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_OR
+              - Inside_Structure_Airport_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Cloudy_OR
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Rainy_OR
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Rainy_OR
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Cloudy_OR
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Rainy_OR
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: StructureInside_Airport
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_OR
+              - Inside_Structure_MuseumInsect_02_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_OR
+              - Inside_Structure_MuseumInsect_02_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_OR
+              - Inside_Structure_MuseumInsect_02_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_02_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_02_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_02_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: StructureInside_MuseumInsect02
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_OR
+              - Inside_Structure_MuseumInsect_01_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_OR
+              - Inside_Structure_MuseumInsect_01_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_OR
+              - Inside_Structure_MuseumInsect_01_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumInsect_01_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumInsect_01_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumInsect_01_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: StructureInside_MuseumInsect01
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - Midnight_Fine_OR
+              - 
+              - 
+              - 
+              - Midnight_Fine_OR
+              - Dawn_Fine_OR
+              - Dawn_Fine_OR
+              - Morning_Fine_Newyear_OR
+              - 
+              - Forenoon_Newyear_Fine_OR
+              - 
+              - 
+              - Afternoon_Fine_OR
+              - 
+              - 
+              - 
+              - Teatime_Fine_OR
+              - 
+              - Twilight_Fine_OR
+              - Night_Fine_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight
+              - 
+              - 
+              - 
+              - Midnight
+              - Dawn_OR
+              - Dawn_OR
+              - Morning_Newyear_OR
+              - 
+              - Forenoon_Newyear_OR
+              - 
+              - 
+              - Afternoon
+              - 
+              - 
+              - 
+              - Teatime
+              - 
+              - Twilight
+              - Night
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Cloudy_OR
+              - 
+              - 
+              - 
+              - Midnight_Cloudy_OR
+              - 
+              - Dawn_Cloudy_OR
+              - Morning_Cloudy_OR
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Twilight_Cloudy_OR
+              - Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - Dawn_Cloudy_BeforeRainy_OR
+              - Morning_Cloudy_BeforeRainy_OR
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Twilight_Cloudy_BeforeRainy_OR
+              - Night_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_Rainy_OR
+              - Morning_Rainy_OR
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Twilight_Rainy_OR
+              - Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavyRain_OR
+              - Morning_HeavyRain_OR
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Twilight_HeavyRain_OR
+              - Night_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_Snow_OR
+              - 
+              - 
+              - 
+              - Midnight_Snow_OR
+              - 
+              - Dawn_Snow_OR
+              - Morning_Snow_OR
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Twilight_Snow_OR
+              - Night_Snow_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - Midnight_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavySnow_OR
+              - Morning_HeavySnow_OR
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Twilight_HeavySnow_OR
+              - Night_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: NewyearOutside
+      - !h 3279c433:
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h 4fe43bb1:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumEntrance_Morning_OR
+              - Inside_Structure_MuseumEntrance_Night_OR
+              - 
+              - 
+              - 
+              - 
+        !h 649b96d3: StructureInside_MuseumEnt01

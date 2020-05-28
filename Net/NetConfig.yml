@@ -1,0 +1,6 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h NetConfig: {!h 63b64aa8: !l 2, !h b1b27542: !l 12800, !h e8826e2: !l 25600}

@@ -1,0 +1,78 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h bea03:
+    !h mWall: {!h 5bc12308: !l 4853}
+    !h mDIYWorkbench:
+      !h 42ea11db: !l 31
+      !h mItemSaveParam: {!h 5bc12308: !ul 4295102311}
+      !h e8e3d950: !l 30
+      !h ec86704a: !l 0
+    !h 3f811252: !l 4
+    !h 478a17ec: !l 29
+    !h 9cefe26e: 3.95233
+    !h 9f1d28c5: 19.33402
+    !h b3a97a50:
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 136862}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 27
+        !h mItemSaveParam: {!h 5bc12308: !l 5790}
+        !h e8e3d950: !l 28
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 27
+        !h mItemSaveParam: {!h 5bc12308: !l 5790}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 134625}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 3553}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 3553}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 134629}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 134629}
+        !h e8e3d950: !l 28
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 134730}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 31
+        !h mItemSaveParam: {!h 5bc12308: !l 137051}
+        !h e8e3d950: !l 29
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 27
+        !h mItemSaveParam: {!h 5bc12308: !l 3555}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 27
+        !h mItemSaveParam: {!h 5bc12308: !l 3555}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 27
+        !h mItemSaveParam: {!h 5bc12308: !l 710}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 27
+        !h mItemSaveParam: {!h 5bc12308: !ul 562949953422106}
+        !h e8e3d950: !l 32
+        !h ec86704a: !l 1
+    !h mFloor: {!h 5bc12308: !l 4964}
+    !h mMusic: {!h 5bc12308: !l 2427}
+    !h e954c311: !l 0
+    !h ed83df67: !l 30
+    !h f2925a13: !l 4

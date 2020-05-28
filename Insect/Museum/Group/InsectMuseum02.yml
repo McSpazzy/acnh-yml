@@ -1,0 +1,78 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h a08bef2e:
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 273.25000
+            - 33.25000
+            - 43.00000
+      !h 2a68506f: AABB
+      !h 2d301d6:
+        - {!h 3215b080: 9.00000, !h 3974e33d: 9.00000, !h 6807301b: 9.00000}
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 6fa05392: null
+      !h 8cccb293: null
+      !h 96669c70: null
+      !h ba27eafd: false
+      !h d15d6535: null
+      !h eedd76eb: カーズ
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 226.80000
+            - 37.00000
+            - 82.50000
+      !h 2a68506f: 円柱
+      !h 2d301d6: null
+      !h 346440e2:
+        - {!h 3215b080: 10.00000, !h 99275374: 4.40000}
+      !h 56953b0c: null
+      !h 6fa05392: null
+      !h 8cccb293: null
+      !h 96669c70: null
+      !h ba27eafd: false
+      !h d15d6535: null
+      !h eedd76eb: ハエーズ
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 263.00000
+            - 41.20000
+            - 43.80000
+      !h 2a68506f: 矩形
+      !h 2d301d6: null
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 6fa05392:
+        - {!h 3974e33d: 5.00000, !h 6807301b: 5.50000}
+      !h 8cccb293: null
+      !h 96669c70: null
+      !h ba27eafd: false
+      !h d15d6535: null
+      !h eedd76eb: ノミーズ
+    - !h 1493697d:
+        - !h 10cfbcbe: !l -1
+          !h 1f5e4e02: false
+          !h e4ee1e96:
+            - 268.00000
+            - 11.00000
+            - 147.00000
+      !h 2a68506f: 矩形
+      !h 2d301d6: null
+      !h 346440e2: null
+      !h 56953b0c: null
+      !h 6fa05392:
+        - {!h 3974e33d: 13.00000, !h 6807301b: 13.00000}
+      !h 8cccb293: null
+      !h 96669c70: null
+      !h ba27eafd: false
+      !h d15d6535: null
+      !h eedd76eb: フナムシーズ

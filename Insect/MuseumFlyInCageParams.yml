@@ -1,0 +1,34 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumFlyInCageParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 17d40fe2: 5.00000
+      !h 20e90aef: 
+      !h 3828adb9: 0.50000
+      !h 3a22f849: 15.00000
+      !h 428adc33: 30.00000
+      !h 5ba729c1: 0.10000
+      !h 7fa8d733: 60.00000
+      !h fd127c9c: 0.50000
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 17d40fe2: 10.00000
+        !h 20e90aef: Hae
+        !h 3828adb9: 0.50000
+        !h 3a22f849: 15.00000
+        !h 428adc33: 30.00000
+        !h 5ba729c1: 0.40000
+        !h 7fa8d733: 60.00000
+        !h fd127c9c: 0.50000
+      - !h 17d40fe2: 5.00000
+        !h 20e90aef: Ka
+        !h 3828adb9: 0.50000
+        !h 3a22f849: 15.00000
+        !h 428adc33: 30.00000
+        !h 5ba729c1: 0.10000
+        !h 7fa8d733: 60.00000
+        !h fd127c9c: 0.10000

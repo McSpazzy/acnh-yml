@@ -1,0 +1,2041 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 17155cf6:
+    - !h 594ac826: !l 583
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 0
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 137.50000
+                - 32.50000
+                - 187.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 0
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -45.00000
+            - 135.00000
+            - 0.00000
+    - !h 594ac826: !l 582
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 232.00000
+                - 18.00000
+                - 285.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている(鳴く)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 232.00000
+                - 18.00000
+                - 285.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 621
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 209.60000
+                - 18.00000
+                - 272.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている(鳴く)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 209.60000
+                - 18.00000
+                - 272.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 618
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 208.30000
+                - 25.00000
+                - 272.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている(鳴く)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 208.30000
+                - 25.00000
+                - 272.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 601
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 190.50000
+                - 21.00000
+                - 288.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている(鳴く)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 190.50000
+                - 21.00000
+                - 288.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 649
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 157.50000
+                - 19.00000
+                - 264.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている(鳴く)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -85.00000
+            - -180.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 157.50000
+                - 19.00000
+                - 264.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 木につかまっている
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -85.00000
+            - -180.00000
+            - 0.00000
+    - !h 594ac826: !l 641
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 159.50000
+                - 12.50000
+                - 263.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -84.60000
+            - -140.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 159.50000
+                - 12.50000
+                - 263.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -84.60000
+            - -140.00000
+            - 0.00000
+    - !h 594ac826: !l 652
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 237.50000
+                - 28.00000
+                - 118.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -90.00000
+            - 180.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 251.00000
+                - 39.00000
+                - 123.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -78.48000
+            - -148.68000
+            - 0.00000
+    - !h 594ac826: !l 595
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: まっすぐ飛ぶ(休憩あり)
+          !h 56953b0c:
+            - {!h 99275374: 20.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 2
+            - !l 6
+            - !l 7
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 182.00000
+                - 29.50000
+                - 8.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -45.00000
+            - 0.00000
+    - !h 594ac826: !l 635
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 166.00000
+                - 39.00000
+                - 63.50000
+          !h 2697cffa: true
+          !h 2a68506f: 円柱
+          !h 2d301d6: null
+          !h 346440e2:
+            - {!h 3215b080: 10.00000, !h 99275374: 40.00000}
+          !h 4571034f: まっすぐ飛ぶ(休憩あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 2
+            - !l 7
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 136.50000
+                - 25.50000
+                - 80.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 60.00000
+            - 0.00000
+    - !h 594ac826: !l 5339
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: まっすぐ飛ぶ(休憩あり)
+          !h 56953b0c:
+            - {!h 99275374: 20.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 2
+            - !l 7
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 169.40000
+                - 20.50000
+                - 77.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -90.36000
+            - 81.00000
+            - 0.00000
+    - !h 594ac826: !l 585
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: まっすぐ飛ぶ(休憩あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 2
+            - !l 6
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 170.08160
+                - 27.20000
+                - 76.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -30.24000
+            - 45.00000
+            - 0.00000
+    - !h 594ac826: !l 650
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 41.87500
+                - 28.25000
+                - 110.62500
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c:
+            - {!h 99275374: 1.60000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 46.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 40.00000
+                - 28.00000
+                - 109.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c:
+            - {!h 99275374: 1.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -50.00000
+            - 0.00000
+    - !h 594ac826: !l 3487
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 200.00000
+                - 16.00000
+                - 163.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -27.00000
+            - -30.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 197.50000
+                - 15.00000
+                - 165.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -45.00000
+            - -45.00000
+    - !h 594ac826: !l 609
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 180.00000
+                - 15.50000
+                - 177.75000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -45.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 182.00000
+                - 16.00000
+                - 179.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 37.80000
+            - 0.00000
+    - !h 594ac826: !l 599
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 125.00000
+                - 20.00000
+                - 210.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ポイント間移動
+          !h 56953b0c:
+            - {!h 99275374: 14.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 78.00000
+                - 20.00000
+                - 219.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -52.92000
+            - 0.00000
+    - !h 594ac826: !l 608
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 68.00000
+                - 25.00000
+                - 206.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c:
+            - {!h 99275374: 1.20000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -23.40000
+            - 148.32000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 64.50000
+                - 25.50000
+                - 212.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c:
+            - {!h 99275374: 2.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -24.00000
+            - -154.00000
+            - 0.00000
+    - !h 594ac826: !l 3483
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 94.50000
+                - 25.50000
+                - 205.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c:
+            - {!h 99275374: 2.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -12.00000
+            - 180.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 95.50000
+                - 25.50000
+                - 199.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c:
+            - {!h 99275374: 2.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 20.00000
+            - -32.40000
+            - 0.00000
+    - !h 594ac826: !l 620
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 0
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 92.50000
+                - 83.75000
+                - 38.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -27.00000
+            - -151.20000
+            - 0.00000
+    - !h 594ac826: !l 627
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 0
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 75.50000
+                - 56.50000
+                - 223.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円柱
+          !h 2d301d6: null
+          !h 346440e2:
+            - {!h 3215b080: 14.00000, !h 99275374: 36.00000}
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 120.96000
+            - 0.00000
+    - !h 594ac826: !l 3484
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 90.00000
+                - 26.00000
+                - 197.50000
+          !h 2697cffa: true
+          !h 2a68506f: 円柱
+          !h 2d301d6: null
+          !h 346440e2:
+            - {!h 3215b080: 10.00000, !h 99275374: 40.00000}
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 0
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 80.50000
+                - 28.25000
+                - 207.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -64.08000
+            - 180.00000
+            - 0.00000
+    - !h 594ac826: !l 584
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 88.00000
+                - 34.00000
+                - 195.50000
+          !h 2697cffa: true
+          !h 2a68506f: 円柱
+          !h 2d301d6: null
+          !h 346440e2:
+            - {!h 3215b080: 10.00000, !h 99275374: 40.00000}
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 0
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 82.00000
+                - 40.50000
+                - 195.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -102.60000
+            - -90.00000
+            - 0.00000
+    - !h 594ac826: !l 623
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 92.50000
+                - 25.50000
+                - 191.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円柱
+          !h 2d301d6: null
+          !h 346440e2:
+            - {!h 3215b080: 18.00000, !h 99275374: 8.00000}
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 93.50000
+                - 25.50000
+                - 189.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -90.36000
+            - 180.00000
+            - 0.00000
+    - !h 594ac826: !l 619
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 283.00000
+                - 59.50000
+                - 70.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機(威嚇あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 283.00000
+                - 59.50000
+                - 70.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機(威嚇あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 622
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 277.50000
+                - 24.00000
+                - 215.70000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機(威嚇あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 277.50000
+                - 24.00000
+                - 215.70000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機(威嚇あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 607
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 57.50000
+                - 25.60000
+                - 208.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機(威嚇あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -45.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 57.50000
+                - 25.60000
+                - 198.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機(威嚇あり)
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 60.00000
+            - 0.00000
+    - !h 594ac826: !l 603
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 46.00000
+                - 15.12500
+                - 122.90000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 10
+            - !l 11
+            - !l 12
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - -37.00000
+            - 140.00000
+            - 0.72000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 12.00000
+                - 23.50000
+                - 136.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 3
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 594
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 86.00000
+                - 7.50000
+                - 265.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 水面移動
+          !h 56953b0c:
+            - {!h 99275374: 10.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 75.00000
+                - 8.50000
+                - 268.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 水面移動
+          !h 56953b0c:
+            - {!h 99275374: 10.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 587
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 66.50000
+                - 9.20000
+                - 259.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 水面移動
+          !h 56953b0c:
+            - {!h 99275374: 10.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 151.50000
+                - 16.00000
+                - 66.50000
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 138.00000
+                - 17.00000
+                - 76.50000
+          !h a7dc209:
+            - !l 7
+            - !l 6
+            - !l 8
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 49.50000
+                - 9.00000
+                - 270.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 水面移動
+          !h 56953b0c:
+            - {!h 99275374: 8.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 5157
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 66.00000
+                - 9.50000
+                - 248.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 35.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 66.00000
+                - 9.50000
+                - 248.50000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 35.00000
+            - 0.00000
+    - !h 594ac826: !l 614
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 292.50000
+                - 10.00000
+                - 225.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 地を這う系
+          !h 56953b0c:
+            - {!h 99275374: 5.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 292.50000
+                - 10.00000
+                - 233.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 地を這う系
+          !h 56953b0c:
+            - {!h 99275374: 5.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 639
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 310.50000
+                - 26.50000
+                - 98.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円柱表面
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 甲虫
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535:
+            - {!h 3215b080: 8.80000, !h 36346beb: 4.30000, !h 5629053f: 62.00000, !h f324f1ab: 0.13000}
+          !h d3882c5e:
+            - 0.00000
+            - 35.64000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 310.50000
+                - 26.50000
+                - 98.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円柱表面
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 甲虫
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535:
+            - {!h 3215b080: 8.80000, !h 36346beb: 4.30000, !h 5629053f: 62.00000, !h f324f1ab: 0.13000}
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 3485
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 291.00000
+                - 16.00000
+                - 134.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円柱表面
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 甲虫
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535:
+            - {!h 3215b080: 5.40000, !h 36346beb: 3.80000, !h 5629053f: 120.00000, !h f324f1ab: 0.10000}
+          !h d3882c5e:
+            - 0.00000
+            - -23.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 290.00000
+                - 20.50000
+                - 138.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 甲虫
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -23.00000
+            - 0.00000
+    - !h 594ac826: !l 645
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 203.50000
+                - 14.00000
+                - 185.00000
+          !h 2697cffa: false
+          !h 2a68506f: 円柱表面
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 甲虫
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535:
+            - {!h 3215b080: 0.90000, !h 36346beb: 3.70000, !h 5629053f: 48.00000, !h f324f1ab: 0.11000}
+          !h d3882c5e:
+            - 0.00000
+            - 180.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 202.50000
+                - 16.00000
+                - 186.50000
+          !h 2697cffa: false
+          !h 2a68506f: 円
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c:
+            - {!h 99275374: 1.00000}
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - -68.76000
+            - 0.00000
+    - !h 594ac826: !l 603
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 46.00000
+                - 14.00000
+                - 118.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 3
+            - !l 4
+            - !l 5
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 5.40000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 603
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 46.00000
+                - 14.00000
+                - 118.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 3
+            - !l 4
+            - !l 5
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+    - !h 594ac826: !l 603
+      !h 83f9fa90:
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 46.00000
+                - 14.00000
+                - 118.00000
+          !h 2697cffa: false
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: 待機
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l -1
+            - !l -1
+            - !l -1
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+        - !h 1493697d:
+            - !h 10cfbcbe: !l -1
+              !h 1f5e4e02: false
+              !h e4ee1e96:
+                - 0.00000
+                - 0.00000
+                - 0.00000
+          !h 2697cffa: true
+          !h 2a68506f: 点
+          !h 2d301d6: null
+          !h 346440e2: null
+          !h 4571034f: ふらふら飛ぶ
+          !h 56953b0c: null
+          !h 6fa05392: null
+          !h 8cccb293: null
+          !h 96669c70: null
+          !h a7dc209:
+            - !l 3
+            - !l 4
+            - !l 5
+          !h ba27eafd: false
+          !h d15d6535: null
+          !h d3882c5e:
+            - 0.00000
+            - 0.00000
+            - 0.00000

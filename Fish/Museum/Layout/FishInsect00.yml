@@ -1,0 +1,24 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 313420a:
+    - {!h 25ebecb6: !l 4, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 4191, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 90.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 1, !h 4fe63192: 90.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 2, !h 4fe63192: 90.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 3, !h 4fe63192: 90.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 4, !h 4fe63192: 90.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 5, !h 4fe63192: 90.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.32000}
+    - {!h 25ebecb6: !l 6, !h 4fe63192: 90.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.33000}
+    - {!h 25ebecb6: !l 7, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 8, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.34000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.32000}
+    - {!h 25ebecb6: !l 2, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.31000}
+    - {!h 25ebecb6: !l 3, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 4, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2222, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 0, !h 89d12daa: !l 2219, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 4, !h 4fe63192: 0.00000, !h 5256ba20: !l 0, !h 89d12daa: !l 2219, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 3, !h 89d12daa: !l 2220, !h ee35e2de: 0.21000}
+    - {!h 25ebecb6: !l 3, !h 4fe63192: 0.00000, !h 5256ba20: !l 3, !h 89d12daa: !l 2220, !h ee35e2de: 0.20000}

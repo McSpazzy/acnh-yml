@@ -1,0 +1,20 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h b799c143:
+    !h 23be9c62:
+      - !h 1368cc8:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 0.55000
+            - 0.40000
+            - -0.30388
+            - 1.00000
+            - 1.00000
+            - 1.00000
+        !h 1f74b3d1: Cut0ToCut1
+        !h 66f1928a: !l 60

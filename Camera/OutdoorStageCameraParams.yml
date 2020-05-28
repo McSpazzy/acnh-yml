@@ -1,0 +1,11 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h OutdoorStageCameraParams:
+    !h mParams:
+      !h MysteryTour: {!h 474a561c: 50.00000, !h a7b9164f: 10.00000, !h cfe19de0: 520.00000}
+      !h Invalid: {!h 474a561c: 50.00000, !h a7b9164f: 10.00000, !h cfe19de0: 500.00000}
+      !h MainField: {!h 474a561c: 50.00000, !h a7b9164f: 10.00000, !h cfe19de0: 1000.00000}
+      !h ExtendIsland: {!h 474a561c: 50.00000, !h a7b9164f: 10.00000, !h cfe19de0: 360.00000}

@@ -1,0 +1,17 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 3, !h d17c5197: /L_RingCorde_00, !h eedd76eb: Ring}
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: Confirm, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 2
+        !h d17c5197: /L_RingCorde_00/L_Btn
+        !h eedd76eb: Button
+    !h 4309561a: UI_RingMenuCorde
+    !h 718df20d: false
+    !h a8e79f6f: null

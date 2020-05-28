@@ -1,0 +1,20 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h CreatureShowActorMgr:
+    !h 2c47fc3d: 10.00000
+    !h 49562be6:
+      - 1.20000
+      - 1.08000
+      - 0.96000
+    !h 533dee51: 0.22000
+    !h a9bf76f:
+      - 0.30000
+      - 0.27000
+      - 0.24000
+    !h ab9460c0: 1.50000
+    !h def33d02: 0.77500
+    !h e0f4126f: !l 5
+    !h e47a0a9b: 0.65000

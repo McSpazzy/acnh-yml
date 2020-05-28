@@ -1,0 +1,11 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h CubeMapStageParam:
+    !h 9fceff70: true
+    !h a7b2ab59:
+      - 131.20000
+      - 24.00000
+      - 165.20000

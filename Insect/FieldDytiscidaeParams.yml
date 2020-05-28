@@ -1,0 +1,64 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldDytiscidaeParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 11b10039: -2.00000
+      !h 12a2571a: 7.50000
+      !h 20e90aef: 
+      !h 250b3b5e: !l 150
+      !h 26f8db11: !l 300
+      !h 2b757576: -2.50000
+      !h 33a9de21: 0.00781
+      !h 384e606c: !l 10
+      !h 398be7bf: 0.15000
+      !h 406147f9: 0.10000
+      !h 809c45d: 0.10000
+      !h 8e61653: 4.39453
+      !h ba8fc191: !l 25
+      !h deaf2c15: 15.00000
+      !h e42be3a5: 0.00000
+      !h f2111846: !l 15
+      !h f3fdc70d: 1.00000
+      !h f8b68fc: 5.00000
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 11b10039: -1.50000
+        !h 12a2571a: 10.00000
+        !h 20e90aef: Gengorou
+        !h 250b3b5e: !l 0
+        !h 26f8db11: !l 0
+        !h 2b757576: -2.50000
+        !h 33a9de21: 0.01000
+        !h 384e606c: !l 45
+        !h 398be7bf: 0.05000
+        !h 406147f9: 0.20000
+        !h 809c45d: 0.03000
+        !h 8e61653: 4.39453
+        !h ba8fc191: !l 25
+        !h deaf2c15: 40.00000
+        !h e42be3a5: 0.00000
+        !h f2111846: !l 10
+        !h f3fdc70d: -0.50000
+        !h f8b68fc: 5.00000
+      - !h 11b10039: -1.50000
+        !h 12a2571a: 10.00000
+        !h 20e90aef: Tagame
+        !h 250b3b5e: !l 300
+        !h 26f8db11: !l 600
+        !h 2b757576: -2.50000
+        !h 33a9de21: 0.00781
+        !h 384e606c: !l 30
+        !h 398be7bf: 0.05000
+        !h 406147f9: 0.10000
+        !h 809c45d: 0.03000
+        !h 8e61653: 4.39453
+        !h ba8fc191: !l 25
+        !h deaf2c15: 20.00000
+        !h e42be3a5: 0.70000
+        !h f2111846: !l 10
+        !h f3fdc70d: -0.50000
+        !h f8b68fc: 5.00000

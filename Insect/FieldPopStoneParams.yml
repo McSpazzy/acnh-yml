@@ -1,0 +1,31 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldPopStoneParams:
+    !h mCommon: {!h 3baa62b6: 2.00000, !h a40c04b5: 20.00000}
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 964930c9: -0.01563
+      !h 9cd4b898: 0.15625
+      !h b1e9a395: 15.00000
+      !h c526b6f9: 6.25000
+      !h cac0a6a1: !l 20
+      !h fd127c9c: 0.09375
+    !h mCommonDummy: {!h 3baa62b6: 2.00000, !h a40c04b5: 20.00000}
+    !h b8b250e4:
+      - !h 20e90aef: Dangomushi
+        !h 964930c9: -0.01563
+        !h 9cd4b898: 0.15625
+        !h b1e9a395: 15.00000
+        !h c526b6f9: 6.25000
+        !h cac0a6a1: !l 20
+        !h fd127c9c: 0.09375
+      - !h 20e90aef: Mukade
+        !h 964930c9: -0.01563
+        !h 9cd4b898: 0.78125
+        !h b1e9a395: 15.00000
+        !h c526b6f9: 6.25000
+        !h cac0a6a1: !l 20
+        !h fd127c9c: 0.12500

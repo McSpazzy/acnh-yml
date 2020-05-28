@@ -1,0 +1,32 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumMovePointToPointParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 3a22f849: 15.00000
+      !h 7123126a: 10.00000
+      !h 721cddc: 20.00000
+      !h 72d0f225: 20.00000
+      !h 964930c9: 0.01563
+      !h b47c2114: 10.00000
+      !h c8f35ad0: 20.00000
+      !h cb00ba9f: 20.00000
+      !h e94e0b49: 0.10000
+      !h eabdeb06: 0.00000
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 20e90aef: Hanmyou
+        !h 3a22f849: 30.00000
+        !h 7123126a: 4.00000
+        !h 721cddc: 20.00000
+        !h 72d0f225: 10.00000
+        !h 964930c9: 0.02000
+        !h b47c2114: 30.00000
+        !h c8f35ad0: 16.00000
+        !h cb00ba9f: 40.00000
+        !h e94e0b49: 1.00000
+        !h eabdeb06: 0.40000

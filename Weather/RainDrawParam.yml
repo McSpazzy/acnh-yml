@@ -1,0 +1,13 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h RainDrawParam:
+    !h 22564a40: 70.00000
+    !h 60734d3d: 62.50000
+    !h 6380ad72: 93.75000
+    !h d6051f45: !l 128
+    !h eefc4ade: 109.37500
+    !h ef38a0a9: !l 32
+    !h ff188e36: !l 128

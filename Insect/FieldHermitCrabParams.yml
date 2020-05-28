@@ -1,0 +1,26 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldHermitCrabParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 2d1aefa9: 15.00000
+      !h 512348b7: 0.31250
+      !h 6f81f6e8: 10.00000
+      !h 964930c9: -0.01563
+      !h 9b30ba95: !l 40
+      !h c526b6f9: 7.50000
+      !h cac0a6a1: !l 20
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 20e90aef: Yadokari
+        !h 2d1aefa9: 6.00000
+        !h 512348b7: 0.31250
+        !h 6f81f6e8: 10.00000
+        !h 964930c9: -0.01563
+        !h 9b30ba95: !l 8
+        !h c526b6f9: 7.50000
+        !h cac0a6a1: !l 20

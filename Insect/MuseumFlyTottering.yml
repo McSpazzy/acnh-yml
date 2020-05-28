@@ -1,0 +1,26 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumFlyTottering:
+    !h mCommon: {!h 9582ffd2: 0.03125, !h fc6ea52b: 0.00781}
+    !h mUniqueDummy: {!h 14646700: 0.87500, !h 20e90aef: '', !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+    !h mCommonDummy: {!h 9582ffd2: 0.03125, !h fc6ea52b: 0.00781}
+    !h b8b250e4:
+      - {!h 14646700: 0.87500, !h 20e90aef: Monshirocho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Monkicho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Agehacho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Karasuageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Ohkabamadara, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Morufuocho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Miirotateha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Akaeritoribaneageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Arekisandoratoribaneageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Aosujiageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Ohgomamadara, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Ohmurasaki, !h 3a22f849: 1.50000, !h 5106f9ba: 0.07813, !h fd127c9c: 0.20000}
+      - {!h 14646700: 1.75000, !h 20e90aef: Nishikiohtsubamega, !h 3a22f849: 1.49963, !h 5106f9ba: 0.05000, !h fd127c9c: 0.30000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Mitsubachi, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Ga, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h 14646700: 0.87500, !h 20e90aef: Hotaru, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}

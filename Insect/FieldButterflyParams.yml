@@ -1,0 +1,136 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldButterflyParams:
+    !h mCommon:
+      !h 1a636c9f: 300.00000
+      !h 1da8e595: 90.00000
+      !h 4e445482: 1.50000
+      !h 699acb0e: 0.00781
+      !h 9582ffd2: 0.03125
+      !h aad4b7a2: 10.00000
+      !h c8762cba: 5.00000
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 2ecce257: 0.25000
+      !h 4cc65eb0: 0.11719
+      !h 5106f9ba: 0.07813
+      !h 536026a: 0.62500
+      !h 7ae4c87c: !l 17891328
+      !h b4135b92: 1.00000
+      !h cde9a20d: 1.12500
+    !h mCommonDummy:
+      !h 1a636c9f: 300.00000
+      !h 1da8e595: 90.00000
+      !h 4e445482: 1.50000
+      !h 699acb0e: 0.00781
+      !h 9582ffd2: 0.03125
+      !h aad4b7a2: 10.00000
+      !h c8762cba: 5.00000
+    !h b8b250e4:
+      - !h 20e90aef: Monshirocho
+        !h 2ecce257: 0.18750
+        !h 4cc65eb0: 0.07813
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Monkicho
+        !h 2ecce257: 0.18750
+        !h 4cc65eb0: 0.07813
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Agehacho
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Karasuageha
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Ohkabamadara
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Morufuocho
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Miirotateha
+        !h 2ecce257: 0.75000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.12500
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Akaeritoribaneageha
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Arekisandoratoribaneageha
+        !h 2ecce257: 0.37500
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.11719
+        !h 536026a: 0.93750
+        !h 7ae4c87c: !l 8978432
+        !h b4135b92: 1.12500
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Aosujiageha
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Ohgomamadara
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Ohmurasaki
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500
+      - !h 20e90aef: Nishikiohtsubamega
+        !h 2ecce257: 0.25000
+        !h 4cc65eb0: 0.11719
+        !h 5106f9ba: 0.07813
+        !h 536026a: 0.62500
+        !h 7ae4c87c: !l 17891328
+        !h b4135b92: 1.00000
+        !h cde9a20d: 1.12500

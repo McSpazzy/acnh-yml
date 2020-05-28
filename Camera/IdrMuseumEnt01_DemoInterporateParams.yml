@@ -1,0 +1,20 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 3e8af450:
+    !h 23be9c62:
+      - !h 1368cc8:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - 0.00000
+            - 0.50000
+            - 0.50000
+            - 1.62069
+            - 1.00000
+            - 1.00000
+            - 0.00000
+        !h 1f74b3d1: IdrMuseumEnt01
+        !h 66f1928a: !l 24

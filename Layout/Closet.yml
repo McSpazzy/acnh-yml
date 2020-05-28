@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 3, !h d17c5197: /L_SelWinPlayer_00, !h eedd76eb: SelectWindow}
+    !h 4309561a: UI_Closet
+    !h 718df20d: false
+    !h a8e79f6f:
+      - {!h 2c49113d: FinishOut, !h 8625d6ec: !l 0}

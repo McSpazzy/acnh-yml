@@ -1,0 +1,25 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnOk, !h eedd76eb: Ok}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_ColorBtnFace_, !h eedd76eb: Check}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListHair_, !h eedd76eb: Check}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListEye_, !h eedd76eb: Check}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnNose_, !h eedd76eb: Check}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnMouth_, !h eedd76eb: Check}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnCheek_, !h eedd76eb: Check}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListHairColor, !h eedd76eb: CheckSmall}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListEyeColor, !h eedd76eb: CheckSmall}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_ColorBtnCheek, !h eedd76eb: CheckSmall}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_MyDesign, !h eedd76eb: Check}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnMW, !h eedd76eb: Check}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogFinish_00/L_BtnL_00, !h eedd76eb: DialogFinish_L}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogFinish_00/L_BtnR_00, !h eedd76eb: DialogFinish_R}
+    !h 4309561a: UI_CharaMake
+    !h 718df20d: false
+    !h a8e79f6f:
+      - {!h 2c49113d: FinishOut, !h 8625d6ec: !l 0}

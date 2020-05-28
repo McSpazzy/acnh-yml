@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h StrcOfficeA01:
+    !h af29e6e5:
+      - {!h 70b3ff04: !l 1}
+      - {!h 70b3ff04: !l 1}
+      - {!h 70b3ff04: !l 1}
+      - {!h 70b3ff04: !l 1}
+      - {!h 70b3ff04: !l 1}

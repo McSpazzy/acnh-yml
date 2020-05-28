@@ -1,0 +1,168 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h EnvPaletteIdrSelector:
+    !h eb658d9a:
+      - !h 4955548b: IdrMuseumFossil_1
+        !h 649b96d3: DefaultName
+        !h 712a095a: cStrMuseumFossil
+        !h a8aaebc0: 夜
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumFossil01_OR
+      - !h 4955548b: IdrMarket01
+        !h 649b96d3: StructureInside_Market
+        !h 712a095a: cRoomInside
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: Inside_Structure_Market_OR
+      - !h 4955548b: IdrMuseumInsect_0
+        !h 649b96d3: StructureInside_MuseumInsect
+        !h 712a095a: cStrMuseumInsect00
+        !h a8aaebc0: 時間連動
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: Inside_Structure_MuseumInsect_OR
+      - !h 4955548b: IdrMuseumEnt01
+        !h 649b96d3: StructureInside_MuseumEnt01
+        !h 712a095a: cStrMuseumEnt
+        !h a8aaebc0: 時間連動
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: Inside_Structure_MuseumEntrance_OR
+      - !h 4955548b: IdrMuseumFish_2
+        !h 649b96d3: DefaultName
+        !h 712a095a: cStrMuseumFish02
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumFish_02_OR
+      - !h 4955548b: IdrMuseumInsect_1
+        !h 649b96d3: StructureInside_MuseumInsect01
+        !h 712a095a: cStrMuseumInsect01
+        !h a8aaebc0: 時間連動
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: DefaultName
+      - !h 4955548b: IdrSpotlightScene
+        !h 649b96d3: DefaultName
+        !h 712a095a: cDemoSpotlight
+        !h a8aaebc0: 夜
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_SpotlightScene
+      - !h 4955548b: IdrTanukichi
+        !h 649b96d3: DefaultName
+        !h 712a095a: cRoomInside
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_Tanukichi_OR
+      - !h 4955548b: IdrMuseumEnt00
+        !h 649b96d3: DefaultName
+        !h 712a095a: cRoomInside
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumTent_OR
+      - !h 4955548b: IdrMuseumFish_0
+        !h 649b96d3: DefaultName
+        !h 712a095a: cStrMuseumFish00
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumFish_00_OR
+      - !h 4955548b: IdrMuseumFish_1
+        !h 649b96d3: DefaultName
+        !h 712a095a: cStrMuseumFish01
+        !h a8aaebc0: 夜
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumFish_01_OR
+      - !h 4955548b: IdrAirPort
+        !h 649b96d3: StructureInside_Airport
+        !h 712a095a: cStrAirport
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: Inside_Structure_Airport_Morning_OR
+      - !h 4955548b: IdrMuseumInsect_2
+        !h 649b96d3: StructureInside_MuseumInsect02
+        !h 712a095a: cStrMuseumInsect02
+        !h a8aaebc0: 時間連動
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: Inside_Structure_MuseumInsect_02_Afternoon_OR
+      - !h 4955548b: IdrMuseumFossil_0
+        !h 649b96d3: DefaultName
+        !h 712a095a: cStrMuseumFossil
+        !h a8aaebc0: 夜
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumFossil_OR
+      - !h 4955548b: IdrMuseumFossil_2
+        !h 649b96d3: DefaultName
+        !h 712a095a: cStrMuseumFossil
+        !h a8aaebc0: 夜
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_MuseumFossil_OR
+      - !h 4955548b: IdrOffice01
+        !h 649b96d3: DefaultName
+        !h 712a095a: cRoomInside
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_Office
+      - !h 4955548b: IdrMarket02
+        !h 649b96d3: DefaultName
+        !h 712a095a: cRoomWhite
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_Market_02_Morning_OR
+      - !h 4955548b: IdrCampSiteTent
+        !h 649b96d3: TentInside
+        !h 712a095a: cRoomInside
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 1
+        !h efcf2112: DefaultName
+      - !h 4955548b: IdrAmiibo
+        !h 649b96d3: DefaultName
+        !h 712a095a: cDefault
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Demo_AmiiboPhone
+      - !h 4955548b: IdrTourCounterDemo
+        !h 649b96d3: DefaultName
+        !h 712a095a: cDemoTourCounter
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Demo_Prologue_Airport
+      - !h 4955548b: IdrOfficeDemo01
+        !h 649b96d3: DefaultName
+        !h 712a095a: cRoomInside
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Demo_Office_OR
+      - !h 4955548b: IdrTailor
+        !h 649b96d3: DefaultName
+        !h 712a095a: cRoomWhite
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Inside_Structure_Tailor
+      - !h 4955548b: GrowUpTalk
+        !h 649b96d3: DefaultName
+        !h 712a095a: cRoomInside
+        !h a8aaebc0: 昼
+        !h af61d9af: false
+        !h b3350fa7: !l 0
+        !h efcf2112: Demo_Office_OR

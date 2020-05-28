@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: Volume_00, !h eedd76eb: VolumeDown}
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: Volume_01, !h eedd76eb: VolumeUp}
+    !h 4309561a: UI_AudioPlayer
+    !h 718df20d: false
+    !h a8e79f6f: null

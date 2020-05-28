@@ -1,0 +1,18 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: GetIn, !h 8625d6ec: !l 0}
+          - {!h 2c49113d: GetInShort, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 0
+        !h d17c5197: Btn
+        !h eedd76eb: Button
+    !h 4309561a: UI_SonkatsuResultDialog
+    !h 718df20d: false
+    !h a8e79f6f:
+      - {!h 2c49113d: ClearIn, !h 8625d6ec: !l 0}

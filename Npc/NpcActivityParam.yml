@@ -1,0 +1,104 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h NpcActivityParam:
+    !h 104136f7: !l 50
+    !h 12efdee0: !l 1
+    !h 143ea26c: !l 30
+    !h 148f1b45: !l 2
+    !h 1569ad4d: 10.00000
+    !h 1753bf22: !l 5
+    !h 17cd4223: !l 20
+    !h 1d24998c: !l -4
+    !h 2024ac1c: !l -10
+    !h 2034e756: !l 300
+    !h 2224d03c: !l 1
+    !h 22a8ff42: !l 20
+    !h 23a0972: !l 0
+    !h 24d5d118: !l 5
+    !h 2545eb0a: !l 36
+    !h 276c2037: !l 5
+    !h 2db8d404: !l 900
+    !h 2e2b66a1: !l 15
+    !h 2f3bcff1: !l 51
+    !h 313acf10: !l 1
+    !h 37b38cfc: 22.50000
+    !h 387ee222: !l 30
+    !h 3b00bcb3: !l -2
+    !h 3b8d026d: !l 0
+    !h 3e5a5980: !l 5
+    !h 41e4cccd: !l 30
+    !h 461a22c: !l 3
+    !h 475630e0: 5.00000
+    !h 4756f2a4: !l 12
+    !h 4dff2a99: !l 1
+    !h 4e81ce51: !l 33
+    !h 4fab2a31: 2.00000
+    !h 50af86fb: 15.00000
+    !h 5194075f: !l 0
+    !h 5267e710: !l 30
+    !h 5410bfe7: !l 1
+    !h 55a87c85: !l 0
+    !h 57765005: !l 60
+    !h 5b221bc4: 7.50000
+    !h 5b66cb61: 4.00000
+    !h 5fec74db: !l 90
+    !h 6202567b: 45.00000
+    !h 65b501a2: !l 5
+    !h 66423274: 8.80000
+    !h 6646e1ed: !l 15
+    !h 747c1dce: !l 120
+    !h 778ffd81: !l 60
+    !h 77fcf48a: 10.00000
+    !h 79aafe71: !l -6
+    !h 7ad929ce: !l 1
+    !h 7cdfeb1: 0.75000
+    !h 7d0ea6d4: !l 50
+    !h 84f23227: 6.50000
+    !h 8992b9b3: !l 100
+    !h 89a82f79: 15.00000
+    !h 8a6159fc: !l 0
+    !h 8a785566: !l 20
+    !h 8f76f908: !l 10
+    !h 90128059: !l 10
+    !h 93e69c46: !l 100
+    !h 94889961: !l 20
+    !h 97f7e105: 3.00000
+    !h 9c3eac9f: 35.00000
+    !h 9d1cb534: !l 20
+    !h 9fa4cacf: 0.95000
+    !h a23c87f4: 0.00000
+    !h a2888e95: !l 40
+    !h ab52e966: !l 80
+    !h aee66675: 60.00000
+    !h b1154bd3: !l 10
+    !h b2e6ab9c: !l 20
+    !h b388c44a: !l 600
+    !h b43c527d: !l 2
+    !h bec4fdba: 100.00000
+    !h c02477bf: !l 40
+    !h c242b9b4: 2.00000
+    !h c471a902: !l 6
+    !h c55b56c: !l 1
+    !h c569539c: !l -5
+    !h c8907556: !l 1200
+    !h cddecd3d: !l -7
+    !h d041d0e9: 3.00000
+    !h d14546c1: !l 5
+    !h d2b6a68e: !l 15
+    !h d81a5301: !l 10
+    !h d836dc76: !l 0
+    !h db5ec42d: !l 3
+    !h dd4e42a3: !l 50
+    !h ddea2091: !l 66
+    !h e3fa439a: !l 1
+    !h eb5e0a02: -0.06000
+    !h edf32a02: 15.00000
+    !h f0ebe612: !l 0
+    !h f656c6de: 1.00000
+    !h f6f1bcd: 0.00000
+    !h fa21e5f4: 45.00000
+    !h fa95c2e9: !l 0
+    !h ff2853ad: !l -3

@@ -1,0 +1,36 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldPhylliumParams:
+    !h mCommon: null
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 36d6249c: 2.00000
+      !h 37dabe28: 1.00000
+      !h 512348b7: 0.15625
+      !h 85c4f526: 0.20000
+      !h 964930c9: -0.01563
+      !h 9cd4b898: 0.93750
+      !h b1e9a395: 10.00000
+      !h c4a0c639: 0.50000
+      !h c526b6f9: 7.50000
+      !h c6c8c1fa: !l 3
+      !h cac0a6a1: !l 20
+      !h faf49041: !l 25
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - !h 20e90aef: Konohamushi
+        !h 36d6249c: 8.00000
+        !h 37dabe28: 2.00000
+        !h 512348b7: 0.11000
+        !h 85c4f526: 0.10000
+        !h 964930c9: -0.01563
+        !h 9cd4b898: 0.93750
+        !h b1e9a395: 10.00000
+        !h c4a0c639: 1.00000
+        !h c526b6f9: 7.50000
+        !h c6c8c1fa: !l 1
+        !h cac0a6a1: !l 25
+        !h faf49041: !l 7

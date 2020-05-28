@@ -1,0 +1,13 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h ObjectOfficeWallFan:
+    !h mLocalWindParams:
+      !h 57065eee:
+        - 27.00000
+        - 0.00000
+        - 0.00000
+      !h 7ee58c1b: 4.00000
+      !h 99275374: 15.00000

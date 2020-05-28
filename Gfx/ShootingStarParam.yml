@@ -1,0 +1,17 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h ShootingStarParam:
+    !h 8ea08207: !l 90
+    !h ace34ebd: -660.00000
+    !h b57f0ce1:
+      - -2.00000
+      - -1.00000
+      - 0.00000
+    !h c090c093:
+      - 22.80000
+      - 198.36000
+      - 174.80000
+      - 152.76000

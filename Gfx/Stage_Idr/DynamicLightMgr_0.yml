@@ -1,0 +1,15 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h DynamicLightParam:
+    !h 24440f44:
+      - !l 16
+      - !l 1
+      - !l 16
+    !h 377c08f8: cLightPrePass
+    !h d60a3dd5:
+      - 23.00000
+      - 100.00000
+      - 24.50000

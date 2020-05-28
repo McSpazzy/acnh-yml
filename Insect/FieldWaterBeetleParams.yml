@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 955a6d1:
+    !h mCommon: null
+    !h mUniqueDummy: null
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - {!h 20e90aef: Gengorou}
+      - {!h 20e90aef: Tagame}

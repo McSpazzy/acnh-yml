@@ -1,0 +1,130 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h hrs13:
+    !h mWall: {!h 5bc12308: !l 5500}
+    !h mDIYWorkbench:
+      !h 42ea11db: !l 30
+      !h mItemSaveParam: {!h 5bc12308: !ul 25769937970}
+      !h e8e3d950: !l 31
+      !h ec86704a: !l 0
+    !h 3f811252: !l 4
+    !h 478a17ec: !l 28
+    !h 9cefe26e: 28.95046
+    !h 9f1d28c5: 73.84093
+    !h b3a97a50:
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !l 5790}
+        !h e8e3d950: !l 29
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 28
+        !h mItemSaveParam: {!h 5bc12308: !l 202564}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 5959}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !l 72363}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 3
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 3774}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 1
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !l 5955}
+        !h e8e3d950: !l 33
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 5960}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 30
+        !h mItemSaveParam: {!h 5bc12308: !l 135033}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !l 5962}
+        !h e8e3d950: !l 28
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 26
+        !h mItemSaveParam: {!h 5bc12308: !ul 8589941421}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !ul 25769876139}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 3
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !ul 25770007211}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 5
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !l 137899}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 4
+      - !h 42ea11db: !l 34
+        !h mItemSaveParam: {!h 5bc12308: !l 5954}
+        !h e8e3d950: !l 36
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !ul 25770007211}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 5
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !ul 25769810603}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 2
+      - !h 42ea11db: !l 22
+        !h mItemSaveParam: {!h 5bc12308: !l 5964}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 2
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !l 203435}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 5
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !ul 25769876139}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 3
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 5957}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 36
+        !h mItemSaveParam: {!h 5bc12308: !l 5961}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !l 6827}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 2
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !l 137899}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 4
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !ul 25769941675}
+        !h e8e3d950: !l 30
+        !h ec86704a: !l 4
+      - !h 42ea11db: !l 34
+        !h mItemSaveParam: {!h 5bc12308: !l 137035}
+        !h e8e3d950: !l 26
+        !h ec86704a: !l 0
+      - !h 42ea11db: !l 22
+        !h mItemSaveParam: {!h 5bc12308: !l 137030}
+        !h e8e3d950: !l 31
+        !h ec86704a: !l 4
+      - !h 42ea11db: !l 24
+        !h mItemSaveParam: {!h 5bc12308: !l 6827}
+        !h e8e3d950: !l 34
+        !h ec86704a: !l 2
+    !h mFloor: {!h 5bc12308: !l 5267}
+    !h mMusic: {!h 5bc12308: !l 2483}
+    !h e954c311: !l 0
+    !h ed83df67: !l 30
+    !h f2925a13: !l 4

@@ -1,0 +1,16 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h WavePowerParam:
+    !h 49c6d09f: 0.00000
+    !h 7d15a3b: 1.00000
+    !h b4768ef3: -0.10000
+    !h b7856ebc: -1.00000
+    !h dc5b4546:
+      - 16.00000
+      - 5.00000
+    !h eddcf461: !l 3
+    !h ee2f142e: !l 11
+    !h f8ed6fa3: !l 100

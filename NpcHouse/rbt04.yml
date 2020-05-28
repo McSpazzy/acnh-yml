@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h rbt04:
+    !h 1c37a23: !l 135
+    !h 5ba5def0: !l 6
+    !h mDeco: {!h 5bc12308: !l 65534}
+    !h d5386515: !l 124
+    !h e343733b: !l 13
+    !h fa8c6cfb: !l 169

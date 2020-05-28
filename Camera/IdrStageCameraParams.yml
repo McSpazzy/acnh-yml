@@ -1,0 +1,25 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h IdrStageCameraParams:
+    !h mParams:
+      !h IdrMuseumFish_1: {!h 91e8403d: 0.00000, !h 921ba072: 30.00000, !h d03ea70f: 26.00000, !h d3cd4740: 26.00000}
+      !h IdrMarket01: {!h 91e8403d: 20.00000, !h 921ba072: 18.00000, !h d03ea70f: 45.00000, !h d3cd4740: 45.00000}
+      !h IdrMuseumFish_0: {!h 91e8403d: 0.00000, !h 921ba072: 24.00000, !h d03ea70f: 34.00000, !h d3cd4740: 38.00000}
+      !h IdrMuseumInsect_0: {!h 91e8403d: 42.00000, !h 921ba072: 32.00000, !h d03ea70f: 38.00000, !h d3cd4740: 38.00000}
+      !h IdrOffice01: {!h 91e8403d: 20.00000, !h 921ba072: 18.00000, !h d03ea70f: 45.00000, !h d3cd4740: 45.00000}
+      !h IdrMuseumFossil_2: {!h 91e8403d: 120.00000, !h 921ba072: 10.00000, !h d03ea70f: 20.00000, !h d3cd4740: 20.00000}
+      !h IdrMuseumFish_2: {!h 91e8403d: 6.00000, !h 921ba072: 22.00000, !h d03ea70f: 33.00000, !h d3cd4740: 33.00000}
+      !h cDefault: {!h 91e8403d: 25.00000, !h 921ba072: 40.00000, !h d03ea70f: 50.00000, !h d3cd4740: 50.00000}
+      !h IdrMuseumEnt00: {!h 91e8403d: 20.00000, !h 921ba072: 18.00000, !h d03ea70f: 30.00000, !h d3cd4740: 30.00000}
+      !h IdrMuseumFossil_0: {!h 91e8403d: 17.00000, !h 921ba072: 22.00000, !h d03ea70f: 44.00000, !h d3cd4740: 44.00000}
+      !h IdrMuseumInsect_2: {!h 91e8403d: 0.00000, !h 921ba072: 15.00000, !h d03ea70f: 36.00000, !h d3cd4740: 36.00000}
+      !h IdrMarket02: {!h 91e8403d: 20.00000, !h 921ba072: 18.00000, !h d03ea70f: 43.00000, !h d3cd4740: 41.00000}
+      !h IdrTanukichi: {!h 91e8403d: 20.00000, !h 921ba072: 18.00000, !h d03ea70f: 30.00000, !h d3cd4740: 30.00000}
+      !h IdrTailor: {!h 91e8403d: 20.00000, !h 921ba072: 13.00000, !h d03ea70f: 45.00000, !h d3cd4740: 45.00000}
+      !h IdrAirPort: {!h 91e8403d: 20.00000, !h 921ba072: 13.00000, !h d03ea70f: 45.00000, !h d3cd4740: 45.00000}
+      !h IdrMuseumFossil_1: {!h 91e8403d: 80.00000, !h 921ba072: 16.00000, !h d03ea70f: 35.00000, !h d3cd4740: 36.00000}
+      !h IdrMuseumEnt01: {!h 91e8403d: -40.00000, !h 921ba072: 5.00000, !h d03ea70f: 40.00000, !h d3cd4740: 40.00000}
+      !h IdrMuseumInsect_1: {!h 91e8403d: 27.00000, !h 921ba072: 20.00000, !h d03ea70f: 38.00000, !h d3cd4740: 36.00000}

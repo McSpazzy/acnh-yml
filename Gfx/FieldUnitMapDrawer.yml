@@ -1,0 +1,17 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldUnitMapDrawer:
+    !h 378acd27: 50.00000
+    !h a412c025:
+      - 720.00000
+      - 100.00000
+      - 640.00000
+    !h dabfd44c:
+      - 768.00000
+      - 768.00000
+    !h df38465f:
+      - 640.00000
+      - 640.00000

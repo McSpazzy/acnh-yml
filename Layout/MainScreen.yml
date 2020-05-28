@@ -1,0 +1,39 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: ItemBalloon, !h eedd76eb: ItemBalloon}
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: Flash, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 0
+        !h d17c5197: SmartPhone
+        !h eedd76eb: Phone
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_Road_00, !h eedd76eb: Road}
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: SpAttack, !h 8625d6ec: !l 0}
+          - {!h 2c49113d: '', !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 0
+        !h d17c5197: /L_MiniGameCounter
+        !h eedd76eb: MiniGameCounter
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: PinchLoop, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 1
+        !h d17c5197: /L_Timer
+        !h eedd76eb: Timer
+      - !h 383f6e2e: true
+        !h a8e79f6f:
+          - {!h 2c49113d: CountUp, !h 8625d6ec: !l 0}
+          - {!h 2c49113d: CountUpInv, !h 8625d6ec: !l 0}
+          - {!h 2c49113d: CountDown, !h 8625d6ec: !l 0}
+        !h ce24f49e: !l 0
+        !h d17c5197: MealEf
+        !h eedd76eb: MealEffect
+    !h 4309561a: MainScreen
+    !h 718df20d: false
+    !h a8e79f6f: null

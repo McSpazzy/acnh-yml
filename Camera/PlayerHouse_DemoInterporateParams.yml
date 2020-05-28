@@ -1,0 +1,17 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h c660f8c4:
+    !h 23be9c62:
+      - !h 1368cc8:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 1.00000
+            - 0.96778
+            - 1.94444
+        !h 1f74b3d1: ToDreamTkk
+        !h 66f1928a: !l 300

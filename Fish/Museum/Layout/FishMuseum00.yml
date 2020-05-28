@@ -1,0 +1,38 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 313420a:
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 14, !h 89d12daa: !l 2270, !h ee35e2de: 0.04000}
+    - {!h 25ebecb6: !l 2, !h 4fe63192: 0.00000, !h 5256ba20: !l 18, !h 89d12daa: !l 2265, !h ee35e2de: 0.35000}
+    - {!h 25ebecb6: !l 7, !h 4fe63192: 90.00000, !h 5256ba20: !l 7, !h 89d12daa: !l 2271, !h ee35e2de: 0.16000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 4, !h 89d12daa: !l 2277, !h ee35e2de: 0.50000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 5, !h 89d12daa: !l 2279, !h ee35e2de: 0.50000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 72.00000, !h 5256ba20: !l 11, !h 89d12daa: !l 2256, !h ee35e2de: 0.06000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 9, !h 89d12daa: !l 2281, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 9, !h 4fe63192: 0.00000, !h 5256ba20: !l 12, !h 89d12daa: !l 2263, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 10, !h 89d12daa: !l 2269, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 16, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2268, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 4, !h 4fe63192: 0.00000, !h 5256ba20: !l 12, !h 89d12daa: !l 2262, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 2, !h 4fe63192: 0.00000, !h 5256ba20: !l 13, !h 89d12daa: !l 2261, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 6, !h 4fe63192: 70.00000, !h 5256ba20: !l 16, !h 89d12daa: !l 2257, !h ee35e2de: 0.08000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 6, !h 89d12daa: !l 2260, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 1, !h 4fe63192: 90.00000, !h 5256ba20: !l 16, !h 89d12daa: !l 2258, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 3, !h 4fe63192: 90.00000, !h 5256ba20: !l 15, !h 89d12daa: !l 2259, !h ee35e2de: 0.20000}
+    - {!h 25ebecb6: !l 4, !h 4fe63192: -73.00000, !h 5256ba20: !l 3, !h 89d12daa: !l 2272, !h ee35e2de: 0.00000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 2255, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 1, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 2255, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 2, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 2255, !h ee35e2de: 0.11000}
+    - {!h 25ebecb6: !l 3, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 2255, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 4, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 2255, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 6, !h 4fe63192: 0.00000, !h 5256ba20: !l 1, !h 89d12daa: !l 2255, !h ee35e2de: 0.11000}
+    - {!h 25ebecb6: !l 3, !h 4fe63192: 0.00000, !h 5256ba20: !l 15, !h 89d12daa: !l 2259, !h ee35e2de: 0.23000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 16, !h 89d12daa: !l 2257, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 2, !h 4fe63192: 0.00000, !h 5256ba20: !l 15, !h 89d12daa: !l 2259, !h ee35e2de: 0.23000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 17, !h 89d12daa: !l 2257, !h ee35e2de: 0.10000}
+    - {!h 25ebecb6: !l 10, !h 4fe63192: 0.00000, !h 5256ba20: !l 7, !h 89d12daa: !l 2271, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 14, !h 4fe63192: 0.00000, !h 5256ba20: !l 8, !h 89d12daa: !l 2267, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 2, !h 4fe63192: 0.00000, !h 5256ba20: !l 8, !h 89d12daa: !l 2267, !h ee35e2de: 0.55000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 2, !h 89d12daa: !l 2266, !h ee35e2de: 0.30000}
+    - {!h 25ebecb6: !l 0, !h 4fe63192: 0.00000, !h 5256ba20: !l 0, !h 89d12daa: !l 2266, !h ee35e2de: 0.30000}

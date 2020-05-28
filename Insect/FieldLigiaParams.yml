@@ -1,0 +1,11 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldLigiaParams:
+    !h mCommon: null
+    !h mUniqueDummy: {!h 20e90aef: '', !h 2f6613ae: 15.00000, !h 406147f9: 1.87500}
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - {!h 20e90aef: Funamushi, !h 2f6613ae: 15.00000, !h 406147f9: 1.87500}

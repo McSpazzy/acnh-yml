@@ -1,0 +1,13 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84:
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_FinishBtn_00, !h eedd76eb: FinishBtn}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_OpenBtn_00, !h eedd76eb: OpenBtn}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_Undo_00, !h eedd76eb: Undo}
+      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_PenSize_00, !h eedd76eb: PenSize}
+    !h 4309561a: UI_MsgCardEdit
+    !h a8e79f6f: null

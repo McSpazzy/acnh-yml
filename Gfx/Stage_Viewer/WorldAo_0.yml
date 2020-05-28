@@ -1,0 +1,25 @@
+Version: 3
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h WorldAo:
+    !h 2b3e1d24:
+      - 96.00000
+      - 96.00000
+    !h 3215b080: 0.00000
+    !h 3cbba910: 4.00000
+    !h 4e67858c:
+      - 256.00000
+      - 256.00000
+    !h 4ef570b2: 0.50000
+    !h 6df92e09: !l 1
+    !h 79a61e3f: 200.00000
+    !h 94f81f90: 0.50000
+    !h a7b2ab59:
+      - 0.00000
+      - 0.00000
+      - 0.00000
+    !h d28863f7: !l 1024
+    !h d367fd70: !l 10
+    !h de0df5bf: 1.00000

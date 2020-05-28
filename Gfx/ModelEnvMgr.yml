@@ -1,0 +1,15 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h EnvParam:
+    !h 267b60f: 0.02000
+    !h 28b0c2b7: 0.00000
+    !h 3b4de481:
+      - 0.80000
+      - 0.80000
+      - 0.80000
+    !h 685a68cf: 0.00000
+    !h 7eb6ec58: 0.30000
+    !h 95c740ec: 0.00000

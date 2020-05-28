@@ -1,0 +1,11 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84: null
+    !h 4309561a: UI_MenuPointTopQuest
+    !h 718df20d: false
+    !h a8e79f6f:
+      - {!h 2c49113d: InEffect, !h 8625d6ec: !l 0}

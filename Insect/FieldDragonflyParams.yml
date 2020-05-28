@@ -1,0 +1,70 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldDragonflyParams:
+    !h mCommon:
+      !h 1a636c9f: 600.00000
+      !h 1da8e595: 90.00000
+      !h 20aaac29: 1.09375
+      !h 23594c66: 0.03125
+      !h 3fce250d: 1.87500
+      !h 4e445482: 1.25000
+      !h aad4b7a2: 10.00000
+      !h af3eaa8a: 0.07813
+      !h d9b3af9a: 0.03906
+      !h efd86668: -0.39063
+    !h mUniqueDummy:
+      !h 1b174c52: !l 30
+      !h 20e90aef: 
+      !h 4f827ce6: !l 268435456
+      !h 804e26e3: 15.00000
+      !h 83bdc6ac: 20.00000
+      !h a19b3e89: 0.15625
+      !h aae8a9ed: 2.00000
+      !h d02dc73a: 45.00000
+    !h mCommonDummy:
+      !h 1a636c9f: 600.00000
+      !h 1da8e595: 90.00000
+      !h 20aaac29: 1.09375
+      !h 23594c66: 0.03125
+      !h 3fce250d: 1.87500
+      !h 4e445482: 1.25000
+      !h aad4b7a2: 10.00000
+      !h af3eaa8a: 0.07813
+      !h d9b3af9a: 0.03906
+      !h efd86668: -0.39063
+    !h b8b250e4:
+      - !h 1b174c52: !l 15
+        !h 20e90aef: Akiakane
+        !h 4f827ce6: !l 268435456
+        !h 804e26e3: 20.00000
+        !h 83bdc6ac: 30.00000
+        !h a19b3e89: 0.15625
+        !h aae8a9ed: 5.00000
+        !h d02dc73a: 45.00000
+      - !h 1b174c52: !l 5
+        !h 20e90aef: Ginyanma
+        !h 4f827ce6: !l 268435456
+        !h 804e26e3: 30.00000
+        !h 83bdc6ac: 40.00000
+        !h a19b3e89: 0.15625
+        !h aae8a9ed: 4.00000
+        !h d02dc73a: 30.00000
+      - !h 1b174c52: !l 5
+        !h 20e90aef: Oniyanma
+        !h 4f827ce6: !l 234881024
+        !h 804e26e3: 40.00000
+        !h 83bdc6ac: 50.00000
+        !h a19b3e89: 0.19531
+        !h aae8a9ed: 12.00000
+        !h d02dc73a: 30.00000
+      - !h 1b174c52: !l 20
+        !h 20e90aef: Itotonbo
+        !h 4f827ce6: !l 268435456
+        !h 804e26e3: 20.00000
+        !h 83bdc6ac: 30.00000
+        !h a19b3e89: 0.15625
+        !h aae8a9ed: 4.00000
+        !h d02dc73a: 45.00000

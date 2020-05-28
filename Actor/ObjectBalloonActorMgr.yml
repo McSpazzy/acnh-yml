@@ -1,0 +1,6 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h ObjectBalloonActorMgr: {!h 36a79244: !l 192, !h 79e289f1: !l 80, !h 8d4321bd: !l 0, !h 970b2488: 35.00000, !h be28b50c: !l 0}

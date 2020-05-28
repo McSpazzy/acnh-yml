@@ -1,0 +1,16 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MuseumWaitWithThreatenParams:
+    !h mCommon: null
+    !h mUniqueDummy: {!h 1478671b: 0.00000, !h 20e90aef: '', !h b47c2114: 35.00000}
+    !h mCommonDummy: null
+    !h b8b250e4:
+      - {!h 1478671b: 1.50000, !h 20e90aef: Kamakiri, !h b47c2114: 35.00000}
+      - {!h 1478671b: 1.50000, !h 20e90aef: Hanakamakiri, !h b47c2114: 35.00000}
+      - {!h 1478671b: 1.00000, !h 20e90aef: Kumo, !h b47c2114: 17.00000}
+      - {!h 1478671b: 1.00000, !h 20e90aef: Minomushi, !h b47c2114: 35.00000}
+      - {!h 1478671b: 0.00000, !h 20e90aef: Yadokari, !h b47c2114: 35.00000}
+      - {!h 1478671b: 0.00000, !h 20e90aef: Kirigirisu, !h b47c2114: 35.00000}

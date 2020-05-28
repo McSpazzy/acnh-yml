@@ -1,0 +1,31 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldAttackerParams:
+    !h mCommon: {!h 9ffec08a: 7.00000, !h a6af90b0: 2.00000, !h a7a30a04: 4.00000, !h f83489c5: 6.00000, !h f9381371: 1.00000}
+    !h mUniqueDummy:
+      !h 20e90aef: 
+      !h 37a38df5: 1.50000
+      !h 3d81df08: 0.31250
+      !h 512348b7: 0.37500
+      !h 7900d6a: 4.00000
+      !h b1e9a395: 10.00000
+      !h e251f6eb: 1.25000
+    !h mCommonDummy: {!h 9ffec08a: 7.81250, !h a6af90b0: 2.00000, !h a7a30a04: 4.00000, !h f83489c5: 6.00000, !h f9381371: 1.00000}
+    !h b8b250e4:
+      - !h 20e90aef: Taranchura
+        !h 37a38df5: 1.50000
+        !h 3d81df08: 0.31250
+        !h 512348b7: 0.30000
+        !h 7900d6a: 2.00000
+        !h b1e9a395: 10.00000
+        !h e251f6eb: 1.25000
+      - !h 20e90aef: Sasori
+        !h 37a38df5: 1.50000
+        !h 3d81df08: 0.00000
+        !h 512348b7: 0.37500
+        !h 7900d6a: 2.00000
+        !h b1e9a395: 10.00000
+        !h e251f6eb: 0.00000

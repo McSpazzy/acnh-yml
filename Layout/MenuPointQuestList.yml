@@ -1,0 +1,15 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h 213f7f84: null
+    !h 4309561a: UI_SonkatsuQuestList
+    !h 718df20d: false
+    !h a8e79f6f:
+      - {!h 2c49113d: Btn00, !h 8625d6ec: !l 0}
+      - {!h 2c49113d: Btn01, !h 8625d6ec: !l 0}
+      - {!h 2c49113d: Btn02, !h 8625d6ec: !l 0}
+      - {!h 2c49113d: Btn03, !h 8625d6ec: !l 0}
+      - {!h 2c49113d: Btn04, !h 8625d6ec: !l 0}
