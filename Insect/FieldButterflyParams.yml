@@ -5,132 +5,132 @@ HasReferenceNodes: False
 root:
   !h FieldButterflyParams:
     !h mCommon:
-      !h 1a636c9f: 300.00000
-      !h 1da8e595: 90.00000
-      !h 4e445482: 1.50000
-      !h 699acb0e: 0.00781
-      !h 9582ffd2: 0.03125
-      !h aad4b7a2: 10.00000
-      !h c8762cba: 5.00000
+      !h mApproachCycle.f32: 300.00000
+      !h mRestTime.f32: 90.00000
+      !h mEscapeRate.f32: 1.50000
+      !h mSpeedForwardStep.f32: 0.00781
+      !h mSpeedUpDown.f32: 0.03125
+      !h mBaseHeight.f32: 10.00000
+      !h mLandingOffset.f32: 5.00000
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 2ecce257: 0.25000
-      !h 4cc65eb0: 0.11719
-      !h 5106f9ba: 0.07813
-      !h 536026a: 0.62500
-      !h 7ae4c87c: !l 17891328
-      !h b4135b92: 1.00000
-      !h cde9a20d: 1.12500
+      !h mLabel.Str: 
+      !h mSpeedForward.f32: 0.25000
+      !h mSpeedApproach.f32: 0.11719
+      !h mBreathMax.f32: 0.07813
+      !h mSwingBreath.f32: 0.62500
+      !h mRotateAngleYStep.u32: !l 17891328
+      !h mAnimationFlySpeed.f32: 1.00000
+      !h mAnimationFlySpeedApproach.f32: 1.12500
     !h mCommonDummy:
-      !h 1a636c9f: 300.00000
-      !h 1da8e595: 90.00000
-      !h 4e445482: 1.50000
-      !h 699acb0e: 0.00781
-      !h 9582ffd2: 0.03125
-      !h aad4b7a2: 10.00000
-      !h c8762cba: 5.00000
+      !h mApproachCycle.f32: 300.00000
+      !h mRestTime.f32: 90.00000
+      !h mEscapeRate.f32: 1.50000
+      !h mSpeedForwardStep.f32: 0.00781
+      !h mSpeedUpDown.f32: 0.03125
+      !h mBaseHeight.f32: 10.00000
+      !h mLandingOffset.f32: 5.00000
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Monshirocho
-        !h 2ecce257: 0.18750
-        !h 4cc65eb0: 0.07813
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Monkicho
-        !h 2ecce257: 0.18750
-        !h 4cc65eb0: 0.07813
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Agehacho
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Karasuageha
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Ohkabamadara
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Morufuocho
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Miirotateha
-        !h 2ecce257: 0.75000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.12500
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Akaeritoribaneageha
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Arekisandoratoribaneageha
-        !h 2ecce257: 0.37500
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.11719
-        !h 536026a: 0.93750
-        !h 7ae4c87c: !l 8978432
-        !h b4135b92: 1.12500
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Aosujiageha
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Ohgomamadara
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Ohmurasaki
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
-      - !h 20e90aef: Nishikiohtsubamega
-        !h 2ecce257: 0.25000
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7ae4c87c: !l 17891328
-        !h b4135b92: 1.00000
-        !h cde9a20d: 1.12500
+      - !h mLabel.Str: Monshirocho
+        !h mSpeedForward.f32: 0.18750
+        !h mSpeedApproach.f32: 0.07813
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Monkicho
+        !h mSpeedForward.f32: 0.18750
+        !h mSpeedApproach.f32: 0.07813
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Agehacho
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Karasuageha
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Ohkabamadara
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Morufuocho
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Miirotateha
+        !h mSpeedForward.f32: 0.75000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.12500
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Akaeritoribaneageha
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Arekisandoratoribaneageha
+        !h mSpeedForward.f32: 0.37500
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.11719
+        !h mSwingBreath.f32: 0.93750
+        !h mRotateAngleYStep.u32: !l 8978432
+        !h mAnimationFlySpeed.f32: 1.12500
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Aosujiageha
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Ohgomamadara
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Ohmurasaki
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500
+      - !h mLabel.Str: Nishikiohtsubamega
+        !h mSpeedForward.f32: 0.25000
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mRotateAngleYStep.u32: !l 17891328
+        !h mAnimationFlySpeed.f32: 1.00000
+        !h mAnimationFlySpeedApproach.f32: 1.12500

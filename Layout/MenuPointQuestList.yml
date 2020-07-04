@@ -5,11 +5,11 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]: null
-    !h 4309561a: UI_SonkatsuQuestList
-    !h 718df20d: false
-    !h a8e79f6f:
-      - {!h 2c49113d: Btn00, !h 8625d6ec: !l 0}
-      - {!h 2c49113d: Btn01, !h 8625d6ec: !l 0}
-      - {!h 2c49113d: Btn02, !h 8625d6ec: !l 0}
-      - {!h 2c49113d: Btn03, !h 8625d6ec: !l 0}
-      - {!h 2c49113d: Btn04, !h 8625d6ec: !l 0}
+    !h mUserName.Str: UI_SonkatsuQuestList
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]:
+      - {!h mTagName.Str: Btn00, !h mAnimOpeOption.Bit: !l 0}
+      - {!h mTagName.Str: Btn01, !h mAnimOpeOption.Bit: !l 0}
+      - {!h mTagName.Str: Btn02, !h mAnimOpeOption.Bit: !l 0}
+      - {!h mTagName.Str: Btn03, !h mAnimOpeOption.Bit: !l 0}
+      - {!h mTagName.Str: Btn04, !h mAnimOpeOption.Bit: !l 0}

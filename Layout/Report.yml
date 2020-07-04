@@ -5,8 +5,8 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 2, !h d17c5197: L_TypeBtn, !h eedd76eb: TypeButton}
-    !h 4309561a: UI_IllegalReport
-    !h 718df20d: false
-    !h a8e79f6f:
-      - {!h 2c49113d: ImagesScale, !h 8625d6ec: !l 1}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: L_TypeBtn, !h mGroupName.Str: TypeButton}
+    !h mUserName.Str: UI_IllegalReport
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]:
+      - {!h mTagName.Str: ImagesScale, !h mAnimOpeOption.Bit: !l 1}

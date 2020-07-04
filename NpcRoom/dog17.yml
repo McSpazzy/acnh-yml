@@ -4,79 +4,79 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h dog17:
-    !h mWall: {!h 5bc12308: !l 5400}
+    !h mWall: {!h mItemNameParam.u64: !l 5400}
     !h mDIYWorkbench:
-      !h 42ea11db: !l 36
-      !h mItemSaveParam: {!h 5bc12308: !ul 8590069607}
-      !h e8e3d950: !l 34
-      !h ec86704a: !l 0
-    !h 3f811252: !l 4
-    !h 478a17ec: !l 34
-    !h 9cefe26e: 11.27854
-    !h 9f1d28c5: 9.49666
+      !h mUnitZ.u8: !l 36
+      !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8590069607}
+      !h mUnitX.u8: !l 34
+      !h mLayer.u8: !l 0
+    !h mDIYRangeHeight.u8: !l 4
+    !h mDIYRangeLUZ.u8: !l 34
+    !h mLifePoint.f32: 11.27854
+    !h mHobbyPoint.f32: 9.49666
     !h mFtrList[]:
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !l 138307}
-        !h e8e3d950: !l 34
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 32
-        !h mItemSaveParam: {!h 5bc12308: !l 5790}
-        !h e8e3d950: !l 32
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !ul 4295034672}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 30
-        !h mItemSaveParam: {!h 5bc12308: !ul 824633724300}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !l 5791}
-        !h e8e3d950: !l 30
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 32
-        !h mItemSaveParam: {!h 5bc12308: !l 3615}
-        !h e8e3d950: !l 34
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 36
-        !h mItemSaveParam: {!h 5bc12308: !ul 8590069607}
-        !h e8e3d950: !l 34
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 36
-        !h mItemSaveParam: {!h 5bc12308: !ul 8589938550}
-        !h e8e3d950: !l 28
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 36
-        !h mItemSaveParam: {!h 5bc12308: !ul 12884977668}
-        !h e8e3d950: !l 28
-        !h ec86704a: !l 1
-      - !h 42ea11db: !l 25
-        !h mItemSaveParam: {!h 5bc12308: !ul 12884971454}
-        !h e8e3d950: !l 35
-        !h ec86704a: !l 3
-      - !h 42ea11db: !l 34
-        !h mItemSaveParam: {!h 5bc12308: !ul 4294974528}
-        !h e8e3d950: !l 27
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !ul 12884905905}
-        !h e8e3d950: !l 27
-        !h ec86704a: !l 2
-      - !h 42ea11db: !l 36
-        !h mItemSaveParam: {!h 5bc12308: !ul 8589941824}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !l 72918}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 6
-      - !h 42ea11db: !l 27
-        !h mItemSaveParam: {!h 5bc12308: !l 597645}
-        !h e8e3d950: !l 35
-        !h ec86704a: !l 3
-    !h mFloor: {!h 5bc12308: !l 5248}
-    !h mMusic: {!h 5bc12308: !l 2441}
-    !h e954c311: !l 0
-    !h ed83df67: !l 34
-    !h f2925a13: !l 4
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 138307}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5790}
+        !h mUnitX.u8: !l 32
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295034672}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 30
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 824633724300}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5791}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 3615}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8590069607}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589938550}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884977668}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 25
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884971454}
+        !h mUnitX.u8: !l 35
+        !h mLayer.u8: !l 3
+      - !h mUnitZ.u8: !l 34
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294974528}
+        !h mUnitX.u8: !l 27
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884905905}
+        !h mUnitX.u8: !l 27
+        !h mLayer.u8: !l 2
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589941824}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 72918}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 6
+      - !h mUnitZ.u8: !l 27
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 597645}
+        !h mUnitX.u8: !l 35
+        !h mLayer.u8: !l 3
+    !h mFloor: {!h mItemNameParam.u64: !l 5248}
+    !h mMusic: {!h mItemNameParam.u64: !l 2441}
+    !h mFloorRotate.u8: !l 0
+    !h mDIYRangeLUX.u8: !l 34
+    !h mDIYRangeWidth.u8: !l 4

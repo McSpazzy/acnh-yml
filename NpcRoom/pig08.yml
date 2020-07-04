@@ -4,91 +4,91 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h pig08:
-    !h mWall: {!h 5bc12308: !l 4923}
+    !h mWall: {!h mItemNameParam.u64: !l 4923}
     !h mDIYWorkbench:
-      !h 42ea11db: !l 36
-      !h mItemSaveParam: {!h 5bc12308: !ul 8590069607}
-      !h e8e3d950: !l 26
-      !h ec86704a: !l 0
-    !h 3f811252: !l 4
-    !h 478a17ec: !l 34
-    !h 9cefe26e: 22.31880
-    !h 9f1d28c5: 29.91861
+      !h mUnitZ.u8: !l 36
+      !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8590069607}
+      !h mUnitX.u8: !l 26
+      !h mLayer.u8: !l 0
+    !h mDIYRangeHeight.u8: !l 4
+    !h mDIYRangeLUZ.u8: !l 34
+    !h mLifePoint.f32: 22.31880
+    !h mHobbyPoint.f32: 29.91861
     !h mFtrList[]:
-      - !h 42ea11db: !l 29
-        !h mItemSaveParam: {!h 5bc12308: !l 1434}
-        !h e8e3d950: !l 28
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 31
-        !h mItemSaveParam: {!h 5bc12308: !l 202398}
-        !h e8e3d950: !l 36
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !ul 8589938717}
-        !h e8e3d950: !l 30
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !ul 8589938717}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !ul 8589938717}
-        !h e8e3d950: !l 34
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 33
-        !h mItemSaveParam: {!h 5bc12308: !l 198358}
-        !h e8e3d950: !l 36
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 29
-        !h mItemSaveParam: {!h 5bc12308: !l 69504}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 36
-        !h mItemSaveParam: {!h 5bc12308: !ul 12885036903}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 26
-        !h mItemSaveParam: {!h 5bc12308: !l 203979}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 6
-      - !h 42ea11db: !l 27
-        !h mItemSaveParam: {!h 5bc12308: !ul 12884903647}
-        !h e8e3d950: !l 30
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 27
-        !h mItemSaveParam: {!h 5bc12308: !ul 12884906004}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 27
-        !h mItemSaveParam: {!h 5bc12308: !ul 4294970968}
-        !h e8e3d950: !l 36
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 31
-        !h mItemSaveParam: {!h 5bc12308: !ul 25769873009}
-        !h e8e3d950: !l 26
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 31
-        !h mItemSaveParam: {!h 5bc12308: !l 4034}
-        !h e8e3d950: !l 31
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 27
-        !h mItemSaveParam: {!h 5bc12308: !ul 4294974455}
-        !h e8e3d950: !l 32
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 35
-        !h mItemSaveParam: {!h 5bc12308: !l 200642}
-        !h e8e3d950: !l 35
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 29
-        !h mItemSaveParam: {!h 5bc12308: !ul 8590132959}
-        !h e8e3d950: !l 36
-        !h ec86704a: !l 0
-      - !h 42ea11db: !l 27
-        !h mItemSaveParam: {!h 5bc12308: !l 67295}
-        !h e8e3d950: !l 36
-        !h ec86704a: !l 1
-    !h mFloor: {!h 5bc12308: !l 4951}
-    !h mMusic: {!h 5bc12308: !l 2463}
-    !h e954c311: !l 0
-    !h ed83df67: !l 26
-    !h f2925a13: !l 4
+      - !h mUnitZ.u8: !l 29
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 1434}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 31
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 202398}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589938717}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589938717}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589938717}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 33
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 198358}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 29
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 69504}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12885036903}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 203979}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 6
+      - !h mUnitZ.u8: !l 27
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884903647}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 27
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884906004}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 27
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294970968}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 31
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25769873009}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 31
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 4034}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 27
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294974455}
+        !h mUnitX.u8: !l 32
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 35
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 200642}
+        !h mUnitX.u8: !l 35
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 29
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8590132959}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 27
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 67295}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 1
+    !h mFloor: {!h mItemNameParam.u64: !l 4951}
+    !h mMusic: {!h mItemNameParam.u64: !l 2463}
+    !h mFloorRotate.u8: !l 0
+    !h mDIYRangeLUX.u8: !l 26
+    !h mDIYRangeWidth.u8: !l 4

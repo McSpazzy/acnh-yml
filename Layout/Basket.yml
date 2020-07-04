@@ -5,12 +5,12 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - !h 383f6e2e: true
-        !h a8e79f6f:
-          - {!h 2c49113d: EfInvalid, !h 8625d6ec: !l 0}
-        !h ce24f49e: !l 2
-        !h d17c5197: /L_Btn_
-        !h eedd76eb: Btn
-    !h 4309561a: UI_HarvestBox
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: EfInvalid, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 2
+        !h mPath.Str: /L_Btn_
+        !h mGroupName.Str: Btn
+    !h mUserName.Str: UI_HarvestBox
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

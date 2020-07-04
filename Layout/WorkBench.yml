@@ -5,14 +5,14 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_SelWin, !h eedd76eb: SelectWindow}
-      - !h 383f6e2e: true
-        !h a8e79f6f:
-          - {!h 2c49113d: EquipIn, !h 8625d6ec: !l 0}
-          - {!h 2c49113d: EquipOut, !h 8625d6ec: !l 0}
-        !h ce24f49e: !l 0
-        !h d17c5197: Btn
-        !h eedd76eb: Button
-    !h 4309561a: UI_WorkBench
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_SelWin, !h mGroupName.Str: SelectWindow}
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: EquipIn, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: EquipOut, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: Btn
+        !h mGroupName.Str: Button
+    !h mUserName.Str: UI_WorkBench
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

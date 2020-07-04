@@ -5,23 +5,23 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - !h 383f6e2e: true
-        !h a8e79f6f:
-          - {!h 2c49113d: EfInvalid, !h 8625d6ec: !l 0}
-          - {!h 2c49113d: WrappingOpen, !h 8625d6ec: !l 1}
-          - {!h 2c49113d: BoxOpen, !h 8625d6ec: !l 0}
-          - {!h 2c49113d: PresentRedOpen, !h 8625d6ec: !l 0}
-          - {!h 2c49113d: PresentGreenOpen, !h 8625d6ec: !l 0}
-        !h ce24f49e: !l 2
-        !h d17c5197: L_Btn
-        !h eedd76eb: Btn
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 2, !h d17c5197: L_SellCounter_00, !h eedd76eb: SellCounter_00}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 2, !h d17c5197: L_SellCounter_01, !h eedd76eb: SellCounter_01}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 1, !h d17c5197: L_BellBtn, !h eedd76eb: BellBtn}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 1, !h d17c5197: L_ChgClothBtn, !h eedd76eb: ClothBtn}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 3, !h d17c5197: /L_SelWinPlayer_00, !h eedd76eb: SelectWindow}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_TextBtn_00, !h eedd76eb: FinishBtn}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_TextBtn_01, !h eedd76eb: CancelBtn}
-    !h 4309561a: UI_PocketMenu
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: EfInvalid, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: WrappingOpen, !h mAnimOpeOption.Bit: !l 1}
+          - {!h mTagName.Str: BoxOpen, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: PresentRedOpen, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: PresentGreenOpen, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 2
+        !h mPath.Str: L_Btn
+        !h mGroupName.Str: Btn
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: L_SellCounter_00, !h mGroupName.Str: SellCounter_00}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: L_SellCounter_01, !h mGroupName.Str: SellCounter_01}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 1, !h mPath.Str: L_BellBtn, !h mGroupName.Str: BellBtn}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 1, !h mPath.Str: L_ChgClothBtn, !h mGroupName.Str: ClothBtn}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 3, !h mPath.Str: /L_SelWinPlayer_00, !h mGroupName.Str: SelectWindow}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_TextBtn_00, !h mGroupName.Str: FinishBtn}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_TextBtn_01, !h mGroupName.Str: CancelBtn}
+    !h mUserName.Str: UI_PocketMenu
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

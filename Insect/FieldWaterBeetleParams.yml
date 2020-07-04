@@ -8,5 +8,5 @@ root:
     !h mUniqueDummy: null
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - {!h 20e90aef: Gengorou}
-      - {!h 20e90aef: Tagame}
+      - {!h mLabel.Str: Gengorou}
+      - {!h mLabel.Str: Tagame}

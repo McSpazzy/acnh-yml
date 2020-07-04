@@ -4,19 +4,19 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h WorldAo:
-    !h 2b3e1d24:
+    !h mRenderSize.V2f:
       - 96.00000
       - 96.00000
-    !h 3215b080: 10.00000
-    !h 4e67858c:
+    !h mHeight.f32: 10.00000
+    !h mFbSize.V2f:
       - 512.00000
       - 512.00000
-    !h 6df92e09: !l 1
-    !h 79a61e3f: 200.00000
-    !h 94f81f90: 4.00000
-    !h a7b2ab59:
+    !h mMaxMipLevel.u32: !l 1
+    !h mFar.f32: 200.00000
+    !h mIntensity.f32: 4.00000
+    !h mCapturePos.V3f:
       - 0.00000
       - 0.00000
       - 0.00000
-    !h d28863f7: !l 1024
-    !h de0df5bf: 80.00000
+    !h mUnitMax.u32: !l 1024
+    !h mNear.f32: 80.00000

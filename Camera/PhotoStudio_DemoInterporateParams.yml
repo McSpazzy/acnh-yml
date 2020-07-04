@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h PhotoStudio_DemoInterporateParams:
     !h mParamsBuffer[]:
-      - !h 1368cc8:
+      - !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -13,5 +13,5 @@ root:
             - 1.00000
             - 1.00000
             - 0.01083
-        !h 1f74b3d1: JBWipe
-        !h 66f1928a: !l 40
+        !h mKey.Str: JBWipe
+        !h mFrame.s32: !l 40

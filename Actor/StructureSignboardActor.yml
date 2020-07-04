@@ -5,182 +5,182 @@ HasReferenceNodes: False
 root:
   !h StructureSignboardActor:
     !h mDefaultInfo:
-      !h 17f54a67: 45.00000
-      !h 57065eee:
+      !h mSignboardHalfViewAngle.f32: 45.00000
+      !h mOffset.V3f:
         - 0.00000
         - 0.00000
         - 0.00000
-      !h 9a0698b8: 30.00000
-      !h d8c57597: 20.00000
-      !h fce44562:
+      !h mPlayerHalfViewAngle.f32: 30.00000
+      !h mTalkableDistance.f32: 20.00000
+      !h mHeadOffset.V3f:
         - 0.00000
         - 0.00000
         - 0.00000
     !h mPlayerInfoArray[]:
-      - !h 17f54a67: 50.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 50.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 3.50000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
     !h mFacilityInfoArray[]:
-      - !h 17f54a67: 45.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 45.00000
+        !h mOffset.V3f:
           - 18.50000
           - 0.00000
           - -8.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 45.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 45.00000
+        !h mOffset.V3f:
           - 13.50000
           - 0.00000
           - -18.00000
-        !h 9a0698b8: 30.00000
-        !h d8c57597: 14.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 30.00000
+        !h mTalkableDistance.f32: 14.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 5.00000
-      - !h 17f54a67: 65.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 65.00000
+        !h mOffset.V3f:
           - 14.30000
           - 0.00000
           - -6.40000
-        !h 9a0698b8: 30.00000
-        !h d8c57597: 14.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 30.00000
+        !h mTalkableDistance.f32: 14.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 45.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 45.00000
+        !h mOffset.V3f:
           - 18.50000
           - 0.00000
           - -8.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 45.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 45.00000
+        !h mOffset.V3f:
           - 18.50000
           - 0.00000
           - -8.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 45.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 45.00000
+        !h mOffset.V3f:
           - 10.00000
           - 0.00000
           - -7.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 58.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 58.00000
+        !h mOffset.V3f:
           - 4.70000
           - 0.00000
           - -10.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 20.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 20.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 50.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 50.00000
+        !h mOffset.V3f:
           - 13.50000
           - 0.00000
           - -9.60000
-        !h 9a0698b8: 30.00000
-        !h d8c57597: 12.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 30.00000
+        !h mTalkableDistance.f32: 12.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 50.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 50.00000
+        !h mOffset.V3f:
           - 13.50000
           - 0.00000
           - -9.60000
-        !h 9a0698b8: 30.00000
-        !h d8c57597: 12.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 30.00000
+        !h mTalkableDistance.f32: 12.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
     !h mNpcInfoArray[]:
-      - !h 17f54a67: 50.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 50.00000
+        !h mOffset.V3f:
           - 5.00000
           - 0.00000
           - 0.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-      - !h 17f54a67: 74.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 74.00000
+        !h mOffset.V3f:
           - 14.70000
           - 0.00000
           - 1.00000
-        !h 9a0698b8: 30.00000
-        !h d8c57597: 11.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 30.00000
+        !h mTalkableDistance.f32: 11.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - -2.00000
           - 0.00000
-      - !h 17f54a67: 50.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 50.00000
+        !h mOffset.V3f:
           - 5.00000
           - 0.00000
           - 0.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - -2.00000
           - 0.00000
-      - !h 17f54a67: 50.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 50.00000
+        !h mOffset.V3f:
           - 5.00000
           - 0.00000
           - 0.00000
-        !h 9a0698b8: 35.00000
-        !h d8c57597: 18.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 35.00000
+        !h mTalkableDistance.f32: 18.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - -2.00000
           - 0.00000
-      - !h 17f54a67: 80.00000
-        !h 57065eee:
+      - !h mSignboardHalfViewAngle.f32: 80.00000
+        !h mOffset.V3f:
           - -14.00000
           - 0.00000
           - -2.50000
-        !h 9a0698b8: 30.00000
-        !h d8c57597: 10.00000
-        !h fce44562:
+        !h mPlayerHalfViewAngle.f32: 30.00000
+        !h mTalkableDistance.f32: 10.00000
+        !h mHeadOffset.V3f:
           - 0.00000
           - -4.00000
           - 0.00000

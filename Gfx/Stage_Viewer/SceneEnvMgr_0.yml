@@ -4,19 +4,19 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h SceneEnvParam:
-    !h 26c81710: 8.61600
-    !h 3085902a: 0.30000
-    !h 58784dd0: 1.00000
-    !h 593c46bc: 0.15000
-    !h 59777b14: 1.00000
-    !h 5ef0ba4d:
+    !h mTimer.f32: 8.61600
+    !h mEnvMapShadowIntensity.f32: 0.30000
+    !h mIndirectSkyLightIntensity.f32: 1.00000
+    !h mCloudIntensity.f32: 0.15000
+    !h mIndirectGroundLightIntensity.f32: 1.00000
+    !h mEditLongitudeLatitude.V2f:
       - 0.26180
       - 0.95993
-    !h 65450179: 0.80000
-    !h 7a4db016: 0.00000
-    !h 81f361bc: 0.80000
-    !h 9453a6ea: 1.00000
-    !h b9d86e4: 0.80000
-    !h cfc021e8: cExponential
-    !h daeb53a2: 0.43633
-    !h feeeb61b: 0.00000
+    !h mShadowIntensity.f32: 0.80000
+    !h mAoDirectionalIntensity.f32: 0.00000
+    !h mEnvMapTintIntensity.f32: 0.80000
+    !h mIndirectLightIntensity.f32: 1.00000
+    !h mAoIntensity.f32: 0.80000
+    !h mToneMapMode.Enum: cExponential
+    !h mLimitLightAngle.f32: 0.43633
+    !h mExpose.f32: 0.00000

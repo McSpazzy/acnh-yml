@@ -4,48 +4,48 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h VolumetricEffect:
-    !h 229e1861: 1.00000
-    !h 2c290a5c:
+    !h mDirectinalLightIntensity.f32: 1.00000
+    !h mAABBPos.V3f:
       - 40.00000
       - 20.00000
       - 30.00000
-    !h 2cac3d2e: true
-    !h 2ea72832: 0.40000
-    !h 2f81b3b6: 0.30000
-    !h 322b9edc:
+    !h mIsEnable.bool: true
+    !h mSpotLightIntensity.f32: 0.40000
+    !h mRayleighIntensity.f32: 0.30000
+    !h mColor.C4f:
       - 1.00000
       - 1.00000
       - 1.00000
       - 1.00000
-    !h 4e67858c:
+    !h mFbSize.V2f:
       - 1920.00000
       - 1080.00000
-    !h 5d36f4eb: 100.00000
-    !h 5eae3030:
+    !h mDarkNear.f32: 100.00000
+    !h mDarkColor.C4f:
       - 0.00000
       - 0.00000
       - 0.00000
       - 1.00000
-    !h 6618b098: true
-    !h 79a61e3f: 212.69520
-    !h 7e8442b7: true
-    !h 91228d28: 200.00000
-    !h 92035057:
+    !h mIsEnableTraceAABB.bool: true
+    !h mFar.f32: 212.69520
+    !h mIsDarkFogEnable.bool: true
+    !h mDarkFar.f32: 200.00000
+    !h mAABBRange.V3f:
       - 60.00000
       - 40.00000
       - 60.00000
-    !h 94f81f90: 0.00000
-    !h ae13418a: false
-    !h cdd69bef: 0.00000
-    !h d28863f7: !l 1
-    !h d5c2492a: 0.20000
-    !h d947d007: 0.00000
-    !h de0df5bf: 142.37750
-    !h dfbc9fc0:
+    !h mIntensity.f32: 0.00000
+    !h mIsScatterFogEnable.bool: false
+    !h mMieIntensity.f32: 0.00000
+    !h mUnitMax.u32: !l 1
+    !h mPointLightIntensity.f32: 0.20000
+    !h mDarkIntensity.f32: 0.00000
+    !h mNear.f32: 142.37750
+    !h mDarkAABBRange.V3f:
       - 100.00000
       - 40.00000
       - 100.00000
-    !h ef8c54d6:
+    !h mDarkAABBPos.V3f:
       - 0.00000
       - 0.00000
       - -87.50000

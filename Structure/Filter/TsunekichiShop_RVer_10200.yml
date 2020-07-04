@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h TsunekichiShop_RVer_10200:
     !h mUnitFilterAppearMoth:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false

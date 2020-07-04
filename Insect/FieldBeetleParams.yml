@@ -5,126 +5,126 @@ HasReferenceNodes: False
 root:
   !h FieldBeetleParams:
     !h mCommon:
-      !h 482b122c: 1.00000
-      !h d527b8cb: 90.00000
-      !h d6d45884: 180.00000
-      !h ec5cf66d: 150.00000
-      !h efaf1622: 30.00000
-      !h f8b68fc: 2.00000
+      !h mNetOffsetZ.f32: 1.00000
+      !h mStopFramesMin.f32: 90.00000
+      !h mStopFramesMax.f32: 180.00000
+      !h mMoveFramesMax.f32: 150.00000
+      !h mMoveFramesMin.f32: 30.00000
+      !h mNetOffsetY.f32: 2.00000
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 32b5c38a: 1.00000
-      !h 5252fc1a: 3.10000
-      !h 704a9c53: 0.25000
-      !h ab07ced8: 9.00000
-      !h c42229fb: 276.60280
+      !h mLabel.Str: 
+      !h mMoveAnimationSpeed.f32: 1.00000
+      !h mOffsetZ.f32: 3.10000
+      !h mStopAnimationSpeed.f32: 0.25000
+      !h mBaseY.f32: 9.00000
+      !h mRotateAngleX.f32: 276.60280
     !h mCommonDummy:
-      !h 482b122c: 1.00000
-      !h d527b8cb: 90.00000
-      !h d6d45884: 180.00000
-      !h ec5cf66d: 150.00000
-      !h efaf1622: 30.00000
-      !h f8b68fc: 0.00000
+      !h mNetOffsetZ.f32: 1.00000
+      !h mStopFramesMin.f32: 90.00000
+      !h mStopFramesMax.f32: 180.00000
+      !h mMoveFramesMax.f32: 150.00000
+      !h mMoveFramesMin.f32: 30.00000
+      !h mNetOffsetY.f32: 0.00000
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Yonagunisan
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Nanafushi
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Purachinakogane
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Miyamakuwagata
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Nokogirikuwagata
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Ohkuwagata
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Nijiirokuwagata
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Hosoakakuwagata
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Ougononikuwagata
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Kabutomushi
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Kohkasasuohkabuto
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Zoukabuto
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Herakuresuohkabuto
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Goraiasuohtsunohanamuguri
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Kanabun
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Girafanokogirikuwagata
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
-      - !h 20e90aef: Housekizoumushi
-        !h 32b5c38a: 1.00000
-        !h 5252fc1a: 3.10000
-        !h 704a9c53: 0.25000
-        !h ab07ced8: 9.00000
-        !h c42229fb: 276.60280
+      - !h mLabel.Str: Yonagunisan
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Nanafushi
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Purachinakogane
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Miyamakuwagata
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Nokogirikuwagata
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Ohkuwagata
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Nijiirokuwagata
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Hosoakakuwagata
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Ougononikuwagata
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Kabutomushi
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Kohkasasuohkabuto
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Zoukabuto
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Herakuresuohkabuto
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Goraiasuohtsunohanamuguri
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Kanabun
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Girafanokogirikuwagata
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280
+      - !h mLabel.Str: Housekizoumushi
+        !h mMoveAnimationSpeed.f32: 1.00000
+        !h mOffsetZ.f32: 3.10000
+        !h mStopAnimationSpeed.f32: 0.25000
+        !h mBaseY.f32: 9.00000
+        !h mRotateAngleX.f32: 276.60280

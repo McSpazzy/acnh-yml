@@ -4,9 +4,9 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h CapsuleAo:
-    !h 1f6b2e93: 0.00000
-    !h 4e67858c:
+    !h mOffset.f32: 0.00000
+    !h mFbSize.V2f:
       - 512.00000
       - 512.00000
-    !h 6df92e09: !l 3
-    !h 94f81f90: 0.50000
+    !h mMaxMipLevel.u32: !l 3
+    !h mIntensity.f32: 0.50000

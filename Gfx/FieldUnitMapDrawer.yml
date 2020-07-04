@@ -4,14 +4,14 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FieldUnitMapDrawer:
-    !h 378acd27: 50.00000
-    !h a412c025:
+    !h mUIMapCapturePosOffsetZ.f32: 50.00000
+    !h mUIMapCapturePos.V3f:
       - 720.00000
       - 100.00000
       - 640.00000
-    !h dabfd44c:
+    !h mFieldMapSize.V2f:
       - 768.00000
       - 768.00000
-    !h df38465f:
+    !h mUIMapSize.V2f:
       - 640.00000
       - 640.00000

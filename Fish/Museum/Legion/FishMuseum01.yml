@@ -4,4 +4,4 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FishMuseumLegion[]:
-    - {!h 27bb2859: 20.00000, !h 89d12daa: !l 4201, !h a8a6571c: 20.00000}
+    - {!h mSearchPredatorRange.f32: 20.00000, !h mUniqueID.u16: !l 4201, !h mSpeedUpMaxRate.f32: 20.00000}

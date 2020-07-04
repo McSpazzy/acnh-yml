@@ -3,5 +3,5 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 37e6781c:
-    - {!h 2fddd5ed: 20.00000, !h 5c4375c0: 3.00000, !h 89d12daa: !l 2278}
+  !h FishMuseumChasePlayer[]:
+    - {!h mSearchRadius.f32: 20.00000, !h mChaseDist.f32: 3.00000, !h mUniqueID.u16: !l 2278}

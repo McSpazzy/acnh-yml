@@ -6,340 +6,340 @@ root:
   !h DynamicLightSceneParam:
     !h mSpotParamArray[]:
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 129.88000
           - 70.00000
           - 164.56000
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: FossilLight00
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 3.00000
-        !h c09bb276: 0.78540
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: FossilLight00
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 3.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 124.45630
           - 70.00000
           - 114.33790
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.11130
           - -0.99379
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: FossilLight01
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.83776
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: FossilLight01
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.83776
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 117.87940
           - 70.00000
           - 79.42944
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.01599
           - -0.99936
           - 0.03198
-        !h 55a5c25d: 
-        !h 6404e56c: FossilLight02
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.81053
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: FossilLight02
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.81053
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 187.68000
           - 70.00000
           - 153.89760
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -0.97982
           - -0.19988
-        !h 55a5c25d: 
-        !h 6404e56c: FossilLight03
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.78540
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: FossilLight03
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 196.52000
           - 70.00000
           - 119.68000
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -0.99649
           - -0.08371
-        !h 55a5c25d: 
-        !h 6404e56c: FossilLight04
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.69813
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: FossilLight04
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.69813
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 198.45120
           - 70.00000
           - 89.14800
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: FossilLight05
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.65973
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: FossilLight05
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.65973
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 162.00000
           - 70.00000
           - 251.55920
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: EntLight00
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.69813
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: EntLight00
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.69813
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 0.60000
           - 1.00000
           - 1.00000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 162.00000
           - 70.00000
           - 31.75200
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: EntLight01
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.69813
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: EntLight01
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.69813
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 0.55000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 129.88000
           - 70.00000
           - 242.00000
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: ChairLight00
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.52360
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: ChairLight00
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.52360
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 0.55000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 195.16000
           - 70.00000
           - 242.00000
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: ChairLight01
-        !h 79a61e3f: 94.00000
-        !h 94f81f90: 20.00000
-        !h c09bb276: 0.52360
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: ChairLight01
+        !h mFar.f32: 94.00000
+        !h mIntensity.f32: 20.00000
+        !h mFovy.f32: 0.52360
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 140.39130
           - -0.71265
           - 170.32240
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.92975
           - 0.36818
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: PathLight00
-        !h 79a61e3f: 30.00000
-        !h 94f81f90: 10.00000
-        !h c09bb276: 1.39626
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: PathLight00
+        !h mFar.f32: 30.00000
+        !h mIntensity.f32: 10.00000
+        !h mFovy.f32: 1.39626
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 139.80420
           - -0.71265
           - 109.74750
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - 0.92975
           - 0.36818
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: PathLight01
-        !h 79a61e3f: 30.00000
-        !h 94f81f90: 10.00000
-        !h c09bb276: 1.39626
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: PathLight01
+        !h mFar.f32: 30.00000
+        !h mIntensity.f32: 10.00000
+        !h mFovy.f32: 1.39626
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 183.15000
           - -0.71265
           - 149.45040
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - -0.92975
           - 0.36818
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: PathLight02
-        !h 79a61e3f: 30.00000
-        !h 94f81f90: 10.00000
-        !h c09bb276: 1.39626
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: PathLight02
+        !h mFar.f32: 30.00000
+        !h mIntensity.f32: 10.00000
+        !h mFovy.f32: 1.39626
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.70000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 183.15000
           - -0.71265
           - 78.38820
-        !h 45c202fb: 0.00000
-        !h 4a07fd06:
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
           - -0.92975
           - 0.36818
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: PathLight03
-        !h 79a61e3f: 30.00000
-        !h 94f81f90: 10.00000
-        !h c09bb276: 1.39626
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: PathLight03
+        !h mFar.f32: 30.00000
+        !h mIntensity.f32: 10.00000
+        !h mFovy.f32: 1.39626
+        !h mBindModelName.Str: 
     !h mPointParamArray[]:
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 2cc46ab6: false
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mIsCandle.bool: false
+        !h mColor.C4f:
           - 1.00000
           - 0.10000
           - 0.05000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 213.00000
           - 13.90000
           - 212.00000
-        !h 341a207f: 1.00000
-        !h 45c202fb: 0.00000
-        !h 47d316df:
+        !h mRadiusOffset.f32: 1.00000
+        !h mSize.f32: 0.00000
+        !h mColorOffset.C4f:
           - 0.00000
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 5260faf: 0.09000
-        !h 55a5c25d: 
-        !h 6404e56c: redAlart
-        !h 8139ecd8: 0.05000
-        !h 83b27d01: 0.00300
-        !h 94f81f90: 8.00000
-        !h 99275374: 10.00000
-        !h c6999608: 0.20000
-        !h c6d52e9b: 
-        !h ca983c88: false
+        !h mCycleAR.f32: 0.09000
+        !h mBindBoneName.Str: 
+        !h mName.Str: redAlart
+        !h mCycleB.f32: 0.05000
+        !h mCycleBR.f32: 0.00300
+        !h mIntensity.f32: 8.00000
+        !h mRadius.f32: 10.00000
+        !h mCycleA.f32: 0.20000
+        !h mBindModelName.Str: 
+        !h mIsCandleColor.bool: false

@@ -4,14 +4,14 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h ChatBalloon:
-    !h 1555feed: 40.00000
-    !h 16a61ea2: 30.00000
-    !h 1f11bfd2: 1.00000
-    !h 21770c68: 18.00000
-    !h 2b41eeb3: 80.00000
-    !h 3c0f7cba: 130.00000
-    !h 4ee8048f: 1.00000
-    !h 5e342e30:
+    !h mFarYDistanceMax.f32: 40.00000
+    !h mFarYDistanceMin.f32: 30.00000
+    !h mMaximumScale.f32: 1.00000
+    !h mYOffset.f32: 18.00000
+    !h mGardenLimitDistance.f32: 80.00000
+    !h mMinimumDistance.f32: 130.00000
+    !h mMinimumScale.f32: 1.00000
+    !h mExitPosition[].V2f:
       - - -960.00000
         - -140.00000
       - - -960.00000
@@ -28,22 +28,22 @@ root:
         - -270.00000
       - - 960.00000
         - 110.00000
-    !h 68f88ea3: 35.00000
-    !h 752b79ab: 10.00000
-    !h 7e4171fd: !l 1
-    !h 8cbe3147:
+    !h mGardenPlayDistance.f32: 35.00000
+    !h mSelfMessageOffsetY.f32: 10.00000
+    !h mUseGarden.s32: !l 1
+    !h mRootAreaMin.V2f:
       - -900.00000
       - -490.00000
-    !h 8f4dd108:
+    !h mRootAreaMax.V2f:
       - 900.00000
       - 380.00000
-    !h 9ad62fd1: 0.75000
-    !h 9b3bfcc3: 100.00000
-    !h a4854e82: !l 15
-    !h b8ce8f33: 40.00000
-    !h bb3d6f7c: 50.00000
-    !h cb29f8fa: 35.00000
-    !h d66e571c: 30.00000
-    !h ea95c452: 1.00000
-    !h ed3972d6: 0.70000
-    !h f221887d: 1.00000
+    !h mExitScale.f32: 0.75000
+    !h mMaximumDistance.f32: 100.00000
+    !h mUnreadFrame.s32: !l 15
+    !h mFarXDistanceMin.f32: 40.00000
+    !h mFarXDistanceMax.f32: 50.00000
+    !h mPlayDistance.f32: 35.00000
+    !h mMaxMove.f32: 30.00000
+    !h mGardenBaseScale.f32: 1.00000
+    !h mGardenMinimumScale.f32: 0.70000
+    !h mBaseScale.f32: 1.00000

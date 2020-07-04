@@ -6,7 +6,7 @@ root:
   !h CameraInterpolateParams:
     !h mParams:
       !h cItemMenu_Fovy:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -14,9 +14,9 @@ root:
             - 0.71579
             - 1.00000
             - 0.01202
-        !h 66f1928a: !l 30
+        !h mFrame.s32: !l 30
       !h cFishing:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -24,9 +24,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.32738
-        !h 66f1928a: !l 45
+        !h mFrame.s32: !l 45
       !h cMarketExterior:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -37,9 +37,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 18
+        !h mFrame.s32: !l 18
       !h cItemMenuBehind:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -50,9 +50,9 @@ root:
             - 1.00000
             - 1.00000
             - -0.02778
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cItemShow:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -60,9 +60,9 @@ root:
             - 0.63830
             - 1.00000
             - 0.01486
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cLostItemBox:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -73,9 +73,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cSlingShot:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -83,9 +83,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.01373
-        !h 66f1928a: !l 16
+        !h mFrame.s32: !l 16
       !h cGetDemo_Dof:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -93,9 +93,9 @@ root:
             - 0.60000
             - 1.00000
             - -0.00536
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cGetDemo_Fovy:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -103,9 +103,9 @@ root:
             - 0.85714
             - 1.00000
             - 0.01068
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cNormalFieldBehind:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -116,9 +116,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 36
+        !h mFrame.s32: !l 36
       !h cTalk_Dof:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -132,15 +132,15 @@ root:
             - 1.00000
             - 1.00000
             - -0.00536
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cDemo:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 0
           - - 0.00000
             - 1.00000
-        !h 66f1928a: !l 30
+        !h mFrame.s32: !l 30
       !h cTalk_Drum:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -148,17 +148,17 @@ root:
             - 0.69748
             - 1.00000
             - -0.03169
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cFesTent:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.17583
             - 0.99464
             - 0.00000
-        !h 66f1928a: !l 18
+        !h mFrame.s32: !l 18
       !h cItemMenuBehind_Drum:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -166,9 +166,9 @@ root:
             - 1.00000
             - 1.00000
             - 1.00000
-        !h 66f1928a: !l 30
+        !h mFrame.s32: !l 30
       !h cItemMenu:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -179,9 +179,9 @@ root:
             - 1.00000
             - 1.00000
             - -0.02778
-        !h 66f1928a: !l 16
+        !h mFrame.s32: !l 16
       !h cTalk:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -189,9 +189,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.08571
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cItemMenuBehind_OffsetX:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -202,9 +202,9 @@ root:
             - 1.00000
             - 1.00000
             - -0.02778
-        !h 66f1928a: !l 16
+        !h mFrame.s32: !l 16
       !h cItemMenuBehind_Dof:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -212,9 +212,9 @@ root:
             - 1.00000
             - 1.00000
             - 1.00000
-        !h 66f1928a: !l 30
+        !h mFrame.s32: !l 30
       !h cGetDemo_OffsetX:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.09902
@@ -222,9 +222,9 @@ root:
             - 0.67606
             - 1.00000
             - 0.08571
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cDefault:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -235,9 +235,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cItemMenu_Drum:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -245,9 +245,9 @@ root:
             - 1.00000
             - 1.00000
             - 1.00000
-        !h 66f1928a: !l 30
+        !h mFrame.s32: !l 30
       !h cBulletinBoard:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.22462
@@ -255,9 +255,9 @@ root:
             - 0.78125
             - 0.99464
             - 0.00000
-        !h 66f1928a: !l 20
+        !h mFrame.s32: !l 20
       !h cStructureEntry:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -268,9 +268,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 100
+        !h mFrame.s32: !l 100
       !h cATM:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -281,9 +281,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cGetDemo_Drum:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -291,9 +291,9 @@ root:
             - 0.69748
             - 1.00000
             - -0.03169
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cGetDemo:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -301,9 +301,9 @@ root:
             - 0.63830
             - 1.00000
             - 0.01486
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cPinataStart:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00209
             - -0.00083
@@ -311,9 +311,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00475
-        !h 66f1928a: !l 60
+        !h mFrame.s32: !l 60
       !h cItemMenu_OffsetX:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -324,9 +324,9 @@ root:
             - 1.00000
             - 1.00000
             - -0.02778
-        !h 66f1928a: !l 16
+        !h mFrame.s32: !l 16
       !h cPost:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.01212
@@ -334,9 +334,9 @@ root:
             - 0.93962
             - 0.99464
             - 0.00000
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cSky:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -347,9 +347,9 @@ root:
             - 0.95000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 60
+        !h mFrame.s32: !l 60
       !h cFishBait:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -360,9 +360,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cItemMenuBehind_Fovy:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -370,9 +370,9 @@ root:
             - 0.71579
             - 1.00000
             - 0.01202
-        !h 66f1928a: !l 30
+        !h mFrame.s32: !l 30
       !h cTalk_Fovy:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -380,9 +380,9 @@ root:
             - 0.55422
             - 1.00000
             - 0.01068
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h da259a28:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -390,9 +390,9 @@ root:
             - 1.00000
             - 1.00000
             - 1.00000
-        !h 66f1928a: !l 55
+        !h mFrame.s32: !l 55
       !h cSharePlaySubPlayerWarp:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -403,9 +403,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 66f1928a: !l 36
+        !h mFrame.s32: !l 36
       !h cTalk_OffsetX:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.09902
@@ -413,9 +413,9 @@ root:
             - 0.79121
             - 1.00000
             - 0.08571
-        !h 66f1928a: !l 24
+        !h mFrame.s32: !l 24
       !h cItemMenu_Dof:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -423,9 +423,9 @@ root:
             - 1.00000
             - 1.00000
             - 1.00000
-        !h 66f1928a: !l 30
+        !h mFrame.s32: !l 30
       !h f5d6934a:
-        !h 1368cc8:
+        !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -433,4 +433,4 @@ root:
             - 1.00000
             - 1.00000
             - 1.00000
-        !h 66f1928a: !l 55
+        !h mFrame.s32: !l 55

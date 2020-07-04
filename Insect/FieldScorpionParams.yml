@@ -8,5 +8,5 @@ root:
     !h mUniqueDummy: null
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - {!h 20e90aef: Taranchura}
-      - {!h 20e90aef: Sasori}
+      - {!h mLabel.Str: Taranchura}
+      - {!h mLabel.Str: Sasori}

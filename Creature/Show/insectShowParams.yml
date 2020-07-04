@@ -4,853 +4,853 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h CreatureShow[]:
-    - !h 24883696:
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 607
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 607
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.78000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 643
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 643
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 637
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 637
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 612
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 612
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 596
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 596
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 645
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 645
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.00000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 582
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 582
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.15000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 621
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 621
+    - !h mOffsetDegAngle.V3f:
         - -70.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 627
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 627
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.40000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 583
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 583
+    - !h mOffsetDegAngle.V3f:
         - -70.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.80000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 647
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 647
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.70000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 585
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 585
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 641
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 641
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 2.97000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 635
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 635
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.20000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 632
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 632
+    - !h mOffsetDegAngle.V3f:
         - -60.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 624
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 624
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.00000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 615
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 615
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 614
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 614
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 626
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 626
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 625
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 625
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 639
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 639
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 2.82000
         - -0.60000
-      !h 33aa4062: 1.10000
-      !h 89d12daa: !l 600
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.10000
+      !h mUniqueID.u16: !l 600
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 594
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 594
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 586
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 586
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 584
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 584
+    - !h mOffsetDegAngle.V3f:
         - -68.76000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.15000
         - 3.72000
         - -0.84000
-      !h 33aa4062: 0.80000
-      !h 89d12daa: !l 628
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.80000
+      !h mUniqueID.u16: !l 628
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3477
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3477
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.40000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 610
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 610
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 636
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 636
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 2.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 646
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 646
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 0.80000
-      !h 89d12daa: !l 590
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.80000
+      !h mUniqueID.u16: !l 590
+    - !h mOffsetDegAngle.V3f:
         - -70.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.72000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 603
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 603
+    - !h mOffsetDegAngle.V3f:
         - -70.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 619
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 619
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.60000
         - -0.60000
-      !h 33aa4062: 0.80000
-      !h 89d12daa: !l 587
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.80000
+      !h mUniqueID.u16: !l 587
+    - !h mOffsetDegAngle.V3f:
         - 0.00000
         - -90.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.72000
         - -0.60000
-      !h 33aa4062: 0.70000
-      !h 89d12daa: !l 633
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.70000
+      !h mUniqueID.u16: !l 633
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.69000
         - -0.60000
-      !h 33aa4062: 0.90000
-      !h 89d12daa: !l 588
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.90000
+      !h mUniqueID.u16: !l 588
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.66000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 591
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 591
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.30000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 604
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 604
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.20000
-      !h 89d12daa: !l 606
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.20000
+      !h mUniqueID.u16: !l 606
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.20000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 611
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 611
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 0.90000
-      !h 89d12daa: !l 649
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.90000
+      !h mUniqueID.u16: !l 649
+    - !h mOffsetDegAngle.V3f:
         - -70.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.81000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 623
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 623
+    - !h mOffsetDegAngle.V3f:
         - -70.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.60000
         - -1.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 616
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 616
+    - !h mOffsetDegAngle.V3f:
         - -60.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.60000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 630
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 630
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.40000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3479
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3479
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 620
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 620
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3478
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3478
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.51000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 652
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 652
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.70000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 592
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 592
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.40000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3484
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3484
+    - !h mOffsetDegAngle.V3f:
         - -21.60000
         - -74.16000
         - -5.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.84000
         - 3.36000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 648
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 648
+    - !h mOffsetDegAngle.V3f:
         - -16.20000
         - -56.52000
         - -6.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.45000
         - 3.42000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 605
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 605
+    - !h mOffsetDegAngle.V3f:
         - -20.16000
         - -72.72000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.84000
         - 3.36000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 644
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 644
+    - !h mOffsetDegAngle.V3f:
         - -21.60000
         - -74.16000
         - 5.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.84000
         - 3.18000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 613
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 613
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.60000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 642
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 642
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 617
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 617
+    - !h mOffsetDegAngle.V3f:
         - -14.76000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.12000
         - 3.48000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 622
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 622
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 0.80000
-      !h 89d12daa: !l 634
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.80000
+      !h mUniqueID.u16: !l 634
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 601
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 601
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.00000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 618
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 618
+    - !h mOffsetDegAngle.V3f:
         - -80.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 0.80000
-      !h 89d12daa: !l 640
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.80000
+      !h mUniqueID.u16: !l 640
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 608
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 608
+    - !h mOffsetDegAngle.V3f:
         - 55.00000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.72000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3483
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3483
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.48000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 597
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 597
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 0.90000
-      !h 89d12daa: !l 599
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.90000
+      !h mUniqueID.u16: !l 599
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.10000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 595
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 595
+    - !h mOffsetDegAngle.V3f:
         - -66.96000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.21000
         - 3.45000
         - -0.90000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 650
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 650
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 609
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 609
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3487
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3487
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.03000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 598
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 598
+    - !h mOffsetDegAngle.V3f:
         - -60.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.30000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 631
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 631
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.40000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 5339
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 5339
+    - !h mOffsetDegAngle.V3f:
         - 45.00000
         - 19.44000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 2.97000
         - -0.60000
-      !h 33aa4062: 0.80000
-      !h 89d12daa: !l 651
-    - !h 24883696:
+      !h mOffsetScale.f32: 0.80000
+      !h mUniqueID.u16: !l 651
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.06000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 638
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 638
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 602
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 602
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.00000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3482
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3482
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3480
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3480
+    - !h mOffsetDegAngle.V3f:
         - -60.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 653
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 653
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.33000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3485
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3485
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 180.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 2.00000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 5157
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 5157
+    - !h mOffsetDegAngle.V3f:
         - -25.00000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.50000
         - -0.60000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3539
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3539
+    - !h mOffsetDegAngle.V3f:
         - -55.00000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - -0.25000
         - 3.60000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 4702
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 4702
+    - !h mOffsetDegAngle.V3f:
         - -26.28000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - 0.00000
         - 3.60000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 7374
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7374
+    - !h mOffsetDegAngle.V3f:
         - 0.00000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - 0.00000
         - 3.78000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 5859
-    - !h 24883696:
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 5859
+    - !h mOffsetDegAngle.V3f:
         - -30.00000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - 0.00000
         - 3.54000
         - -0.57000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 3540
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3540

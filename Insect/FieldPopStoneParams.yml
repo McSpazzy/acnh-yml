@@ -4,28 +4,28 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FieldPopStoneParams:
-    !h mCommon: {!h 3baa62b6: 2.00000, !h a40c04b5: 20.00000}
+    !h mCommon: {!h mEscapeRefreshCycle.f32: 2.00000, !h mObjCheckLen.f32: 20.00000}
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 964930c9: -0.01563
-      !h 9cd4b898: 0.15625
-      !h b1e9a395: 15.00000
-      !h c526b6f9: 6.25000
-      !h cac0a6a1: !l 20
-      !h fd127c9c: 0.09375
-    !h mCommonDummy: {!h 3baa62b6: 2.00000, !h a40c04b5: 20.00000}
+      !h mLabel.Str: 
+      !h mRegistSpeed.f32: -0.01563
+      !h mGravityCheckOffset.f32: 0.15625
+      !h mVanishSec.f32: 15.00000
+      !h mJumpDist.f32: 6.25000
+      !h mMoveFrame.s32: !l 20
+      !h mSpeed.f32: 0.09375
+    !h mCommonDummy: {!h mEscapeRefreshCycle.f32: 2.00000, !h mObjCheckLen.f32: 20.00000}
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Dangomushi
-        !h 964930c9: -0.01563
-        !h 9cd4b898: 0.15625
-        !h b1e9a395: 15.00000
-        !h c526b6f9: 6.25000
-        !h cac0a6a1: !l 20
-        !h fd127c9c: 0.09375
-      - !h 20e90aef: Mukade
-        !h 964930c9: -0.01563
-        !h 9cd4b898: 0.78125
-        !h b1e9a395: 15.00000
-        !h c526b6f9: 6.25000
-        !h cac0a6a1: !l 20
-        !h fd127c9c: 0.12500
+      - !h mLabel.Str: Dangomushi
+        !h mRegistSpeed.f32: -0.01563
+        !h mGravityCheckOffset.f32: 0.15625
+        !h mVanishSec.f32: 15.00000
+        !h mJumpDist.f32: 6.25000
+        !h mMoveFrame.s32: !l 20
+        !h mSpeed.f32: 0.09375
+      - !h mLabel.Str: Mukade
+        !h mRegistSpeed.f32: -0.01563
+        !h mGravityCheckOffset.f32: 0.78125
+        !h mVanishSec.f32: 15.00000
+        !h mJumpDist.f32: 6.25000
+        !h mMoveFrame.s32: !l 20
+        !h mSpeed.f32: 0.12500

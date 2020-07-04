@@ -4,13 +4,13 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h WavePowerParam:
-    !h 49c6d09f: 0.00000
-    !h 7d15a3b: 1.00000
-    !h b4768ef3: -0.10000
-    !h b7856ebc: -1.00000
-    !h dc5b4546:
+    !h mPowerMin.f32: 0.00000
+    !h mWaterfallPowerSizeRate.f32: 1.00000
+    !h mTopPowerMax.f32: -0.10000
+    !h mTopPowerMin.f32: -1.00000
+    !h mWaterfallPowerSize.V2f:
       - 16.00000
       - 5.00000
-    !h eddcf461: !l 3
-    !h ee2f142e: !l 11
-    !h f8ed6fa3: !l 100
+    !h mCycleFrameMin.s32: !l 3
+    !h mCycleFrameMax.s32: !l 11
+    !h mListSize.u32: !l 100

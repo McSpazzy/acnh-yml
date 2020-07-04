@@ -5,38 +5,38 @@ HasReferenceNodes: False
 root:
   !h FtrActor:
     !h mFanParam:
-      !h 57065eee:
+      !h mOffset.V3f:
         - 20.00000
         - 0.00000
         - 0.00000
-      !h 7ee58c1b: 5.00000
-      !h 99275374: 11.00000
-    !h 2976b62c: 0.10000
-    !h 2be62660: 10.00000
-    !h 5d5da809: 7.00000
+      !h mPower.f32: 5.00000
+      !h mRadius.f32: 11.00000
+    !h mLeafGravity.f32: 0.10000
+    !h mRotateFrame.f32: 10.00000
+    !h mDemiseScaleDownFrame.f32: 7.00000
     !h mFanWallParam:
-      !h 57065eee:
+      !h mOffset.V3f:
         - 26.00000
         - 0.00000
         - 0.00000
-      !h 7ee58c1b: 5.00000
-      !h 99275374: 13.00000
-    !h 730e5cc0: 5.00000
+      !h mPower.f32: 5.00000
+      !h mRadius.f32: 13.00000
+    !h mLeafOffsetPosY.f32: 5.00000
     !h mAirconditionerParam:
-      !h 57065eee:
+      !h mOffset.V3f:
         - 27.00000
         - -5.00000
         - 0.00000
-      !h 7ee58c1b: 3.50000
-      !h b6a3847b:
+      !h mPower.f32: 3.50000
+      !h mHalfLen.V3f:
         - 27.00000
         - 6.00000
         - 10.00000
-    !h 830f5039: 0.05000
-    !h 9db5ac37: 0.04000
-    !h a678086: 0.70000
-    !h b492b8ec: 6.00000
-    !h b5b19449: 0.15000
-    !h d02dc73a: 10.00000
-    !h dbd61c3d: 20.00000
-    !h df5d47e0: 0.00000
+    !h mLocalWindAddCalcMaxDecrement.f32: 0.05000
+    !h mAmplitude.f32: 0.04000
+    !h mPeriod.f32: 0.70000
+    !h mFrequency.f32: 6.00000
+    !h mLocalWindAddCalcMaxIncrement.f32: 0.15000
+    !h mMoveFrame.f32: 10.00000
+    !h mLeafFlyFrame.f32: 20.00000
+    !h mLeafWaitFrame.f32: 0.00000

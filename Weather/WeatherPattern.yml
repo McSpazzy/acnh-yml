@@ -6,9 +6,9 @@ root:
   !h WeatherPattern:
     !h mParams:
       !h cWeatherPattern_21:
-        !h 20e90aef: CloudFine02
-        !h 3921b059: 曇りのち晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: CloudFine02
+        !h mReport.Enum: 曇りのち晴れ
+        !h mWeatherType[].Enum:
           - 晴れ
           - 晴れ
           - 晴れ
@@ -33,7 +33,7 @@ root:
           - 快晴
           - 晴れ
           - 快晴
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸中
@@ -59,9 +59,9 @@ root:
           - 陸中
           - 陸強
       !h cWeatherPattern_4:
-        !h 20e90aef: Fine04
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Fine04
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 快晴
@@ -86,7 +86,7 @@ root:
           - 快晴
           - 晴れ
           - 快晴
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸強
           - 陸中
           - 陸弱
@@ -112,9 +112,9 @@ root:
           - 陸中
           - 陸中
       !h cWeatherPattern_0:
-        !h 20e90aef: Fine00
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Fine00
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 晴れ
@@ -139,7 +139,7 @@ root:
           - 快晴
           - 晴れ
           - 快晴
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸中
           - 陸中
@@ -165,9 +165,9 @@ root:
           - 陸中
           - 陸弱
       !h cWeatherPattern_25:
-        !h 20e90aef: FineRain03
-        !h 3921b059: 晴れ所により雨
-        !h c1ac9e9e:
+        !h mLabel.Str: FineRain03
+        !h mReport.Enum: 晴れ所により雨
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 晴れ
@@ -192,7 +192,7 @@ root:
           - 晴れ
           - 快晴
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸中
           - 陸強
@@ -218,9 +218,9 @@ root:
           - 陸弱
           - 陸弱
       !h cWeatherPattern_8:
-        !h 20e90aef: Cloud01
-        !h 3921b059: 曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: Cloud01
+        !h mReport.Enum: 曇り
+        !h mWeatherType[].Enum:
           - 晴れ
           - 曇り
           - 雨雲
@@ -245,7 +245,7 @@ root:
           - 晴れ
           - 晴れ
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸強
           - 陸強
@@ -271,9 +271,9 @@ root:
           - 陸弱
           - 陸中
       !h cWeatherPattern_29:
-        !h 20e90aef: RainCloud00
-        !h 3921b059: 雨のち曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: RainCloud00
+        !h mReport.Enum: 雨のち曇り
+        !h mWeatherType[].Enum:
           - 曇り
           - 雨雲
           - 曇り
@@ -298,7 +298,7 @@ root:
           - 曇り
           - 曇り
           - 曇り
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸強
           - 陸中
           - 陸弱
@@ -324,9 +324,9 @@ root:
           - 陸弱
           - 陸中
       !h cWeatherPattern_19:
-        !h 20e90aef: CloudFine00
-        !h 3921b059: 曇りのち晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: CloudFine00
+        !h mReport.Enum: 曇りのち晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 晴れ
           - 晴れ
@@ -351,7 +351,7 @@ root:
           - 晴れ
           - 快晴
           - 快晴
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸強
           - 陸強
@@ -377,9 +377,9 @@ root:
           - 陸弱
           - 陸中
       !h cWeatherPattern_11:
-        !h 20e90aef: Rain01
-        !h 3921b059: 雨
-        !h c1ac9e9e:
+        !h mLabel.Str: Rain01
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
           - 雨雲
           - 雨
           - 雨
@@ -404,7 +404,7 @@ root:
           - 晴れ
           - 晴れ
           - 曇り
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸中
           - 陸中
@@ -430,9 +430,9 @@ root:
           - 陸中
           - 陸弱
       !h cWeatherPattern_15:
-        !h 20e90aef: Rain05
-        !h 3921b059: 雨
-        !h c1ac9e9e:
+        !h mLabel.Str: Rain05
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
           - 雨雲
           - 雨
           - 雨
@@ -457,7 +457,7 @@ root:
           - 雨
           - 曇り
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸弱
           - 陸中
@@ -483,9 +483,9 @@ root:
           - 陸強
           - 陸中
       !h cWeatherPattern_18:
-        !h 20e90aef: FineCloud02
-        !h 3921b059: 晴れのち曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: FineCloud02
+        !h mReport.Enum: 晴れのち曇り
+        !h mWeatherType[].Enum:
           - 雨
           - 雨
           - 曇り
@@ -510,7 +510,7 @@ root:
           - 雨雲
           - 雨雲
           - 雨
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸強
@@ -536,9 +536,9 @@ root:
           - 陸中
           - 陸強
       !h cWeatherPattern_14:
-        !h 20e90aef: Rain04
-        !h 3921b059: 雨
-        !h c1ac9e9e:
+        !h mLabel.Str: Rain04
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
           - 雨
           - 雨
           - 大雨
@@ -563,7 +563,7 @@ root:
           - 大雨
           - 大雨
           - 雨
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸弱
@@ -589,9 +589,9 @@ root:
           - 陸中
           - 陸強
       !h cWeatherPattern_10:
-        !h 20e90aef: Rain00
-        !h 3921b059: 雨
-        !h c1ac9e9e:
+        !h mLabel.Str: Rain00
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
           - 晴れ
           - 曇り
           - 雨雲
@@ -616,7 +616,7 @@ root:
           - 雨
           - 雨
           - 曇り
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸強
           - 陸中
           - 陸弱
@@ -642,9 +642,9 @@ root:
           - 陸中
           - 陸中
       !h cWeatherPattern_24:
-        !h 20e90aef: FineRain02
-        !h 3921b059: 晴れ所により雨
-        !h c1ac9e9e:
+        !h mLabel.Str: FineRain02
+        !h mReport.Enum: 晴れ所により雨
+        !h mWeatherType[].Enum:
           - 晴れ
           - 快晴
           - 快晴
@@ -669,7 +669,7 @@ root:
           - 快晴
           - 晴れ
           - 快晴
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸強
           - 陸中
@@ -695,9 +695,9 @@ root:
           - 陸弱
           - 陸中
       !h cWeatherPattern_1:
-        !h 20e90aef: Fine01
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Fine01
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 晴れ
@@ -722,7 +722,7 @@ root:
           - 晴れ
           - 快晴
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸中
@@ -748,9 +748,9 @@ root:
           - 陸弱
           - 陸弱
       !h cWeatherPattern_5:
-        !h 20e90aef: Fine05
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Fine05
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 曇り
           - 晴れ
           - 晴れ
@@ -775,7 +775,7 @@ root:
           - 晴れ
           - 快晴
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸中
           - 陸強
@@ -801,9 +801,9 @@ root:
           - 陸弱
           - 陸中
       !h cWeatherPattern_20:
-        !h 20e90aef: CloudFine01
-        !h 3921b059: 曇りのち晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: CloudFine01
+        !h mReport.Enum: 曇りのち晴れ
+        !h mWeatherType[].Enum:
           - 晴れ
           - 快晴
           - 快晴
@@ -828,7 +828,7 @@ root:
           - 快晴
           - 晴れ
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸弱
           - 陸中
@@ -854,9 +854,9 @@ root:
           - 陸中
           - 陸弱
       !h cWeatherPattern_28:
-        !h 20e90aef: CloudRain02
-        !h 3921b059: 曇りのち雨
-        !h c1ac9e9e:
+        !h mLabel.Str: CloudRain02
+        !h mReport.Enum: 曇りのち雨
+        !h mWeatherType[].Enum:
           - 大雨
           - 大雨
           - 雨
@@ -881,7 +881,7 @@ root:
           - 雨
           - 雨
           - 雨雲
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸強
           - 陸中
           - 陸弱
@@ -907,9 +907,9 @@ root:
           - 陸中
           - 陸強
       !h cWeatherPattern_9:
-        !h 20e90aef: Cloud02
-        !h 3921b059: 曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: Cloud02
+        !h mReport.Enum: 曇り
+        !h mWeatherType[].Enum:
           - 曇り
           - 曇り
           - 曇り
@@ -934,7 +934,7 @@ root:
           - 雨雲
           - 曇り
           - 曇り
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸中
           - 陸強
@@ -960,9 +960,9 @@ root:
           - 陸弱
           - 陸弱
       !h cWeatherPattern_30:
-        !h 20e90aef: RainCloud01
-        !h 3921b059: 雨のち曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: RainCloud01
+        !h mReport.Enum: 雨のち曇り
+        !h mWeatherType[].Enum:
           - 曇り
           - 曇り
           - 曇り
@@ -987,7 +987,7 @@ root:
           - 曇り
           - 晴れ
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸強
           - 陸中
@@ -1013,9 +1013,9 @@ root:
           - 陸中
           - 陸中
       !h cWeatherPattern_22:
-        !h 20e90aef: FineRain00
-        !h 3921b059: 晴れ所により雨
-        !h c1ac9e9e:
+        !h mLabel.Str: FineRain00
+        !h mReport.Enum: 晴れ所により雨
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 晴れ
@@ -1040,7 +1040,7 @@ root:
           - 快晴
           - 晴れ
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸強
           - 陸中
           - 陸弱
@@ -1066,9 +1066,9 @@ root:
           - 陸中
           - 陸中
       !h cWeatherPattern_7:
-        !h 20e90aef: Cloud00
-        !h 3921b059: 曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: Cloud00
+        !h mReport.Enum: 曇り
+        !h mWeatherType[].Enum:
           - 晴れ
           - 晴れ
           - 晴れ
@@ -1093,7 +1093,7 @@ root:
           - 曇り
           - 曇り
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸中
@@ -1119,9 +1119,9 @@ root:
           - 陸弱
           - 陸弱
       !h cWeatherPattern_3:
-        !h 20e90aef: Fine03
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Fine03
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 晴れ
           - 快晴
@@ -1146,7 +1146,7 @@ root:
           - 快晴
           - 快晴
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸強
           - 陸中
@@ -1172,9 +1172,9 @@ root:
           - 陸中
           - 陸弱
       !h cWeatherPattern_26:
-        !h 20e90aef: CloudRain00
-        !h 3921b059: 曇りのち雨
-        !h c1ac9e9e:
+        !h mLabel.Str: CloudRain00
+        !h mReport.Enum: 曇りのち雨
+        !h mWeatherType[].Enum:
           - 雨
           - 雨
           - 雨
@@ -1199,7 +1199,7 @@ root:
           - 雨
           - 雨
           - 雨
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸弱
@@ -1225,9 +1225,9 @@ root:
           - 陸中
           - 陸強
       !h cWeatherPattern_32:
-        !h 20e90aef: Commun00
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Commun00
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 晴れ
@@ -1252,7 +1252,7 @@ root:
           - 晴れ
           - 快晴
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸中
@@ -1278,9 +1278,9 @@ root:
           - 陸弱
           - 陸弱
       !h cWeatherPattern_31:
-        !h 20e90aef: RainCloud02
-        !h 3921b059: 雨のち曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: RainCloud02
+        !h mReport.Enum: 雨のち曇り
+        !h mWeatherType[].Enum:
           - 晴れ
           - 晴れ
           - 曇り
@@ -1305,7 +1305,7 @@ root:
           - 雨雲
           - 曇り
           - 曇り
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸中
@@ -1331,9 +1331,9 @@ root:
           - 陸中
           - 陸強
       !h cWeatherPattern_12:
-        !h 20e90aef: Rain02
-        !h 3921b059: 雨
-        !h c1ac9e9e:
+        !h mLabel.Str: Rain02
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
           - 雨雲
           - 曇り
           - 雨
@@ -1358,7 +1358,7 @@ root:
           - 雨
           - 雨
           - 雨
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸強
           - 陸中
           - 陸弱
@@ -1384,9 +1384,9 @@ root:
           - 陸弱
           - 陸中
       !h cWeatherPattern_16:
-        !h 20e90aef: FineCloud00
-        !h 3921b059: 晴れのち曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: FineCloud00
+        !h mReport.Enum: 晴れのち曇り
+        !h mWeatherType[].Enum:
           - 雨雲
           - 曇り
           - 雨雲
@@ -1411,7 +1411,7 @@ root:
           - 曇り
           - 曇り
           - 曇り
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸強
           - 陸中
@@ -1437,9 +1437,9 @@ root:
           - 陸中
           - 陸中
       !h cWeatherPattern_17:
-        !h 20e90aef: FineCloud01
-        !h 3921b059: 晴れのち曇り
-        !h c1ac9e9e:
+        !h mLabel.Str: FineCloud01
+        !h mReport.Enum: 晴れのち曇り
+        !h mWeatherType[].Enum:
           - 曇り
           - 雨雲
           - 曇り
@@ -1464,7 +1464,7 @@ root:
           - 雨雲
           - 曇り
           - 曇り
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸強
           - 陸中
           - 陸強
@@ -1490,9 +1490,9 @@ root:
           - 陸中
           - 陸弱
       !h cWeatherPattern_13:
-        !h 20e90aef: Rain03
-        !h 3921b059: 雨
-        !h c1ac9e9e:
+        !h mLabel.Str: Rain03
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
           - 雨
           - 雨
           - 雨
@@ -1517,7 +1517,7 @@ root:
           - 雨
           - 曇り
           - 雨雲
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸強
           - 陸中
@@ -1543,9 +1543,9 @@ root:
           - 陸中
           - 陸弱
       !h cWeatherPattern_33:
-        !h 20e90aef: EventDay00
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: EventDay00
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 晴れ
@@ -1570,7 +1570,7 @@ root:
           - 晴れ
           - 快晴
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸中
@@ -1596,9 +1596,9 @@ root:
           - 陸弱
           - 陸弱
       !h cWeatherPattern_27:
-        !h 20e90aef: CloudRain01
-        !h 3921b059: 曇りのち雨
-        !h c1ac9e9e:
+        !h mLabel.Str: CloudRain01
+        !h mReport.Enum: 曇りのち雨
+        !h mWeatherType[].Enum:
           - 雨
           - 雨
           - 雨
@@ -1623,7 +1623,7 @@ root:
           - 曇り
           - 雨
           - 雨
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸強
           - 陸中
@@ -1649,9 +1649,9 @@ root:
           - 陸弱
           - 陸中
       !h cWeatherPattern_2:
-        !h 20e90aef: Fine02
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Fine02
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 快晴
           - 晴れ
@@ -1676,7 +1676,7 @@ root:
           - 晴れ
           - 快晴
           - 快晴
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸中
           - 陸弱
           - 陸中
@@ -1702,9 +1702,9 @@ root:
           - 陸中
           - 陸強
       !h cWeatherPattern_6:
-        !h 20e90aef: Fine06
-        !h 3921b059: 晴れ
-        !h c1ac9e9e:
+        !h mLabel.Str: Fine06
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
           - 快晴
           - 晴れ
           - 快晴
@@ -1729,7 +1729,7 @@ root:
           - 晴れ
           - 快晴
           - 快晴
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸中
           - 陸中
@@ -1755,9 +1755,9 @@ root:
           - 陸中
           - 陸弱
       !h cWeatherPattern_23:
-        !h 20e90aef: FineRain01
-        !h 3921b059: 晴れ所により雨
-        !h c1ac9e9e:
+        !h mLabel.Str: FineRain01
+        !h mReport.Enum: 晴れ所により雨
+        !h mWeatherType[].Enum:
           - 快晴
           - 晴れ
           - 快晴
@@ -1782,7 +1782,7 @@ root:
           - 晴れ
           - 晴れ
           - 晴れ
-        !h fe8a1adf:
+        !h mWindType[].Enum:
           - 陸弱
           - 陸中
           - 陸強

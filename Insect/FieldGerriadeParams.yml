@@ -6,17 +6,17 @@ root:
   !h FieldGerriadeParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 12a2571a: 7.50000
-      !h 20e90aef: 
-      !h 33a9de21: 0.00781
-      !h 7cc61ff5: 0.50000
-      !h deaf2c15: 15.00000
-      !h f8b68fc: 3.12500
+      !h mDestMinDist.f32: 7.50000
+      !h mLabel.Str: 
+      !h mSlowDown.f32: 0.00781
+      !h mBorderSpeed.f32: 0.50000
+      !h mDestMaxDist.f32: 15.00000
+      !h mNetOffsetY.f32: 3.12500
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 12a2571a: 7.50000
-        !h 20e90aef: Amenbo
-        !h 33a9de21: 0.00781
-        !h 7cc61ff5: 0.30000
-        !h deaf2c15: 15.00000
-        !h f8b68fc: 3.12500
+      - !h mDestMinDist.f32: 7.50000
+        !h mLabel.Str: Amenbo
+        !h mSlowDown.f32: 0.00781
+        !h mBorderSpeed.f32: 0.30000
+        !h mDestMaxDist.f32: 15.00000
+        !h mNetOffsetY.f32: 3.12500

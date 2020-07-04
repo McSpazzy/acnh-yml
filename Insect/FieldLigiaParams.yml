@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h FieldLigiaParams:
     !h mCommon: null
-    !h mUniqueDummy: {!h 20e90aef: '', !h 2f6613ae: 15.00000, !h 406147f9: 1.87500}
+    !h mUniqueDummy: {!h mLabel.Str: '', !h mMoveDistMax.f32: 15.00000, !h mEscapeSpeed.f32: 1.87500}
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - {!h 20e90aef: Funamushi, !h 2f6613ae: 15.00000, !h 406147f9: 1.87500}
+      - {!h mLabel.Str: Funamushi, !h mMoveDistMax.f32: 15.00000, !h mEscapeSpeed.f32: 1.87500}

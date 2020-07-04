@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h BridgeDiagonal035Reserved:
     !h mHalfUnitFilterNoPutItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false
@@ -203,7 +203,7 @@ root:
         - false
         - false
     !h mUnitFilterStructureJmp:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false
@@ -254,7 +254,7 @@ root:
         - false
         - false
     !h mUnitFilterNoMakeCliff:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false
@@ -337,7 +337,7 @@ root:
         - false
         - false
     !h mUnitFilterNoMakeRoad:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false
@@ -420,7 +420,7 @@ root:
         - false
         - false
     !h mHalfUnitFilterRemoveItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false
@@ -618,7 +618,7 @@ root:
         - false
         - false
     !h mUnitFilterNoMakeRiver:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false
@@ -701,7 +701,7 @@ root:
         - false
         - false
     !h mUnitFilterExclusionStructure:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false

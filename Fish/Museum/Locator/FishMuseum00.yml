@@ -4,20 +4,20 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FishMuseumLocator[]:
-    - {!h 10cfbcbe: !l 0, !h 89d12daa: !l 2271}
-    - {!h 10cfbcbe: !l 1, !h 89d12daa: !l 2269}
-    - {!h 10cfbcbe: !l 2, !h 89d12daa: !l 2279}
-    - {!h 10cfbcbe: !l 2, !h 89d12daa: !l 2281}
-    - {!h 10cfbcbe: !l 4, !h 89d12daa: !l 2277}
-    - {!h 10cfbcbe: !l 5, !h 89d12daa: !l 2260}
-    - {!h 10cfbcbe: !l 6, !h 89d12daa: !l 2272}
-    - {!h 10cfbcbe: !l 7, !h 89d12daa: !l 2255}
-    - {!h 10cfbcbe: !l 8, !h 89d12daa: !l 2255}
-    - {!h 10cfbcbe: !l 9, !h 89d12daa: !l 2255}
-    - {!h 10cfbcbe: !l 3, !h 89d12daa: !l 2256}
-    - {!h 10cfbcbe: !l 3, !h 89d12daa: !l 2262}
-    - {!h 10cfbcbe: !l 4, !h 89d12daa: !l 2265}
-    - {!h 10cfbcbe: !l 4, !h 89d12daa: !l 2261}
-    - {!h 10cfbcbe: !l 4, !h 89d12daa: !l 2270}
-    - {!h 10cfbcbe: !l 6, !h 89d12daa: !l 2257}
-    - {!h 10cfbcbe: !l 6, !h 89d12daa: !l 2258}
+    - {!h mLocatorID.s32: !l 0, !h mUniqueID.u16: !l 2271}
+    - {!h mLocatorID.s32: !l 1, !h mUniqueID.u16: !l 2269}
+    - {!h mLocatorID.s32: !l 2, !h mUniqueID.u16: !l 2279}
+    - {!h mLocatorID.s32: !l 2, !h mUniqueID.u16: !l 2281}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 2277}
+    - {!h mLocatorID.s32: !l 5, !h mUniqueID.u16: !l 2260}
+    - {!h mLocatorID.s32: !l 6, !h mUniqueID.u16: !l 2272}
+    - {!h mLocatorID.s32: !l 7, !h mUniqueID.u16: !l 2255}
+    - {!h mLocatorID.s32: !l 8, !h mUniqueID.u16: !l 2255}
+    - {!h mLocatorID.s32: !l 9, !h mUniqueID.u16: !l 2255}
+    - {!h mLocatorID.s32: !l 3, !h mUniqueID.u16: !l 2256}
+    - {!h mLocatorID.s32: !l 3, !h mUniqueID.u16: !l 2262}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 2265}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 2261}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 2270}
+    - {!h mLocatorID.s32: !l 6, !h mUniqueID.u16: !l 2257}
+    - {!h mLocatorID.s32: !l 6, !h mUniqueID.u16: !l 2258}

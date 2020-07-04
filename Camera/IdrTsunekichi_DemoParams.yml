@@ -5,60 +5,60 @@ HasReferenceNodes: False
 root:
   !h IdrTsunekichi_DemoParams:
     !h mParamsBuffer[]:
-      - !h 1abc5aed: 0.00000
-        !h 1f74b3d1: IdrTsunekichi
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 0.00000
-        !h 57065eee:
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: IdrTsunekichi
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
           - 0.00000
           - 10.00000
           - 0.00000
-        !h 976dfe81: 4840.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.30000
-        !h c09bb276: 22.00000
-        !h c6173da9: 145.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 145.00000
+        !h mAngle.V3f:
           - 27.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 9000.00000
-      - !h 1abc5aed: 0.00000
-        !h 1f74b3d1: IdrTsunekichiIdentifyMin
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 0.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: IdrTsunekichiIdentifyMin
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
           - 0.00000
           - 10.00000
           - 0.00000
-        !h 976dfe81: 4840.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.30000
-        !h c09bb276: 45.00000
-        !h c6173da9: 35.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 45.00000
+        !h mDistance.f32: 35.00000
+        !h mAngle.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 9000.00000
-      - !h 1abc5aed: 0.00000
-        !h 1f74b3d1: IdrTsunekichiIdentifyMax
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 0.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: IdrTsunekichiIdentifyMax
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
           - 0.00000
           - 10.00000
           - 0.00000
-        !h 976dfe81: 4840.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.30000
-        !h c09bb276: 45.00000
-        !h c6173da9: 60.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 45.00000
+        !h mDistance.f32: 60.00000
+        !h mAngle.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 9000.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000

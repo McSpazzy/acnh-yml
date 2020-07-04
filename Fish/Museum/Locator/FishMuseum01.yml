@@ -4,9 +4,9 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FishMuseumLocator[]:
-    - {!h 10cfbcbe: !l 0, !h 89d12daa: !l 4201}
-    - {!h 10cfbcbe: !l 1, !h 89d12daa: !l 2264}
-    - {!h 10cfbcbe: !l 2, !h 89d12daa: !l 4203}
-    - {!h 10cfbcbe: !l 3, !h 89d12daa: !l 2273}
-    - {!h 10cfbcbe: !l 4, !h 89d12daa: !l 2283}
-    - {!h 10cfbcbe: !l 4, !h 89d12daa: !l 4204}
+    - {!h mLocatorID.s32: !l 0, !h mUniqueID.u16: !l 4201}
+    - {!h mLocatorID.s32: !l 1, !h mUniqueID.u16: !l 2264}
+    - {!h mLocatorID.s32: !l 2, !h mUniqueID.u16: !l 4203}
+    - {!h mLocatorID.s32: !l 3, !h mUniqueID.u16: !l 2273}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 2283}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 4204}

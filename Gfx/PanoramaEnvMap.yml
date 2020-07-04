@@ -4,56 +4,56 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h PanoramaEnv:
-    !h 4e67858c:
+    !h mFbSize.V2f:
       - 512.00000
       - 256.00000
-    !h 6df92e09: !l 6
+    !h mMaxMipLevel.u32: !l 6
     !h mLightInfo[]:
-      - !h 2cac3d2e: true
-        !h 322b9edc:
+      - !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 2.19550
           - 0.91922
           - 0.34984
           - 1.00000
-        !h 45c202fb: 1.00000
-        !h 4a07fd06:
+        !h mSize.f32: 1.00000
+        !h mDir.V3f:
           - 0.00000
           - 1.00000
           - 0.00000
-        !h cc278172: true
-      - !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsIrradiance.bool: true
+      - !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 0.06612
           - 0.02645
           - 0.00992
           - 1.00000
-        !h 45c202fb: 0.45606
-        !h 4a07fd06:
+        !h mSize.f32: 0.45606
+        !h mDir.V3f:
           - 0.95212
           - -0.30574
           - 0.00000
-        !h cc278172: true
-      - !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsIrradiance.bool: true
+      - !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 0.00000
           - 0.00000
           - 0.00000
           - 1.00000
-        !h 45c202fb: 1.00000
-        !h 4a07fd06:
+        !h mSize.f32: 1.00000
+        !h mDir.V3f:
           - 0.00000
           - 0.00000
           - -1.00000
-        !h cc278172: true
-      - !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsIrradiance.bool: true
+      - !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 0.00000
           - 0.00000
           - 0.00000
           - 1.00000
-        !h 45c202fb: 1.00000
-        !h 4a07fd06:
+        !h mSize.f32: 1.00000
+        !h mDir.V3f:
           - 0.00000
           - 0.00000
           - -1.00000
-        !h cc278172: false
+        !h mIsIrradiance.bool: false

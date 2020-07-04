@@ -3,82 +3,82 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 4929a0e9:
-    - !h 1b7fce6f: スポットライト
+  !h HouseWallPA01StandardA[]:
+    - !h mLightType.Enum: スポットライト
       !h mNormAreaSidemRemakeTool: true
-      !h 32af8f76:
+      !h mPos.V3f:
         - 0.00000
         - 24.90000
         - -11.80000
-      !h 370e2c10:
+      !h mLightColor.C4f:
         - 1.00000
         - 0.80000
         - 0.45000
         - 1.00000
-      !h 45c202fb: 15.00000
-      !h 47d316df:
+      !h mSize.f32: 15.00000
+      !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000
         - 0.00000
-      !h 4a07fd06:
+      !h mDir.V3f:
         - 0.00000
         - -1.00000
         - 0.83200
-      !h 55a5c25d: Root
-      !h 79a61e3f: 35.00000
-      !h 94f81f90: 25.00000
-      !h c09bb276: 1.04720
-      !h e6163d5b: false
-    - !h 1b7fce6f: スポットライト
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 35.00000
+      !h mIntensity.f32: 25.00000
+      !h mFovy.f32: 1.04720
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
       !h mNormAreaSidemRemakeTool: true
-      !h 32af8f76:
+      !h mPos.V3f:
         - -8.10000
         - 25.10000
         - -11.70000
-      !h 370e2c10:
+      !h mLightColor.C4f:
         - 1.00000
         - 0.80000
         - 0.45000
         - 1.00000
-      !h 45c202fb: 20.00000
-      !h 47d316df:
+      !h mSize.f32: 20.00000
+      !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000
         - 0.00000
-      !h 4a07fd06:
+      !h mDir.V3f:
         - -0.20000
         - -1.00000
         - 0.00000
-      !h 55a5c25d: Root
-      !h 79a61e3f: 30.00000
-      !h 94f81f90: 8.00000
-      !h c09bb276: 0.78540
-      !h e6163d5b: false
-    - !h 1b7fce6f: スポットライト
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 8.00000
+      !h mFovy.f32: 0.78540
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
       !h mNormAreaSidemRemakeTool: true
-      !h 32af8f76:
+      !h mPos.V3f:
         - 8.10000
         - 25.10000
         - -11.70000
-      !h 370e2c10:
+      !h mLightColor.C4f:
         - 1.00000
         - 0.80000
         - 0.45000
         - 1.00000
-      !h 45c202fb: 20.00000
-      !h 47d316df:
+      !h mSize.f32: 20.00000
+      !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000
         - 0.00000
-      !h 4a07fd06:
+      !h mDir.V3f:
         - 0.20000
         - -1.00000
         - 0.00000
-      !h 55a5c25d: Root
-      !h 79a61e3f: 30.00000
-      !h 94f81f90: 8.00000
-      !h c09bb276: 0.78540
-      !h e6163d5b: false
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 8.00000
+      !h mFovy.f32: 0.78540
+      !h mIsUseMaterialColor.bool: false

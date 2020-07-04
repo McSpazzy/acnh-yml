@@ -4,49 +4,49 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FieldFlowerParams:
-    !h mCommon: {!h 59b9c438: 3.00000, !h 5a4a2477: 1.00000, !h e94e0b49: 3.00000, !h eabdeb06: 1.00000}
+    !h mCommon: {!h mMoveSecMax.f32: 3.00000, !h mMoveSecMin.f32: 1.00000, !h mStopSecMax.f32: 3.00000, !h mStopSecMin.f32: 1.00000}
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 338940d8: 1.00000
-      !h 3dc5702b: 5.00000
-      !h 6484d555: 3.00000
-      !h 901ee31: 0.12500
-      !h fd127c9c: 0.10000
-    !h mCommonDummy: {!h 59b9c438: 3.00000, !h 5a4a2477: 1.00000, !h e94e0b49: 3.00000, !h eabdeb06: 1.00000}
+      !h mLabel.Str: 
+      !h mMoveAnimSpeed.f32: 1.00000
+      !h mStopWaitRotateAngleYStep.f32: 5.00000
+      !h mRotateAngleYStep.f32: 3.00000
+      !h mStopAnimSpeed.f32: 0.12500
+      !h mSpeed.f32: 0.10000
+    !h mCommonDummy: {!h mMoveSecMax.f32: 3.00000, !h mMoveSecMin.f32: 1.00000, !h mStopSecMax.f32: 3.00000, !h mStopSecMin.f32: 1.00000}
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Kamakiri
-        !h 338940d8: 1.20000
-        !h 3dc5702b: 5.00000
-        !h 6484d555: 3.00000
-        !h 901ee31: 0.12500
-        !h fd127c9c: 0.10000
-      - !h 20e90aef: Hanakamakiri
-        !h 338940d8: 1.20000
-        !h 3dc5702b: 5.00000
-        !h 6484d555: 3.00000
-        !h 901ee31: 0.12500
-        !h fd127c9c: 0.10000
-      - !h 20e90aef: Kamemushi
-        !h 338940d8: 1.00000
-        !h 3dc5702b: 5.00000
-        !h 6484d555: 3.00000
-        !h 901ee31: 0.00000
-        !h fd127c9c: 0.15000
-      - !h 20e90aef: Katatsumuri
-        !h 338940d8: 1.00000
-        !h 3dc5702b: 5.00000
-        !h 6484d555: 1.00000
-        !h 901ee31: 0.10000
-        !h fd127c9c: 0.00625
-      - !h 20e90aef: Tentoumushi
-        !h 338940d8: 2.00000
-        !h 3dc5702b: 5.00000
-        !h 6484d555: 3.00000
-        !h 901ee31: 0.00000
-        !h fd127c9c: 0.15000
-      - !h 20e90aef: Jinmenkamemushi
-        !h 338940d8: 1.00000
-        !h 3dc5702b: 5.00000
-        !h 6484d555: 2.00000
-        !h 901ee31: 0.00000
-        !h fd127c9c: 0.08000
+      - !h mLabel.Str: Kamakiri
+        !h mMoveAnimSpeed.f32: 1.20000
+        !h mStopWaitRotateAngleYStep.f32: 5.00000
+        !h mRotateAngleYStep.f32: 3.00000
+        !h mStopAnimSpeed.f32: 0.12500
+        !h mSpeed.f32: 0.10000
+      - !h mLabel.Str: Hanakamakiri
+        !h mMoveAnimSpeed.f32: 1.20000
+        !h mStopWaitRotateAngleYStep.f32: 5.00000
+        !h mRotateAngleYStep.f32: 3.00000
+        !h mStopAnimSpeed.f32: 0.12500
+        !h mSpeed.f32: 0.10000
+      - !h mLabel.Str: Kamemushi
+        !h mMoveAnimSpeed.f32: 1.00000
+        !h mStopWaitRotateAngleYStep.f32: 5.00000
+        !h mRotateAngleYStep.f32: 3.00000
+        !h mStopAnimSpeed.f32: 0.00000
+        !h mSpeed.f32: 0.15000
+      - !h mLabel.Str: Katatsumuri
+        !h mMoveAnimSpeed.f32: 1.00000
+        !h mStopWaitRotateAngleYStep.f32: 5.00000
+        !h mRotateAngleYStep.f32: 1.00000
+        !h mStopAnimSpeed.f32: 0.10000
+        !h mSpeed.f32: 0.00625
+      - !h mLabel.Str: Tentoumushi
+        !h mMoveAnimSpeed.f32: 2.00000
+        !h mStopWaitRotateAngleYStep.f32: 5.00000
+        !h mRotateAngleYStep.f32: 3.00000
+        !h mStopAnimSpeed.f32: 0.00000
+        !h mSpeed.f32: 0.15000
+      - !h mLabel.Str: Jinmenkamemushi
+        !h mMoveAnimSpeed.f32: 1.00000
+        !h mStopWaitRotateAngleYStep.f32: 5.00000
+        !h mRotateAngleYStep.f32: 2.00000
+        !h mStopAnimSpeed.f32: 0.00000
+        !h mSpeed.f32: 0.08000

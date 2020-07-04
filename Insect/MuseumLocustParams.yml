@@ -4,79 +4,79 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h MuseumLocustParams:
-    !h mCommon: {!h 3a19a0b: 1.00000, !h b59fdfba: 1.00000, !h b66c3ff5: 0.50000}
+    !h mCommon: {!h mAddDirAng.f32: 1.00000, !h mActStopSecMax.f32: 1.00000, !h mActStopSecMin.f32: 0.50000}
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 2c95f3e1: 10.00000
-      !h 2f6613ae: 15.00000
-      !h 82c00356: 10.00000
-      !h 964930c9: 0.01563
-      !h b427c61c: 10.00000
-      !h d02dc73a: 20.00000
-      !h f4fd8b75: 3.00000
-      !h f70e6b3a: 6.00000
-    !h mCommonDummy: {!h 3a19a0b: 1.49963, !h b59fdfba: 10.00000, !h b66c3ff5: 5.00000}
+      !h mLabel.Str: 
+      !h mMoveDistMin.f32: 10.00000
+      !h mMoveDistMax.f32: 15.00000
+      !h mJumpStartMorphFrame.f32: 10.00000
+      !h mRegistSpeed.f32: 0.01563
+      !h mJumpEndMorphFrame.f32: 10.00000
+      !h mMoveFrame.f32: 20.00000
+      !h mJumpMin.f32: 3.00000
+      !h mJumpMax.f32: 6.00000
+    !h mCommonDummy: {!h mAddDirAng.f32: 1.49963, !h mActStopSecMax.f32: 10.00000, !h mActStopSecMin.f32: 5.00000}
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Shoryobatta
-        !h 2c95f3e1: 6.00000
-        !h 2f6613ae: 10.00000
-        !h 82c00356: 1.00000
-        !h 964930c9: 0.01563
-        !h b427c61c: 3.00000
-        !h d02dc73a: 12.00000
-        !h f4fd8b75: 6.00000
-        !h f70e6b3a: 8.00000
-      - !h 20e90aef: Tonosamabatta
-        !h 2c95f3e1: 6.00000
-        !h 2f6613ae: 10.00000
-        !h 82c00356: 1.00000
-        !h 964930c9: 0.01563
-        !h b427c61c: 3.00000
-        !h d02dc73a: 12.00000
-        !h f4fd8b75: 6.00000
-        !h f70e6b3a: 8.00000
-      - !h 20e90aef: Inago
-        !h 2c95f3e1: 4.00000
-        !h 2f6613ae: 8.00000
-        !h 82c00356: 1.00000
-        !h 964930c9: 0.01563
-        !h b427c61c: 3.00000
-        !h d02dc73a: 12.00000
-        !h f4fd8b75: 4.00000
-        !h f70e6b3a: 6.00000
-      - !h 20e90aef: Kohrogi
-        !h 2c95f3e1: 3.00000
-        !h 2f6613ae: 6.00000
-        !h 82c00356: 1.00000
-        !h 964930c9: 0.01563
-        !h b427c61c: 3.00000
-        !h d02dc73a: 10.00000
-        !h f4fd8b75: 2.00000
-        !h f70e6b3a: 5.00000
-      - !h 20e90aef: Suzumushi
-        !h 2c95f3e1: 2.00000
-        !h 2f6613ae: 5.00000
-        !h 82c00356: 1.00000
-        !h 964930c9: 0.01563
-        !h b427c61c: 3.00000
-        !h d02dc73a: 10.00000
-        !h f4fd8b75: 2.00000
-        !h f70e6b3a: 4.00000
-      - !h 20e90aef: Kirigirisu
-        !h 2c95f3e1: 3.00000
-        !h 2f6613ae: 6.00000
-        !h 82c00356: 2.00000
-        !h 964930c9: 0.01563
-        !h b427c61c: 4.00000
-        !h d02dc73a: 10.00000
-        !h f4fd8b75: 3.00000
-        !h f70e6b3a: 5.00000
-      - !h 20e90aef: Nomi
-        !h 2c95f3e1: 2.00000
-        !h 2f6613ae: 4.00000
-        !h 82c00356: 6.00000
-        !h 964930c9: 0.01563
-        !h b427c61c: 6.00000
-        !h d02dc73a: 10.00000
-        !h f4fd8b75: 5.80000
-        !h f70e6b3a: 7.00000
+      - !h mLabel.Str: Shoryobatta
+        !h mMoveDistMin.f32: 6.00000
+        !h mMoveDistMax.f32: 10.00000
+        !h mJumpStartMorphFrame.f32: 1.00000
+        !h mRegistSpeed.f32: 0.01563
+        !h mJumpEndMorphFrame.f32: 3.00000
+        !h mMoveFrame.f32: 12.00000
+        !h mJumpMin.f32: 6.00000
+        !h mJumpMax.f32: 8.00000
+      - !h mLabel.Str: Tonosamabatta
+        !h mMoveDistMin.f32: 6.00000
+        !h mMoveDistMax.f32: 10.00000
+        !h mJumpStartMorphFrame.f32: 1.00000
+        !h mRegistSpeed.f32: 0.01563
+        !h mJumpEndMorphFrame.f32: 3.00000
+        !h mMoveFrame.f32: 12.00000
+        !h mJumpMin.f32: 6.00000
+        !h mJumpMax.f32: 8.00000
+      - !h mLabel.Str: Inago
+        !h mMoveDistMin.f32: 4.00000
+        !h mMoveDistMax.f32: 8.00000
+        !h mJumpStartMorphFrame.f32: 1.00000
+        !h mRegistSpeed.f32: 0.01563
+        !h mJumpEndMorphFrame.f32: 3.00000
+        !h mMoveFrame.f32: 12.00000
+        !h mJumpMin.f32: 4.00000
+        !h mJumpMax.f32: 6.00000
+      - !h mLabel.Str: Kohrogi
+        !h mMoveDistMin.f32: 3.00000
+        !h mMoveDistMax.f32: 6.00000
+        !h mJumpStartMorphFrame.f32: 1.00000
+        !h mRegistSpeed.f32: 0.01563
+        !h mJumpEndMorphFrame.f32: 3.00000
+        !h mMoveFrame.f32: 10.00000
+        !h mJumpMin.f32: 2.00000
+        !h mJumpMax.f32: 5.00000
+      - !h mLabel.Str: Suzumushi
+        !h mMoveDistMin.f32: 2.00000
+        !h mMoveDistMax.f32: 5.00000
+        !h mJumpStartMorphFrame.f32: 1.00000
+        !h mRegistSpeed.f32: 0.01563
+        !h mJumpEndMorphFrame.f32: 3.00000
+        !h mMoveFrame.f32: 10.00000
+        !h mJumpMin.f32: 2.00000
+        !h mJumpMax.f32: 4.00000
+      - !h mLabel.Str: Kirigirisu
+        !h mMoveDistMin.f32: 3.00000
+        !h mMoveDistMax.f32: 6.00000
+        !h mJumpStartMorphFrame.f32: 2.00000
+        !h mRegistSpeed.f32: 0.01563
+        !h mJumpEndMorphFrame.f32: 4.00000
+        !h mMoveFrame.f32: 10.00000
+        !h mJumpMin.f32: 3.00000
+        !h mJumpMax.f32: 5.00000
+      - !h mLabel.Str: Nomi
+        !h mMoveDistMin.f32: 2.00000
+        !h mMoveDistMax.f32: 4.00000
+        !h mJumpStartMorphFrame.f32: 6.00000
+        !h mRegistSpeed.f32: 0.01563
+        !h mJumpEndMorphFrame.f32: 6.00000
+        !h mMoveFrame.f32: 10.00000
+        !h mJumpMin.f32: 5.80000
+        !h mJumpMax.f32: 7.00000

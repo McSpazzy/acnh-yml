@@ -6,89 +6,89 @@ root:
   !h MuseumWormParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 3a19a0b: 1.49963
-      !h 589540c8: 1.00000
-      !h 7f2e27f9: 0.00000
-      !h 81d2e204: 15.00000
-      !h a6698535: 5.00000
-      !h fd127c9c: 0.09375
+      !h mLabel.Str: 
+      !h mAddDirAng.f32: 1.49963
+      !h mMaxWaitTime.f32: 1.00000
+      !h mMinWaitTime.f32: 0.00000
+      !h mMaxMoveTime.f32: 15.00000
+      !h mMinMoveTime.f32: 5.00000
+      !h mSpeed.f32: 0.09375
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Mukade
-        !h 3a19a0b: 0.50000
-        !h 589540c8: 3.00000
-        !h 7f2e27f9: 0.00000
-        !h 81d2e204: 30.00000
-        !h a6698535: 30.00000
-        !h fd127c9c: 0.10000
-      - !h 20e90aef: Taranchura
-        !h 3a19a0b: 10.00000
-        !h 589540c8: 5.00000
-        !h 7f2e27f9: 1.00000
-        !h 81d2e204: 1.00000
-        !h a6698535: 0.50000
-        !h fd127c9c: 0.10000
-      - !h 20e90aef: Funkorogashi
-        !h 3a19a0b: 1.49963
-        !h 589540c8: 1.00000
-        !h 7f2e27f9: 0.00000
-        !h 81d2e204: 4.00000
-        !h a6698535: 4.00000
-        !h fd127c9c: 0.09375
-      - !h 20e90aef: Dangomushi
-        !h 3a19a0b: 3.00000
-        !h 589540c8: 2.00000
-        !h 7f2e27f9: 0.00000
-        !h 81d2e204: 15.00000
-        !h a6698535: 5.00000
-        !h fd127c9c: 0.02000
-      - !h 20e90aef: Tentoumushi
-        !h 3a19a0b: 1.49963
-        !h 589540c8: 1.00000
-        !h 7f2e27f9: 0.00000
-        !h 81d2e204: 15.00000
-        !h a6698535: 5.00000
-        !h fd127c9c: 0.09375
-      - !h 20e90aef: Sasori
-        !h 3a19a0b: 10.00000
-        !h 589540c8: 5.00000
-        !h 7f2e27f9: 1.00000
-        !h 81d2e204: 2.00000
-        !h a6698535: 0.50000
-        !h fd127c9c: 0.10000
-      - !h 20e90aef: Yadokari
-        !h 3a19a0b: 10.00000
-        !h 589540c8: 3.00000
-        !h 7f2e27f9: 1.00000
-        !h 81d2e204: 2.00000
-        !h a6698535: 0.50000
-        !h fd127c9c: 0.10000
-      - !h 20e90aef: Funamushi
-        !h 3a19a0b: 41.00000
-        !h 589540c8: 1.00000
-        !h 7f2e27f9: 1.00000
-        !h 81d2e204: 1.00000
-        !h a6698535: 0.50000
-        !h fd127c9c: 0.30000
-      - !h 20e90aef: Ohsenchikogane
-        !h 3a19a0b: 4.00000
-        !h 589540c8: 1.00000
-        !h 7f2e27f9: 1.00000
-        !h 81d2e204: 3.00000
-        !h a6698535: 1.50000
-        !h fd127c9c: 0.08000
-      - !h 20e90aef: Hotaru
-        !h 3a19a0b: 1.49963
-        !h 589540c8: 1.00000
-        !h 7f2e27f9: 0.00000
-        !h 81d2e204: 15.00000
-        !h a6698535: 5.00000
-        !h fd127c9c: 0.09375
-      - !h 20e90aef: Nomi
-        !h 3a19a0b: 1.49963
-        !h 589540c8: 1.00000
-        !h 7f2e27f9: 0.00000
-        !h 81d2e204: 15.00000
-        !h a6698535: 5.00000
-        !h fd127c9c: 0.09375
+      - !h mLabel.Str: Mukade
+        !h mAddDirAng.f32: 0.50000
+        !h mMaxWaitTime.f32: 3.00000
+        !h mMinWaitTime.f32: 0.00000
+        !h mMaxMoveTime.f32: 30.00000
+        !h mMinMoveTime.f32: 30.00000
+        !h mSpeed.f32: 0.10000
+      - !h mLabel.Str: Taranchura
+        !h mAddDirAng.f32: 10.00000
+        !h mMaxWaitTime.f32: 5.00000
+        !h mMinWaitTime.f32: 1.00000
+        !h mMaxMoveTime.f32: 1.00000
+        !h mMinMoveTime.f32: 0.50000
+        !h mSpeed.f32: 0.10000
+      - !h mLabel.Str: Funkorogashi
+        !h mAddDirAng.f32: 1.49963
+        !h mMaxWaitTime.f32: 1.00000
+        !h mMinWaitTime.f32: 0.00000
+        !h mMaxMoveTime.f32: 4.00000
+        !h mMinMoveTime.f32: 4.00000
+        !h mSpeed.f32: 0.09375
+      - !h mLabel.Str: Dangomushi
+        !h mAddDirAng.f32: 3.00000
+        !h mMaxWaitTime.f32: 2.00000
+        !h mMinWaitTime.f32: 0.00000
+        !h mMaxMoveTime.f32: 15.00000
+        !h mMinMoveTime.f32: 5.00000
+        !h mSpeed.f32: 0.02000
+      - !h mLabel.Str: Tentoumushi
+        !h mAddDirAng.f32: 1.49963
+        !h mMaxWaitTime.f32: 1.00000
+        !h mMinWaitTime.f32: 0.00000
+        !h mMaxMoveTime.f32: 15.00000
+        !h mMinMoveTime.f32: 5.00000
+        !h mSpeed.f32: 0.09375
+      - !h mLabel.Str: Sasori
+        !h mAddDirAng.f32: 10.00000
+        !h mMaxWaitTime.f32: 5.00000
+        !h mMinWaitTime.f32: 1.00000
+        !h mMaxMoveTime.f32: 2.00000
+        !h mMinMoveTime.f32: 0.50000
+        !h mSpeed.f32: 0.10000
+      - !h mLabel.Str: Yadokari
+        !h mAddDirAng.f32: 10.00000
+        !h mMaxWaitTime.f32: 3.00000
+        !h mMinWaitTime.f32: 1.00000
+        !h mMaxMoveTime.f32: 2.00000
+        !h mMinMoveTime.f32: 0.50000
+        !h mSpeed.f32: 0.10000
+      - !h mLabel.Str: Funamushi
+        !h mAddDirAng.f32: 41.00000
+        !h mMaxWaitTime.f32: 1.00000
+        !h mMinWaitTime.f32: 1.00000
+        !h mMaxMoveTime.f32: 1.00000
+        !h mMinMoveTime.f32: 0.50000
+        !h mSpeed.f32: 0.30000
+      - !h mLabel.Str: Ohsenchikogane
+        !h mAddDirAng.f32: 4.00000
+        !h mMaxWaitTime.f32: 1.00000
+        !h mMinWaitTime.f32: 1.00000
+        !h mMaxMoveTime.f32: 3.00000
+        !h mMinMoveTime.f32: 1.50000
+        !h mSpeed.f32: 0.08000
+      - !h mLabel.Str: Hotaru
+        !h mAddDirAng.f32: 1.49963
+        !h mMaxWaitTime.f32: 1.00000
+        !h mMinWaitTime.f32: 0.00000
+        !h mMaxMoveTime.f32: 15.00000
+        !h mMinMoveTime.f32: 5.00000
+        !h mSpeed.f32: 0.09375
+      - !h mLabel.Str: Nomi
+        !h mAddDirAng.f32: 1.49963
+        !h mMaxWaitTime.f32: 1.00000
+        !h mMinWaitTime.f32: 0.00000
+        !h mMaxMoveTime.f32: 15.00000
+        !h mMinMoveTime.f32: 5.00000
+        !h mSpeed.f32: 0.09375

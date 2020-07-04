@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h XLink: {!h 'mPartsParamBuffer[]': null, !h 4309561a: UI_MessageWindow_Notice, !h 718df20d: false, !h a8e79f6f: null}
+  !h XLink: {!h 'mPartsParamBuffer[]': null, !h mUserName.Str: UI_MessageWindow_Notice, !h mIsUniqueUserId.bool: false, !h 'mAnimOperationParamBuffer[]': null}

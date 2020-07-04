@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h ObjectSoldOutTagActor_RVer_10200: {!h 23a48ec1: 0.20000}
+  !h ObjectSoldOutTagActor_RVer_10200: {!h mDispStartSec.f32: 0.20000}

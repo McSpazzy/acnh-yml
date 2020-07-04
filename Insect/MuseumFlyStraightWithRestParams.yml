@@ -5,75 +5,75 @@ HasReferenceNodes: False
 root:
   !h MuseumFlyStraightWithRestParams:
     !h mCommon:
-      !h 1f5c199c: 120.00000
-      !h 3fce250d: 1.87500
-      !h 4dec5507: 20.00000
-      !h a68ce8ec: 3.00000
-      !h a8e4e028: 8.00000
-      !h ab170067: 0.00000
-      !h af3eaa8a: 0.07813
-      !h cc4cf96b: 2.99927
-      !h d9b3af9a: 0.03906
-      !h ecee43ea: 0.39063
-      !h ef1da3a5: 0.03906
-      !h efd86668: -0.39063
+      !h mGyrateAngleRangeYDeg.f32: 120.00000
+      !h mSwingHeight.f32: 1.87500
+      !h mApproachCycleSec.f32: 20.00000
+      !h mRestTimeSec.f32: 3.00000
+      !h mHoveringTimeMax.f32: 8.00000
+      !h mHoveringTimeMin.f32: 0.00000
+      !h mUpSpeedMax.f32: 0.07813
+      !h mAddDirAngYDeg.f32: 2.99927
+      !h mChaseSpeed.f32: 0.03906
+      !h mApproachSpeedMax.f32: 0.39063
+      !h mApproachSpeedMin.f32: 0.03906
+      !h mDownSpeed.f32: -0.39063
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 2c95f3e1: 15.00000
-      !h 2f6613ae: 20.00000
-      !h 59b8b287: 22.50000
-      !h 61415d69: 30.00000
-      !h a19b3e89: 0.15625
-      !h b47c2114: 25.00000
-      !h cac0a6a1: !l 45
-      !h d7a88f1e: 30.00000
+      !h mLabel.Str: 
+      !h mMoveDistMin.f32: 15.00000
+      !h mMoveDistMax.f32: 20.00000
+      !h mHoveringAngleDeg.f32: 22.50000
+      !h mPlayerSearchRange.f32: 30.00000
+      !h mHoveringBreath.f32: 0.15625
+      !h mSearchRange.f32: 25.00000
+      !h mMoveFrame.s32: !l 45
+      !h mRestPointSearchRange.f32: 30.00000
     !h mCommonDummy:
-      !h 1f5c199c: 120.00000
-      !h 3fce250d: 1.87500
-      !h 4dec5507: 20.00000
-      !h a68ce8ec: 3.00000
-      !h a8e4e028: 2.00000
-      !h ab170067: 0.00000
-      !h af3eaa8a: 0.07813
-      !h cc4cf96b: 2.99927
-      !h d9b3af9a: 0.03906
-      !h ecee43ea: 0.39063
-      !h ef1da3a5: 0.03906
-      !h efd86668: -0.39063
+      !h mGyrateAngleRangeYDeg.f32: 120.00000
+      !h mSwingHeight.f32: 1.87500
+      !h mApproachCycleSec.f32: 20.00000
+      !h mRestTimeSec.f32: 3.00000
+      !h mHoveringTimeMax.f32: 2.00000
+      !h mHoveringTimeMin.f32: 0.00000
+      !h mUpSpeedMax.f32: 0.07813
+      !h mAddDirAngYDeg.f32: 2.99927
+      !h mChaseSpeed.f32: 0.03906
+      !h mApproachSpeedMax.f32: 0.39063
+      !h mApproachSpeedMin.f32: 0.03906
+      !h mDownSpeed.f32: -0.39063
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Oniyanma
-        !h 2c95f3e1: 30.00000
-        !h 2f6613ae: 40.00000
-        !h 59b8b287: 22.50000
-        !h 61415d69: 30.00000
-        !h a19b3e89: 0.00000
-        !h b47c2114: 25.00000
-        !h cac0a6a1: !l 45
-        !h d7a88f1e: 30.00000
-      - !h 20e90aef: Ginyanma
-        !h 2c95f3e1: 15.00000
-        !h 2f6613ae: 20.00000
-        !h 59b8b287: 22.50000
-        !h 61415d69: 30.00000
-        !h a19b3e89: 0.00000
-        !h b47c2114: 25.00000
-        !h cac0a6a1: !l 45
-        !h d7a88f1e: 30.00000
-      - !h 20e90aef: Itotonbo
-        !h 2c95f3e1: 15.00000
-        !h 2f6613ae: 20.00000
-        !h 59b8b287: 22.50000
-        !h 61415d69: 30.00000
-        !h a19b3e89: 0.00000
-        !h b47c2114: 25.00000
-        !h cac0a6a1: !l 45
-        !h d7a88f1e: 30.00000
-      - !h 20e90aef: Akiakane
-        !h 2c95f3e1: 15.00000
-        !h 2f6613ae: 20.00000
-        !h 59b8b287: 22.50000
-        !h 61415d69: 30.00000
-        !h a19b3e89: 0.00000
-        !h b47c2114: 25.00000
-        !h cac0a6a1: !l 45
-        !h d7a88f1e: 30.00000
+      - !h mLabel.Str: Oniyanma
+        !h mMoveDistMin.f32: 30.00000
+        !h mMoveDistMax.f32: 40.00000
+        !h mHoveringAngleDeg.f32: 22.50000
+        !h mPlayerSearchRange.f32: 30.00000
+        !h mHoveringBreath.f32: 0.00000
+        !h mSearchRange.f32: 25.00000
+        !h mMoveFrame.s32: !l 45
+        !h mRestPointSearchRange.f32: 30.00000
+      - !h mLabel.Str: Ginyanma
+        !h mMoveDistMin.f32: 15.00000
+        !h mMoveDistMax.f32: 20.00000
+        !h mHoveringAngleDeg.f32: 22.50000
+        !h mPlayerSearchRange.f32: 30.00000
+        !h mHoveringBreath.f32: 0.00000
+        !h mSearchRange.f32: 25.00000
+        !h mMoveFrame.s32: !l 45
+        !h mRestPointSearchRange.f32: 30.00000
+      - !h mLabel.Str: Itotonbo
+        !h mMoveDistMin.f32: 15.00000
+        !h mMoveDistMax.f32: 20.00000
+        !h mHoveringAngleDeg.f32: 22.50000
+        !h mPlayerSearchRange.f32: 30.00000
+        !h mHoveringBreath.f32: 0.00000
+        !h mSearchRange.f32: 25.00000
+        !h mMoveFrame.s32: !l 45
+        !h mRestPointSearchRange.f32: 30.00000
+      - !h mLabel.Str: Akiakane
+        !h mMoveDistMin.f32: 15.00000
+        !h mMoveDistMax.f32: 20.00000
+        !h mHoveringAngleDeg.f32: 22.50000
+        !h mPlayerSearchRange.f32: 30.00000
+        !h mHoveringBreath.f32: 0.00000
+        !h mSearchRange.f32: 25.00000
+        !h mMoveFrame.s32: !l 45
+        !h mRestPointSearchRange.f32: 30.00000

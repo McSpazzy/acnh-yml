@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h HouseTentPA: {!h 770856e2: true}
+  !h HouseTentPA: {!h mIsUseUniqueColor.bool: true}

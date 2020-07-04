@@ -6,157 +6,157 @@ root:
   !h DynamicLightSceneParam:
     !h mSpotParamArray[]:
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.80000
           - 0.40000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 114.00000
           - 60.00000
           - 150.00000
-        !h 45c202fb: 65.00000
-        !h 4a07fd06:
+        !h mSize.f32: 65.00000
+        !h mDir.V3f:
           - -0.15013
           - -0.87284
           - -0.46435
-        !h 55a5c25d: 
-        !h 6404e56c: RailLightFar00
-        !h 79a61e3f: 67.00000
-        !h 94f81f90: 2.00000
-        !h c09bb276: 0.69813
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightFar00
+        !h mFar.f32: 67.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.69813
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.80000
           - 0.40000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 122.00000
           - 60.00000
           - 150.00000
-        !h 45c202fb: 65.00000
-        !h 4a07fd06:
+        !h mSize.f32: 65.00000
+        !h mDir.V3f:
           - 0.15013
           - -0.87284
           - -0.46435
-        !h 55a5c25d: 
-        !h 6404e56c: RailLightFar01
-        !h 79a61e3f: 67.00000
-        !h 94f81f90: 2.00000
-        !h c09bb276: 0.78540
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightFar01
+        !h mFar.f32: 67.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.80000
           - 0.40000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 152.00000
           - 60.00000
           - 150.00000
-        !h 45c202fb: 65.00000
-        !h 4a07fd06:
+        !h mSize.f32: 65.00000
+        !h mDir.V3f:
           - 0.24917
           - -0.83041
           - -0.49834
-        !h 55a5c25d: 
-        !h 6404e56c: RailLightFar02
-        !h 79a61e3f: 67.00000
-        !h 94f81f90: 2.00000
-        !h c09bb276: 0.78540
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightFar02
+        !h mFar.f32: 67.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.80000
           - 0.40000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 117.00000
           - 50.00000
           - 210.00000
-        !h 45c202fb: 57.00000
-        !h 4a07fd06:
+        !h mSize.f32: 57.00000
+        !h mDir.V3f:
           - -0.15013
           - -0.87284
           - -0.46435
-        !h 55a5c25d: 
-        !h 6404e56c: RailLightNear00
-        !h 79a61e3f: 60.00000
-        !h 94f81f90: 5.00000
-        !h c09bb276: 0.78540
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightNear00
+        !h mFar.f32: 60.00000
+        !h mIntensity.f32: 5.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.80000
           - 0.40000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 160.80000
           - 50.00000
           - 147.20000
-        !h 45c202fb: 45.00000
-        !h 4a07fd06:
+        !h mSize.f32: 45.00000
+        !h mDir.V3f:
           - 0.08432
           - -0.87820
           - 0.47080
-        !h 55a5c25d: 
-        !h 6404e56c: RailLightNear01
-        !h 79a61e3f: 55.00000
-        !h 94f81f90: 4.00000
-        !h c09bb276: 0.52360
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightNear01
+        !h mFar.f32: 55.00000
+        !h mIntensity.f32: 4.00000
+        !h mFovy.f32: 0.52360
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.80000
           - 0.40000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 215.20000
           - 50.00000
           - 189.60000
-        !h 45c202fb: 57.00000
-        !h 4a07fd06:
+        !h mSize.f32: 57.00000
+        !h mDir.V3f:
           - -0.47590
           - -0.84379
           - -0.24808
-        !h 55a5c25d: 
-        !h 6404e56c: RailLightNear02
-        !h 79a61e3f: 60.00000
-        !h 94f81f90: 5.00000
-        !h c09bb276: 0.78540
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightNear02
+        !h mFar.f32: 60.00000
+        !h mIntensity.f32: 5.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.80000
           - 0.40000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 219.20000
           - 50.00000
           - 190.00000
-        !h 45c202fb: 57.00000
-        !h 4a07fd06:
+        !h mSize.f32: 57.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: RailLightNear03
-        !h 79a61e3f: 58.00000
-        !h 94f81f90: 2.00000
-        !h c09bb276: 0.78540
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightNear03
+        !h mFar.f32: 58.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
     !h mPointParamArray[]: null

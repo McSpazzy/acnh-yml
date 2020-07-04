@@ -7,690 +7,690 @@ root:
     !h mCatalogArray[]:
       - null
       - null
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 20.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 20.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - -15.00000
           - 0.00000
-        !h e106163f: 20.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 20.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - -20.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -420.00000
           - -215.00000
           - 0.00000
-        !h e106163f: 7.50000
-      - !h 4a42cf70:
+        !h mScale.f32: 7.50000
+      - !h mVirtualCameraAngle.V3f:
           - 25.00000
           - -45.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -335.00000
           - -50.00000
           - 0.00000
-        !h e106163f: 5.50000
+        !h mScale.f32: 5.50000
       - null
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 30.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 30.00000
+      - !h mVirtualCameraAngle.V3f:
           - 30.00000
           - 20.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -315.00000
           - -120.00000
           - 0.00000
-        !h e106163f: 20.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 20.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - 20.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -315.00000
           - -120.00000
           - 0.00000
-        !h e106163f: 20.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 20.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 29.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 29.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 29.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 29.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 29.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 29.00000
+      - !h mVirtualCameraAngle.V3f:
           - 70.00000
           - 0.00000
           - -10.00000
-        !h e106163f: 29.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 29.00000
+      - !h mVirtualCameraAngle.V3f:
           - 25.00000
           - -30.00000
           - 0.00000
-        !h e106163f: 45.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 45.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - -130.00000
           - 0.00000
-        !h e106163f: 30.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 30.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 20.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 20.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 30.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 30.00000
+      - !h mVirtualCameraAngle.V3f:
           - 20.00000
           - -5.00000
           - 0.00000
-        !h e106163f: 12.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 12.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - -36.00000
           - 0.00000
-        !h e106163f: 23.00000
+        !h mScale.f32: 23.00000
       - null
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -340.00000
           - -80.00000
           - 0.00000
-        !h e106163f: 18.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 18.00000
+      - !h mVirtualCameraAngle.V3f:
           - 60.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 40.00000
-    !h 20287bad: 1.00000
+        !h mScale.f32: 40.00000
+    !h mCatalogRotateSpeed.f32: 1.00000
     !h mMyDesignEditArray[]:
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 25.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 25.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -230.00000
           - 0.00000
-        !h e106163f: 27.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 27.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 35.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -150.00000
           - 0.00000
-        !h e106163f: 26.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 26.00000
+      - !h mVirtualCameraAngle.V3f:
           - 35.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -468.00000
           - -170.00000
           - 0.00000
-        !h e106163f: 31.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 31.00000
+      - !h mVirtualCameraAngle.V3f:
           - 35.00000
           - -15.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -465.00000
           - -150.00000
           - 0.00000
-        !h e106163f: 29.00000
+        !h mScale.f32: 29.00000
     !h mCatalogFossilArray[]:
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -340.00000
           - -60.00000
           - 0.00000
-        !h e106163f: 15.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 15.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -340.00000
           - -175.00000
           - 0.00000
-        !h e106163f: 10.00000
-    !h 67d9f53:
-      - !h 4a42cf70:
+        !h mScale.f32: 10.00000
+    !h mMyDesignExchangeArray[]:
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -190.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - -1.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -158.00000
           - 0.00000
-        !h e106163f: 21.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 21.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -120.00000
           - 0.00000
-        !h e106163f: 27.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 27.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -335.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -355.00000
           - 0.00000
-        !h e106163f: 53.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 53.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -354.00000
           - 0.00000
-        !h e106163f: 53.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 53.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -335.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -330.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -285.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -285.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -161.00000
           - 0.00000
-        !h e106163f: 35.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 35.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -275.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - -2.88000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -300.00000
           - 0.00000
-        !h e106163f: 49.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 49.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -185.00000
           - 0.00000
-        !h e106163f: 37.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 37.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - -27.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -50.00000
           - 0.00000
-        !h e106163f: 31.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 31.00000
+      - !h mVirtualCameraAngle.V3f:
           - 10.00000
           - -10.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -90.00000
           - 0.00000
-        !h e106163f: 34.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 34.00000
+      - !h mVirtualCameraAngle.V3f:
           - 20.00000
           - -10.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - 0.00000
           - -35.00000
           - 0.00000
-        !h e106163f: 29.00000
-    !h 6ebe17da: 35.00000
-    !h 80de4298: 1.40000
+        !h mScale.f32: 29.00000
+    !h mDIYScaleLimit.f32: 35.00000
+    !h mMyDesignRotateSpeed.f32: 1.40000
     !h mCatalogFtrArray[]:
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 15.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 15.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 13.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 13.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 13.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 13.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 10.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 10.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 10.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 10.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 12.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 12.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 15.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 15.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 15.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 15.00000
+      - !h mVirtualCameraAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h e106163f: 15.00000
-    !h a8e6ccb: true
+        !h mScale.f32: 15.00000
+    !h mMyDesignReverseRotate.bool: true
     !h mCatalogRugArray[]:
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 45.00000
           - 10.00000
           - 0.00000
-        !h e106163f: 12.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 12.00000
+      - !h mVirtualCameraAngle.V3f:
           - 45.00000
           - 10.00000
           - 0.00000
-        !h e106163f: 10.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 10.00000
+      - !h mVirtualCameraAngle.V3f:
           - 45.00000
           - 10.00000
           - 0.00000
-        !h e106163f: 7.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 7.00000
+      - !h mVirtualCameraAngle.V3f:
           - 45.00000
           - 10.00000
           - 0.00000
-        !h e106163f: 7.00000
+        !h mScale.f32: 7.00000
     !h mBridgeSlopeArray[]:
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 20.00000
           - 12.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -315.00000
           - -4.00000
           - 0.00000
-        !h e106163f: 7.60000
-      - !h 4a42cf70:
+        !h mScale.f32: 7.60000
+      - !h mVirtualCameraAngle.V3f:
           - 25.00000
           - 50.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -340.00000
           - -50.00000
           - 0.00000
-        !h e106163f: 8.00000
-    !h ce7fedb4: 30.00000
+        !h mScale.f32: 8.00000
+    !h mClampHeightThresh.f32: 30.00000
     !h mDIYArray[]:
       - null
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 1.50000
           - 35.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -150.00000
           - -203.00000
           - 0.00000
-        !h e106163f: 9.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 9.00000
+      - !h mVirtualCameraAngle.V3f:
           - 35.00000
           - 123.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -280.00000
           - 97.00000
           - 0.00000
-        !h e106163f: 10.50000
+        !h mScale.f32: 10.50000
       - null
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 32.00000
           - -42.48000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -290.00000
           - -81.00000
           - 0.00000
-        !h e106163f: 30.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 30.00000
+      - !h mVirtualCameraAngle.V3f:
           - -3.96000
           - 44.64000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -275.00000
           - -267.00000
           - 0.00000
-        !h e106163f: 23.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 23.00000
+      - !h mVirtualCameraAngle.V3f:
           - -4.68000
           - -129.24000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -270.00000
           - -191.00000
           - 0.00000
-        !h e106163f: 24.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 24.00000
+      - !h mVirtualCameraAngle.V3f:
           - 25.56000
           - 11.88000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -275.00000
           - -20.00000
           - 0.00000
-        !h e106163f: 11.40000
-      - !h 4a42cf70:
+        !h mScale.f32: 11.40000
+      - !h mVirtualCameraAngle.V3f:
           - 18.00000
           - 2.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -290.00000
           - -241.00000
           - 0.00000
-        !h e106163f: 12.40000
-      - !h 4a42cf70:
+        !h mScale.f32: 12.40000
+      - !h mVirtualCameraAngle.V3f:
           - 30.00000
           - 4.00000
           - 0.00000
-        !h e106163f: 36.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 36.00000
+      - !h mVirtualCameraAngle.V3f:
           - -5.00000
           - 40.00000
           - 0.00000
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 35.00000
           - 0.00000
           - 0.00000
-      - !h 4a42cf70:
+      - !h mVirtualCameraAngle.V3f:
           - 14.76000
           - -18.00000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -294.00000
           - -150.00000
           - 0.00000
-        !h e106163f: 32.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 32.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.40000
           - -25.56000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -295.00000
           - -244.00000
           - 0.00000
-        !h e106163f: 43.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 43.00000
+      - !h mVirtualCameraAngle.V3f:
           - 5.40000
           - -25.56000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -295.00000
           - -239.00000
           - 0.00000
-        !h e106163f: 43.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 43.00000
+      - !h mVirtualCameraAngle.V3f:
           - 9.00000
           - -18.36000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -295.00000
           - -244.00000
           - 0.00000
-        !h e106163f: 43.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 43.00000
+      - !h mVirtualCameraAngle.V3f:
           - 7.56000
           - -27.36000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -284.00000
           - -100.00000
           - 0.00000
-        !h e106163f: 65.00000
-      - !h 4a42cf70:
+        !h mScale.f32: 65.00000
+      - !h mVirtualCameraAngle.V3f:
           - 11.16000
           - -123.48000
           - 0.00000
-        !h 57065eee:
+        !h mOffset.V3f:
           - -324.00000
           - -417.00000
           - 0.00000
-        !h e106163f: 60.00000
+        !h mScale.f32: 60.00000
       - null

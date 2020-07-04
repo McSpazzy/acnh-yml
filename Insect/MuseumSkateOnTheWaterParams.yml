@@ -6,37 +6,37 @@ root:
   !h MuseumSkateOnTheWaterParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 7cc61ff5: 0.00000
-      !h d50971b3: 15.00000
-      !h d6fa91fc: 7.50000
-      !h ddc426c1: 0.00781
-      !h e94e0b49: 0.00000
-      !h eabdeb06: 0.00000
-      !h f0070cd: 4.39453
+      !h mLabel.Str: 
+      !h mBorderSpeed.f32: 0.00000
+      !h mDistanceToDestinationMax.f32: 15.00000
+      !h mDistanceToDestinationMin.f32: 7.50000
+      !h mSpeedChaseStep.f32: 0.00781
+      !h mStopSecMax.f32: 0.00000
+      !h mStopSecMin.f32: 0.00000
+      !h mGyrateChaseAngleYMaxDeg.f32: 4.39453
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Gengorou
-        !h 7cc61ff5: 0.00000
-        !h d50971b3: 15.00000
-        !h d6fa91fc: 7.50000
-        !h ddc426c1: 0.00781
-        !h e94e0b49: 3.00000
-        !h eabdeb06: 0.00000
-        !h f0070cd: 4.39453
-      - !h 20e90aef: Tagame
-        !h 7cc61ff5: 0.00000
-        !h d50971b3: 15.00000
-        !h d6fa91fc: 7.50000
-        !h ddc426c1: 0.00781
-        !h e94e0b49: 3.00000
-        !h eabdeb06: 0.00000
-        !h f0070cd: 4.39453
-      - !h 20e90aef: Amenbo
-        !h 7cc61ff5: 0.30000
-        !h d50971b3: 15.00000
-        !h d6fa91fc: 7.50000
-        !h ddc426c1: 0.00781
-        !h e94e0b49: 1.00000
-        !h eabdeb06: 0.00000
-        !h f0070cd: 360.00000
+      - !h mLabel.Str: Gengorou
+        !h mBorderSpeed.f32: 0.00000
+        !h mDistanceToDestinationMax.f32: 15.00000
+        !h mDistanceToDestinationMin.f32: 7.50000
+        !h mSpeedChaseStep.f32: 0.00781
+        !h mStopSecMax.f32: 3.00000
+        !h mStopSecMin.f32: 0.00000
+        !h mGyrateChaseAngleYMaxDeg.f32: 4.39453
+      - !h mLabel.Str: Tagame
+        !h mBorderSpeed.f32: 0.00000
+        !h mDistanceToDestinationMax.f32: 15.00000
+        !h mDistanceToDestinationMin.f32: 7.50000
+        !h mSpeedChaseStep.f32: 0.00781
+        !h mStopSecMax.f32: 3.00000
+        !h mStopSecMin.f32: 0.00000
+        !h mGyrateChaseAngleYMaxDeg.f32: 4.39453
+      - !h mLabel.Str: Amenbo
+        !h mBorderSpeed.f32: 0.30000
+        !h mDistanceToDestinationMax.f32: 15.00000
+        !h mDistanceToDestinationMin.f32: 7.50000
+        !h mSpeedChaseStep.f32: 0.00781
+        !h mStopSecMax.f32: 1.00000
+        !h mStopSecMin.f32: 0.00000
+        !h mGyrateChaseAngleYMaxDeg.f32: 360.00000

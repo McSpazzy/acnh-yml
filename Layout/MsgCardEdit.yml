@@ -5,9 +5,9 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_FinishBtn_00, !h eedd76eb: FinishBtn}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_OpenBtn_00, !h eedd76eb: OpenBtn}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_Undo_00, !h eedd76eb: Undo}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_PenSize_00, !h eedd76eb: PenSize}
-    !h 4309561a: UI_MsgCardEdit
-    !h a8e79f6f: null
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_FinishBtn_00, !h mGroupName.Str: FinishBtn}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_OpenBtn_00, !h mGroupName.Str: OpenBtn}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_Undo_00, !h mGroupName.Str: Undo}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_PenSize_00, !h mGroupName.Str: PenSize}
+    !h mUserName.Str: UI_MsgCardEdit
+    !h mAnimOperationParamBuffer[]: null

@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h WaterFlowTwinkleParam:
-    !h 4d62b93a:
+    !h mEffectOffset.V3f:
       - 0.00000
       - 0.01000
       - 15.00000
-    !h 9cd379ef:
+    !h mEffectXClampRange.V2f:
       - 65.00000
       - 110.00000
-    !h af242926: 0.84000
+    !h mEffectXRange.f32: 0.84000

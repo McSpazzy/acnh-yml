@@ -3,102 +3,102 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h a0d3e631:
+  !h InsectMuseumRestPoint[]:
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 151.50000
             - 30.80000
             - -4.00000
-      !h 2a68506f: 点
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 752a1697: トンボ
-      !h 7f3f253c: 水辺00
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRangeType.Enum: 点
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRestPointType.Enum: トンボ
+      !h mRestPointName.Str: 水辺00
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 181.80000
             - 30.00000
             - 8.40000
-      !h 2a68506f: 点
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 752a1697: トンボ
-      !h 7f3f253c: 水辺01
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRangeType.Enum: 点
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRestPointType.Enum: トンボ
+      !h mRestPointName.Str: 水辺01
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 170.50000
             - 27.00000
             - 77.00000
-      !h 2a68506f: 点
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 752a1697: トンボ
-      !h 7f3f253c: 水辺02
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRangeType.Enum: 点
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRestPointType.Enum: トンボ
+      !h mRestPointName.Str: 水辺02
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 88.75000
             - 29.50000
             - 211.50000
-      !h 2a68506f: 点
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 752a1697: チョウ
-      !h 7f3f253c: 花壇00
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRangeType.Enum: 点
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRestPointType.Enum: チョウ
+      !h mRestPointName.Str: 花壇00
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 136.50000
             - 25.50000
             - 80.00000
-      !h 2a68506f: 点
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 752a1697: トンボ
-      !h 7f3f253c: 水辺03
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRangeType.Enum: 点
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRestPointType.Enum: トンボ
+      !h mRestPointName.Str: 水辺03
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 134.00000
             - 25.75000
             - 120.00000
-      !h 2a68506f: 点
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 752a1697: トンボ
-      !h 7f3f253c: 水辺04
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRangeType.Enum: 点
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRestPointType.Enum: トンボ
+      !h mRestPointName.Str: 水辺04
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 157.25000
             - 27.00000
             - 97.25000
-      !h 2a68506f: 点
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 752a1697: トンボ
-      !h 7f3f253c: 水辺05
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRangeType.Enum: 点
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRestPointType.Enum: トンボ
+      !h mRestPointName.Str: 水辺05
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false

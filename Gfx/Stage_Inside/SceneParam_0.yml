@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h SceneParam:
-    !h 1056ed7d: false
-    !h 4571271:
+    !h mIsDrum.bool: false
+    !h mAtOffset.V3f:
       - 0.00000
       - 15.00000
       - 0.00000
-    !h 9be55c23: 20.72000
-    !h ca05972f: false
-    !h e03fa180: 93.75000
+    !h mAngle.f32: 20.72000
+    !h mIsInside.bool: false
+    !h mLength.f32: 93.75000

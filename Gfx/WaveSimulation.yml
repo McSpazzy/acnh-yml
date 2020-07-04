@@ -4,94 +4,94 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h WaveSimulationParam:
-    !h 13cb81a2: 0.75000
-    !h 160e11a1: 256.00000
-    !h 18563056: 1.00000
-    !h 1f270ac6: !l 30
-    !h 1fa92fb8: 0.01000
-    !h 1fbbc64: !l 50
-    !h 24f39e50: x0.5
-    !h 267abd76: 0.00000
-    !h 2779a244: 0.00400
-    !h 27b70de0: 1.00000
-    !h 2c82a24f:
+    !h mCausticsSealineSub.f32: 0.75000
+    !h mNormAreaUp.f32: 256.00000
+    !h mSeaIndirectScale.f32: 1.00000
+    !h mPropagationFrame.u32: !l 30
+    !h mFlowEpsilon.f32: 0.01000
+    !h mFlowMapFastStep.s32: !l 50
+    !h mMobileSS.Enum: x0.5
+    !h mEdgeAlphaOffset.f32: 0.00000
+    !h mRainUnitRate.f32: 0.00400
+    !h mRainTimeRate.f32: 1.00000
+    !h mBrackishSouthMax.V2i:
       - !l 13
       - !l 12
-    !h 2cc2c363: 0.15000
-    !h 2f31232c: 0.05000
-    !h 2f714200:
+    !h mChoppyPowerRate1Max.f32: 0.15000
+    !h mChoppyPowerRate1Min.f32: 0.05000
+    !h mBrackishSouthMin.V2i:
       - !l 2
       - !l 0
-    !h 3182506f: 25.00000
-    !h 33b6cc65: -10.00000
-    !h 349d7c53: 0.90000
-    !h 376e9c1c: 0.45000
-    !h 3950b9f4: 0.30000
-    !h 398c1728: 140000000.00000
-    !h 41e13cc5: -0.10000
-    !h 4212dc8a: -0.12000
-    !h 4450ba43: 1.00000
-    !h 490047fc:
+    !h mChoppyOffsetAngle2.f32: 25.00000
+    !h mChoppyCrossAngle.f32: -10.00000
+    !h mSeaChoppyPowerRate1Max.f32: 0.90000
+    !h mSeaChoppyPowerRate1Min.f32: 0.45000
+    !h mDrawBackDot.f32: 0.30000
+    !h mCausticsValue.f32: 140000000.00000
+    !h mSeaChoppyScrollRate2Min.f32: -0.10000
+    !h mSeaChoppyScrollRate2Max.f32: -0.12000
+    !h mRainNormRate.f32: 1.00000
+    !h mBrackishWestMax.V2i:
       - !l 12
       - !l 13
-    !h 4af3a7b3:
+    !h mBrackishWestMin.V2i:
       - !l 5
       - !l 2
-    !h 53795b59: 80.00000
-    !h 64d3b399: -0.25000
-    !h 672053d6: -0.05000
-    !h 72612769: 1.00000
-    !h 76222abf: 12.00000
-    !h 7c862fef: -4.71000
-    !h 7fdc32b8: 1.00000
-    !h 9b1ad850: 5.00000
-    !h a1be24cf: 0.01000
-    !h a2459f0: x1
-    !h a24dc480: 0.10000
-    !h aca477fa:
+    !h mNormAreaDown.f32: 80.00000
+    !h mChoppyScrollRate2Max.f32: -0.25000
+    !h mChoppyScrollRate2Min.f32: -0.05000
+    !h mRainTexelRate.f32: 1.00000
+    !h mChoppyOffsetAngle1.f32: 12.00000
+    !h mBrackishHeight.f32: -4.71000
+    !h mRainWaveDamping.f32: 1.00000
+    !h mCausticsSealineMul.f32: 5.00000
+    !h mChoppyPowerRate2Min.f32: 0.01000
+    !h mDockSS.Enum: x1
+    !h mChoppyPowerRate2Max.f32: 0.10000
+    !h mChoppyTextureScale1.V2f:
       - 60.00000
       - 65.00000
-    !h af3654e7: 0.60000
-    !h b15edbc9: 0.75000
-    !h b4451775: 150.00000
-    !h b4637ef8: 0.25000
-    !h b4fbc8ca:
+    !h mFlowAloneAttenuation.f32: 0.60000
+    !h mFlowVicinityRate.f32: 0.75000
+    !h mNormAreaSide.f32: 150.00000
+    !h mFlowPower.f32: 0.25000
+    !h mSeaChoppyTextureScale1.V2f:
       - 40.00000
       - 40.00000
-    !h b9bde1b9: 7.00000
-    !h b9e19bff: 0.40000
-    !h ba127bb0: 1.00000
-    !h bda555b9: -4.11000
-    !h bfb3d3e7: 3.50000
-    !h c2006673: 300.00000
-    !h c2161ec8: !l 1
-    !h c8ed96cb: 1.00000
-    !h cc9ddb69: 0.21000
-    !h ce5205a: 0.50000
-    !h cf6e3b26: 0.12000
-    !h d3fcca51: 1.05000
-    !h d5a5ed6b: 4.00000
-    !h d86dccad: 250.00000
-    !h d884fc83:
+    !h mWaterIndirectScale.f32: 7.00000
+    !h mSeaChoppyPowerRate2Min.f32: 0.40000
+    !h mSeaChoppyPowerRate2Max.f32: 1.00000
+    !h mSeaHeight.f32: -4.11000
+    !h mCausticsVtxPower.f32: 3.50000
+    !h mDrawSeaBackBorderZ.f32: 300.00000
+    !h mLevel.u32: !l 1
+    !h mNormRate.f32: 1.00000
+    !h mSeaChoppyScrollRate1Max.f32: 0.21000
+    !h mOffsetRating.f32: 0.50000
+    !h mSeaChoppyScrollRate1Min.f32: 0.12000
+    !h mEdgeColorRate.f32: 1.05000
+    !h mRainWaveSpeed.f32: 4.00000
+    !h mNrmFadeOutDist.f32: 250.00000
+    !h mRainTexSize.V2i:
       - !l 256
       - !l 256
-    !h e03602a7:
+    !h mRainRealSize.V2f:
       - 50.00000
       - 50.00000
-    !h e3132eb7:
+    !h mChoppyWindowDir.V2f:
       - 0.00000
       - 1.00000
-    !h e44bdc3a: 10.00000
-    !h e9af5435: 0.20000
-    !h ea5cb47a: 0.25000
-    !h eab315b7: 0.50000
-    !h eb040d2a:
+    !h mNrmEdgeCancelDist.f32: 10.00000
+    !h mChoppyScrollRate1Min.f32: 0.20000
+    !h mChoppyScrollRate1Max.f32: 0.25000
+    !h mConstEnergy.f32: 0.50000
+    !h mChoppyTextureScale2.V2f:
       - 50.00000
       - 70.00000
-    !h ebaf6da4: !l 0
-    !h ebd3fdad: 7.20000
-    !h f32631dc: 7.50000
-    !h f35bb21a:
+    !h mNormExDepth.s32: !l 0
+    !h mCausticsPower.f32: 7.20000
+    !h mEdgeAlphaScale.f32: 7.50000
+    !h mSeaChoppyTextureScale2.V2f:
       - 55.00000
       - 48.00000
-    !h f8295b36: 7.29000
+    !h mOffsetWaterHeight.f32: 7.29000

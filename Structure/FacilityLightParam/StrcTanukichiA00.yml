@@ -5,8 +5,8 @@ HasReferenceNodes: False
 root:
   !h StrcTanukichiA00:
     !h mLightParamArray[]:
-      - {!h 70b3ff04: !l 0}
-      - {!h 70b3ff04: !l 0}
-      - {!h 70b3ff04: !l 0}
-      - {!h 70b3ff04: !l 0}
-      - {!h 70b3ff04: !l 0}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}

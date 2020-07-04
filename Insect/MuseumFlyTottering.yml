@@ -4,23 +4,23 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h MuseumFlyTottering:
-    !h mCommon: {!h 9582ffd2: 0.03125, !h fc6ea52b: 0.00781}
-    !h mUniqueDummy: {!h 14646700: 0.87500, !h 20e90aef: '', !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-    !h mCommonDummy: {!h 9582ffd2: 0.03125, !h fc6ea52b: 0.00781}
+    !h mCommon: {!h mSpeedUpDown.f32: 0.03125, !h mSpeedChaseMove.f32: 0.00781}
+    !h mUniqueDummy: {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: '', !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+    !h mCommonDummy: {!h mSpeedUpDown.f32: 0.03125, !h mSpeedChaseMove.f32: 0.00781}
     !h mUniqueBuffer[]:
-      - {!h 14646700: 0.87500, !h 20e90aef: Monshirocho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Monkicho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Agehacho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Karasuageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Ohkabamadara, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Morufuocho, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Miirotateha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Akaeritoribaneageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Arekisandoratoribaneageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Aosujiageha, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Ohgomamadara, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Ohmurasaki, !h 3a22f849: 1.50000, !h 5106f9ba: 0.07813, !h fd127c9c: 0.20000}
-      - {!h 14646700: 1.75000, !h 20e90aef: Nishikiohtsubamega, !h 3a22f849: 1.49963, !h 5106f9ba: 0.05000, !h fd127c9c: 0.30000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Mitsubachi, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Ga, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
-      - {!h 14646700: 0.87500, !h 20e90aef: Hotaru, !h 3a22f849: 1.49963, !h 5106f9ba: 0.07813, !h fd127c9c: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Monshirocho, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Monkicho, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Agehacho, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Karasuageha, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Ohkabamadara, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Morufuocho, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Miirotateha, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Akaeritoribaneageha, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Arekisandoratoribaneageha, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Aosujiageha, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Ohgomamadara, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Ohmurasaki, !h mGyrateAngleYStepDeg.f32: 1.50000, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.20000}
+      - {!h mAnmFlySpeed.f32: 1.75000, !h mLabel.Str: Nishikiohtsubamega, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.05000, !h mSpeed.f32: 0.30000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Mitsubachi, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Ga, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}
+      - {!h mAnmFlySpeed.f32: 0.87500, !h mLabel.Str: Hotaru, !h mGyrateAngleYStepDeg.f32: 1.49963, !h mBreathMax.f32: 0.07813, !h mSpeed.f32: 0.25000}

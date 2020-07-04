@@ -6,35 +6,35 @@ root:
   !h FieldMuscidaeParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 1985ea17: 3.75000
-      !h 1a636c9f: 1.00000
-      !h 1da8e595: 8.00000
-      !h 20e90aef: 
-      !h 3a19a0b: 14.99634
-      !h 3c6a6d31: 12.00000
-      !h 4cc65eb0: 0.93750
-      !h 4e445482: 1.50000
-      !h 5106f9ba: 0.15625
-      !h 536026a: 1.25000
-      !h 84dca007: 5.00000
-      !h 9582ffd2: 0.15625
-      !h aad4b7a2: 7.50000
-      !h fc6ea52b: 0.15625
-      !h fd127c9c: 0.93750
+      !h mArea.f32: 3.75000
+      !h mApproachCycle.f32: 1.00000
+      !h mRestTime.f32: 8.00000
+      !h mLabel.Str: 
+      !h mAddDirAng.f32: 14.99634
+      !h mSearchUnit.f32: 12.00000
+      !h mSpeedApproach.f32: 0.93750
+      !h mEscapeRate.f32: 1.50000
+      !h mBreathMax.f32: 0.15625
+      !h mSwingBreath.f32: 1.25000
+      !h mTmpOffset.f32: 5.00000
+      !h mSpeedUpDown.f32: 0.15625
+      !h mBaseHeight.f32: 7.50000
+      !h mSpeedChaseMove.f32: 0.15625
+      !h mSpeed.f32: 0.93750
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 1985ea17: 3.75000
-        !h 1a636c9f: 1.00000
-        !h 1da8e595: 8.00000
-        !h 20e90aef: Hae
-        !h 3a19a0b: 14.99634
-        !h 3c6a6d31: 12.00000
-        !h 4cc65eb0: 0.93750
-        !h 4e445482: 1.50000
-        !h 5106f9ba: 0.25000
-        !h 536026a: 2.00000
-        !h 84dca007: 4.00000
-        !h 9582ffd2: 0.25000
-        !h aad4b7a2: 12.00000
-        !h fc6ea52b: 0.15625
-        !h fd127c9c: 0.93750
+      - !h mArea.f32: 3.75000
+        !h mApproachCycle.f32: 1.00000
+        !h mRestTime.f32: 8.00000
+        !h mLabel.Str: Hae
+        !h mAddDirAng.f32: 14.99634
+        !h mSearchUnit.f32: 12.00000
+        !h mSpeedApproach.f32: 0.93750
+        !h mEscapeRate.f32: 1.50000
+        !h mBreathMax.f32: 0.25000
+        !h mSwingBreath.f32: 2.00000
+        !h mTmpOffset.f32: 4.00000
+        !h mSpeedUpDown.f32: 0.25000
+        !h mBaseHeight.f32: 12.00000
+        !h mSpeedChaseMove.f32: 0.15625
+        !h mSpeed.f32: 0.93750

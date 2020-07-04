@@ -5,243 +5,243 @@ HasReferenceNodes: False
 root:
   !h UI3DSetParamList:
     !h mPaletteList[]:
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - -290.00000
           - -540.00000
           - 1100.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: CharaMake_00
-        !h 55910217: ModelOnUI_CharaMake_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: CharaMake_00
+        !h mEnvPaletteName.Str: ModelOnUI_CharaMake_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - -320.00000
           - -310.00000
           - 0.00000
-        !h e106163f: 35.00000
-      - !h 21452572: 
-        !h 2587c18: -0.69813
-        !h 2dd80d20:
+        !h mScale.f32: 35.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: -0.69813
+        !h mPlayerLookPos.V3f:
           - -370.00000
           - -700.00000
           - 1100.00000
-        !h 3f3855a8: 0.34907
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: CharaMake_01
-        !h 55910217: ModelOnUI_CharaMake_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.34907
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: CharaMake_01
+        !h mEnvPaletteName.Str: ModelOnUI_CharaMake_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - -340.00000
           - -417.00000
           - 0.00000
-        !h e106163f: 40.00000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 40.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - -340.00000
           - -680.00000
           - 1100.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: CharaMake_02
-        !h 55910217: ModelOnUI_CharaMake_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: CharaMake_02
+        !h mEnvPaletteName.Str: ModelOnUI_CharaMake_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - -320.00000
           - -480.00000
           - 0.00000
-        !h e106163f: 45.00000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 45.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: Closet_00
-        !h 55910217: ModelOnUI_CharaMake_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: Closet_00
+        !h mEnvPaletteName.Str: ModelOnUI_CharaMake_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - 0.00000
           - -200.00000
           - 0.00000
-        !h e106163f: 23.00000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 23.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: CharaMakeDialog
-        !h 55910217: ModelOnUI
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: CharaMakeDialog
+        !h mEnvPaletteName.Str: ModelOnUI
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - -320.00000
           - -310.00000
           - 0.00000
-        !h e106163f: 35.00000
-      - !h 21452572: 
-        !h 2587c18: -0.26180
-        !h 2dd80d20:
+        !h mScale.f32: 35.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: WorkBenchCraft
-        !h 55910217: ModelOnUI_DIY_OR
-        !h 72b4c4f0: 10.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: WorkBenchCraft
+        !h mEnvPaletteName.Str: ModelOnUI_DIY_OR
+        !h mPerspectiveProjectionFovy.f32: 10.00000
+        !h mPosition.V3f:
           - -240.00000
           - -140.00000
           - 0.00000
-        !h e106163f: 36.00000
-      - !h 21452572: ModelOnUI_PlayerHouse_Night_OR
-        !h 2587c18: -0.26180
-        !h 2dd80d20:
+        !h mScale.f32: 36.00000
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_PlayerHouse_Night_OR
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.00000
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: PlayerHouse_00
-        !h 55910217: ModelOnUI_PlayerHouse_OR
-        !h 72b4c4f0: 45.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: PlayerHouse_00
+        !h mEnvPaletteName.Str: ModelOnUI_PlayerHouse_OR
+        !h mPerspectiveProjectionFovy.f32: 45.00000
+        !h mPosition.V3f:
           - -338.00000
           - -176.00000
           - 0.00000
-        !h e106163f: 9.20000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 9.20000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.26180
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: WorkBenchRemake
-        !h 55910217: ModelOnUI_DIY_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.26180
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: WorkBenchRemake
+        !h mEnvPaletteName.Str: ModelOnUI_DIY_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 25.00000
-      - !h 21452572: 
-        !h 2587c18: -0.34907
-        !h 2dd80d20:
+        !h mScale.f32: 25.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: -0.34907
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: Catalog
-        !h 55910217: ModelOnUI_Catalog_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: Catalog
+        !h mEnvPaletteName.Str: ModelOnUI_Catalog_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - -320.00000
           - -165.00000
           - 0.00000
-        !h e106163f: 22.00000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 22.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.00000
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: MyDesignEdit
-        !h 55910217: ModelOnUI
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: MyDesignEdit
+        !h mEnvPaletteName.Str: ModelOnUI
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 1.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.00000
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: ShopBridgeSlope
-        !h 55910217: ModelOnUI_BridgeSlope_OR
-        !h 72b4c4f0: 10.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: ShopBridgeSlope
+        !h mEnvPaletteName.Str: ModelOnUI_BridgeSlope_OR
+        !h mPerspectiveProjectionFovy.f32: 10.00000
+        !h mPosition.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
-      - !h 21452572: 
-        !h 2587c18: -0.34907
-        !h 2dd80d20:
+        !h mScale.f32: 1.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: -0.34907
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: ShopSonkatsu
-        !h 55910217: ModelOnUI_Catalog_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: ShopSonkatsu
+        !h mEnvPaletteName.Str: ModelOnUI_Catalog_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - -335.00000
           - -165.00000
           - 0.00000
-        !h e106163f: 22.00000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 22.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: ShopTailor
-        !h 55910217: ModelOnUI_CharaMake_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: ShopTailor
+        !h mEnvPaletteName.Str: ModelOnUI_CharaMake_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - 0.00000
           - -190.00000
           - 0.00000
-        !h e106163f: 23.00000
-      - !h 21452572: 
-        !h 2587c18: 0.00000
-        !h 2dd80d20:
+        !h mScale.f32: 23.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.00000
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: MyDesignExchange
-        !h 55910217: ModelOnUI
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: MyDesignExchange
+        !h mEnvPaletteName.Str: ModelOnUI
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
-      - !h 21452572: 
-        !h 2587c18: -0.34907
-        !h 2dd80d20:
+        !h mScale.f32: 1.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: -0.34907
+        !h mPlayerLookPos.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 3f3855a8: 0.17453
-        !h 45f806c8: 0.00000
-        !h 4a87e41d: CatalogGift
-        !h 55910217: ModelOnUI_Catalog_OR
-        !h 72b4c4f0: 5.00000
-        !h c5b00499:
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: CatalogGift
+        !h mEnvPaletteName.Str: ModelOnUI_Catalog_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
           - -310.00000
           - -165.00000
           - 0.00000
-        !h e106163f: 22.00000
+        !h mScale.f32: 22.00000

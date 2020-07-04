@@ -4,13 +4,13 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h CreatureShow[]:
-    - !h 24883696:
+    - !h mOffsetDegAngle.V3f:
         - 6.12000
         - 0.00000
         - 0.00000
-      !h 309cd7d7:
+      !h mOffsetPos.V3f:
         - 0.00000
         - 3.72000
         - 0.00000
-      !h 33aa4062: 1.00000
-      !h 89d12daa: !l 2567
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2567

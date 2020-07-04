@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h ObjectSnowBallActor: {!h 23a789fd: false, !h 4b6cde86: 65.00000, !h d687b5d7: 0.55000}
+  !h ObjectSnowBallActor: {!h mIsDebugDraw.bool: false, !h mTalkAngleDeg.f32: 65.00000, !h mKickRad.f32: 0.55000}

@@ -4,8 +4,8 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h CubeMapStageParam:
-    !h 9fceff70: true
-    !h a7b2ab59:
+    !h mIsEnableOverrideCapturePos.bool: true
+    !h mCapturePos.V3f:
       - 50.00000
       - 10.00000
       - 240.00000

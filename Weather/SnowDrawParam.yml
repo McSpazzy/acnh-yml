@@ -5,10 +5,10 @@ HasReferenceNodes: False
 root:
   !h SnowDrawParam:
     !h MultiFilterTrimmingConvert: !l 128
-    !h 322b9edc:
+    !h mColor.C4f:
       - 1.00000
       - 1.00000
       - 1.00000
       - 1.00000
-    !h c6a1b0e: !l 32
-    !h d28863f7: !l 128
+    !h mSnowCreateNum.s32: !l 32
+    !h mUnitMax.u32: !l 128

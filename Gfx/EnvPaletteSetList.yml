@@ -206,7 +206,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: NormalOutside
+        !h mPaletteSetName.Str: NormalOutside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -408,7 +408,7 @@ root:
               - 
               - 
               - Inside_MidNight
-        !h 649b96d3: NormalInside
+        !h mPaletteSetName.Str: NormalInside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Viewer
@@ -610,7 +610,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: Viewer
+        !h mPaletteSetName.Str: Viewer
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -812,7 +812,7 @@ root:
               - Inside_Night
               - 
               - Inside_MidNight
-        !h 649b96d3: WindowRightOnlyInside
+        !h mPaletteSetName.Str: WindowRightOnlyInside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -1014,7 +1014,7 @@ root:
               - 
               - 
               - Inside_MidNight
-        !h 649b96d3: WindowLeftOnlyInside
+        !h mPaletteSetName.Str: WindowLeftOnlyInside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -1216,7 +1216,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: WindowNothingInside
+        !h mPaletteSetName.Str: WindowNothingInside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - 
@@ -1418,7 +1418,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: TentInside
+        !h mPaletteSetName.Str: TentInside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_Structure
@@ -1620,7 +1620,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: IdrInside
+        !h mPaletteSetName.Str: IdrInside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -1822,7 +1822,7 @@ root:
               - Inside_Night
               - 
               - Inside_MidNight
-        !h 649b96d3: WindowRightOnlyInsideCurtainClose
+        !h mPaletteSetName.Str: WindowRightOnlyInsideCurtainClose
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -2024,7 +2024,7 @@ root:
               - 
               - 
               - Inside_MidNight
-        !h 649b96d3: WindowLeftOnlyInsideCurtainClose
+        !h mPaletteSetName.Str: WindowLeftOnlyInsideCurtainClose
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -2226,7 +2226,7 @@ root:
               - Inside_Night
               - 
               - Inside_MidNight
-        !h 649b96d3: NormalInsideCurtainClose
+        !h mPaletteSetName.Str: NormalInsideCurtainClose
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -2428,7 +2428,7 @@ root:
               - Inside_Night
               - 
               - Inside_MidNight
-        !h 649b96d3: NormalInsideRightCurtainClose
+        !h mPaletteSetName.Str: NormalInsideRightCurtainClose
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Inside_MidNight
@@ -2630,7 +2630,7 @@ root:
               - Inside_Night
               - 
               - Inside_MidNight
-        !h 649b96d3: NormalInsideLeftCurtainClose
+        !h mPaletteSetName.Str: NormalInsideLeftCurtainClose
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - 
@@ -2832,7 +2832,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: StructureInside_MuseumInsect
+        !h mPaletteSetName.Str: StructureInside_MuseumInsect
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - 
@@ -3034,7 +3034,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: StructureInside_Market
+        !h mPaletteSetName.Str: StructureInside_Market
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - 
@@ -3236,7 +3236,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: StructureInside_Airport
+        !h mPaletteSetName.Str: StructureInside_Airport
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - 
@@ -3438,7 +3438,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: StructureInside_MuseumInsect02
+        !h mPaletteSetName.Str: StructureInside_MuseumInsect02
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - 
@@ -3640,7 +3640,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: StructureInside_MuseumInsect01
+        !h mPaletteSetName.Str: StructureInside_MuseumInsect01
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - Midnight_Fine_OR
@@ -3842,7 +3842,7 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: NewyearOutside
+        !h mPaletteSetName.Str: NewyearOutside
       - !h mEnvTimeTableArray[]:
           - !h ProbeSetTypeList[]:
               - 
@@ -4044,4 +4044,4 @@ root:
               - 
               - 
               - 
-        !h 649b96d3: StructureInside_MuseumEnt01
+        !h mPaletteSetName.Str: StructureInside_MuseumEnt01

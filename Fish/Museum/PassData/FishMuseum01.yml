@@ -5,1130 +5,1130 @@ HasReferenceNodes: False
 root:
   !h FishMuseumPassData:
     !h mPassBuffer[]:
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: 深海
-        !h 5ceb7780: !l 1
-        !h 65d9661b:
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: 深海
+        !h mAquariumID.s32: !l 1
+        !h mCenterPinPos.V3f:
           - 310.00000
           - 25.00000
           - 110.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l -1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l -1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -40.80000
               - 7.00000
               - -15.40000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l -1
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l -1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -0.60000
               - 14.20000
               - -10.80000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l -1
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l -1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -22.60000
               - 12.40000
               - -8.60000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l -1
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l -1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 6.00000
               - 10.80000
               - 11.60000
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: アンチョビ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: アンチョビ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 121.00000
           - 55.00000
           - 110.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 3.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 1.23072
               - 5.20000
               - -22.68695
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 3.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 15.51636
               - -0.40000
               - -10.84809
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 3.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 9.33417
               - -4.20000
               - 5.23138
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 3.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -8.64545
               - -3.60000
               - 6.02004
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 3.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -15.66711
               - 0.80000
               - -10.33665
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: サメ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: サメ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 110.00000
           - 60.00000
           - 115.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 14.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 14.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 48.18069
               - -1.40000
               - -12.46904
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 39.54594
               - -2.23019
               - 13.34064
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 18.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 18.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -9.31027
               - -3.59845
               - 16.13734
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 18.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 18.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -27.69801
               - 4.00000
               - -5.60000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 18.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 18.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -7.80000
               - 11.20000
               - -27.00000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 18.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 18.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 31.11720
               - 8.20000
               - -28.40000
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: カジキ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: カジキ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 128.00000
           - 40.00000
           - 120.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -18.92759
               - 5.44550
               - 11.79642
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 9.31982
               - 4.92909
               - 15.00000
-            !h f0db2789: !l 6
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 6
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 45.80000
               - -0.80000
               - -12.02011
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 33.80000
               - 1.81244
               - -39.17739
-            !h f0db2789: !l 7
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 7
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -47.20000
               - 2.75745
               - -42.86752
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 18.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 18.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -54.00000
               - 0.53949
               - -8.99204
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 5.67751
               - 16.44516
               - -16.82744
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -14.22442
               - 4.07787
               - -21.09792
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: ジンベエ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: ジンベエ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 129.91930
           - 35.00000
           - 110.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -59.20000
               - 18.99677
               - 3.60000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -56.97692
               - 26.87097
               - -22.66339
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 19.50000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 19.50000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -31.66623
               - 27.80261
               - -33.65656
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -8.67234
               - 31.72811
               - -35.03992
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 21.22321
               - 34.54552
               - -31.03795
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 14.00000
-            !h 508e9915: !l 6
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 14.00000
+            !h mFirstDistination.s32: !l 6
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 41.43233
               - 32.12725
               - -11.40000
-            !h f0db2789: !l 10
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 7
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 10
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 7
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 38.40805
               - 15.82202
               - 8.27554
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 8
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 8
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 19.78986
               - 4.40385
               - 25.61337
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 18.00000
-            !h 508e9915: !l 9
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 18.00000
+            !h mFirstDistination.s32: !l 9
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -8.64435
               - -1.99904
               - 27.20000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -40.00000
               - 6.00525
               - 24.60000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 11
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 11
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 18.00000
               - 36.80000
               - 9.40000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 12
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 12
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -17.60000
               - 49.20000
               - 12.40000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 13
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 13
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -46.83169
               - 64.02071
               - 3.81363
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -52.41396
               - 50.30191
               - -19.98813
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: ロウニンアジ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: ロウニンアジ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 130.00000
           - 30.00000
           - 100.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -25.40000
               - -3.00000
               - 27.45607
-            !h f0db2789: !l 6
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 6
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 27.05428
               - 3.87381
               - 32.04750
-            !h f0db2789: !l 6
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 6
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 46.89644
               - 2.01143
               - 2.39147
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 14.55724
               - 7.42707
               - -30.88306
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -26.48137
               - 7.13109
               - -20.66206
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -42.34433
               - -0.90630
               - -1.01260
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -5.97306
               - 13.25192
               - 5.65605
-            !h f0db2789: !l 3
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: マンボウ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l 3
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: マンボウ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 130.00000
           - 65.00000
           - 110.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 26.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 26.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -74.21106
               - 11.32339
               - -15.08387
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -53.35678
               - 5.97607
               - 17.74525
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -10.00446
               - 2.20149
               - 23.74237
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 26.00764
               - 9.90115
               - 19.26436
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 26.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 26.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 49.59143
               - 16.04830
               - -10.40845
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 6
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 6
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 29.68704
               - 23.25719
               - -37.76414
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 7
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 7
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -9.33958
               - 21.33602
               - -39.60216
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -51.02227
               - 16.10576
               - -38.35545
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: アジ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: アジ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 162.00000
           - 45.00000
           - 100.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 1.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 1.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 19.74792
               - -0.06960
               - -17.83471
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 1.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 1.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 18.18092
               - -0.87881
               - 5.99960
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 6.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 6.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -4.42661
               - 4.51795
               - 15.70686
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 6.00000
-            !h 4dccf8d: 8.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 6.00000
+            !h mCorrectRadius.f32: 8.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -19.08488
               - 0.18596
               - 9.45366
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 6.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 6.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -17.86630
               - 1.92161
               - -7.85498
-            !h f0db2789: !l 8
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 6.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 8
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 6.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -0.74692
               - 5.84647
               - -27.71599
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 4.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 7
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 4.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 7
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 9.85907
               - 17.08104
               - -24.85010
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 4.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 8
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 4.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 8
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -7.62392
               - 10.63126
               - -22.63586
-            !h f0db2789: !l 2
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 4.00000
-            !h 4dccf8d: 8.00000
-            !h 508e9915: !l 9
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 2
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 4.00000
+            !h mCorrectRadius.f32: 8.00000
+            !h mFirstDistination.s32: !l 9
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -17.14252
               - 13.66084
               - 3.78894
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 4.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 10
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 4.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 10
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -2.94164
               - 7.96141
               - 13.79866
-            !h f0db2789: !l 5
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 2.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 6
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 5
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 2.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 6
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 16.93321
               - 11.05399
               - 1.42942
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: マグロ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: マグロ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 70.00000
           - 32.00000
           - 96.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 2.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 2.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -4.48570
               - 8.00000
               - 4.33599
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 2.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 2.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 35.75671
               - -2.84431
               - 17.80000
-            !h f0db2789: !l 6
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 2.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 6
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 2.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 75.16307
               - -1.86661
               - 18.76493
-            !h f0db2789: !l 6
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 2.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 6
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 2.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 103.09640
               - -0.01639
               - -16.50211
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 54.40000
               - 0.00000
               - -25.80000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 9.13945
               - 0.17038
               - -24.11914
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 53.34734
               - 19.54861
               - 3.50127
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: アンコウ
-        !h 5ceb7780: !l 1
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: アンコウ
+        !h mAquariumID.s32: !l 1
+        !h mCenterPinPos.V3f:
           - 278.00000
           - 28.00000
           - 134.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 6.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 6.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 5.90006
               - 10.60000
               - -48.72195
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 6.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 6.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 5.42603
               - 10.95229
               - -38.52504
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 6.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 6.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 11.27209
               - 12.40000
               - -32.71613
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 6.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 6.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 19.93924
               - 14.80000
               - -39.12417
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 6.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 6.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 16.74255
               - 12.58890
               - -49.94337
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: デメニギス
-        !h 5ceb7780: !l 1
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: デメニギス
+        !h mAquariumID.s32: !l 1
+        !h mCenterPinPos.V3f:
           - 296.00000
           - 22.00000
           - 132.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 1.38846
               - 20.50482
               - -32.90031
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -3.18652
               - 18.85397
               - -29.22655
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 3.30731
               - 15.24574
               - -21.88029
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 9.30624
               - 16.54393
               - -16.50423
-            !h f0db2789: !l 6
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 6
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 11.37189
               - 14.40000
               - -8.20000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 6
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 6
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 18.75009
               - 15.40000
               - -11.11632
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 7
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 7
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 15.80000
               - 18.80000
               - -21.89484
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 5.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 10.08990
               - 21.72685
               - -26.87274
-            !h f0db2789: !l 2
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: シーラカンス
-        !h 5ceb7780: !l 1
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l 2
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: シーラカンス
+        !h mAquariumID.s32: !l 1
+        !h mCenterPinPos.V3f:
           - 244.00000
           - 34.00000
           - 124.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: true
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: true
+            !h mPoint.V3f:
               - 28.60000
               - -2.82877
               - -23.20000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 45.20000
               - -3.09823
               - -20.60000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 3.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 60.45343
               - 1.22552
               - -40.18475
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 4.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 4.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 56.92126
               - 1.16002
               - -57.06036
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 42.20000
               - 4.93609
               - -62.40000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l 6
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 6
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 31.40000
               - 3.22834
               - -52.07413
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 3.00000
-            !h 4dccf8d: 8.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 8.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 33.40000
               - 0.40000
               - -37.19987
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 10.00000
-            !h 508e9915: !l -1
-            !h c3ccef92: true
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l -1
+            !h mIsSpActionPoint.bool: true
+            !h mPoint.V3f:
               - 24.00000
               - -1.60000
               - -42.20000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 2.00000
-            !h 508e9915: !l -1
-            !h c3ccef92: true
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 2.00000
+            !h mFirstDistination.s32: !l -1
+            !h mIsSpActionPoint.bool: true
+            !h mPoint.V3f:
               - 23.00000
               - -2.60000
               - -22.80000
-            !h f0db2789: !l -1
-      - !h 10cfbcbe: !l -1
-        !h 10fbb9ec: シイラ
-        !h 5ceb7780: !l 0
-        !h 65d9661b:
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: シイラ
+        !h mAquariumID.s32: !l 0
+        !h mCenterPinPos.V3f:
           - 122.00000
           - 34.00000
           - 100.00000
-        !h d253e355: false
+        !h mIsUseLocatorPos.bool: false
         !h mPointBuffer[]:
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 1
-            !h c3ccef92: false
-            !h e4ee1e96:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -5.20000
               - 5.20000
               - 25.60000
-            !h f0db2789: !l 6
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 2
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 6
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 19.40000
               - 9.80000
               - 23.40000
-            !h f0db2789: !l 3
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 3
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 3
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 42.20000
               - 2.01143
               - 2.39147
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 24.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 24.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - 28.20000
               - 20.20000
               - -26.20000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 5
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -26.48137
               - 18.60000
               - -29.40000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 16.00000
-            !h 508e9915: !l 7
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 16.00000
+            !h mFirstDistination.s32: !l 7
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -54.40000
               - 18.40000
               - -8.20000
-            !h f0db2789: !l 8
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 4
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 8
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -2.60000
               - 26.00000
               - 5.65605
-            !h f0db2789: !l 3
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 20.00000
-            !h 508e9915: !l 0
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l 3
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -53.60000
               - 0.00000
               - 22.60000
-            !h f0db2789: !l -1
-          - !h 1f911e4f: !l -1
-            !h 31bc320f: 0.00000
-            !h 4dccf8d: 12.00000
-            !h 508e9915: !l 6
-            !h c3ccef92: false
-            !h e4ee1e96:
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 12.00000
+            !h mFirstDistination.s32: !l 6
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
               - -35.40000
               - 13.60000
               - 14.40000
-            !h f0db2789: !l -1
+            !h mSecondDistination.s32: !l -1

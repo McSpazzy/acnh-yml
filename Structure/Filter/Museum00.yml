@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h Museum00:
     !h mHalfUnitFilterNoPutItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -147,7 +147,7 @@ root:
         - false
         - false
     !h mUnitFilterNoMakeCliff:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -184,7 +184,7 @@ root:
         - true
         - true
     !h mHalfUnitFilterRemoveItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -326,7 +326,7 @@ root:
         - false
         - false
     !h mUnitFilterNoMakeRiver:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true

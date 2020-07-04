@@ -4,15 +4,15 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h SSAO:
-    !h 2cac3d2e: false
+    !h mIsEnable.bool: false
     !h 40fd7b8e: true
     !h 41be853a: 0.25000
     !h 4cb0d69f: cHalf
-    !h 4e67858c:
+    !h mFbSize.V2f:
       - 960.00000
       - 540.00000
-    !h 6df92e09: !l 2
-    !h 94f81f90: 1.20000
+    !h mMaxMipLevel.u32: !l 2
+    !h mIntensity.f32: 1.20000
     !h b6372d17:
       - 1.00000
       - 100000.00000

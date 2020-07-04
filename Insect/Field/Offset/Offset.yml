@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h InsectOffsetPosParams:
     !h mPointBuffer[]:
-      - !h 1a7dacf3:
+      - !h mPointBuffer[].V3f:
           - - -3.40640
             - 6.76000
             - -0.44288
@@ -15,8 +15,8 @@ root:
           - - 2.98000
             - 7.01782
             - -1.28042
-        !h ea587484: FlwTulip
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwTulip
+      - !h mPointBuffer[].V3f:
           - - -2.24000
             - 4.36000
             - 0.00000
@@ -26,8 +26,8 @@ root:
           - - 2.98000
             - 3.84400
             - 0.38800
-        !h ea587484: FlwPansy
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwPansy
+      - !h mPointBuffer[].V3f:
           - - -2.74000
             - 5.90000
             - -0.22000
@@ -37,8 +37,8 @@ root:
           - - 2.98000
             - 5.62600
             - 0.60400
-        !h ea587484: FlwRose
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwRose
+      - !h mPointBuffer[].V3f:
           - - -4.02000
             - 5.34000
             - -1.84000
@@ -48,8 +48,8 @@ root:
           - - 3.68200
             - 5.73400
             - -0.12000
-        !h ea587484: FlwLily
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwLily
+      - !h mPointBuffer[].V3f:
           - - -2.78000
             - 5.00000
             - -2.48000
@@ -59,8 +59,8 @@ root:
           - - 2.85400
             - 5.08600
             - -0.42200
-        !h ea587484: FlwAnemones
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwAnemones
+      - !h mPointBuffer[].V3f:
           - - -2.74000
             - 5.78000
             - -1.02000
@@ -70,8 +70,8 @@ root:
           - - 2.81800
             - 6.43600
             - -1.14200
-        !h ea587484: FlwMum
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwMum
+      - !h mPointBuffer[].V3f:
           - - -3.22000
             - 7.56000
             - -2.00000
@@ -81,8 +81,8 @@ root:
           - - 3.48400
             - 7.19200
             - -2.13200
-        !h ea587484: FlwHyacinth
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwHyacinth
+      - !h mPointBuffer[].V3f:
           - - -2.30000
             - 4.76000
             - -0.94000
@@ -92,8 +92,8 @@ root:
           - - -1.20000
             - 3.62000
             - 3.52000
-        !h ea587484: FlwCosmos
-      - !h 1a7dacf3:
+        !h mFgKind.Enum: FlwCosmos
+      - !h mPointBuffer[].V3f:
           - - -0.60000
             - 6.30000
             - 0.00000
@@ -103,4 +103,4 @@ root:
           - - -0.60000
             - 6.30000
             - 0.00000
-        !h ea587484: FlwSuzuran
+        !h mFgKind.Enum: FlwSuzuran

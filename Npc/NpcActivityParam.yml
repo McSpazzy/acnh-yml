@@ -4,103 +4,103 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h NpcActivityParam:
-    !h 104136f7: !l 50
-    !h 12efdee0: !l 1
-    !h 143ea26c: !l 30
-    !h 148f1b45: !l 2
-    !h 1569ad4d: 10.00000
-    !h 1753bf22: !l 5
-    !h 17cd4223: !l 20
-    !h 1d24998c: !l -4
-    !h 2024ac1c: !l -10
-    !h 2034e756: !l 300
-    !h 2224d03c: !l 1
-    !h 22a8ff42: !l 20
-    !h 23a0972: !l 0
-    !h 24d5d118: !l 5
-    !h 2545eb0a: !l 36
-    !h 276c2037: !l 5
-    !h 2db8d404: !l 900
-    !h 2e2b66a1: !l 15
-    !h 2f3bcff1: !l 51
-    !h 313acf10: !l 1
-    !h 37b38cfc: 22.50000
-    !h 387ee222: !l 30
-    !h 3b00bcb3: !l -2
-    !h 3b8d026d: !l 0
-    !h 3e5a5980: !l 5
-    !h 41e4cccd: !l 30
-    !h 461a22c: !l 3
-    !h 475630e0: 5.00000
-    !h 4756f2a4: !l 12
-    !h 4dff2a99: !l 1
-    !h 4e81ce51: !l 33
-    !h 4fab2a31: 2.00000
-    !h 50af86fb: 15.00000
-    !h 5194075f: !l 0
-    !h 5267e710: !l 30
-    !h 5410bfe7: !l 1
-    !h 55a87c85: !l 0
-    !h 57765005: !l 60
-    !h 5b221bc4: 7.50000
-    !h 5b66cb61: 4.00000
-    !h 5fec74db: !l 90
-    !h 6202567b: 45.00000
-    !h 65b501a2: !l 5
-    !h 66423274: 8.80000
-    !h 6646e1ed: !l 15
-    !h 747c1dce: !l 120
-    !h 778ffd81: !l 60
-    !h 77fcf48a: 10.00000
-    !h 79aafe71: !l -6
-    !h 7ad929ce: !l 1
-    !h 7cdfeb1: 0.75000
-    !h 7d0ea6d4: !l 50
-    !h 84f23227: 6.50000
-    !h 8992b9b3: !l 100
-    !h 89a82f79: 15.00000
-    !h 8a6159fc: !l 0
-    !h 8a785566: !l 20
-    !h 8f76f908: !l 10
-    !h 90128059: !l 10
-    !h 93e69c46: !l 100
-    !h 94889961: !l 20
-    !h 97f7e105: 3.00000
-    !h 9c3eac9f: 35.00000
-    !h 9d1cb534: !l 20
-    !h 9fa4cacf: 0.95000
-    !h a23c87f4: 0.00000
-    !h a2888e95: !l 40
-    !h ab52e966: !l 80
-    !h aee66675: 60.00000
-    !h b1154bd3: !l 10
-    !h b2e6ab9c: !l 20
-    !h b388c44a: !l 600
-    !h b43c527d: !l 2
-    !h bec4fdba: 100.00000
-    !h c02477bf: !l 40
-    !h c15c4c36: !l 300
-    !h c242b9b4: 2.00000
-    !h c2afac79: !l 90
-    !h c471a902: !l 6
-    !h c55b56c: !l 1
-    !h c569539c: !l -5
-    !h c8907556: !l 1200
-    !h cddecd3d: !l -7
-    !h d041d0e9: 3.00000
-    !h d14546c1: !l 5
-    !h d2b6a68e: !l 15
-    !h d81a5301: !l 10
-    !h d836dc76: !l 0
-    !h db5ec42d: !l 3
-    !h dd4e42a3: !l 50
-    !h ddea2091: !l 66
-    !h e3fa439a: !l 1
-    !h eb5e0a02: -0.06000
-    !h edf32a02: 15.00000
-    !h f0ebe612: !l 0
-    !h f656c6de: 1.00000
-    !h f6f1bcd: 0.00000
-    !h fa21e5f4: 45.00000
-    !h fa95c2e9: !l 0
-    !h ff2853ad: !l -3
+    !h mConversationSpeakerChangeRate.s32: !l 50
+    !h mInterestChangeValue.s32: !l 1
+    !h mInterestRushRateMax.s32: !l 30
+    !h mNaturalChangeTime.s32: !l 2
+    !h mCatchInsectStopDist.f32: 10.00000
+    !h mAudioFinishDelayMaxBeat.s32: !l 5
+    !h mInterestRushRateMin.s32: !l 20
+    !h mConflictInterestChange.s32: !l -4
+    !h mDoingStopChangeValue.s32: !l -10
+    !h mMinimumFtrFrameInHousing.s32: !l 300
+    !h mInterestChangeTime.s32: !l 1
+    !h mNormalThresholdValue.s32: !l 20
+    !h mConcentrateInterest1to2H.s32: !l 0
+    !h mStartDozeProbability.s32: !l 5
+    !h mConcentrateInterest3to4V.s32: !l 36
+    !h mGreetIntervalTime.s32: !l 5
+    !h mMinimumSitFrameInHousing.s32: !l 900
+    !h mUpdateFrame.s32: !l 15
+    !h mConcentrateInterest2to3V.s32: !l 51
+    !h mDoingStopChangeTime.s32: !l 1
+    !h mExerciseClassMaxRadius.f32: 22.50000
+    !h mConversationEndFrameMax.s32: !l 30
+    !h mNaturalChangeValue.s32: !l -2
+    !h mConversationEndFrameMin.s32: !l 0
+    !h mNeedNaturalChangeTime.s32: !l 5
+    !h mNeedLimitTime.s32: !l 30
+    !h mConversationSpeakerMaxNum.s32: !l 3
+    !h mConflictQuitLineOffset.f32: 5.00000
+    !h mConversationEndReactDelayFrame.s32: !l 12
+    !h mRecoverChangeTime.s32: !l 1
+    !h mRecoverThresholdValue.s32: !l 33
+    !h mFollowInsectStopDist.f32: 2.00000
+    !h mCatchInsectRunDist.f32: 15.00000
+    !h mConversationReactionFrameMin.s32: !l 0
+    !h mConversationReactionFrameMax.s32: !l 30
+    !h mInterestGainTime.s32: !l 1
+    !h mConcentrateInterest4to5H.s32: !l 0
+    !h mLostThresholdValue.s32: !l 60
+    !h mConversationRadiusM.f32: 7.50000
+    !h mFollowInsectMaxDist.f32: 4.00000
+    !h mPersonalSpaceReactionTime.s32: !l 90
+    !h mSightLength.f32: 45.00000
+    !h mFtrSwitchResponseFrameMin.s32: !l 5
+    !h mConversationRadiusL.f32: 8.80000
+    !h mFtrSwitchResponseFrameMax.s32: !l 15
+    !h mConversationTalkFrameMax.s32: !l 120
+    !h mConversationTalkFrameMin.s32: !l 60
+    !h mExerciseClassMinRadius.f32: 10.00000
+    !h mDoingChangeValue.s32: !l -6
+    !h mConflictChangeTime.s32: !l 1
+    !h mNeedCurveBias.f32: 0.75000
+    !h mConflictQuitInterestTh.s32: !l 50
+    !h mConversationRadiusS.f32: 6.50000
+    !h mConflictReverseEndThMax.s32: !l 100
+    !h mCatchInsectStartDist.f32: 15.00000
+    !h mConflictReverseEndThMin.s32: !l 0
+    !h mConcentrateInterest4to5V.s32: !l 20
+    !h mConflictChangeRangeTime.s32: !l 10
+    !h mLookToSkyPercent.s32: !l 10
+    !h mNeedStartValue.s32: !l 100
+    !h mSitPercentInHousing.s32: !l 20
+    !h mFollowInsectRunDist.f32: 3.00000
+    !h mCatchInsectMaxDist.f32: 35.00000
+    !h mConflictQuitConcentrateTh.s32: !l 20
+    !h mInterestGainRate.f32: 0.95000
+    !h mConflictStartLineOffset.f32: 0.00000
+    !h mPlacementFieldRateHouse.s32: !l 40
+    !h mConflictReverseEndNeedValue.s32: !l 80
+    !h mSightAngle.f32: 60.00000
+    !h mConflictReverseEndRateMin.s32: !l 10
+    !h mConflictReverseEndRateMax.s32: !l 20
+    !h mWanderFrameInHousing.s32: !l 600
+    !h mRecoverChangeValue.s32: !l 2
+    !h mWatchFtrHeight.f32: 100.00000
+    !h mPlacementFieldRateEventPlaza.s32: !l 40
+    !h mWateringWaitFrameMax.s32: !l 300
+    !h mConflictEndLineSlope.f32: 2.00000
+    !h mWateringWaitFrameMin.s32: !l 90
+    !h mPersonalSpaceCollisionRate.s32: !l 6
+    !h mDoingChangeTime.s32: !l 1
+    !h mConflictChangeRange.s32: !l -5
+    !h mMinimumReadFrameInHousing.s32: !l 1200
+    !h mConflictInterestStopChange.s32: !l -7
+    !h mFollowInsectStartDist.f32: 3.00000
+    !h mReactionDelayFrameMin.s32: !l 5
+    !h mReactionDelayFrameMax.s32: !l 15
+    !h mWanderPercentInHousing.s32: !l 10
+    !h mNeedLimitValue.s32: !l 0
+    !h mAudioFinishDelayMinBeat.s32: !l 3
+    !h mNatureInterestHeight.s32: !l 50
+    !h mConcentrateInterest1to2V.s32: !l 66
+    !h mNeedNaturalChange.s32: !l 1
+    !h mConflictChangeSlope.f32: -0.06000
+    !h mPersonalSpaceRadius.f32: 15.00000
+    !h mConcentrateInterest2to3H.s32: !l 0
+    !h mConflictStartLineSlope.f32: 1.00000
+    !h mConflictEndLineOffset.f32: 0.00000
+    !h mCatchFollowInsectTurnAngle.f32: 45.00000
+    !h mConcentrateInterest3to4H.s32: !l 0
+    !h mConflictInterestChangeRange.s32: !l -3

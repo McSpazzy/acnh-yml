@@ -3,116 +3,116 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 4f59dc47:
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 2238
-      !h c6be5714:
+  !h FishMuseumAntiStream[]:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 2238
+      !h mExistRange.V3f:
         - 21.39400
         - 6.04900
         - 3.07900
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 2.00000
-      !h 5222fa91: 10.00000
-      !h 89d12daa: !l 2242
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 2.00000
+      !h mDriftFrameMax.f32: 10.00000
+      !h mUniqueID.u16: !l 2242
+      !h mExistRange.V3f:
         - 15.00000
         - 2.80000
         - 3.00000
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 2237
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 2237
+      !h mExistRange.V3f:
         - 12.00000
         - 10.00000
         - 2.48500
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 60.00000
-      !h 5222fa91: 93.75000
-      !h 89d12daa: !l 2233
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 60.00000
+      !h mDriftFrameMax.f32: 93.75000
+      !h mUniqueID.u16: !l 2233
+      !h mExistRange.V3f:
         - 15.00000
         - 6.00000
         - 4.00000
-    - !h 1064bb15: 20.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 2241
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 20.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 2241
+      !h mExistRange.V3f:
         - 20.00000
         - 4.00000
         - 3.00000
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 2217
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 2217
+      !h mExistRange.V3f:
         - 11.69200
         - 10.00000
         - 2.68300
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 2216
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 2216
+      !h mExistRange.V3f:
         - 10.00000
         - 5.00000
         - 2.00000
-    - !h 1064bb15: 5.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 4190
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 5.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 4190
+      !h mExistRange.V3f:
         - 8.02900
         - 2.50000
         - 3.00000
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 328
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 328
+      !h mExistRange.V3f:
         - 7.00000
         - 2.00000
         - 3.00000
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 4193
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 4193
+      !h mExistRange.V3f:
         - 25.00000
         - 2.30000
         - 3.00000
-    - !h 1064bb15: 20.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 2239
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 20.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 2239
+      !h mExistRange.V3f:
         - 26.00000
         - 8.00000
         - 6.00000
-    - !h 1064bb15: 10.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 2243
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 10.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 2243
+      !h mExistRange.V3f:
         - 13.96900
         - 7.43500
         - 2.00000
-    - !h 1064bb15: 5.00000
-      !h 51d11ade: 10.00000
-      !h 5222fa91: 30.00000
-      !h 89d12daa: !l 4189
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 5.00000
+      !h mDriftFrameMin.f32: 10.00000
+      !h mDriftFrameMax.f32: 30.00000
+      !h mUniqueID.u16: !l 4189
+      !h mExistRange.V3f:
         - 22.00000
         - 5.75200
         - 3.00000
-    - !h 1064bb15: 30.00000
-      !h 51d11ade: 1.00000
-      !h 5222fa91: 2.00000
-      !h 89d12daa: !l 2236
-      !h c6be5714:
+    - !h mTurnMaxAngleYDeg.f32: 30.00000
+      !h mDriftFrameMin.f32: 1.00000
+      !h mDriftFrameMax.f32: 2.00000
+      !h mUniqueID.u16: !l 2236
+      !h mExistRange.V3f:
         - 12.00000
         - 6.00000
         - 3.00000

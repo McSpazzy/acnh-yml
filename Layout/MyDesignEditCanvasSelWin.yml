@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]: null
-    !h 4309561a: UI_MyDesignEditCanvasSelWin
-    !h 718df20d: false
-    !h a8e79f6f:
-      - {!h 2c49113d: InEffect, !h 8625d6ec: !l 0}
+    !h mUserName.Str: UI_MyDesignEditCanvasSelWin
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]:
+      - {!h mTagName.Str: InEffect, !h mAnimOpeOption.Bit: !l 0}

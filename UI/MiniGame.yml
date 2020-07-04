@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h MiniGame: {!h e24de599: !l 0}
+  !h MiniGame: {!h mFishDelayCount.s32: !l 0}

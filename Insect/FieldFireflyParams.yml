@@ -6,21 +6,21 @@ root:
   !h FieldFireflyParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 3b5e456f: 0.99976
-      !h 4e445482: 1.25000
-      !h 5106f9ba: 0.06250
-      !h 512348b7: 0.11719
-      !h 536026a: 5.00000
-      !h 85afe209: 0.06250
-      !h ab07ced8: 15.00000
+      !h mLabel.Str: 
+      !h mAddDirDeg.f32: 0.99976
+      !h mEscapeRate.f32: 1.25000
+      !h mBreathMax.f32: 0.06250
+      !h mMoveSpeed.f32: 0.11719
+      !h mSwingBreath.f32: 5.00000
+      !h mSpeedY.f32: 0.06250
+      !h mBaseY.f32: 15.00000
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Hotaru
-        !h 3b5e456f: 0.99976
-        !h 4e445482: 1.25000
-        !h 5106f9ba: 0.06250
-        !h 512348b7: 0.11719
-        !h 536026a: 5.00000
-        !h 85afe209: 0.06250
-        !h ab07ced8: 15.00000
+      - !h mLabel.Str: Hotaru
+        !h mAddDirDeg.f32: 0.99976
+        !h mEscapeRate.f32: 1.25000
+        !h mBreathMax.f32: 0.06250
+        !h mMoveSpeed.f32: 0.11719
+        !h mSwingBreath.f32: 5.00000
+        !h mSpeedY.f32: 0.06250
+        !h mBaseY.f32: 15.00000

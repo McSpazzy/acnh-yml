@@ -5,220 +5,220 @@ HasReferenceNodes: False
 root:
   !h IdrLightMgrParam:
     !h mPointLightParam[]:
-      - !h 2cac3d2e: true
-        !h 6404e56c: 室内灯
+      - !h mIsEnable.bool: true
+        !h mName.Str: 室内灯
         !h mParam[]:
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 2cc46ab6: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mIsCandle.bool: false
+            !h mColor.C4f:
               - 1.00000
               - 0.50000
               - 0.20000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 160.00000
               - 28.00000
               - 160.00000
-            !h 341a207f: 1.00000
-            !h 45c202fb: 30.00000
-            !h 47d316df:
+            !h mRadiusOffset.f32: 1.00000
+            !h mSize.f32: 30.00000
+            !h mColorOffset.C4f:
               - 0.00000
               - 0.00000
               - 0.00000
               - 0.00000
-            !h 5260faf: 0.09000
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 8139ecd8: 0.05000
-            !h 83b27d01: 0.00300
-            !h 94f81f90: 18.00000
-            !h 99275374: 40.00000
-            !h c6999608: 0.20000
-            !h c6d52e9b: 
-            !h ca983c88: false
+            !h mCycleAR.f32: 0.09000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mCycleB.f32: 0.05000
+            !h mCycleBR.f32: 0.00300
+            !h mIntensity.f32: 18.00000
+            !h mRadius.f32: 40.00000
+            !h mCycleA.f32: 0.20000
+            !h mBindModelName.Str: 
+            !h mIsCandleColor.bool: false
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 2cc46ab6: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mIsCandle.bool: false
+            !h mColor.C4f:
               - 1.00000
               - 0.50000
               - 0.20000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 170.88000
               - 28.00000
               - 165.76000
-            !h 341a207f: 1.00000
-            !h 45c202fb: 30.00000
-            !h 47d316df:
+            !h mRadiusOffset.f32: 1.00000
+            !h mSize.f32: 30.00000
+            !h mColorOffset.C4f:
               - 0.00000
               - 0.00000
               - 0.00000
               - 0.00000
-            !h 5260faf: 0.09000
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 8139ecd8: 0.05000
-            !h 83b27d01: 0.00300
-            !h 94f81f90: 20.00000
-            !h 99275374: 49.00000
-            !h c6999608: 0.20000
-            !h c6d52e9b: 
-            !h ca983c88: false
-      - !h 2cac3d2e: true
-        !h 6404e56c: 通路灯
+            !h mCycleAR.f32: 0.09000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mCycleB.f32: 0.05000
+            !h mCycleBR.f32: 0.00300
+            !h mIntensity.f32: 20.00000
+            !h mRadius.f32: 49.00000
+            !h mCycleA.f32: 0.20000
+            !h mBindModelName.Str: 
+            !h mIsCandleColor.bool: false
+      - !h mIsEnable.bool: true
+        !h mName.Str: 通路灯
         !h mParam[]:
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 2cc46ab6: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mIsCandle.bool: false
+            !h mColor.C4f:
               - 1.00000
               - 0.70000
               - 0.20000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 113.28000
               - 8.00000
               - 160.00000
-            !h 341a207f: 1.00000
-            !h 45c202fb: 0.00000
-            !h 47d316df:
+            !h mRadiusOffset.f32: 1.00000
+            !h mSize.f32: 0.00000
+            !h mColorOffset.C4f:
               - 0.00000
               - 0.00000
               - 0.00000
               - 0.00000
-            !h 5260faf: 0.09000
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 8139ecd8: 0.05000
-            !h 83b27d01: 0.00300
-            !h 94f81f90: 0.00000
-            !h 99275374: 0.00000
-            !h c6999608: 0.20000
-            !h c6d52e9b: 
-            !h ca983c88: false
+            !h mCycleAR.f32: 0.09000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mCycleB.f32: 0.05000
+            !h mCycleBR.f32: 0.00300
+            !h mIntensity.f32: 0.00000
+            !h mRadius.f32: 0.00000
+            !h mCycleA.f32: 0.20000
+            !h mBindModelName.Str: 
+            !h mIsCandleColor.bool: false
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 2cc46ab6: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mIsCandle.bool: false
+            !h mColor.C4f:
               - 1.00000
               - 0.70000
               - 0.20000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 113.28000
               - 8.00000
               - 160.00000
-            !h 341a207f: 1.00000
-            !h 45c202fb: 0.00000
-            !h 47d316df:
+            !h mRadiusOffset.f32: 1.00000
+            !h mSize.f32: 0.00000
+            !h mColorOffset.C4f:
               - 0.00000
               - 0.00000
               - 0.00000
               - 0.00000
-            !h 5260faf: 0.09000
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 8139ecd8: 0.05000
-            !h 83b27d01: 0.00300
-            !h 94f81f90: 5.00000
-            !h 99275374: 20.00000
-            !h c6999608: 0.20000
-            !h c6d52e9b: 
-            !h ca983c88: false
+            !h mCycleAR.f32: 0.09000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mCycleB.f32: 0.05000
+            !h mCycleBR.f32: 0.00300
+            !h mIntensity.f32: 5.00000
+            !h mRadius.f32: 20.00000
+            !h mCycleA.f32: 0.20000
+            !h mBindModelName.Str: 
+            !h mIsCandleColor.bool: false
     !h mSpotLightParam[]:
-      - !h 2cac3d2e: true
-        !h 6404e56c: 天空光
+      - !h mIsEnable.bool: true
+        !h mName.Str: 天空光
         !h mParam[]:
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
               - 0.80000
               - 0.90000
               - 1.00000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 205.00000
               - 31.31200
               - 206.00000
-            !h 45c202fb: 100.00000
-            !h 4a07fd06:
+            !h mSize.f32: 100.00000
+            !h mDir.V3f:
               - -0.56195
               - -0.49524
               - -0.97765
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 79a61e3f: 120.00000
-            !h 94f81f90: 3.00000
-            !h c09bb276: 0.87267
-            !h c6d52e9b: 
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 120.00000
+            !h mIntensity.f32: 3.00000
+            !h mFovy.f32: 0.87267
+            !h mBindModelName.Str: 
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
               - 0.30000
               - 0.50000
               - 1.00000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 205.20000
               - 46.80000
               - 206.10000
-            !h 45c202fb: 100.00000
-            !h 4a07fd06:
+            !h mSize.f32: 100.00000
+            !h mDir.V3f:
               - -0.42364
               - -0.63931
               - -0.64172
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 79a61e3f: 120.00000
-            !h 94f81f90: 0.70000
-            !h c09bb276: 0.87267
-            !h c6d52e9b: 
-      - !h 2cac3d2e: true
-        !h 6404e56c: 棚ライト
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 120.00000
+            !h mIntensity.f32: 0.70000
+            !h mFovy.f32: 0.87267
+            !h mBindModelName.Str: 
+      - !h mIsEnable.bool: true
+        !h mName.Str: 棚ライト
         !h mParam[]:
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
               - 1.00000
               - 0.60000
               - 0.20000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 133.42210
               - 57.60000
               - 143.78500
-            !h 45c202fb: 47.00000
-            !h 4a07fd06:
+            !h mSize.f32: 47.00000
+            !h mDir.V3f:
               - 0.00000
               - -1.00000
               - -0.37600
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 79a61e3f: 57.00000
-            !h 94f81f90: 2.00000
-            !h c09bb276: 0.83776
-            !h c6d52e9b: 
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 57.00000
+            !h mIntensity.f32: 2.00000
+            !h mFovy.f32: 0.83776
+            !h mBindModelName.Str: 
           - !h mNormAreaSidemRemakeTool: false
-            !h 2cac3d2e: false
-            !h 322b9edc:
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
               - 1.00000
               - 0.60000
               - 0.20000
               - 1.00000
-            !h 32af8f76:
+            !h mPos.V3f:
               - 133.42210
               - 57.60000
               - 143.78500
-            !h 45c202fb: 47.00000
-            !h 4a07fd06:
+            !h mSize.f32: 47.00000
+            !h mDir.V3f:
               - 0.00000
               - -1.00000
               - -0.37600
-            !h 55a5c25d: 
-            !h 6404e56c: DefaultName
-            !h 79a61e3f: 57.00000
-            !h 94f81f90: 3.00000
-            !h c09bb276: 0.83776
-            !h c6d52e9b: 
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 57.00000
+            !h mIntensity.f32: 3.00000
+            !h mFovy.f32: 0.83776
+            !h mBindModelName.Str: 

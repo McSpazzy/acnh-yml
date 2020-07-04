@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h CommonCurves:
     !h mParamsBuffer[]:
-      - !h 1368cc8:
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - 0.05727
@@ -25,9 +25,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: FtrApear_Y
-        !h 66f1928a: !l 14
-      - !h 1368cc8:
+        !h mKey.Str: FtrApear_Y
+        !h mFrame.s32: !l 14
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - 0.40577
@@ -47,9 +47,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: FtrApear_XZ
-        !h 66f1928a: !l 14
-      - !h 1368cc8:
+        !h mKey.Str: FtrApear_XZ
+        !h mFrame.s32: !l 14
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - -0.45673
@@ -61,9 +61,9 @@ root:
             - 0.00000
             - 1.00000
             - -0.02726
-        !h 1f74b3d1: PlantNet_Y
-        !h 66f1928a: !l 8
-      - !h 1368cc8:
+        !h mKey.Str: PlantNet_Y
+        !h mFrame.s32: !l 8
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - 0.26880
@@ -75,9 +75,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00998
-        !h 1f74b3d1: PlantNet_XZ
-        !h 66f1928a: !l 8
-      - !h 1368cc8:
+        !h mKey.Str: PlantNet_XZ
+        !h mFrame.s32: !l 8
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - 0.26995
@@ -91,9 +91,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: PlantPick_Y
-        !h 66f1928a: !l 10
-      - !h 1368cc8:
+        !h mKey.Str: PlantPick_Y
+        !h mFrame.s32: !l 10
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - -0.23147
@@ -107,9 +107,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: PlantPick_XZ
-        !h 66f1928a: !l 10
-      - !h 1368cc8:
+        !h mKey.Str: PlantPick_XZ
+        !h mFrame.s32: !l 10
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - -0.18421
@@ -125,9 +125,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: PlantStep_Y
-        !h 66f1928a: !l 14
-      - !h 1368cc8:
+        !h mKey.Str: PlantStep_Y
+        !h mFrame.s32: !l 14
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.00000
             - 0.24960
@@ -143,9 +143,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: PlantStep_XZ
-        !h 66f1928a: !l 14
-      - !h 1368cc8:
+        !h mKey.Str: PlantStep_XZ
+        !h mFrame.s32: !l 14
+      - !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -161,9 +161,9 @@ root:
             - -0.04175
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: PlantApear_Y
-        !h 66f1928a: !l 14
-      - !h 1368cc8:
+        !h mKey.Str: PlantApear_Y
+        !h mFrame.s32: !l 14
+      - !h mCurvef.Curvef:
           - !l 1
           - - 0.00000
             - 0.00000
@@ -179,17 +179,17 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: PlantApear_XZ
-        !h 66f1928a: !l 14
-      - !h 1368cc8:
+        !h mKey.Str: PlantApear_XZ
+        !h mFrame.s32: !l 14
+      - !h mCurvef.Curvef:
           - !l 6
           - - 0.00000
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: ItemChange
-        !h 66f1928a: !l 6
-      - !h 1368cc8:
+        !h mKey.Str: ItemChange
+        !h mFrame.s32: !l 6
+      - !h mCurvef.Curvef:
           - !l 7
           - - 0.00000
             - 0.00000
@@ -206,9 +206,9 @@ root:
             - 1.00000
             - 0.95000
             - -0.03379
-        !h 1f74b3d1: ItemPass
-        !h 66f1928a: !l 15
-      - !h 1368cc8:
+        !h mKey.Str: ItemPass
+        !h mFrame.s32: !l 15
+      - !h mCurvef.Curvef:
           - !l 6
           - - 0.00000
             - 1.00000
@@ -216,9 +216,9 @@ root:
             - 0.60000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: ItemPutaway
-        !h 66f1928a: !l 9
-      - !h 1368cc8:
+        !h mKey.Str: ItemPutaway
+        !h mFrame.s32: !l 9
+      - !h mCurvef.Curvef:
           - !l 6
           - - 0.00000
             - 0.95000
@@ -238,9 +238,9 @@ root:
             - 0.55000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: ItemEat
-        !h 66f1928a: !l 40
-      - !h 1368cc8:
+        !h mKey.Str: ItemEat
+        !h mFrame.s32: !l 40
+      - !h mCurvef.Curvef:
           - !l 1
           - - 0.99000
             - -0.04300
@@ -256,9 +256,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: SnowBallTop_Y
-        !h 66f1928a: !l 12
-      - !h 1368cc8:
+        !h mKey.Str: SnowBallTop_Y
+        !h mFrame.s32: !l 12
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.02000
             - 0.12409
@@ -274,9 +274,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: SnowBallTop_XZ
-        !h 66f1928a: !l 12
-      - !h 1368cc8:
+        !h mKey.Str: SnowBallTop_XZ
+        !h mFrame.s32: !l 12
+      - !h mCurvef.Curvef:
           - !l 1
           - - 0.97000
             - -0.05183
@@ -292,9 +292,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: SnowBallBody_Y
-        !h 66f1928a: !l 12
-      - !h 1368cc8:
+        !h mKey.Str: SnowBallBody_Y
+        !h mFrame.s32: !l 12
+      - !h mCurvef.Curvef:
           - !l 1
           - - 1.03000
             - 0.06273
@@ -310,9 +310,9 @@ root:
             - 0.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: SnowBallBody_XZ
-        !h 66f1928a: !l 12
-      - !h 1368cc8:
+        !h mKey.Str: SnowBallBody_XZ
+        !h mFrame.s32: !l 12
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 1.00000
@@ -326,9 +326,9 @@ root:
             - 0.20000
             - 0.00000
             - 0.00000
-        !h 1f74b3d1: GstDisappear
-        !h 66f1928a: !l 70
-      - !h 1368cc8:
+        !h mKey.Str: GstDisappear
+        !h mFrame.s32: !l 70
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00267
@@ -345,9 +345,9 @@ root:
             - 0.30000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: GstAppearSpirit
-        !h 66f1928a: !l 70
-      - !h 1368cc8:
+        !h mKey.Str: GstAppearSpirit
+        !h mFrame.s32: !l 70
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.05000
@@ -355,5 +355,5 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: GstAppearNormal
-        !h 66f1928a: !l 10
+        !h mKey.Str: GstAppearNormal
+        !h mFrame.s32: !l 10

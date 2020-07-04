@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h IdrMuseumInsect_1_DemoInterporateParams:
     !h mParamsBuffer[]:
-      - !h 1368cc8:
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -16,9 +16,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: IdrMuseumInsect_1
-        !h 66f1928a: !l 24
-      - !h 1368cc8:
+        !h mKey.Str: IdrMuseumInsect_1
+        !h mFrame.s32: !l 24
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -29,9 +29,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:0
-        !h 66f1928a: !l 24
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:0
+        !h mFrame.s32: !l 24
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -42,9 +42,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:1
-        !h 66f1928a: !l 24
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:1
+        !h mFrame.s32: !l 24
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -55,5 +55,5 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:2
-        !h 66f1928a: !l 24
+        !h mKey.Str: CameraArea:2
+        !h mFrame.s32: !l 24

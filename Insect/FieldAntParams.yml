@@ -8,4 +8,4 @@ root:
     !h mUniqueDummy: null
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - {!h 20e90aef: Ari}
+      - {!h mLabel.Str: Ari}

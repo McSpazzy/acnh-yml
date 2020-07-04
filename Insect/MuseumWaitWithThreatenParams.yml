@@ -5,12 +5,12 @@ HasReferenceNodes: False
 root:
   !h MuseumWaitWithThreatenParams:
     !h mCommon: null
-    !h mUniqueDummy: {!h 1478671b: 0.00000, !h 20e90aef: '', !h b47c2114: 35.00000}
+    !h mUniqueDummy: {!h mThreatenSec.f32: 0.00000, !h mLabel.Str: '', !h mSearchRange.f32: 35.00000}
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - {!h 1478671b: 1.50000, !h 20e90aef: Kamakiri, !h b47c2114: 35.00000}
-      - {!h 1478671b: 1.50000, !h 20e90aef: Hanakamakiri, !h b47c2114: 35.00000}
-      - {!h 1478671b: 1.00000, !h 20e90aef: Kumo, !h b47c2114: 17.00000}
-      - {!h 1478671b: 1.00000, !h 20e90aef: Minomushi, !h b47c2114: 35.00000}
-      - {!h 1478671b: 0.00000, !h 20e90aef: Yadokari, !h b47c2114: 35.00000}
-      - {!h 1478671b: 0.00000, !h 20e90aef: Kirigirisu, !h b47c2114: 35.00000}
+      - {!h mThreatenSec.f32: 1.50000, !h mLabel.Str: Kamakiri, !h mSearchRange.f32: 35.00000}
+      - {!h mThreatenSec.f32: 1.50000, !h mLabel.Str: Hanakamakiri, !h mSearchRange.f32: 35.00000}
+      - {!h mThreatenSec.f32: 1.00000, !h mLabel.Str: Kumo, !h mSearchRange.f32: 17.00000}
+      - {!h mThreatenSec.f32: 1.00000, !h mLabel.Str: Minomushi, !h mSearchRange.f32: 35.00000}
+      - {!h mThreatenSec.f32: 0.00000, !h mLabel.Str: Yadokari, !h mSearchRange.f32: 35.00000}
+      - {!h mThreatenSec.f32: 0.00000, !h mLabel.Str: Kirigirisu, !h mSearchRange.f32: 35.00000}

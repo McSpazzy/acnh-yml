@@ -4,63 +4,63 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h MuseumFlyTotteringWithRestParams:
-    !h mCommon: {!h 4dec5507: 20.00000, !h 9582ffd2: 0.10000, !h 9f9d5b53: 6.00000, !h fc6ea52b: 0.00781}
+    !h mCommon: {!h mApproachCycleSec.f32: 20.00000, !h mSpeedUpDown.f32: 0.10000, !h mRestSec.f32: 6.00000, !h mSpeedChaseMove.f32: 0.00781}
     !h mUniqueDummy:
-      !h 14646700: 0.87500
-      !h 20e90aef: 
-      !h 3a22f849: 1.49963
-      !h 4cc65eb0: 0.11719
-      !h 5106f9ba: 0.00000
-      !h 653f9b05: 1.00000
-      !h d3d64972: 1.00000
-      !h fd127c9c: 0.25000
-    !h mCommonDummy: {!h 4dec5507: 20.00000, !h 9582ffd2: 0.00000, !h 9f9d5b53: 6.00000, !h fc6ea52b: 0.00781}
+      !h mAnmFlySpeed.f32: 0.87500
+      !h mLabel.Str: 
+      !h mGyrateAngleYStepDeg.f32: 1.49963
+      !h mSpeedApproach.f32: 0.11719
+      !h mBreathMax.f32: 0.00000
+      !h mRestPointSearchRagne.f32: 1.00000
+      !h mPlayerSearchRagne.f32: 1.00000
+      !h mSpeed.f32: 0.25000
+    !h mCommonDummy: {!h mApproachCycleSec.f32: 20.00000, !h mSpeedUpDown.f32: 0.00000, !h mRestSec.f32: 6.00000, !h mSpeedChaseMove.f32: 0.00781}
     !h mUniqueBuffer[]:
-      - !h 14646700: 0.87500
-        !h 20e90aef: Agehacho
-        !h 3a22f849: 1.49963
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 653f9b05: 10.00000
-        !h d3d64972: 10.00000
-        !h fd127c9c: 0.25000
-      - !h 14646700: 0.87500
-        !h 20e90aef: Morufuocho
-        !h 3a22f849: 1.49963
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 653f9b05: 10.00000
-        !h d3d64972: 10.00000
-        !h fd127c9c: 0.25000
-      - !h 14646700: 0.16000
-        !h 20e90aef: Nishikiohtsubamega
-        !h 3a22f849: 1.50000
-        !h 4cc65eb0: 0.10000
-        !h 5106f9ba: 0.10000
-        !h 653f9b05: 10.00000
-        !h d3d64972: 10.00000
-        !h fd127c9c: 0.20000
-      - !h 14646700: 0.87500
-        !h 20e90aef: Monkicho
-        !h 3a22f849: 1.49963
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 653f9b05: 10.00000
-        !h d3d64972: 10.00000
-        !h fd127c9c: 0.25000
-      - !h 14646700: 0.87500
-        !h 20e90aef: Miirotateha
-        !h 3a22f849: 1.49963
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 653f9b05: 10.00000
-        !h d3d64972: 10.00000
-        !h fd127c9c: 0.25000
-      - !h 14646700: 0.87500
-        !h 20e90aef: Aosujiageha
-        !h 3a22f849: 1.49963
-        !h 4cc65eb0: 0.11719
-        !h 5106f9ba: 0.07813
-        !h 653f9b05: 10.00000
-        !h d3d64972: 10.00000
-        !h fd127c9c: 0.25000
+      - !h mAnmFlySpeed.f32: 0.87500
+        !h mLabel.Str: Agehacho
+        !h mGyrateAngleYStepDeg.f32: 1.49963
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mRestPointSearchRagne.f32: 10.00000
+        !h mPlayerSearchRagne.f32: 10.00000
+        !h mSpeed.f32: 0.25000
+      - !h mAnmFlySpeed.f32: 0.87500
+        !h mLabel.Str: Morufuocho
+        !h mGyrateAngleYStepDeg.f32: 1.49963
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mRestPointSearchRagne.f32: 10.00000
+        !h mPlayerSearchRagne.f32: 10.00000
+        !h mSpeed.f32: 0.25000
+      - !h mAnmFlySpeed.f32: 0.16000
+        !h mLabel.Str: Nishikiohtsubamega
+        !h mGyrateAngleYStepDeg.f32: 1.50000
+        !h mSpeedApproach.f32: 0.10000
+        !h mBreathMax.f32: 0.10000
+        !h mRestPointSearchRagne.f32: 10.00000
+        !h mPlayerSearchRagne.f32: 10.00000
+        !h mSpeed.f32: 0.20000
+      - !h mAnmFlySpeed.f32: 0.87500
+        !h mLabel.Str: Monkicho
+        !h mGyrateAngleYStepDeg.f32: 1.49963
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mRestPointSearchRagne.f32: 10.00000
+        !h mPlayerSearchRagne.f32: 10.00000
+        !h mSpeed.f32: 0.25000
+      - !h mAnmFlySpeed.f32: 0.87500
+        !h mLabel.Str: Miirotateha
+        !h mGyrateAngleYStepDeg.f32: 1.49963
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mRestPointSearchRagne.f32: 10.00000
+        !h mPlayerSearchRagne.f32: 10.00000
+        !h mSpeed.f32: 0.25000
+      - !h mAnmFlySpeed.f32: 0.87500
+        !h mLabel.Str: Aosujiageha
+        !h mGyrateAngleYStepDeg.f32: 1.49963
+        !h mSpeedApproach.f32: 0.11719
+        !h mBreathMax.f32: 0.07813
+        !h mRestPointSearchRagne.f32: 10.00000
+        !h mPlayerSearchRagne.f32: 10.00000
+        !h mSpeed.f32: 0.25000

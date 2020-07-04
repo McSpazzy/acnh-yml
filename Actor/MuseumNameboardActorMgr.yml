@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h MuseumNameboardActorMgr: {!h 9b688a4c: 60.00000, !h f1982c8c: 15.00000}
+  !h MuseumNameboardActorMgr: {!h mDemoAngDeg.f32: 60.00000, !h mDemoDist.f32: 15.00000}

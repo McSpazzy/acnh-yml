@@ -4,22 +4,22 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h AreaParam:
-    !h 35b26d8f: 150.00000
-    !h 37e8ad9f: 100.00000
-    !h 3e13c73b: 120.00000
-    !h 58bfb4d8: 140.00000
-    !h 68fe3e78: 12.00000
-    !h 72a27dda: 12.00000
-    !h 72bdf35b: 140.00000
-    !h 758d28f1: 265.00000
-    !h 851ceec1: 12.00000
-    !h 89518e4: 100.00000
-    !h a2dd313e: 60.00000
-    !h b102e196: 12.00000
-    !h bbd890d7: 55.00000
-    !h c8dc831f: 325.00000
-    !h d8f5da81: 120.00000
-    !h d946ad8b: 150.00000
-    !h e5d2afea: 90.00000
-    !h f72b42f4: 12.00000
-    !h fcd70e03: 75.00000
+    !h mTreeAreaLeft.f32: 150.00000
+    !h mLandingAreaFar.f32: 100.00000
+    !h mLandingAreaRight.f32: 120.00000
+    !h mAreaRight.f32: 140.00000
+    !h mAreaNearBuff.f32: 12.00000
+    !h mLandingAreaNearFarBuff.f32: 12.00000
+    !h mAreaLeft.f32: 140.00000
+    !h mAreaFar.f32: 265.00000
+    !h mAreaWidthBuff.f32: 12.00000
+    !h mLandingAreaNear.f32: 100.00000
+    !h mAreaNear.f32: 60.00000
+    !h mLandingAreaWidthBuff.f32: 12.00000
+    !h mAreaTilt.f32: 55.00000
+    !h mTreeAreaFar.f32: 325.00000
+    !h mLandingAreaLeft.f32: 120.00000
+    !h mTreeAreaRight.f32: 150.00000
+    !h mTreeAreaNear.f32: 90.00000
+    !h mAreaFarBuff.f32: 12.00000
+    !h mTreeAreaTilt.f32: 75.00000

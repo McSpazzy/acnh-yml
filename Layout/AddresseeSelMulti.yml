@@ -5,9 +5,9 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 2, !h d17c5197: /L_BtnC_00, !h eedd76eb: ButtonC}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_BtnL_00, !h eedd76eb: ButtonL}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_BtnR_00, !h eedd76eb: ButtonR}
-    !h 4309561a: UI_AddresseeSelMutiPage
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: /L_BtnC_00, !h mGroupName.Str: ButtonC}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_BtnL_00, !h mGroupName.Str: ButtonL}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_BtnR_00, !h mGroupName.Str: ButtonR}
+    !h mUserName.Str: UI_AddresseeSelMutiPage
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

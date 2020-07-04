@@ -3,60 +3,60 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 9a576f33:
-    - !h 1b7fce6f: スポットライト
+  !h EvtobjCountdownStall[]:
+    - !h mLightType.Enum: スポットライト
       !h mNormAreaSidemRemakeTool: true
-      !h 32af8f76:
+      !h mPos.V3f:
         - 14.10000
         - 19.20000
         - 12.40000
-      !h 370e2c10:
+      !h mLightColor.C4f:
         - 1.00000
         - 0.67000
         - 0.45000
         - 1.00000
-      !h 45c202fb: 12.00000
-      !h 47d316df:
+      !h mSize.f32: 12.00000
+      !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000
         - 0.00000
-      !h 4a07fd06:
+      !h mDir.V3f:
         - 0.00000
         - -1.00000
         - 0.00000
-      !h 55a5c25d: Root
-      !h 79a61e3f: 20.00000
-      !h 94f81f90: 30.00000
-      !h c09bb276: 2.61799
-      !h e6163d5b: false
-    - !h 1b7fce6f: ポイントライト
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 20.00000
+      !h mIntensity.f32: 30.00000
+      !h mFovy.f32: 2.61799
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: ポイントライト
       !h mNormAreaSidemRemakeTool: true
-      !h 2cc46ab6: false
-      !h 32af8f76:
+      !h mIsCandle.bool: false
+      !h mPos.V3f:
         - -25.20000
         - 18.29000
         - 15.50000
-      !h 341a207f: 1.00000
-      !h 370e2c10:
+      !h mRadiusOffset.f32: 1.00000
+      !h mLightColor.C4f:
         - 1.00000
         - 0.67000
         - 0.45000
         - 1.00000
       !h cParamCameraCatcher: mEvtCountdownDenshoku
-      !h 45c202fb: 8.00000
-      !h 47d316df:
+      !h mSize.f32: 8.00000
+      !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000
         - 0.00000
-      !h 5260faf: 0.09000
-      !h 55a5c25d: Root
-      !h 8139ecd8: 0.05000
-      !h 83b27d01: 0.00300
-      !h 94f81f90: 39.00000
-      !h 99275374: 30.00000
-      !h c6999608: 0.20000
-      !h ca983c88: false
-      !h d08de60c: const_color4
-      !h e6163d5b: true
+      !h mCycleAR.f32: 0.09000
+      !h mBindBoneName.Str: Root
+      !h mCycleB.f32: 0.05000
+      !h mCycleBR.f32: 0.00300
+      !h mIntensity.f32: 39.00000
+      !h mRadius.f32: 30.00000
+      !h mCycleA.f32: 0.20000
+      !h mIsCandleColor.bool: false
+      !h mMaterialColorParam.Enum: const_color4
+      !h mIsUseMaterialColor.bool: true

@@ -4,10 +4,10 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h StageEnvParam:
-    !h 6f475c24:
+    !h mShadowAreaSizeZZ.V2f:
       - 40.00000
       - 40.00000
-    !h 93b5faf5:
+    !h mShadowAresSizeXY.V2f:
       - 40.00000
       - 40.00000
-    !h dcec5eff: true
+    !h mIsShadowParamOverride.bool: true

@@ -4,45 +4,45 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h SceneEnvParam:
-    !h 1fb0d4d3: 4.00000
-    !h 2544a34f: 0.00000
-    !h 26c81710: 19.07308
-    !h 28835563: 1100.00000
-    !h 3085902a: 0.00000
-    !h 34a7c79b: 0.00000
-    !h 3f0f5c73: 32.00000
-    !h 453d6984:
+    !h mPermissibleCoCSize.f32: 4.00000
+    !h mMoonLightIntensity.f32: 0.00000
+    !h mTimer.f32: 19.07308
+    !h mGameCaptureSensorHeight.f32: 1100.00000
+    !h mEnvMapShadowIntensity.f32: 0.00000
+    !h mMoonLightCloudIntensity.f32: 0.00000
+    !h mLightAttenuationDistance.f32: 32.00000
+    !h mVisualEffectCenterPosOffset.V3f:
       - 0.00000
       - 0.00000
       - 0.00000
-    !h 58784dd0: 1.00000
-    !h 593c46bc: 0.00000
-    !h 59777b14: 1.00000
-    !h 5ef0ba4d:
+    !h mIndirectSkyLightIntensity.f32: 1.00000
+    !h mCloudIntensity.f32: 0.00000
+    !h mIndirectGroundLightIntensity.f32: 1.00000
+    !h mEditLongitudeLatitude.V2f:
       - 1.57080
       - 1.57080
-    !h 6b37e973: 50.00000
-    !h 6f475c24:
+    !h mShadowAttenuationLerpDistance.f32: 50.00000
+    !h mShadowAreaSizeZZ.V2f:
       - 100.00000
       - 100.00000
-    !h 7a4db016: 0.50000
-    !h 7f47456a: 15.00000
-    !h 93b5faf5:
+    !h mAoDirectionalIntensity.f32: 0.50000
+    !h mMinimumDofRange.f32: 15.00000
+    !h mShadowAresSizeXY.V2f:
       - 130.00000
       - 120.00000
-    !h 9453a6ea: 1.00000
-    !h 9bc6adc1: 1.00000
-    !h 9d849869: 0.00000
-    !h b9d86e4: 1.00000
-    !h bc7702f4:
+    !h mIndirectLightIntensity.f32: 1.00000
+    !h mWorldAoDynamicLightCoverRatio.f32: 1.00000
+    !h mMoonLightSpecialCloudIntensity.f32: 0.00000
+    !h mAoIntensity.f32: 1.00000
+    !h mPixelDistanceParam.V2f:
       - 130.00000
       - 300.00000
-    !h c1b5e5d7: 80.00000
-    !h cfc021e8: cExponential
-    !h daeb53a2: 0.61087
-    !h dde59565: NormalInside
-    !h e4ecddb9: 1.00000
-    !h f30d603: 1.00000
-    !h f30d8e80: 1.00000
-    !h f63b1bec: 1.00000
-    !h feeeb61b: 0.00000
+    !h mShadowAttenuationDistance.f32: 80.00000
+    !h mToneMapMode.Enum: cExponential
+    !h mLimitLightAngle.f32: 0.61087
+    !h mEnvPalleteSetName.Str: NormalInside
+    !h mMoonLightEdgeParamModel.f32: 1.00000
+    !h mMoonLightEdgeParamMoon.f32: 1.00000
+    !h mMoonLightModelEdgeSqueeze.f32: 1.00000
+    !h mMoonLightCloudEdgeParamMoon.f32: 1.00000
+    !h mExpose.f32: 0.00000

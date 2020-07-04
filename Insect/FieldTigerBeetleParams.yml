@@ -6,41 +6,41 @@ root:
   !h FieldTigerBeetleParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 406147f9: 0.93750
-      !h 512348b7: 0.15625
-      !h 59b9c438: 8.00000
-      !h 5a4a2477: 2.00000
-      !h 5dda7b6: 2.00000
-      !h 62e47f9: 8.00000
-      !h 7db5fb61: 20.00000
-      !h 9cd4b898: 0.31250
-      !h deb05e58: 0.03125
-      !h ebe1259e: 1.50000
-      !h f70566c: 10.00000
+      !h mLabel.Str: 
+      !h mEscapeSpeed.f32: 0.93750
+      !h mMoveSpeed.f32: 0.15625
+      !h mMoveSecMax.f32: 8.00000
+      !h mMoveSecMin.f32: 2.00000
+      !h mWaitSecMin.f32: 2.00000
+      !h mWaitSecMax.f32: 8.00000
+      !h mEscapeDistance.f32: 20.00000
+      !h mGravityCheckOffset.f32: 0.31250
+      !h mAccel.f32: 0.03125
+      !h mEscapeAnimSpeed.f32: 1.50000
+      !h mEscapeHeight.f32: 10.00000
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Hanmyou
-        !h 406147f9: 1.34500
-        !h 512348b7: 0.22450
-        !h 59b9c438: 8.00000
-        !h 5a4a2477: 4.00000
-        !h 5dda7b6: 4.00000
-        !h 62e47f9: 8.00000
-        !h 7db5fb61: 35.00000
-        !h 9cd4b898: 0.31250
-        !h deb05e58: 0.03125
-        !h ebe1259e: 1.00000
-        !h f70566c: 15.00000
-      - !h 20e90aef: Ohsenchikogane
-        !h 406147f9: 0.10000
-        !h 512348b7: 0.10000
-        !h 59b9c438: 6.00000
-        !h 5a4a2477: 2.00000
-        !h 5dda7b6: 1.00000
-        !h 62e47f9: 2.00000
-        !h 7db5fb61: 40.00000
-        !h 9cd4b898: 0.31250
-        !h deb05e58: 0.01000
-        !h ebe1259e: 1.00000
-        !h f70566c: 10.00000
+      - !h mLabel.Str: Hanmyou
+        !h mEscapeSpeed.f32: 1.34500
+        !h mMoveSpeed.f32: 0.22450
+        !h mMoveSecMax.f32: 8.00000
+        !h mMoveSecMin.f32: 4.00000
+        !h mWaitSecMin.f32: 4.00000
+        !h mWaitSecMax.f32: 8.00000
+        !h mEscapeDistance.f32: 35.00000
+        !h mGravityCheckOffset.f32: 0.31250
+        !h mAccel.f32: 0.03125
+        !h mEscapeAnimSpeed.f32: 1.00000
+        !h mEscapeHeight.f32: 15.00000
+      - !h mLabel.Str: Ohsenchikogane
+        !h mEscapeSpeed.f32: 0.10000
+        !h mMoveSpeed.f32: 0.10000
+        !h mMoveSecMax.f32: 6.00000
+        !h mMoveSecMin.f32: 2.00000
+        !h mWaitSecMin.f32: 1.00000
+        !h mWaitSecMax.f32: 2.00000
+        !h mEscapeDistance.f32: 40.00000
+        !h mGravityCheckOffset.f32: 0.31250
+        !h mAccel.f32: 0.01000
+        !h mEscapeAnimSpeed.f32: 1.00000
+        !h mEscapeHeight.f32: 10.00000

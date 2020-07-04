@@ -5,14 +5,14 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - !h 383f6e2e: true
-        !h a8e79f6f:
-          - {!h 2c49113d: StampIn, !h 8625d6ec: !l 0}
-        !h ce24f49e: !l 0
-        !h d17c5197: Stamp
-        !h eedd76eb: Stamp
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_Prev_00, !h eedd76eb: Prev}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_Next_00, !h eedd76eb: Next}
-    !h 4309561a: UI_SonkatsuResultInfo
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: StampIn, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: Stamp
+        !h mGroupName.Str: Stamp
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_Prev_00, !h mGroupName.Str: Prev}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_Next_00, !h mGroupName.Str: Next}
+    !h mUserName.Str: UI_SonkatsuResultInfo
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

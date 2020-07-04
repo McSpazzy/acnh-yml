@@ -5,687 +5,687 @@ HasReferenceNodes: False
 root:
   !h IdrMuseumArt_0_DemoParams:
     !h mParamsBuffer[]:
-      - !h 1abc5aed: 0.00000
-        !h 1f74b3d1: IdrMuseumArt_0
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 0.50000
-        !h 57065eee:
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: IdrMuseumArt_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - -24.00000
-        !h 976dfe81: 4840.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.30000
-        !h c09bb276: 22.00000
-        !h c6173da9: 180.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 180.00000
+        !h mAngle.V3f:
           - 29.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 9000.00000
-      - !h 1abc5aed: 140.00000
-        !h 1f74b3d1: CameraArea:0
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 0.50000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 140.00000
+        !h mKey.Str: CameraArea:0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
           - 0.00000
           - 16.00000
           - -14.00000
-        !h 976dfe81: 4840.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 22.00000
-        !h c6173da9: 180.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 180.00000
+        !h mAngle.V3f:
           - 20.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 80.00000
-        !h f13b74e3: 9000.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: StandardGazingPoint
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: StandardGazingPoint
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 306.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.50000
-        !h c09bb276: 12.30000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 306.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 12.30000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 174.00000
-      - !h 1abc5aed: 80.00000
-        !h 1f74b3d1: id06
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 174.00000
+      - !h mDOFNearEnd.f32: 80.00000
+        !h mKey.Str: id06
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - -6.40000
           - 0.00000
-        !h 976dfe81: 189.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 16.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 189.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 16.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - -2.00000
           - 12.40620
           - 0.00000
-        !h d5383547: 110.00000
-        !h f13b74e3: 184.00000
-      - !h 1abc5aed: 123.00000
-        !h 1f74b3d1: id13
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 110.00000
+        !h mDOFEnd.f32: 184.00000
+      - !h mDOFNearEnd.f32: 123.00000
+        !h mKey.Str: id13
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 976dfe81: 246.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.60000
-        !h c09bb276: 10.00000
-        !h c6173da9: 140.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 246.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.60000
+        !h mFovy.f32: 10.00000
+        !h mDistance.f32: 140.00000
+        !h mAngle.V3f:
           - 9.52940
           - 16.54160
           - 0.00000
-        !h d5383547: 125.00000
-        !h f13b74e3: 263.00000
-      - !h 1abc5aed: 152.00000
-        !h 1f74b3d1: id19
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 125.00000
+        !h mDOFEnd.f32: 263.00000
+      - !h mDOFNearEnd.f32: 152.00000
+        !h mKey.Str: id19
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 2.00000
           - 0.00000
-        !h 976dfe81: 174.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 20.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 174.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 20.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 16.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 137.00000
-        !h f13b74e3: 200.00000
-      - !h 1abc5aed: 152.00000
-        !h 1f74b3d1: id22
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 137.00000
+        !h mDOFEnd.f32: 200.00000
+      - !h mDOFNearEnd.f32: 152.00000
+        !h mKey.Str: id22
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - -4.00000
           - 0.00000
-        !h 976dfe81: 174.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 19.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 174.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 19.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 16.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 137.00000
-        !h f13b74e3: 200.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id25
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 137.00000
+        !h mDOFEnd.f32: 200.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id25
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 246.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 18.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 246.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 18.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 263.00000
-      - !h 1abc5aed: 133.00000
-        !h 1f74b3d1: id39id40
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 263.00000
+      - !h mDOFNearEnd.f32: 133.00000
+        !h mKey.Str: id39id40
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 245.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 12.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 245.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 12.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 60.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 160.00000
-        !h f13b74e3: 165.00000
-      - !h 1abc5aed: 96.00000
-        !h 1f74b3d1: id11
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 160.00000
+        !h mDOFEnd.f32: 165.00000
+      - !h mDOFNearEnd.f32: 96.00000
+        !h mKey.Str: id11
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - -1.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 163.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 15.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 163.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 15.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 20.00000
           - -25.00000
           - 0.00000
-        !h d5383547: 118.00000
-        !h f13b74e3: 164.00000
-      - !h 1abc5aed: 141.00000
-        !h 1f74b3d1: ModernArea
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 118.00000
+        !h mDOFEnd.f32: 164.00000
+      - !h mDOFNearEnd.f32: 141.00000
+        !h mKey.Str: ModernArea
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 206.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 10.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 206.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 10.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 125.00000
-        !h f13b74e3: 161.00000
-      - !h 1abc5aed: 100.00000
-        !h 1f74b3d1: CameraArea:1
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 125.00000
+        !h mDOFEnd.f32: 161.00000
+      - !h mDOFNearEnd.f32: 100.00000
+        !h mKey.Str: CameraArea:1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 22.00000
           - 15.00000
           - -15.00000
-        !h 976dfe81: 294.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 22.00000
-        !h c6173da9: 180.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 294.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 180.00000
+        !h mAngle.V3f:
           - 25.00000
           - -20.00000
           - 0.00000
-        !h d5383547: 72.00000
-        !h f13b74e3: 229.00000
-      - !h 1abc5aed: 0.00000
-        !h 1f74b3d1: CameraArea:2
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 72.00000
+        !h mDOFEnd.f32: 229.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: CameraArea:2
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 13.00000
           - 16.00000
           - 0.00000
-        !h 976dfe81: 311.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 22.00000
-        !h c6173da9: 180.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 311.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 180.00000
+        !h mAngle.V3f:
           - 25.00000
           - 11.86680
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 236.00000
-      - !h 1abc5aed: 60.00000
-        !h 1f74b3d1: CameraArea:3
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 236.00000
+      - !h mDOFNearEnd.f32: 60.00000
+        !h mKey.Str: CameraArea:3
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 1.60000
           - 18.00000
           - 0.00000
-        !h 976dfe81: 200.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.70000
-        !h c09bb276: 22.00000
-        !h c6173da9: 124.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.70000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 124.00000
+        !h mAngle.V3f:
           - 24.00000
           - 23.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 300.00000
-      - !h 1abc5aed: 60.00000
-        !h 1f74b3d1: CameraArea:4
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 300.00000
+      - !h mDOFNearEnd.f32: 60.00000
+        !h mKey.Str: CameraArea:4
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - -1.60000
           - 18.00000
           - 0.00000
-        !h 976dfe81: 200.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 22.00000
-        !h c6173da9: 124.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 124.00000
+        !h mAngle.V3f:
           - 24.00000
           - -23.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 300.00000
-      - !h 1abc5aed: 109.00000
-        !h 1f74b3d1: CameraArea:5
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 300.00000
+      - !h mDOFNearEnd.f32: 109.00000
+        !h mKey.Str: CameraArea:5
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 16.00000
           - 24.00000
           - 0.00000
-        !h 976dfe81: 396.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 22.00000
-        !h c6173da9: 190.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 396.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 190.00000
+        !h mAngle.V3f:
           - 19.95780
           - 19.00000
           - 0.00000
-        !h d5383547: 86.00000
-        !h f13b74e3: 232.00000
-      - !h 1abc5aed: 109.00000
-        !h 1f74b3d1: CameraArea:6
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 86.00000
+        !h mDOFEnd.f32: 232.00000
+      - !h mDOFNearEnd.f32: 109.00000
+        !h mKey.Str: CameraArea:6
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - -20.00000
           - 24.00000
           - 0.00000
-        !h 976dfe81: 396.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 22.00000
-        !h c6173da9: 190.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 396.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 190.00000
+        !h mAngle.V3f:
           - 20.00000
           - -19.00000
           - 0.00000
-        !h d5383547: 86.00000
-        !h f13b74e3: 232.00000
-      - !h 1abc5aed: 73.00000
-        !h 1f74b3d1: CameraArea:7
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 86.00000
+        !h mDOFEnd.f32: 232.00000
+      - !h mDOFNearEnd.f32: 73.00000
+        !h mKey.Str: CameraArea:7
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 454.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 22.00000
-        !h c6173da9: 190.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 454.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 190.00000
+        !h mAngle.V3f:
           - 16.00000
           - -30.00000
           - 0.00000
-        !h d5383547: 93.00000
-        !h f13b74e3: 247.00000
-      - !h 1abc5aed: 140.00000
-        !h 1f74b3d1: CameraArea:8
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 93.00000
+        !h mDOFEnd.f32: 247.00000
+      - !h mDOFNearEnd.f32: 140.00000
+        !h mKey.Str: CameraArea:8
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 9.60000
           - 24.00000
           - 0.00000
-        !h 976dfe81: 244.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.50000
-        !h c09bb276: 22.00000
-        !h c6173da9: 200.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 244.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.50000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 200.00000
+        !h mAngle.V3f:
           - 16.00000
           - 30.00000
           - 0.00000
-        !h d5383547: 90.00000
-        !h f13b74e3: 420.00000
-      - !h 1abc5aed: 0.00000
-        !h 1f74b3d1: Japan
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 90.00000
+        !h mDOFEnd.f32: 420.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: Japan
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 181.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 11.80000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 181.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 11.80000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 184.00000
-      - !h 1abc5aed: 0.00000
-        !h 1f74b3d1: id00
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 184.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: id00
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - -3.40000
           - 0.00000
-        !h 976dfe81: 236.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 12.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 236.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 12.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 17.00000
           - -16.00000
           - 0.00000
-        !h d5383547: 0.00000
-        !h f13b74e3: 175.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id01
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 175.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id01
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - -3.20000
           - 0.00000
-        !h 976dfe81: 302.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 12.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 302.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 12.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 12.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 189.00000
-      - !h 1abc5aed: 94.00000
-        !h 1f74b3d1: id02
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 189.00000
+      - !h mDOFNearEnd.f32: 94.00000
+        !h mKey.Str: id02
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - -3.00000
           - 0.00000
-        !h 976dfe81: 218.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 12.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 218.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 12.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 20.00000
           - 0.00000
-        !h d5383547: 149.00000
-        !h f13b74e3: 181.00000
-      - !h 1abc5aed: 133.00000
-        !h 1f74b3d1: id03
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 149.00000
+        !h mDOFEnd.f32: 181.00000
+      - !h mDOFNearEnd.f32: 133.00000
+        !h mKey.Str: id03
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 248.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.50000
-        !h c09bb276: 12.40000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 248.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 12.40000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 19.95780
           - 15.28300
           - 0.00000
-        !h d5383547: 141.00000
-        !h f13b74e3: 186.00000
-      - !h 1abc5aed: 144.00000
-        !h 1f74b3d1: id04
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 141.00000
+        !h mDOFEnd.f32: 186.00000
+      - !h mDOFNearEnd.f32: 144.00000
+        !h mKey.Str: id04
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 2.00000
           - 0.00000
-        !h 976dfe81: 251.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.50000
-        !h c09bb276: 13.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 251.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 13.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 12.00000
           - 30.00000
           - 0.00000
-        !h d5383547: 137.00000
-        !h f13b74e3: 184.00000
-      - !h 1abc5aed: 133.00000
-        !h 1f74b3d1: id05
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 137.00000
+        !h mDOFEnd.f32: 184.00000
+      - !h mDOFNearEnd.f32: 133.00000
+        !h mKey.Str: id05
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 2.80000
           - 0.00000
-        !h 976dfe81: 176.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 14.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 176.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 14.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 10.00000
           - -20.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 258.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id09
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 258.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id09
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - -3.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 165.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 13.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 165.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 13.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 10.00000
           - 17.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 238.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id10
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 238.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id10
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - -8.00000
           - 0.00000
-        !h 976dfe81: 306.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 18.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 306.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 18.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 17.00000
           - -10.00000
           - 0.00000
-        !h d5383547: 130.00000
-        !h f13b74e3: 192.00000
-      - !h 1abc5aed: 102.00000
-        !h 1f74b3d1: id36
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 130.00000
+        !h mDOFEnd.f32: 192.00000
+      - !h mDOFNearEnd.f32: 102.00000
+        !h mKey.Str: id36
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - -1.00000
           - -2.00000
           - 0.00000
-        !h 976dfe81: 198.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 10.00000
-        !h c6173da9: 145.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 198.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 10.00000
+        !h mDistance.f32: 145.00000
+        !h mAngle.V3f:
           - 10.00000
           - 15.00000
           - 0.00000
-        !h d5383547: 136.00000
-        !h f13b74e3: 184.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id33
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 136.00000
+        !h mDOFEnd.f32: 184.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id33
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.50000
           - 0.00000
-        !h 976dfe81: 246.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 15.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 246.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 15.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 263.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id23
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 263.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id23
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 246.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.00000
-        !h c09bb276: 14.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 246.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 14.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 174.00000
-      - !h 1abc5aed: 102.00000
-        !h 1f74b3d1: id18
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 174.00000
+      - !h mDOFNearEnd.f32: 102.00000
+        !h mKey.Str: id18
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 165.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.50000
-        !h c09bb276: 14.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 165.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 14.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 116.00000
-        !h f13b74e3: 194.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id15
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 116.00000
+        !h mDOFEnd.f32: 194.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id15
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 246.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 10.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 246.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 10.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 263.00000
-      - !h 1abc5aed: 126.00000
-        !h 1f74b3d1: id14
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 263.00000
+      - !h mDOFNearEnd.f32: 126.00000
+        !h mKey.Str: id14
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 209.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 2.60000
-        !h c09bb276: 10.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 209.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.60000
+        !h mFovy.f32: 10.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 130.00000
-        !h f13b74e3: 1410.00000
-      - !h 1abc5aed: 65.00000
-        !h 1f74b3d1: id17
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 130.00000
+        !h mDOFEnd.f32: 1410.00000
+      - !h mDOFNearEnd.f32: 65.00000
+        !h mKey.Str: id17
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 246.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 10.00000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 246.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 10.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 15.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 143.00000
-        !h f13b74e3: 263.00000
-      - !h 1abc5aed: 94.00000
-        !h 1f74b3d1: id30
-        !h 26343c06: 0.00000
-        !h 3aa010f1: 1.00000
-        !h 57065eee:
+        !h mDOFNearStart.f32: 143.00000
+        !h mDOFEnd.f32: 263.00000
+      - !h mDOFNearEnd.f32: 94.00000
+        !h mKey.Str: id30
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 976dfe81: 263.00000
-        !h a8c3a807: 35.00000
-        !h b97225e: 1.60000
-        !h c09bb276: 12.80000
-        !h c6173da9: 160.00000
-        !h d3882c5e:
+        !h mDOFStart.f32: 263.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 12.80000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
           - 10.00000
           - 0.00000
           - 0.00000
-        !h d5383547: 142.00000
-        !h f13b74e3: 268.00000
+        !h mDOFNearStart.f32: 142.00000
+        !h mDOFEnd.f32: 268.00000

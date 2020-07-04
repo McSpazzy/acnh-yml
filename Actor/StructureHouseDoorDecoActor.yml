@@ -4,10 +4,10 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h StructureHouseDoorDecoActor:
-    !h 2976b62c: 0.10000
-    !h 4d21fd61: 11.50000
-    !h 5d5da809: 7.00000
-    !h 7041d4d1: 0.00000
-    !h 730e5cc0: 5.00000
-    !h dbd61c3d: 20.00000
-    !h df5d47e0: 0.00000
+    !h mLeafGravity.f32: 0.10000
+    !h mDecoPosY.f32: 11.50000
+    !h mDemiseScaleDownFrame.f32: 7.00000
+    !h mDecoPosX.f32: 0.00000
+    !h mLeafOffsetPosY.f32: 5.00000
+    !h mLeafFlyFrame.f32: 20.00000
+    !h mLeafWaitFrame.f32: 0.00000

@@ -4,12 +4,12 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FieldCicadaParams:
-    !h mCommon: {!h 482b122c: 1.00000, !h f8b68fc: 2.00000}
-    !h mUniqueDummy: {!h 20e90aef: '', !h 5252fc1a: 2.50000, !h ab07ced8: 6.25000, !h da4234d2: !u 3089104896}
-    !h mCommonDummy: {!h 482b122c: 1.00000, !h f8b68fc: 0.00000}
+    !h mCommon: {!h mNetOffsetZ.f32: 1.00000, !h mNetOffsetY.f32: 2.00000}
+    !h mUniqueDummy: {!h mLabel.Str: '', !h mOffsetZ.f32: 2.50000, !h mBaseY.f32: 6.25000, !h mRotateAngleX.u32: !u 3089104896}
+    !h mCommonDummy: {!h mNetOffsetZ.f32: 1.00000, !h mNetOffsetY.f32: 0.00000}
     !h mUniqueBuffer[]:
-      - {!h 20e90aef: Aburazemi, !h 5252fc1a: 3.20000, !h ab07ced8: 9.00000, !h da4234d2: !u 3300000000}
-      - {!h 20e90aef: Minminzemi, !h 5252fc1a: 3.20000, !h ab07ced8: 9.00000, !h da4234d2: !u 3300000000}
-      - {!h 20e90aef: Kumazemi, !h 5252fc1a: 3.20000, !h ab07ced8: 9.00000, !h da4234d2: !u 3300000000}
-      - {!h 20e90aef: Tsukutsukuhousi, !h 5252fc1a: 3.20000, !h ab07ced8: 9.00000, !h da4234d2: !u 3300000000}
-      - {!h 20e90aef: Higurashi, !h 5252fc1a: 3.20000, !h ab07ced8: 9.00000, !h da4234d2: !u 3300000000}
+      - {!h mLabel.Str: Aburazemi, !h mOffsetZ.f32: 3.20000, !h mBaseY.f32: 9.00000, !h mRotateAngleX.u32: !u 3300000000}
+      - {!h mLabel.Str: Minminzemi, !h mOffsetZ.f32: 3.20000, !h mBaseY.f32: 9.00000, !h mRotateAngleX.u32: !u 3300000000}
+      - {!h mLabel.Str: Kumazemi, !h mOffsetZ.f32: 3.20000, !h mBaseY.f32: 9.00000, !h mRotateAngleX.u32: !u 3300000000}
+      - {!h mLabel.Str: Tsukutsukuhousi, !h mOffsetZ.f32: 3.20000, !h mBaseY.f32: 9.00000, !h mRotateAngleX.u32: !u 3300000000}
+      - {!h mLabel.Str: Higurashi, !h mOffsetZ.f32: 3.20000, !h mBaseY.f32: 9.00000, !h mRotateAngleX.u32: !u 3300000000}

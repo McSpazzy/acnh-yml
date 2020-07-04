@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h NetConfig: {!h 63b64aa8: !l 2, !h b1b27542: !l 12800, !h e8826e2: !l 25600}
+  !h NetConfig: {!h mPacketStep.s32: !l 2, !h mInetThroughputLimit.s32: !l 12800, !h mLdnThroughputLimit.s32: !l 25600}

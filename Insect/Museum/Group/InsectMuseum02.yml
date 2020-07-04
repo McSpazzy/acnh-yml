@@ -3,76 +3,76 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h a08bef2e:
+  !h InsectMuseumGroupLayout[]:
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 273.25000
             - 33.25000
             - 43.00000
-      !h 2a68506f: AABB
-      !h 2d301d6:
-        - {!h 3215b080: 9.00000, !h 3974e33d: 9.00000, !h 6807301b: 9.00000}
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 6fa05392: null
+      !h mRangeType.Enum: AABB
+      !h mAABBRangeParamsBuffer[]:
+        - {!h mHeight.f32: 9.00000, !h mDepth.f32: 9.00000, !h mWidth.f32: 9.00000}
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRectangleRangeParamsBuffer[]: null
       !h mPalmParamsBuffer[]: null
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
       !h mTreeParamsBuffer[]: null
-      !h eedd76eb: カーズ
+      !h mGroupName.Str: カーズ
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 226.80000
             - 37.00000
             - 82.50000
-      !h 2a68506f: 円柱
-      !h 2d301d6: null
-      !h 346440e2:
-        - {!h 3215b080: 10.00000, !h 99275374: 4.40000}
-      !h 56953b0c: null
-      !h 6fa05392: null
+      !h mRangeType.Enum: 円柱
+      !h mAABBRangeParamsBuffer[]: null
+      !h mCylinderRangeParamsBuffer[]:
+        - {!h mHeight.f32: 10.00000, !h mRadius.f32: 4.40000}
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRectangleRangeParamsBuffer[]: null
       !h mPalmParamsBuffer[]: null
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
       !h mTreeParamsBuffer[]: null
-      !h eedd76eb: ハエーズ
+      !h mGroupName.Str: ハエーズ
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 263.00000
             - 41.20000
             - 43.80000
-      !h 2a68506f: 矩形
-      !h 2d301d6: null
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 6fa05392:
-        - {!h 3974e33d: 5.00000, !h 6807301b: 5.50000}
+      !h mRangeType.Enum: 矩形
+      !h mAABBRangeParamsBuffer[]: null
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRectangleRangeParamsBuffer[]:
+        - {!h mDepth.f32: 5.00000, !h mWidth.f32: 5.50000}
       !h mPalmParamsBuffer[]: null
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
       !h mTreeParamsBuffer[]: null
-      !h eedd76eb: ノミーズ
+      !h mGroupName.Str: ノミーズ
     - !h mPointParamsBuffer[]:
-        - !h 10cfbcbe: !l -1
-          !h 1f5e4e02: false
-          !h e4ee1e96:
+        - !h mLocatorID.s32: !l -1
+          !h mIsUseLocator.bool: false
+          !h mPoint.V3f:
             - 268.00000
             - 11.00000
             - 147.00000
-      !h 2a68506f: 矩形
-      !h 2d301d6: null
-      !h 346440e2: null
-      !h 56953b0c: null
-      !h 6fa05392:
-        - {!h 3974e33d: 13.00000, !h 6807301b: 13.00000}
+      !h mRangeType.Enum: 矩形
+      !h mAABBRangeParamsBuffer[]: null
+      !h mCylinderRangeParamsBuffer[]: null
+      !h mCircleRangeParamsBuffer[]: null
+      !h mRectangleRangeParamsBuffer[]:
+        - {!h mDepth.f32: 13.00000, !h mWidth.f32: 13.00000}
       !h mPalmParamsBuffer[]: null
-      !h 96669c70: null
-      !h ba27eafd: false
+      !h mRandomPointParamsBuffer[]: null
+      !h mIsUseRandomPoint.bool: false
       !h mTreeParamsBuffer[]: null
-      !h eedd76eb: フナムシーズ
+      !h mGroupName.Str: フナムシーズ

@@ -5,8 +5,8 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_Prev, !h eedd76eb: Prev}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_Next, !h eedd76eb: Next}
-    !h 4309561a: UI_MenuProfile
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_Prev, !h mGroupName.Str: Prev}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_Next, !h mGroupName.Str: Next}
+    !h mUserName.Str: UI_MenuProfile
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

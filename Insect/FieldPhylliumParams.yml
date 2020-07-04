@@ -6,31 +6,31 @@ root:
   !h FieldPhylliumParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 36d6249c: 2.00000
-      !h 37dabe28: 1.00000
-      !h 512348b7: 0.15625
-      !h 85c4f526: 0.20000
-      !h 964930c9: -0.01563
-      !h 9cd4b898: 0.93750
-      !h b1e9a395: 10.00000
-      !h c4a0c639: 0.50000
-      !h c526b6f9: 7.50000
-      !h c6c8c1fa: !l 3
-      !h cac0a6a1: !l 20
-      !h faf49041: !l 25
+      !h mLabel.Str: 
+      !h mEscapeMaxSec.f32: 2.00000
+      !h mEscapeMinSec.f32: 1.00000
+      !h mMoveSpeed.f32: 0.15625
+      !h mScaleSwing.f32: 0.20000
+      !h mRegistSpeed.f32: -0.01563
+      !h mGravityCheckOffset.f32: 0.93750
+      !h mVanishSec.f32: 10.00000
+      !h mWaitingSec.f32: 0.50000
+      !h mJumpDist.f32: 7.50000
+      !h mTriangleStep.s32: !l 3
+      !h mMoveFrame.s32: !l 20
+      !h mCycleFrame.s32: !l 25
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Konohamushi
-        !h 36d6249c: 8.00000
-        !h 37dabe28: 2.00000
-        !h 512348b7: 0.11000
-        !h 85c4f526: 0.10000
-        !h 964930c9: -0.01563
-        !h 9cd4b898: 0.93750
-        !h b1e9a395: 10.00000
-        !h c4a0c639: 1.00000
-        !h c526b6f9: 7.50000
-        !h c6c8c1fa: !l 1
-        !h cac0a6a1: !l 25
-        !h faf49041: !l 7
+      - !h mLabel.Str: Konohamushi
+        !h mEscapeMaxSec.f32: 8.00000
+        !h mEscapeMinSec.f32: 2.00000
+        !h mMoveSpeed.f32: 0.11000
+        !h mScaleSwing.f32: 0.10000
+        !h mRegistSpeed.f32: -0.01563
+        !h mGravityCheckOffset.f32: 0.93750
+        !h mVanishSec.f32: 10.00000
+        !h mWaitingSec.f32: 1.00000
+        !h mJumpDist.f32: 7.50000
+        !h mTriangleStep.s32: !l 1
+        !h mMoveFrame.s32: !l 25
+        !h mCycleFrame.s32: !l 7

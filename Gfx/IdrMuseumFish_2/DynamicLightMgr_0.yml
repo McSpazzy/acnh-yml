@@ -6,171 +6,171 @@ root:
   !h DynamicLightSceneParam:
     !h mSpotParamArray[]:
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 0.60000
           - 1.00000
           - 1.00000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 55.68000
           - 40.00000
           - 221.00000
-        !h 45c202fb: 45.00000
-        !h 4a07fd06:
+        !h mSize.f32: 45.00000
+        !h mDir.V3f:
           - 0.00000
           - -1.00000
           - 0.00000
-        !h 55a5c25d: 
-        !h 6404e56c: Tank03
-        !h 79a61e3f: 50.00000
-        !h 94f81f90: 14.00000
-        !h c09bb276: 1.30900
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: Tank03
+        !h mFar.f32: 50.00000
+        !h mIntensity.f32: 14.00000
+        !h mFovy.f32: 1.30900
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.50000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 156.53720
           - 55.00000
           - 161.71190
-        !h 45c202fb: 90.00000
-        !h 4a07fd06:
+        !h mSize.f32: 90.00000
+        !h mDir.V3f:
           - 0.00000
           - -0.97115
           - 0.23849
-        !h 55a5c25d: 
-        !h 6404e56c: Tank06
-        !h 79a61e3f: 92.00000
-        !h 94f81f90: 12.00000
-        !h c09bb276: 0.95993
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: Tank06
+        !h mFar.f32: 92.00000
+        !h mIntensity.f32: 12.00000
+        !h mFovy.f32: 0.95993
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.50000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 90.16631
           - 32.59530
           - 88.65922
-        !h 45c202fb: 35.00000
-        !h 4a07fd06:
+        !h mSize.f32: 35.00000
+        !h mDir.V3f:
           - 0.00000
           - -0.73447
           - 0.67865
-        !h 55a5c25d: 
-        !h 6404e56c: Tank00
-        !h 79a61e3f: 45.00000
-        !h 94f81f90: 16.00000
-        !h c09bb276: 1.04720
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: Tank00
+        !h mFar.f32: 45.00000
+        !h mIntensity.f32: 16.00000
+        !h mFovy.f32: 1.04720
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.50000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 140.35030
           - 38.46246
           - 88.65922
-        !h 45c202fb: 35.00000
-        !h 4a07fd06:
+        !h mSize.f32: 35.00000
+        !h mDir.V3f:
           - 0.00000
           - -0.73447
           - 0.67865
-        !h 55a5c25d: 
-        !h 6404e56c: Tank01
-        !h 79a61e3f: 45.00000
-        !h 94f81f90: 16.00000
-        !h c09bb276: 1.04720
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: Tank01
+        !h mFar.f32: 45.00000
+        !h mIntensity.f32: 16.00000
+        !h mFovy.f32: 1.04720
+        !h mBindModelName.Str: 
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
           - 1.00000
           - 0.90000
           - 0.50000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 192.20040
           - 44.98151
           - 88.65922
-        !h 45c202fb: 35.00000
-        !h 4a07fd06:
+        !h mSize.f32: 35.00000
+        !h mDir.V3f:
           - 0.00000
           - -0.73447
           - 0.67865
-        !h 55a5c25d: 
-        !h 6404e56c: Tank02
-        !h 79a61e3f: 45.00000
-        !h 94f81f90: 16.00000
-        !h c09bb276: 1.04720
-        !h c6d52e9b: 
+        !h mBindBoneName.Str: 
+        !h mName.Str: Tank02
+        !h mFar.f32: 45.00000
+        !h mIntensity.f32: 16.00000
+        !h mFovy.f32: 1.04720
+        !h mBindModelName.Str: 
     !h mPointParamArray[]:
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 2cc46ab6: false
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mIsCandle.bool: false
+        !h mColor.C4f:
           - 0.60000
           - 1.00000
           - 0.60000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 296.48910
           - 39.70909
           - 184.58460
-        !h 341a207f: 1.00000
-        !h 45c202fb: 20.00000
-        !h 47d316df:
+        !h mRadiusOffset.f32: 1.00000
+        !h mSize.f32: 20.00000
+        !h mColorOffset.C4f:
           - 0.00000
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 5260faf: 0.09000
-        !h 55a5c25d: 
-        !h 6404e56c: Tank05
-        !h 8139ecd8: 0.05000
-        !h 83b27d01: 0.00300
-        !h 94f81f90: 80.00000
-        !h 99275374: 70.00000
-        !h c6999608: 0.20000
-        !h c6d52e9b: 
-        !h ca983c88: false
+        !h mCycleAR.f32: 0.09000
+        !h mBindBoneName.Str: 
+        !h mName.Str: Tank05
+        !h mCycleB.f32: 0.05000
+        !h mCycleBR.f32: 0.00300
+        !h mIntensity.f32: 80.00000
+        !h mRadius.f32: 70.00000
+        !h mCycleA.f32: 0.20000
+        !h mBindModelName.Str: 
+        !h mIsCandleColor.bool: false
       - !h mNormAreaSidemRemakeTool: false
-        !h 2cac3d2e: true
-        !h 2cc46ab6: false
-        !h 322b9edc:
+        !h mIsEnable.bool: true
+        !h mIsCandle.bool: false
+        !h mColor.C4f:
           - 1.00000
           - 0.10000
           - 0.05000
           - 1.00000
-        !h 32af8f76:
+        !h mPos.V3f:
           - 16.00000
           - 16.30000
           - 259.44880
-        !h 341a207f: 1.00000
-        !h 45c202fb: 0.00000
-        !h 47d316df:
+        !h mRadiusOffset.f32: 1.00000
+        !h mSize.f32: 0.00000
+        !h mColorOffset.C4f:
           - 0.00000
           - 0.00000
           - 0.00000
           - 0.00000
-        !h 5260faf: 0.09000
-        !h 55a5c25d: 
-        !h 6404e56c: RedAlart00
-        !h 8139ecd8: 0.05000
-        !h 83b27d01: 0.00300
-        !h 94f81f90: 10.00000
-        !h 99275374: 10.00000
-        !h c6999608: 0.20000
-        !h c6d52e9b: 
-        !h ca983c88: false
+        !h mCycleAR.f32: 0.09000
+        !h mBindBoneName.Str: 
+        !h mName.Str: RedAlart00
+        !h mCycleB.f32: 0.05000
+        !h mCycleBR.f32: 0.00300
+        !h mIntensity.f32: 10.00000
+        !h mRadius.f32: 10.00000
+        !h mCycleA.f32: 0.20000
+        !h mBindModelName.Str: 
+        !h mIsCandleColor.bool: false

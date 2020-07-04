@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h DistantFieldParam: {!h 15766853: 0.30000, !h 57cf6f6e: 400.00000, !h 76135f07: -27.00000, !h 9fb57cac: 0.00050, !h e106163f: 10.00000}
+  !h DistantFieldParam: {!h mRotateYParam.f32: 0.30000, !h mYScalePeakOffset.f32: 400.00000, !h mDrumOffsetYOffset.f32: -27.00000, !h mDrumOffsetYScale.f32: 0.00050, !h mScale.f32: 10.00000}

@@ -5,13 +5,13 @@ HasReferenceNodes: False
 root:
   !h IdrMuseumInsect_0_DemoInterporateParams:
     !h mParamsBuffer[]:
-      - !h 1368cc8:
+      - !h mCurvef.Curvef:
           - !l 0
           - - 0.00000
             - 1.00000
-        !h 1f74b3d1: IdrMuseumInsect_0
-        !h 66f1928a: !l 30
-      - !h 1368cc8:
+        !h mKey.Str: IdrMuseumInsect_0
+        !h mFrame.s32: !l 30
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -19,5 +19,5 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:0
-        !h 66f1928a: !l 36
+        !h mKey.Str: CameraArea:0
+        !h mFrame.s32: !l 36

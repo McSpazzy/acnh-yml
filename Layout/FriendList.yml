@@ -5,12 +5,12 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - !h 383f6e2e: false
-        !h a8e79f6f:
-          - {!h 2c49113d: Check, !h 8625d6ec: !l 1}
-        !h ce24f49e: !l 0
-        !h d17c5197: /L_ComSwitch_00
-        !h eedd76eb: ComSwitch
-    !h 4309561a: UI_FriendList
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - !h mIsIncludePath.bool: false
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: Check, !h mAnimOpeOption.Bit: !l 1}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: /L_ComSwitch_00
+        !h mGroupName.Str: ComSwitch
+    !h mUserName.Str: UI_FriendList
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

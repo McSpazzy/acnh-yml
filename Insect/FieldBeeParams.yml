@@ -6,27 +6,27 @@ root:
   !h FieldBeeParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 3a19a0b: 9.99756
-      !h 4a17c671: !l 60
-      !h 6b4b41eb: 10.00000
-      !h 9582ffd2: 0.15625
-      !h 9ffec08a: 7.81250
-      !h a6225d02: 1.87500
-      !h aad4b7a2: 15.00000
-      !h b489351f: 17.00000
-      !h d49a54b7: !l 60
-      !h deb05e58: 0.31250
+      !h mLabel.Str: 
+      !h mAddDirAng.f32: 9.99756
+      !h mAroundFrame.s32: !l 60
+      !h mPassHeight.f32: 10.00000
+      !h mSpeedUpDown.f32: 0.15625
+      !h mAttackDist.f32: 7.81250
+      !h mMaxSpeed.f32: 1.87500
+      !h mBaseHeight.f32: 15.00000
+      !h mHeadOffset.f32: 17.00000
+      !h mAttackFrame.s32: !l 60
+      !h mAccel.f32: 0.31250
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Hachi
-        !h 3a19a0b: 9.99756
-        !h 4a17c671: !l 60
-        !h 6b4b41eb: 10.00000
-        !h 9582ffd2: 0.15625
-        !h 9ffec08a: 8.00000
-        !h a6225d02: 1.80000
-        !h aad4b7a2: 15.00000
-        !h b489351f: 17.00000
-        !h d49a54b7: !l 60
-        !h deb05e58: 0.31250
+      - !h mLabel.Str: Hachi
+        !h mAddDirAng.f32: 9.99756
+        !h mAroundFrame.s32: !l 60
+        !h mPassHeight.f32: 10.00000
+        !h mSpeedUpDown.f32: 0.15625
+        !h mAttackDist.f32: 8.00000
+        !h mMaxSpeed.f32: 1.80000
+        !h mBaseHeight.f32: 15.00000
+        !h mHeadOffset.f32: 17.00000
+        !h mAttackFrame.s32: !l 60
+        !h mAccel.f32: 0.31250

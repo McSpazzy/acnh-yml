@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h Slope:
     !h mUnitFilterFieldCheck:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -17,7 +17,7 @@ root:
         - true
         - true
     !h mUnitFilterNoMakeCliff:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -29,7 +29,7 @@ root:
         - true
         - true
     !h mUnitFilterNoMakeRoad:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - true
         - true
@@ -41,7 +41,7 @@ root:
         - true
         - true
     !h mHalfUnitFilterRemoveItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -83,7 +83,7 @@ root:
         - true
         - true
     !h mUnitFilterNoMakeRiver:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -95,7 +95,7 @@ root:
         - true
         - true
     !h mUnitFilterExclusionStructure:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true

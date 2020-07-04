@@ -4,12 +4,12 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h InsectParamsMuseumLargeTree:
-    !h 2acc3806: !l 6
-    !h 3a0beebd: 6.00000
-    !h 757ea184: 10.40000
-    !h 9a720d59: 106.00000
-    !h c2315634:
+    !h mPlaceNumMin.u32: !l 6
+    !h mPlacementDistanceYMax.f32: 6.00000
+    !h mTreeRadius.f32: 10.40000
+    !h mPlacementAngleYDeg.f32: 106.00000
+    !h mTreeCenterPos.V3f:
       - 265.00000
       - 45.50000
       - 50.50000
-    !h f43b620a: 2.00000
+    !h mFlicker.f32: 2.00000

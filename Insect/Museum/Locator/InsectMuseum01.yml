@@ -4,17 +4,17 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h InsectMuseumLocator[]:
-    - {!h 10cfbcbe: !l 0, !h 594ac826: !l 586}
-    - {!h 10cfbcbe: !l 1, !h 594ac826: !l 636}
-    - {!h 10cfbcbe: !l 2, !h 594ac826: !l 583}
-    - {!h 10cfbcbe: !l 3, !h 594ac826: !l 627}
-    - {!h 10cfbcbe: !l 4, !h 594ac826: !l 620}
-    - {!h 10cfbcbe: !l 5, !h 594ac826: !l 625}
-    - {!h 10cfbcbe: !l 6, !h 594ac826: !l 626}
-    - {!h 10cfbcbe: !l 7, !h 594ac826: !l 610}
-    - {!h 10cfbcbe: !l 8, !h 594ac826: !l 647}
-    - {!h 10cfbcbe: !l 10, !h 594ac826: !l 584}
-    - {!h 10cfbcbe: !l 11, !h 594ac826: !l 3484}
-    - {!h 10cfbcbe: !l 12, !h 594ac826: !l 611}
-    - {!h 10cfbcbe: !l 13, !h 594ac826: !l 3477}
-    - {!h 10cfbcbe: !l 9, !h 594ac826: !l 610}
+    - {!h mLocatorID.s32: !l 0, !h mItemUniqueID.u16: !l 586}
+    - {!h mLocatorID.s32: !l 1, !h mItemUniqueID.u16: !l 636}
+    - {!h mLocatorID.s32: !l 2, !h mItemUniqueID.u16: !l 583}
+    - {!h mLocatorID.s32: !l 3, !h mItemUniqueID.u16: !l 627}
+    - {!h mLocatorID.s32: !l 4, !h mItemUniqueID.u16: !l 620}
+    - {!h mLocatorID.s32: !l 5, !h mItemUniqueID.u16: !l 625}
+    - {!h mLocatorID.s32: !l 6, !h mItemUniqueID.u16: !l 626}
+    - {!h mLocatorID.s32: !l 7, !h mItemUniqueID.u16: !l 610}
+    - {!h mLocatorID.s32: !l 8, !h mItemUniqueID.u16: !l 647}
+    - {!h mLocatorID.s32: !l 10, !h mItemUniqueID.u16: !l 584}
+    - {!h mLocatorID.s32: !l 11, !h mItemUniqueID.u16: !l 3484}
+    - {!h mLocatorID.s32: !l 12, !h mItemUniqueID.u16: !l 611}
+    - {!h mLocatorID.s32: !l 13, !h mItemUniqueID.u16: !l 3477}
+    - {!h mLocatorID.s32: !l 9, !h mItemUniqueID.u16: !l 610}

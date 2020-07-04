@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h IdrMuseumArt_0_DemoInterporateParams:
     !h mParamsBuffer[]:
-      - !h 1368cc8:
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -13,9 +13,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: IdrMuseumArt_0
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: IdrMuseumArt_0
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -23,9 +23,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:0
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:0
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -33,9 +33,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:1
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:1
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -43,9 +43,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:2
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:2
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -53,9 +53,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:3
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:3
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -63,9 +63,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:4
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:4
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -73,9 +73,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:5
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:5
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -83,9 +83,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:6
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:6
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -93,9 +93,9 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:7
-        !h 66f1928a: !l 42
-      - !h 1368cc8:
+        !h mKey.Str: CameraArea:7
+        !h mFrame.s32: !l 42
+      - !h mCurvef.Curvef:
           - !l 10
           - - 0.00000
             - 0.00000
@@ -103,5 +103,5 @@ root:
             - 1.00000
             - 1.00000
             - 0.00000
-        !h 1f74b3d1: CameraArea:8
-        !h 66f1928a: !l 42
+        !h mKey.Str: CameraArea:8
+        !h mFrame.s32: !l 42

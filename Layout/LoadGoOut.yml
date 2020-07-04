@@ -5,12 +5,12 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - !h 383f6e2e: false
-        !h a8e79f6f:
-          - {!h 2c49113d: Blink, !h 8625d6ec: !l 0}
-        !h ce24f49e: !l 0
-        !h d17c5197: /L_LoadGauge_00
-        !h eedd76eb: LoadGauge
-    !h 4309561a: NetHostWaitDemo
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - !h mIsIncludePath.bool: false
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: Blink, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: /L_LoadGauge_00
+        !h mGroupName.Str: LoadGauge
+    !h mUserName.Str: NetHostWaitDemo
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h WaveModelParam: {!h 6cd6d84c: false, !h f8ed6fa3: !l 3000}
+  !h WaveModelParam: {!h 6cd6d84c: false, !h mListSize.u32: !l 3000}

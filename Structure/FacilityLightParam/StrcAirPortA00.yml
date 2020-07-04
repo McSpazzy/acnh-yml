@@ -5,8 +5,8 @@ HasReferenceNodes: False
 root:
   !h StrcAirPortA00:
     !h mLightParamArray[]:
-      - {!h 70b3ff04: !l 1}
-      - {!h 70b3ff04: !l 1}
-      - {!h 70b3ff04: !l 1}
-      - {!h 70b3ff04: !l 1}
-      - {!h 70b3ff04: !l 1}
+      - {!h mLightKind.s32: !l 1}
+      - {!h mLightKind.s32: !l 1}
+      - {!h mLightKind.s32: !l 1}
+      - {!h mLightKind.s32: !l 1}
+      - {!h mLightKind.s32: !l 1}

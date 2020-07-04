@@ -4,12 +4,12 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h EnvParam:
-    !h 267b60f: 0.02000
-    !h 28b0c2b7: 0.00000
-    !h 3b4de481:
+    !h mRainFresnelReflectance.f32: 0.02000
+    !h mRainAlbedoRatio.f32: 0.00000
+    !h mSnowAlbedo.V3f:
       - 0.80000
       - 0.80000
       - 0.80000
-    !h 685a68cf: 0.00000
-    !h 7eb6ec58: 0.30000
-    !h 95c740ec: 0.00000
+    !h mRainAoIntensity.f32: 0.00000
+    !h mRainRoughness.f32: 0.30000
+    !h mSnowNormalRatio.f32: 0.00000

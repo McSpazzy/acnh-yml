@@ -5,12 +5,12 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - !h 383f6e2e: true
-        !h a8e79f6f:
-          - {!h 2c49113d: StampIn, !h 8625d6ec: !l 0}
-        !h ce24f49e: !l 0
-        !h d17c5197: Stamp
-        !h eedd76eb: Stamp
-    !h 4309561a: UI_StampRallyMuseum
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: StampIn, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: Stamp
+        !h mGroupName.Str: Stamp
+    !h mUserName.Str: UI_StampRallyMuseum
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

@@ -3,680 +3,680 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h b4e54d00:
+  !h GMO調整:
     !h mEmoticonNodeParamsArray:
       !h EyeR:
-        !h df73f917:
+        !h mTrans.V3f:
           - -1.96685
           - 0.46382
           - 2.28271
       !h Mouth:
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - -1.59919
           - 4.66246
       !h EyeL:
-        !h df73f917:
+        !h mTrans.V3f:
           - 1.96685
           - 0.46382
           - 2.28271
-    !h 17633058:
+    !h mHandItemOffset.V3f:
       - 0.00000
       - -0.06544
       - -0.78801
     !h mAccParamsArray:
       !h C_BrimUnder:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -2.06577
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.75597
           - 0.75597
           - 0.75597
-        !h df73f917:
+        !h mTrans.V3f:
           - 4.23879
           - -0.76310
           - 0.00000
       !h G_Fit:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.96208
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.79635
           - 0.79635
           - 0.64456
-        !h df73f917:
+        !h mTrans.V3f:
           - 3.21052
           - 3.72930
           - 0.00000
       !h C_Forehead:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.64727
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.93504
           - 0.93504
           - 0.93504
-        !h df73f917:
+        !h mTrans.V3f:
           - 5.67772
           - 1.17426
           - 0.00000
       !h G_Normal:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.87960
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.99017
           - 0.99017
           - 0.99017
-        !h df73f917:
+        !h mTrans.V3f:
           - 2.59508
           - 3.40665
           - 0.00000
       !h C_Crown:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.57080
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.00000
           - 1.00000
           - 1.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 5.49913
           - -0.08614
           - 0.00000
       !h C_Brim:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.99694
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.75597
           - 0.75597
           - 0.75597
-        !h df73f917:
+        !h mTrans.V3f:
           - 4.34517
           - -0.58170
           - 0.00000
       !h C_Knit:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -2.12202
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.94204
           - 1.00463
           - 0.94204
-        !h df73f917:
+        !h mTrans.V3f:
           - 2.99444
           - -0.25824
           - -0.00382
       !h C_Left:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 1.02998
           - -0.40836
           - -1.93690
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.36722
           - 1.36722
           - 1.36722
-        !h df73f917:
+        !h mTrans.V3f:
           - 4.54796
           - 0.22889
           - 2.62786
       !h C_Mask:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - -0.71694
           - 0.04114
           - -1.63065
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.58118
           - 0.58118
           - 0.58118
-        !h df73f917:
+        !h mTrans.V3f:
           - 4.59169
           - -0.35024
           - 2.97749
       !h C_Normal:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.99694
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.75597
           - 0.75597
           - 0.75597
-        !h df73f917:
+        !h mTrans.V3f:
           - 4.34517
           - -0.58170
           - 0.00000
       !h G_Down:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.87960
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.99017
           - 0.99017
           - 0.99017
-        !h df73f917:
+        !h mTrans.V3f:
           - 2.47441
           - 3.44515
           - 0.00000
       !h C_Bandana:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.95794
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.85829
           - 0.85829
           - 0.85829
-        !h df73f917:
+        !h mTrans.V3f:
           - 3.71239
           - -0.36561
           - 0.00000
       !h C_Top:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.77542
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.00000
           - 1.00000
           - 1.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 5.81478
           - -0.64564
           - 0.00000
       !h G_FitLittle:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.94101
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.89023
           - 0.89023
           - 0.89023
-        !h df73f917:
+        !h mTrans.V3f:
           - 2.66882
           - 3.19000
           - 0.00000
       !h C_Right:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - -2.01291
           - -0.41327
           - 1.20792
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.36722
           - 1.36722
           - 1.36722
-        !h df73f917:
+        !h mTrans.V3f:
           - 3.88323
           - 0.53344
           - -2.97088
       !h C_LeftBig:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 1.43675
           - -0.99057
           - -2.76512
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.00000
           - 1.00000
           - 1.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 5.29642
           - 0.29688
           - 1.73374
       !h G_Beard:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -2.32945
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.03826
           - 0.89825
           - 1.03826
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.52235
           - 4.30473
           - 0.00000
       !h None:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - -0.33184
           - -1.52705
           - -1.52124
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.00000
           - 1.00000
           - 1.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 2.31522
           - 3.39980
           - 0.14784
       !h G_Left:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 3.11225
           - -1.40047
           - 1.18947
-        !h a96b6642:
+        !h mScale.V3f:
           - 1.04711
           - 1.04711
           - 1.04711
-        !h df73f917:
+        !h mTrans.V3f:
           - 3.58024
           - 2.62815
           - 1.34052
       !h G_UP:
-        !h 14baf060: !l 0
-        !h 72203650:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.87960
-        !h a96b6642:
+        !h mScale.V3f:
           - 0.97111
           - 0.97111
           - 0.97111
-        !h df73f917:
+        !h mTrans.V3f:
           - 2.70462
           - 3.37171
           - 0.00000
-    !h 21d9edf:
+    !h mSitOffset.V3f:
       - 0.00000
       - 0.30155
       - 0.00000
-    !h 27705b27:
+    !h mEyeCtrlParamVertical.V3f:
       - -6.72500
       - 24.50000
       - 5.10000
     !h mToolParamsArray:
       !h PaperFan:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - -0.30884
           - 0.27819
           - 0.00000
-        !h e106163f: 1.00000
+        !h mScale.f32: 1.00000
       !h Candy:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.85152
+        !h mScale.f32: 0.85152
       !h Cop:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.28992
           - 0.06043
-        !h e106163f: 0.84571
+        !h mScale.f32: 0.84571
       !h HandLens:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
+        !h mScale.f32: 1.00000
       !h Coffee:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.94136
+        !h mScale.f32: 0.94136
       !h FruitBasket:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.47879
           - 0.00000
           - 0.00000
-        !h e106163f: 0.81274
+        !h mScale.f32: 0.81274
       !h StickLight:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - -0.06906
           - 0.00000
           - 0.00000
-        !h e106163f: 0.69489
+        !h mScale.f32: 0.69489
       !h Book:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.93522
+        !h mScale.f32: 0.93522
       !h Sandwich:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.85152
+        !h mScale.f32: 0.85152
       !h FishingRod:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.80907
+        !h mScale.f32: 0.80907
       !h Dumbbell:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.84567
+        !h mScale.f32: 0.84567
       !h Watering:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.02237
           - 1.04297
           - -0.07161
-        !h e106163f: 0.75240
+        !h mScale.f32: 0.75240
       !h Sprayer:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.02158
           - -0.10024
           - 0.00000
-        !h e106163f: 1.00000
+        !h mScale.f32: 1.00000
       !h Windmill:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - -0.28294
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
+        !h mScale.f32: 1.00000
       !h Doughnut:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.85152
+        !h mScale.f32: 0.85152
       !h HighBagHand:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.47879
           - 0.00000
           - 0.00000
-        !h e106163f: 0.76251
+        !h mScale.f32: 0.76251
       !h Duster:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
+        !h mScale.f32: 1.00000
       !h CuteBagHand:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.47879
           - 0.00000
           - 0.00000
-        !h e106163f: 0.81274
+        !h mScale.f32: 0.81274
       !h LightDumbbell:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.84567
+        !h mScale.f32: 0.84567
       !h Smoothie:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.28992
           - 0.15402
-        !h e106163f: 0.85083
+        !h mScale.f32: 0.85083
       !h CoolBagHand:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.47879
           - 0.00000
           - 0.00000
-        !h e106163f: 0.76013
+        !h mScale.f32: 0.76013
       !h Firewood:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.66717
           - 0.00000
           - -0.70694
-        !h e106163f: 0.88063
+        !h mScale.f32: 0.88063
       !h SoapBubble:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
+        !h mScale.f32: 1.00000
       !h SmallBook:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.82848
+        !h mScale.f32: 0.82848
       !h SmartPhone:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - -0.32326
           - 0.00000
           - 0.72474
-        !h e106163f: 0.86570
+        !h mScale.f32: 0.86570
       !h Broom:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.73933
+        !h mScale.f32: 0.73933
       !h Branch:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.10393
           - 0.00000
           - 0.00000
-        !h e106163f: 0.67096
+        !h mScale.f32: 0.67096
       !h Cracker:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
+        !h mScale.f32: 1.00000
       !h Canister:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.28992
           - -0.12477
-        !h e106163f: 0.84571
+        !h mScale.f32: 0.84571
       !h Tambourine:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - -0.21516
           - -0.24568
           - -0.60578
-        !h e106163f: 0.60986
+        !h mScale.f32: 0.60986
       !h Net:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.93505
+        !h mScale.f32: 0.93505
       !h Hammer:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - -0.04842
-        !h e106163f: 0.79024
+        !h mScale.f32: 0.79024
       !h LowBagHand:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.47879
           - 0.00000
           - 0.00000
-        !h e106163f: 0.81274
+        !h mScale.f32: 0.81274
       !h Umbrella:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 0.81670
+        !h mScale.f32: 0.81670
       !h Firework:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - -0.30448
           - 0.00000
           - 0.00000
-        !h e106163f: 0.81437
+        !h mScale.f32: 0.81437
       !h Ice:
-        !h 72203650:
+        !h mRotate.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h df73f917:
+        !h mTrans.V3f:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h e106163f: 1.00000
-    !h 495994f7: cSmall
-    !h b7298d2f: 2.30000
-    !h babce4f1:
+        !h mScale.f32: 1.00000
+    !h mCharacterSize.Enum: cSmall
+    !h mFootScale.f32: 2.30000
+    !h mEyeCtrlParamHorizon.V3f:
       - -28.70000
       - 28.70000
       - 5.10000
@@ -684,13 +684,13 @@ root:
       - 0.00000
       - 0.63553
       - -1.86361
-    !h c57b1c06: -2.25000
-    !h dbdcecb0:
+    !h mEyeCtrlRotateOffset.f32: -2.25000
+    !h mEyeCtrlOffset.V3f:
       - 2.92479
       - 0.00000
       - 0.00000
-    !h ff0eff83:
+    !h mSitSbOffset.V3f:
       - 0.00000
       - 0.30155
       - -0.50012
-    !h ffc0b4de: ShoeslessNagaMaru
+    !h mFootPrint.Enum: ShoeslessNagaMaru

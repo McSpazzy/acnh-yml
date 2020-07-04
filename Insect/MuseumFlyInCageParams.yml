@@ -6,29 +6,29 @@ root:
   !h MuseumFlyInCageParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 17d40fe2: 5.00000
-      !h 20e90aef: 
-      !h 3828adb9: 0.50000
-      !h 3a22f849: 15.00000
-      !h 428adc33: 30.00000
-      !h 5ba729c1: 0.10000
-      !h 7fa8d733: 60.00000
-      !h fd127c9c: 0.50000
+      !h mDestSearchRadius.f32: 5.00000
+      !h mLabel.Str: 
+      !h mCycleSec.f32: 0.50000
+      !h mGyrateAngleYStepDeg.f32: 15.00000
+      !h mDestSearchAngleYWhenFlyDeg.f32: 30.00000
+      !h mBreadthMax.f32: 0.10000
+      !h mDestSearchAngleYWhenReflectDeg.f32: 60.00000
+      !h mSpeed.f32: 0.50000
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 17d40fe2: 10.00000
-        !h 20e90aef: Hae
-        !h 3828adb9: 0.50000
-        !h 3a22f849: 15.00000
-        !h 428adc33: 30.00000
-        !h 5ba729c1: 0.40000
-        !h 7fa8d733: 60.00000
-        !h fd127c9c: 0.50000
-      - !h 17d40fe2: 5.00000
-        !h 20e90aef: Ka
-        !h 3828adb9: 0.50000
-        !h 3a22f849: 15.00000
-        !h 428adc33: 30.00000
-        !h 5ba729c1: 0.10000
-        !h 7fa8d733: 60.00000
-        !h fd127c9c: 0.10000
+      - !h mDestSearchRadius.f32: 10.00000
+        !h mLabel.Str: Hae
+        !h mCycleSec.f32: 0.50000
+        !h mGyrateAngleYStepDeg.f32: 15.00000
+        !h mDestSearchAngleYWhenFlyDeg.f32: 30.00000
+        !h mBreadthMax.f32: 0.40000
+        !h mDestSearchAngleYWhenReflectDeg.f32: 60.00000
+        !h mSpeed.f32: 0.50000
+      - !h mDestSearchRadius.f32: 5.00000
+        !h mLabel.Str: Ka
+        !h mCycleSec.f32: 0.50000
+        !h mGyrateAngleYStepDeg.f32: 15.00000
+        !h mDestSearchAngleYWhenFlyDeg.f32: 30.00000
+        !h mBreadthMax.f32: 0.10000
+        !h mDestSearchAngleYWhenReflectDeg.f32: 60.00000
+        !h mSpeed.f32: 0.10000

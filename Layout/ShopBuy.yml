@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_SelWin, !h eedd76eb: SelectWindow}
-    !h 4309561a: UI_Shop
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_SelWin, !h mGroupName.Str: SelectWindow}
+    !h mUserName.Str: UI_Shop
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

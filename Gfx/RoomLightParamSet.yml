@@ -4,117 +4,117 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h RoomLightParamSet:
-    !h f0492a22:
-      - !h 32af8f76:
+    !h mRoomLightParamArray[]:
+      - !h mPos.V3f:
           - 160.00000
           - 28.00000
           - 160.00000
-        !h 3de4b988: 160.00000
-        !h 45c202fb: 25.00000
-        !h 46a39dd0:
+        !h mAlternateLightPosZ.f32: 160.00000
+        !h mSize.f32: 25.00000
+        !h mWhiteColor.C4f:
           - 0.80000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 99275374: 40.00000
-        !h d8762ce9: 3.00000
-        !h dd8223fc: 12.00000
-        !h e05dc2ab:
+        !h mRadius.f32: 40.00000
+        !h mOrangeColorIntensity.f32: 3.00000
+        !h mWhiteColorIntensity.f32: 12.00000
+        !h mOrangeColor.C4f:
           - 1.00000
           - 0.50000
           - 0.20000
           - 1.00000
-      - !h 32af8f76:
+      - !h mPos.V3f:
           - 160.00000
           - 28.00000
           - 160.00000
-        !h 3de4b988: 160.00000
-        !h 45c202fb: 30.00000
-        !h 46a39dd0:
+        !h mAlternateLightPosZ.f32: 160.00000
+        !h mSize.f32: 30.00000
+        !h mWhiteColor.C4f:
           - 0.80000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 99275374: 50.00000
-        !h d8762ce9: 3.00000
-        !h dd8223fc: 12.00000
-        !h e05dc2ab:
+        !h mRadius.f32: 50.00000
+        !h mOrangeColorIntensity.f32: 3.00000
+        !h mWhiteColorIntensity.f32: 12.00000
+        !h mOrangeColor.C4f:
           - 1.00000
           - 0.50000
           - 0.20000
           - 1.00000
-      - !h 32af8f76:
+      - !h mPos.V3f:
           - 160.00000
           - 28.00000
           - 160.00000
-        !h 3de4b988: 160.00000
-        !h 45c202fb: 35.00000
-        !h 46a39dd0:
+        !h mAlternateLightPosZ.f32: 160.00000
+        !h mSize.f32: 35.00000
+        !h mWhiteColor.C4f:
           - 0.80000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 99275374: 60.00000
-        !h d8762ce9: 3.00000
-        !h dd8223fc: 12.00000
-        !h e05dc2ab:
+        !h mRadius.f32: 60.00000
+        !h mOrangeColorIntensity.f32: 3.00000
+        !h mWhiteColorIntensity.f32: 12.00000
+        !h mOrangeColor.C4f:
           - 1.00000
           - 0.50000
           - 0.20000
           - 1.00000
-      - !h 32af8f76:
+      - !h mPos.V3f:
           - 160.00000
           - 28.00000
           - 160.00000
-        !h 3de4b988: 140.00000
-        !h 45c202fb: 35.00000
-        !h 46a39dd0:
+        !h mAlternateLightPosZ.f32: 140.00000
+        !h mSize.f32: 35.00000
+        !h mWhiteColor.C4f:
           - 0.80000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 99275374: 60.00000
-        !h d8762ce9: 3.00000
-        !h dd8223fc: 12.00000
-        !h e05dc2ab:
+        !h mRadius.f32: 60.00000
+        !h mOrangeColorIntensity.f32: 3.00000
+        !h mWhiteColorIntensity.f32: 12.00000
+        !h mOrangeColor.C4f:
           - 1.00000
           - 0.50000
           - 0.20000
           - 1.00000
-      - !h 32af8f76:
+      - !h mPos.V3f:
           - 160.00000
           - 28.00000
           - 160.00000
-        !h 3de4b988: 160.00000
-        !h 45c202fb: 45.00000
-        !h 46a39dd0:
+        !h mAlternateLightPosZ.f32: 160.00000
+        !h mSize.f32: 45.00000
+        !h mWhiteColor.C4f:
           - 0.80000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 99275374: 80.00000
-        !h d8762ce9: 3.00000
-        !h dd8223fc: 12.00000
-        !h e05dc2ab:
+        !h mRadius.f32: 80.00000
+        !h mOrangeColorIntensity.f32: 3.00000
+        !h mWhiteColorIntensity.f32: 12.00000
+        !h mOrangeColor.C4f:
           - 1.00000
           - 0.50000
           - 0.20000
           - 1.00000
-      - !h 32af8f76:
+      - !h mPos.V3f:
           - 160.00000
           - 28.00000
           - 160.00000
-        !h 3de4b988: 160.00000
-        !h 45c202fb: 70.00000
-        !h 46a39dd0:
+        !h mAlternateLightPosZ.f32: 160.00000
+        !h mSize.f32: 70.00000
+        !h mWhiteColor.C4f:
           - 0.80000
           - 1.00000
           - 0.90000
           - 1.00000
-        !h 99275374: 80.00000
-        !h d8762ce9: 3.00000
-        !h dd8223fc: 12.00000
-        !h e05dc2ab:
+        !h mRadius.f32: 80.00000
+        !h mOrangeColorIntensity.f32: 3.00000
+        !h mWhiteColorIntensity.f32: 12.00000
+        !h mOrangeColor.C4f:
           - 1.00000
           - 1.00000
           - 1.00000

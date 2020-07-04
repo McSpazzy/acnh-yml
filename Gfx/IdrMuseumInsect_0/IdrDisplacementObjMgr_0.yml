@@ -5,219 +5,219 @@ HasReferenceNodes: False
 root:
   !h IdrDisplacementObjParam:
     !h mIdrDisplacementObjParam[]:
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 209.00000
           - 20.00000
           - 90.50000
-        !h 3c3b6879: IdrObjTreeOak00
-        !h 6404e56c: 広葉樹（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak00
+        !h mName.Str: 広葉樹（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 286.00000
           - 10.00000
           - 210.00000
-        !h 3c3b6879: IdrObjTreeOak00
-        !h 6404e56c: 広葉樹（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak00
+        !h mName.Str: 広葉樹（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 232.50000
           - 10.00000
           - 282.00000
-        !h 3c3b6879: IdrObjTreeOak00
-        !h 6404e56c: 広葉樹（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak00
+        !h mName.Str: 広葉樹（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 190.50000
           - 10.00000
           - 282.00000
-        !h 3c3b6879: IdrObjTreeOak00
-        !h 6404e56c: 広葉樹（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak00
+        !h mName.Str: 広葉樹（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 180.00000
           - 25.00000
           - 133.00000
-        !h 3c3b6879: IdrObjTreeOak00
-        !h 6404e56c: 広葉樹（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak00
+        !h mName.Str: 広葉樹（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 238.00000
           - 15.00000
           - 115.00000
-        !h 3c3b6879: IdrObjTreeOak01
-        !h 6404e56c: 広葉樹（M）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak01
+        !h mName.Str: 広葉樹（M）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 291.00000
           - 10.00000
           - 134.00000
-        !h 3c3b6879: IdrObjTreeOak01
-        !h 6404e56c: 広葉樹（M）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak01
+        !h mName.Str: 広葉樹（M）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 157.50000
           - 5.00000
           - 260.00000
-        !h 3c3b6879: IdrObjTreeOak02
-        !h 6404e56c: 広葉樹（L）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak02
+        !h mName.Str: 広葉樹（L）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 209.00000
           - 10.00000
           - 268.00000
-        !h 3c3b6879: IdrObjTreeOak02
-        !h 6404e56c: 広葉樹（L）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak02
+        !h mName.Str: 広葉樹（L）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 303.50000
           - 10.00000
           - 239.00000
-        !h 3c3b6879: IdrObjTreeOak02
-        !h 6404e56c: 広葉樹（L）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak02
+        !h mName.Str: 広葉樹（L）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 310.50000
           - 20.00000
           - 98.00000
-        !h 3c3b6879: IdrObjTreeOak02
-        !h 6404e56c: 広葉樹（L）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak02
+        !h mName.Str: 広葉樹（L）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 40.50000
           - 23.00000
           - 109.50000
-        !h 3c3b6879: IdrObjTreeOak03
-        !h 6404e56c: 広葉樹（切株）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOak03
+        !h mName.Str: 広葉樹（切株）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 156.50000
           - 20.00000
           - 176.00000
-        !h 3c3b6879: IdrObjTreeOakD00
-        !h 6404e56c: 広葉樹D（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOakD00
+        !h mName.Str: 広葉樹D（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 241.00000
           - 10.00000
           - 178.50000
-        !h 3c3b6879: IdrObjTreeOakD01
-        !h 6404e56c: 広葉樹D（M）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOakD01
+        !h mName.Str: 広葉樹D（M）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 223.00000
           - 10.00000
           - 144.00000
-        !h 3c3b6879: IdrObjTreeOakD01
-        !h 6404e56c: 広葉樹D（M）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOakD01
+        !h mName.Str: 広葉樹D（M）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 213.50000
           - 10.00000
           - 165.50000
-        !h 3c3b6879: IdrObjTreeOakD02
-        !h 6404e56c: 広葉樹D（L）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOakD02
+        !h mName.Str: 広葉樹D（L）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 203.50000
           - 10.00000
           - 185.00000
-        !h 3c3b6879: IdrObjTreeOakD03
-        !h 6404e56c: 広葉樹D（切株）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOakD03
+        !h mName.Str: 広葉樹D（切株）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 181.50000
           - 10.00000
           - 177.00000
-        !h 3c3b6879: IdrObjTreeOakD03
-        !h 6404e56c: 広葉樹D（切株）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreeOakD03
+        !h mName.Str: 広葉樹D（切株）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 62.50000
           - 23.00000
           - 78.64079
-        !h 3c3b6879: IdrObjTreePalm00
-        !h 6404e56c: ヤシの木（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreePalm00
+        !h mName.Str: ヤシの木（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 23.50000
           - 23.00000
           - 97.00000
-        !h 3c3b6879: IdrObjTreePalm00
-        !h 6404e56c: ヤシの木（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreePalm00
+        !h mName.Str: ヤシの木（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 78.00000
           - 28.00000
           - 54.50000
-        !h 3c3b6879: IdrObjTreePalm00
-        !h 6404e56c: ヤシの木（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreePalm00
+        !h mName.Str: ヤシの木（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 40.00000
           - 31.00000
           - 61.00000
-        !h 3c3b6879: IdrObjTreePalm00
-        !h 6404e56c: ヤシの木（S）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreePalm00
+        !h mName.Str: ヤシの木（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 203.00000
           - 15.00000
           - 135.00000
-        !h 3c3b6879: IdrObjTreePalm00
-        !h 6404e56c: ヤシの木（S）
-        !h 84e4b16: 
-        !h e106163f: 0.80000
-      - !h 2cac3d2e: true
-        !h 32af8f76:
+        !h mResName.Str: IdrObjTreePalm00
+        !h mName.Str: ヤシの木（S）
+        !h mModelName.Str: 
+        !h mScale.f32: 0.80000
+      - !h mIsEnable.bool: true
+        !h mPos.V3f:
           - 265.00000
           - 25.00000
           - 42.50000
-        !h 3c3b6879: IdrObjTreeHuge00
-        !h 6404e56c: 広葉樹（LL）
-        !h 84e4b16: 
-        !h e106163f: 1.00000
+        !h mResName.Str: IdrObjTreeHuge00
+        !h mName.Str: 広葉樹（LL）
+        !h mModelName.Str: 
+        !h mScale.f32: 1.00000

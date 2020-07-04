@@ -4,13 +4,13 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h ShootingStarParam:
-    !h 8ea08207: !l 90
-    !h ace34ebd: -660.00000
-    !h b57f0ce1:
+    !h mLife.s32: !l 90
+    !h mPosZ.f32: -660.00000
+    !h mSpeed.V3f:
       - -2.00000
       - -1.00000
       - 0.00000
-    !h c090c093:
+    !h mEmitRange.V4f:
       - 22.80000
       - 198.36000
       - 174.80000

@@ -3,17 +3,17 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 8c3a7b05:
-    - !h 1b7fce6f: なし
+  !h EvtobjCountdownBoard[]:
+    - !h mLightType.Enum: なし
       !h cParamCameraCatcher: mEvtCountdownDenshoku
-      !h 47d316df:
+      !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000
         - 0.00000
-      !h d08de60c: const_color4
-    - !h 1b7fce6f: なし
-      !h 47d316df:
+      !h mMaterialColorParam.Enum: const_color4
+    - !h mLightType.Enum: なし
+      !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000

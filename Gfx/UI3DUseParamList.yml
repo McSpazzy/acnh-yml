@@ -5,153 +5,153 @@ HasReferenceNodes: False
 root:
   !h UI3DDisplayUseParamList:
     !h mPaletteList[]:
-      - !h 377c08f8: キャラメイク
-        !h 4a87e41d: CharaMake
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 8
+      - !h mMode.Enum: キャラメイク
+        !h mParamName.Str: CharaMake
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
         !h X_Encoding[]:
           - 100.00000
           - 100.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - 0.00000
           - 0.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: CharaMake_00, !h b05d5515: !l 0}
-          - {!h 9850be74: !l 1, !h a5f023ea: CharaMake_01, !h b05d5515: !l 1}
-          - {!h 9850be74: !l 2, !h a5f023ea: CharaMake_02, !h b05d5515: !l 2}
-          - {!h 9850be74: !l 3, !h a5f023ea: CharaMake_02, !h b05d5515: !l 2}
-          - {!h 9850be74: !l 4, !h a5f023ea: CharaMake_02, !h b05d5515: !l 2}
-          - {!h 9850be74: !l 5, !h a5f023ea: CharaMake_02, !h b05d5515: !l 2}
-          - {!h 9850be74: !l 6, !h a5f023ea: CharaMakeDialog, !h b05d5515: !l 4}
-      - !h 377c08f8: クローゼット
-        !h 4a87e41d: Closet
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 2
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: CharaMake_00, !h mUseParamIndex.s32: !l 0}
+          - {!h mCategoryIndex.s32: !l 1, !h mUseParamName.Str: CharaMake_01, !h mUseParamIndex.s32: !l 1}
+          - {!h mCategoryIndex.s32: !l 2, !h mUseParamName.Str: CharaMake_02, !h mUseParamIndex.s32: !l 2}
+          - {!h mCategoryIndex.s32: !l 3, !h mUseParamName.Str: CharaMake_02, !h mUseParamIndex.s32: !l 2}
+          - {!h mCategoryIndex.s32: !l 4, !h mUseParamName.Str: CharaMake_02, !h mUseParamIndex.s32: !l 2}
+          - {!h mCategoryIndex.s32: !l 5, !h mUseParamName.Str: CharaMake_02, !h mUseParamIndex.s32: !l 2}
+          - {!h mCategoryIndex.s32: !l 6, !h mUseParamName.Str: CharaMakeDialog, !h mUseParamIndex.s32: !l 4}
+      - !h mMode.Enum: クローゼット
+        !h mParamName.Str: Closet
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 2
         !h X_Encoding[]:
           - 100.00000
           - 100.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - 0.00000
           - 0.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: Closet_00, !h b05d5515: !l 3}
-      - !h 377c08f8: 作業台：クラフト
-        !h 4a87e41d: WorkBenchCraft
-        !h 9532c98a: !l 4
-        !h ae26120b: !l 9
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: Closet_00, !h mUseParamIndex.s32: !l 3}
+      - !h mMode.Enum: 作業台：クラフト
+        !h mParamName.Str: WorkBenchCraft
+        !h mSpecialDeleteFrame.u32: !l 4
+        !h mNormalDeleteFrame.u32: !l 9
         !h X_Encoding[]:
           - 660.00000
           - 580.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - -430.00000
           - -90.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: WorkBenchCraft, !h b05d5515: !l 5}
-      - !h 377c08f8: 村活ポイント交換画面
-        !h 4a87e41d: ShopSonkatsu
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 8
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: WorkBenchCraft, !h mUseParamIndex.s32: !l 5}
+      - !h mMode.Enum: 村活ポイント交換画面
+        !h mParamName.Str: ShopSonkatsu
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
         !h X_Encoding[]:
           - 450.00000
           - 450.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - -475.00000
           - -50.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: ShopSonkatsu, !h b05d5515: !l 11}
-      - !h 377c08f8: 家外観カスタマイズ
-        !h 4a87e41d: CustomHome
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 8
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: ShopSonkatsu, !h mUseParamIndex.s32: !l 11}
+      - !h mMode.Enum: 家外観カスタマイズ
+        !h mParamName.Str: CustomHome
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
         !h X_Encoding[]:
           - 100.00000
           - 100.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - 0.00000
           - 0.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: PlayerHouse_00, !h b05d5515: !l 6}
-      - !h 377c08f8: 作業台：リメイク
-        !h 4a87e41d: WorkBenchRemake
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 8
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: PlayerHouse_00, !h mUseParamIndex.s32: !l 6}
+      - !h mMode.Enum: 作業台：リメイク
+        !h mParamName.Str: WorkBenchRemake
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
         !h X_Encoding[]:
           - 800.00000
           - 400.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - 0.00000
           - 150.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: WorkBenchRemake, !h b05d5515: !l 7}
-      - !h 377c08f8: マイデザインエディット
-        !h 4a87e41d: MyDesignEdit
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 2
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: WorkBenchRemake, !h mUseParamIndex.s32: !l 7}
+      - !h mMode.Enum: マイデザインエディット
+        !h mParamName.Str: MyDesignEdit
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 2
         !h X_Encoding[]:
           - 450.00000
           - 450.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - 650.00000
           - -100.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: MyDesignEdit, !h b05d5515: !l 9}
-      - !h 377c08f8: カタログショッピング
-        !h 4a87e41d: Catalog
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 8
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: MyDesignEdit, !h mUseParamIndex.s32: !l 9}
+      - !h mMode.Enum: カタログショッピング
+        !h mParamName.Str: Catalog
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
         !h X_Encoding[]:
           - 450.00000
           - 600.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - -475.00000
           - -50.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: Catalog, !h b05d5515: !l 8}
-      - !h 377c08f8: 橋・坂造成画面
-        !h 4a87e41d: ShopBridgeSlope
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 2
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: Catalog, !h mUseParamIndex.s32: !l 8}
+      - !h mMode.Enum: 橋・坂造成画面
+        !h mParamName.Str: ShopBridgeSlope
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 2
         !h X_Encoding[]:
           - 100.00000
           - 100.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - -480.00000
           - 0.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: ShopBridgeSlope, !h b05d5515: !l 10}
-      - !h 377c08f8: 仕立て屋：試着室
-        !h 4a87e41d: ShopTailor
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 8
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: ShopBridgeSlope, !h mUseParamIndex.s32: !l 10}
+      - !h mMode.Enum: 仕立て屋：試着室
+        !h mParamName.Str: ShopTailor
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
         !h X_Encoding[]:
           - 100.00000
           - 100.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - 0.00000
           - 0.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: ShopTailor, !h b05d5515: !l 12}
-      - !h 377c08f8: マイデザイン交換ステージ
-        !h 4a87e41d: MyDesignExchange
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 0
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: ShopTailor, !h mUseParamIndex.s32: !l 12}
+      - !h mMode.Enum: マイデザイン交換ステージ
+        !h mParamName.Str: MyDesignExchange
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 0
         !h X_Encoding[]:
           - 100.00000
           - 100.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - 0.00000
           - 0.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: MyDesignExchange, !h b05d5515: !l 13}
-      - !h 377c08f8: あいのけっしょう交換リスト
-        !h 4a87e41d: CatalogGift
-        !h 9532c98a: !l 0
-        !h ae26120b: !l 2
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: MyDesignExchange, !h mUseParamIndex.s32: !l 13}
+      - !h mMode.Enum: あいのけっしょう交換リスト
+        !h mParamName.Str: CatalogGift
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 2
         !h X_Encoding[]:
           - 450.00000
           - 600.00000
-        !h dc6cf31c:
+        !h mItemAreaPos.V2f:
           - -475.00000
           - -50.00000
-        !h f16f4d1:
-          - {!h 9850be74: !l 0, !h a5f023ea: CatalogGift, !h b05d5515: !l 14}
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: CatalogGift, !h mUseParamIndex.s32: !l 14}

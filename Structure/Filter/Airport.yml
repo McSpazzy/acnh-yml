@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h Airport:
     !h mHalfUnitFilterNoPutItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - true
         - true
@@ -447,7 +447,7 @@ root:
         - false
         - false
     !h mUnitFilterNoEntryInsect:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - false
         - false
         - false

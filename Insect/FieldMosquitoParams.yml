@@ -6,27 +6,27 @@ root:
   !h FieldMosquitoParams:
     !h mCommon: null
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 3a19a0b: 1.99951
-      !h 4fbd0533: 10.00000
-      !h 5106f9ba: 0.07813
-      !h 536026a: 0.62500
-      !h 7edb050a: 50.00000
-      !h 9582ffd2: 0.07813
-      !h a733b0fc: 7.81250
-      !h aad4b7a2: 10.00000
-      !h fc6ea52b: 0.01953
-      !h fd127c9c: 0.15625
+      !h mLabel.Str: 
+      !h mAddDirAng.f32: 1.99951
+      !h mDestDistance.f32: 10.00000
+      !h mBreathMax.f32: 0.07813
+      !h mSwingBreath.f32: 0.62500
+      !h mFindDist.f32: 50.00000
+      !h mSpeedUpDown.f32: 0.07813
+      !h mStingDist.f32: 7.81250
+      !h mBaseHeight.f32: 10.00000
+      !h mSpeedChaseMove.f32: 0.01953
+      !h mSpeed.f32: 0.15625
     !h mCommonDummy: null
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Ka
-        !h 3a19a0b: 1.99951
-        !h 4fbd0533: 10.00000
-        !h 5106f9ba: 0.07813
-        !h 536026a: 0.62500
-        !h 7edb050a: 50.00000
-        !h 9582ffd2: 0.07813
-        !h a733b0fc: 7.81250
-        !h aad4b7a2: 10.00000
-        !h fc6ea52b: 0.01953
-        !h fd127c9c: 0.15625
+      - !h mLabel.Str: Ka
+        !h mAddDirAng.f32: 1.99951
+        !h mDestDistance.f32: 10.00000
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mFindDist.f32: 50.00000
+        !h mSpeedUpDown.f32: 0.07813
+        !h mStingDist.f32: 7.81250
+        !h mBaseHeight.f32: 10.00000
+        !h mSpeedChaseMove.f32: 0.01953
+        !h mSpeed.f32: 0.15625

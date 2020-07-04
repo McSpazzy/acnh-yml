@@ -5,21 +5,21 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnOk, !h eedd76eb: Ok}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_ColorBtnFace_, !h eedd76eb: Check}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListHair_, !h eedd76eb: Check}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListEye_, !h eedd76eb: Check}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnNose_, !h eedd76eb: Check}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnMouth_, !h eedd76eb: Check}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnCheek_, !h eedd76eb: Check}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListHairColor, !h eedd76eb: CheckSmall}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnListEyeColor, !h eedd76eb: CheckSmall}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_ColorBtnCheek, !h eedd76eb: CheckSmall}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_MyDesign, !h eedd76eb: Check}
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: L_BtnMW, !h eedd76eb: Check}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogFinish_00/L_BtnL_00, !h eedd76eb: DialogFinish_L}
-      - {!h 383f6e2e: false, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: /L_DialogFinish_00/L_BtnR_00, !h eedd76eb: DialogFinish_R}
-    !h 4309561a: UI_CharaMake
-    !h 718df20d: false
-    !h a8e79f6f:
-      - {!h 2c49113d: FinishOut, !h 8625d6ec: !l 0}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnOk, !h mGroupName.Str: Ok}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_ColorBtnFace_, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnListHair_, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnListEye_, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnNose_, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnMouth_, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnCheek_, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnListHairColor, !h mGroupName.Str: CheckSmall}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnListEyeColor, !h mGroupName.Str: CheckSmall}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_ColorBtnCheek, !h mGroupName.Str: CheckSmall}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_MyDesign, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: L_BtnMW, !h mGroupName.Str: Check}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_DialogFinish_00/L_BtnL_00, !h mGroupName.Str: DialogFinish_L}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_DialogFinish_00/L_BtnR_00, !h mGroupName.Str: DialogFinish_R}
+    !h mUserName.Str: UI_CharaMake
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]:
+      - {!h mTagName.Str: FinishOut, !h mAnimOpeOption.Bit: !l 0}

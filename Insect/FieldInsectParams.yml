@@ -5,638 +5,638 @@ HasReferenceNodes: False
 root:
   !h FieldInsectParams:
     !h mCommon:
-      !h 31be5750: -0.01000
-      !h 325fd8de: 60.00000
-      !h 55adc017: 4.39453
-      !h 597e47b: 350.00000
-      !h 5d408cc6: 283.09570
-      !h 9cce5306: 65.91797
-      !h a0f45e9c: 350.00000
-      !h a1711308: 0.62500
-      !h ab9460c0: -0.15625
-      !h c7026793: 20.00000
-      !h cd0e1396: 0.25000
-      !h d48bd8a1: 10.00000
-      !h d4ea9713: 30.00000
-      !h e07bb13f: -1.56250
-      !h f85cf7d0: 20.00000
+      !h mEscapeAccelWorm.f32: -0.01000
+      !h m1stSec.f32: 60.00000
+      !h mEscapeLastAngleXStepDeg.f32: 4.39453
+      !h m2ndCheckDistance.f32: 350.00000
+      !h mEscapeLastAngleXMaxDeg.f32: 283.09570
+      !h mEscapeLastAngleYMaxDeg.f32: 65.91797
+      !h m1stCheckDistance.f32: 350.00000
+      !h mEscapeSpeedFly.f32: 0.62500
+      !h mGravity.f32: -0.15625
+      !h mMileStoneFrame.f32: 20.00000
+      !h mEscapeSpeedWorm.f32: 0.25000
+      !h mOtherSec.f32: 10.00000
+      !h mAlphaOutFrame.f32: 30.00000
+      !h mDownSpeedMax.f32: -1.56250
+      !h m2ndSec.f32: 20.00000
     !h mUniqueDummy:
-      !h 20e90aef: 
-      !h 2a3f1272: 0.00000
-      !h 6d9f68a2: 0.00000
-      !h 72796baf: !l 8
-      !h 77f57a1a: 0.00000
+      !h mLabel.Str: 
+      !h mPatienceLv2.f32: 0.00000
+      !h mPatienceLv1.f32: 0.00000
+      !h mSeaHoveringFrame.s32: !l 8
+      !h mSarchDistance.f32: 0.00000
       !h Cheekformat: 0.00000
-      !h d08a1657: 0.00000
+      !h mPlayerSpeedOffset.f32: 0.00000
     !h mCommonDummy:
-      !h 31be5750: -0.10000
-      !h 325fd8de: 60.00000
-      !h 55adc017: 4.39453
-      !h 597e47b: 350.00000
-      !h 5d408cc6: 283.09570
-      !h 9cce5306: 65.91797
-      !h a0f45e9c: 200.00000
-      !h a1711308: 0.62500
-      !h ab9460c0: -0.15625
-      !h c7026793: 20.00000
-      !h cd0e1396: 0.23438
-      !h d48bd8a1: 3.00000
-      !h d4ea9713: 30.00000
-      !h e07bb13f: -1.56250
-      !h f85cf7d0: 20.00000
+      !h mEscapeAccelWorm.f32: -0.10000
+      !h m1stSec.f32: 60.00000
+      !h mEscapeLastAngleXStepDeg.f32: 4.39453
+      !h m2ndCheckDistance.f32: 350.00000
+      !h mEscapeLastAngleXMaxDeg.f32: 283.09570
+      !h mEscapeLastAngleYMaxDeg.f32: 65.91797
+      !h m1stCheckDistance.f32: 200.00000
+      !h mEscapeSpeedFly.f32: 0.62500
+      !h mGravity.f32: -0.15625
+      !h mMileStoneFrame.f32: 20.00000
+      !h mEscapeSpeedWorm.f32: 0.23438
+      !h mOtherSec.f32: 3.00000
+      !h mAlphaOutFrame.f32: 30.00000
+      !h mDownSpeedMax.f32: -1.56250
+      !h m2ndSec.f32: 20.00000
     !h mUniqueBuffer[]:
-      - !h 20e90aef: Monshirocho
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 50.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+      - !h mLabel.Str: Monshirocho
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Monkicho
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 50.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Monkicho
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Agehacho
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Agehacho
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Karasuageha
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Karasuageha
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ohkabamadara
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ohkabamadara
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Morufuocho
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 25.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Morufuocho
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 25.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Miirotateha
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Miirotateha
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Akaeritoribaneageha
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 45.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Akaeritoribaneageha
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 45.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Arekisandoratoribaneageha
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 25.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 60.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Arekisandoratoribaneageha
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 25.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 60.00000
         !h Cheekformat: 2.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ga
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 125.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 5.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ga
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 125.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 5.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Yonagunisan
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Yonagunisan
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Mitsubachi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 15.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Mitsubachi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
         !h Cheekformat: 1.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Hachi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Hachi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 5.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Shoryobatta
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 20.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Shoryobatta
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 20.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Tonosamabatta
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 20.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Tonosamabatta
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 20.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Inago
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Inago
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Kamakiri
-        !h 2a3f1272: 80.00000
-        !h 6d9f68a2: 20.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Kamakiri
+        !h mPatienceLv2.f32: 80.00000
+        !h mPatienceLv1.f32: 20.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Hanakamakiri
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 9
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Hanakamakiri
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 9
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Aburazemi
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 12.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Aburazemi
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 12.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Minminzemi
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 12.50000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Minminzemi
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 12.50000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Kumazemi
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 12.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Kumazemi
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 12.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Tsukutsukuhousi
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 12.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Tsukutsukuhousi
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 12.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Higurashi
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 12.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Higurashi
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 12.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Seminonukegara
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Seminonukegara
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Akiakane
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 60.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Akiakane
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 60.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ginyanma
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 60.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ginyanma
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 60.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Oniyanma
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Oniyanma
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 2.20000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ari
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ari
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 2.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Amenbo
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Amenbo
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 2.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Gengorou
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Gengorou
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 2.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Kamemushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 60.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Kamemushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 60.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Katatsumuri
-        !h 2a3f1272: 125.00000
-        !h 6d9f68a2: 25.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Katatsumuri
+        !h mPatienceLv2.f32: 125.00000
+        !h mPatienceLv1.f32: 25.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Kohrogi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Kohrogi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Suzumushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Suzumushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Kirigirisu
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Kirigirisu
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.80000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Okera
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Okera
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Konohamushi
-        !h 2a3f1272: 30.00000
-        !h 6d9f68a2: 5.00000
-        !h 72796baf: !l 11
-        !h 77f57a1a: 40.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Konohamushi
+        !h mPatienceLv2.f32: 30.00000
+        !h mPatienceLv1.f32: 5.00000
+        !h mSeaHoveringFrame.s32: !l 11
+        !h mSarchDistance.f32: 40.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: -0.70000
-      - !h 20e90aef: Nanafushi
-        !h 2a3f1272: 80.00000
-        !h 6d9f68a2: 15.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 45.00000
+        !h mPlayerSpeedOffset.f32: -0.70000
+      - !h mLabel.Str: Nanafushi
+        !h mPatienceLv2.f32: 80.00000
+        !h mPatienceLv1.f32: 15.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 45.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.70000
-      - !h 20e90aef: Minomushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: -0.70000
+      - !h mLabel.Str: Minomushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Tentoumushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 60.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Tentoumushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 60.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.25000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Baiorinmushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 16.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Baiorinmushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 16.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Gomadarakamikiri
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 16.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Gomadarakamikiri
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 16.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Hanmyou
-        !h 2a3f1272: 120.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 20.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Hanmyou
+        !h mPatienceLv2.f32: 120.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 20.00000
         !h Cheekformat: 1.25000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Funkorogashi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 100.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Funkorogashi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 100.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Funamushi
-        !h 2a3f1272: 120.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Funamushi
+        !h mPatienceLv2.f32: 120.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Yadokari
-        !h 2a3f1272: 30.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 10
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Yadokari
+        !h mPatienceLv2.f32: 30.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 10
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ohsenchikogane
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ohsenchikogane
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Purachinakogane
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 33.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Purachinakogane
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 33.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Tamamushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 12.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Tamamushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 12.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Miyamakuwagata
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Miyamakuwagata
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Nokogirikuwagata
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Nokogirikuwagata
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Ohkuwagata
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 33.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Ohkuwagata
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 33.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Nijiirokuwagata
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 33.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Nijiirokuwagata
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 33.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Hosoakakuwagata
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 33.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Hosoakakuwagata
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 33.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Ougononikuwagata
-        !h 2a3f1272: 9.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 40.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Ougononikuwagata
+        !h mPatienceLv2.f32: 9.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 40.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Kabutomushi
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Kabutomushi
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Kohkasasuohkabuto
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 33.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Kohkasasuohkabuto
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 33.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Zoukabuto
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 33.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Zoukabuto
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 33.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Herakuresuohkabuto
-        !h 2a3f1272: 9.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 40.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Herakuresuohkabuto
+        !h mPatienceLv2.f32: 9.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 40.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Goraiasuohtsunohanamuguri
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 33.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Goraiasuohtsunohanamuguri
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 33.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Nomi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Nomi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 0.93750
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Dangomushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 25.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Dangomushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 25.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.25000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ka
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ka
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 0.93750
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Hae
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 37.50000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 15.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Hae
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 37.50000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
         !h Cheekformat: 0.93750
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Mukade
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Mukade
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 1.87500
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Kumo
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 10
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Kumo
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 10
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 1.25000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Taranchura
-        !h 2a3f1272: 37.50000
-        !h 6d9f68a2: 3.12500
-        !h 72796baf: !l 11
-        !h 77f57a1a: 50.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Taranchura
+        !h mPatienceLv2.f32: 37.50000
+        !h mPatienceLv1.f32: 3.12500
+        !h mSeaHoveringFrame.s32: !l 11
+        !h mSarchDistance.f32: 50.00000
         !h Cheekformat: 2.18750
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Sasori
-        !h 2a3f1272: 37.50000
-        !h 6d9f68a2: 3.12500
-        !h 72796baf: !l 11
-        !h 77f57a1a: 50.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Sasori
+        !h mPatienceLv2.f32: 37.50000
+        !h mPatienceLv1.f32: 3.12500
+        !h mSeaHoveringFrame.s32: !l 11
+        !h mSarchDistance.f32: 50.00000
         !h Cheekformat: 2.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Hotaru
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 25.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Hotaru
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 25.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.25000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Aosujiageha
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 50.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Aosujiageha
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ohgomamadara
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ohgomamadara
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Ohmurasaki
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Ohmurasaki
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Kanabun
-        !h 2a3f1272: 50.00000
-        !h 6d9f68a2: 12.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Kanabun
+        !h mPatienceLv2.f32: 50.00000
+        !h mPatienceLv1.f32: 12.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Girafanokogirikuwagata
-        !h 2a3f1272: 9.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 40.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Girafanokogirikuwagata
+        !h mPatienceLv2.f32: 9.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 40.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Jinmenkamemushi
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 60.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Jinmenkamemushi
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 60.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Nishikiohtsubamega
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 40.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 35.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Nishikiohtsubamega
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 40.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 35.00000
         !h Cheekformat: 2.00000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Housekizoumushi
-        !h 2a3f1272: 12.00000
-        !h 6d9f68a2: 4.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Housekizoumushi
+        !h mPatienceLv2.f32: 12.00000
+        !h mPatienceLv1.f32: 4.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 4.00000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: Ruriboshikamikiri
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 12.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 30.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: Ruriboshikamikiri
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 12.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 30.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: -0.10000
-      - !h 20e90aef: SnowCrystal
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 50.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 15.00000
+        !h mPlayerSpeedOffset.f32: -0.10000
+      - !h mLabel.Str: SnowCrystal
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
         !h Cheekformat: 1.70000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: SnowCrystalLarge
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 10.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 15.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: SnowCrystalLarge
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 10.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
         !h Cheekformat: 1.56250
-        !h d08a1657: 0.00000
-      - !h 20e90aef: YutaroWisp
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: YutaroWisp
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 1.25000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Tagame
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 0.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Tagame
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 0.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 0.00000
         !h Cheekformat: 2.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Itotonbo
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 60.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 25.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Itotonbo
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 60.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 25.00000
         !h Cheekformat: 1.50000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: Sakurapetal
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 50.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 15.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: Sakurapetal
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
         !h Cheekformat: 1.70000
-        !h d08a1657: 0.00000
-      - !h 20e90aef: AutumnLeaf
-        !h 2a3f1272: 0.00000
-        !h 6d9f68a2: 50.00000
-        !h 72796baf: !l 8
-        !h 77f57a1a: 15.00000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: AutumnLeaf
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
         !h Cheekformat: 1.70000
-        !h d08a1657: 0.00000
+        !h mPlayerSpeedOffset.f32: 0.00000

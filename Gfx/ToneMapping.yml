@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h ToneMapping:
-    !h 4e67858c:
+    !h mFbSize.V2f:
       - 1920.00000
       - 1080.00000
-    !h 62d4d855: true
-    !h 6df92e09: !l 1
-    !h 6ec27206: 0.00000
-    !h cfc021e8: cExponentialLuminance
-    !h feeeb61b: 0.00000
+    !h mEnable.bool: true
+    !h mMaxMipLevel.u32: !l 1
+    !h mSaturateBias.f32: 0.00000
+    !h mToneMapMode.Enum: cExponentialLuminance
+    !h mExpose.f32: 0.00000

@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h XLink:
     !h mPartsParamBuffer[]:
-      - {!h 383f6e2e: true, !h a8e79f6f: null, !h ce24f49e: !l 0, !h d17c5197: ColorBar, !h eedd76eb: ColorBar}
-    !h 4309561a: UI_MyDesignColorSelect
-    !h 718df20d: false
-    !h a8e79f6f: null
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: ColorBar, !h mGroupName.Str: ColorBar}
+    !h mUserName.Str: UI_MyDesignColorSelect
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

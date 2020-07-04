@@ -4,9 +4,9 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h bea12:
-    !h 1c37a23: !l 60
-    !h 5ba5def0: !l 7
-    !h mDeco: {!h 5bc12308: !l 65534}
-    !h d5386515: !l 48
-    !h e343733b: !l 1
-    !h fa8c6cfb: !l 18
+    !h mWall.u16: !l 60
+    !h mCurtain.u16: !l 7
+    !h mDeco: {!h mItemNameParam.u64: !l 65534}
+    !h mRoof.u16: !l 48
+    !h mShape.u16: !l 1
+    !h mDoor.u16: !l 18

@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h HouseWallNCOrientalA: {!h 770856e2: true}
+  !h HouseWallNCOrientalA: {!h mIsUseUniqueColor.bool: true}

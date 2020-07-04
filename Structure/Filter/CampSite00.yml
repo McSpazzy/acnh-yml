@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h CampSite00:
     !h mHalfUnitFilterNoPutItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -87,7 +87,7 @@ root:
         - false
         - false
     !h mUnitFilterNoMakeCliff:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -109,7 +109,7 @@ root:
         - true
         - true
     !h mUnitFilterNoMakeRoad:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -131,7 +131,7 @@ root:
         - false
         - false
     !h mHalfUnitFilterRemoveItem:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true
@@ -213,7 +213,7 @@ root:
         - false
         - false
     !h mUnitFilterNoMakeRiver:
-      !h 2daf6231:
+      !h mValueBuffer[].bool:
         - true
         - true
         - true

@@ -3,44 +3,44 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 9575ab28:
-    - !h 1b7fce6f: ポイントライト
+  !h StrcMuseumA00[]:
+    - !h mLightType.Enum: ポイントライト
       !h mNormAreaSidemRemakeTool: true
-      !h 32af8f76:
+      !h mPos.V3f:
         - 0.00000
         - 19.50000
         - -17.50000
-      !h 370e2c10:
+      !h mLightColor.C4f:
         - 1.00000
         - 0.85000
         - 0.50000
         - 1.00000
-      !h 45c202fb: 5.00000
-      !h 55a5c25d: Root
-      !h 94f81f90: 30.00000
-      !h 99275374: 30.00000
-      !h e6163d5b: false
-    - !h 1b7fce6f: スポットライト
+      !h mSize.f32: 5.00000
+      !h mBindBoneName.Str: Root
+      !h mIntensity.f32: 30.00000
+      !h mRadius.f32: 30.00000
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
       !h mNormAreaSidemRemakeTool: true
-      !h 32af8f76:
+      !h mPos.V3f:
         - 22.00000
         - 10.90000
         - -13.00000
-      !h 370e2c10:
+      !h mLightColor.C4f:
         - 1.00000
         - 0.80000
         - 0.40000
         - 1.00000
-      !h 45c202fb: 0.00000
-      !h 4a07fd06:
+      !h mSize.f32: 0.00000
+      !h mDir.V3f:
         - 0.00000
         - -1.00000
         - 0.00000
-      !h 55a5c25d: Root
-      !h 79a61e3f: 15.00000
-      !h 94f81f90: 15.00000
-      !h c09bb276: 2.44346
-      !h e6163d5b: false
-    - {!h 1b7fce6f: なし}
-    - {!h 1b7fce6f: なし}
-    - {!h 1b7fce6f: なし}
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 15.00000
+      !h mIntensity.f32: 15.00000
+      !h mFovy.f32: 2.44346
+      !h mIsUseMaterialColor.bool: false
+    - {!h mLightType.Enum: なし}
+    - {!h mLightType.Enum: なし}
+    - {!h mLightType.Enum: なし}

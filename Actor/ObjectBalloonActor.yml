@@ -4,19 +4,19 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h ObjectBalloonActor:
-    !h 23a789fd: false
-    !h 28015605: 8.00000
-    !h 40f47040: 1.00000
-    !h 4d12b86b:
+    !h mIsDebugDraw.bool: false
+    !h mColHeight.f32: 8.00000
+    !h mWindMinAnimRate.f32: 1.00000
+    !h mColOffset.V3f:
       - 0.00000
       - 4.00000
       - 0.00000
-    !h 5a42f073: !l 4
-    !h 82fd802e: 2.50000
-    !h 8333b5f1: 4.00000
-    !h 86c23c7c: 0.00000
-    !h 921b656d: true
-    !h 9d86d027: !l 5
-    !h a73ccf23: 0.08500
-    !h c9eb6d2e: !l 22
-    !h da2fad0d: 45.00000
+    !h mSearchUnitNum.u32: !l 4
+    !h mIconOffset.f32: 2.50000
+    !h mColRadius.f32: 4.00000
+    !h mUnitIconAngleY.f32: 0.00000
+    !h mIsRumble.bool: true
+    !h mStructureSearchUnitNum.u32: !l 5
+    !h mDefaultSpeed.f32: 0.08500
+    !h mElevationAngle.u32: !l 22
+    !h mStructureAvoidanceAngle.f32: 45.00000

@@ -5,185 +5,185 @@ HasReferenceNodes: False
 root:
   !h EnvPaletteIdrSelector:
     !h mPaletteList[]:
-      - !h 4955548b: IdrMuseumFossil_1
-        !h 649b96d3: DefaultName
-        !h 712a095a: cStrMuseumFossil
-        !h a8aaebc0: 夜
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumFossil01_OR
-      - !h 4955548b: IdrMarket01
-        !h 649b96d3: StructureInside_Market
-        !h 712a095a: cRoomInside
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: Inside_Structure_Market_OR
-      - !h 4955548b: IdrMuseumInsect_0
-        !h 649b96d3: StructureInside_MuseumInsect
-        !h 712a095a: cStrMuseumInsect00
-        !h a8aaebc0: 時間連動
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: Inside_Structure_MuseumInsect_OR
-      - !h 4955548b: IdrMuseumEnt01
-        !h 649b96d3: StructureInside_MuseumEnt01
-        !h 712a095a: cStrMuseumEnt
-        !h a8aaebc0: 時間連動
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: Inside_Structure_MuseumEntrance_OR
-      - !h 4955548b: IdrMuseumFish_2
-        !h 649b96d3: DefaultName
-        !h 712a095a: cStrMuseumFish02
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumFish_02_OR
-      - !h 4955548b: IdrMuseumInsect_1
-        !h 649b96d3: StructureInside_MuseumInsect01
-        !h 712a095a: cStrMuseumInsect01
-        !h a8aaebc0: 時間連動
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: DefaultName
-      - !h 4955548b: IdrSpotlightScene
-        !h 649b96d3: DefaultName
-        !h 712a095a: cDemoSpotlight
-        !h a8aaebc0: 夜
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_SpotlightScene
-      - !h 4955548b: IdrTanukichi
-        !h 649b96d3: DefaultName
-        !h 712a095a: cRoomInside
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_Tanukichi_OR
-      - !h 4955548b: IdrMuseumEnt00
-        !h 649b96d3: DefaultName
-        !h 712a095a: cRoomInside
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumTent_OR
-      - !h 4955548b: IdrMuseumFish_0
-        !h 649b96d3: DefaultName
-        !h 712a095a: cStrMuseumFish00
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumFish_00_OR
-      - !h 4955548b: IdrMuseumFish_1
-        !h 649b96d3: DefaultName
-        !h 712a095a: cStrMuseumFish01
-        !h a8aaebc0: 夜
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumFish_01_OR
-      - !h 4955548b: IdrAirPort
-        !h 649b96d3: StructureInside_Airport
-        !h 712a095a: cStrAirport
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: Inside_Structure_Airport_Morning_OR
-      - !h 4955548b: IdrMuseumInsect_2
-        !h 649b96d3: StructureInside_MuseumInsect02
-        !h 712a095a: cStrMuseumInsect02
-        !h a8aaebc0: 時間連動
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: Inside_Structure_MuseumInsect_02_Afternoon_OR
-      - !h 4955548b: IdrMuseumFossil_0
-        !h 649b96d3: DefaultName
-        !h 712a095a: cStrMuseumFossil
-        !h a8aaebc0: 夜
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumFossil_OR
-      - !h 4955548b: IdrMuseumFossil_2
-        !h 649b96d3: DefaultName
-        !h 712a095a: cStrMuseumFossil
-        !h a8aaebc0: 夜
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumFossil_OR
-      - !h 4955548b: IdrOffice01
-        !h 649b96d3: DefaultName
-        !h 712a095a: cRoomInside
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_Office
-      - !h 4955548b: IdrMarket02
-        !h 649b96d3: DefaultName
-        !h 712a095a: cRoomWhite
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_Market_02_Morning_OR
-      - !h 4955548b: IdrCampSiteTent
-        !h 649b96d3: TentInside
-        !h 712a095a: cRoomInside
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: DefaultName
-      - !h 4955548b: IdrAmiibo
-        !h 649b96d3: DefaultName
-        !h 712a095a: cDefault
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Demo_AmiiboPhone
-      - !h 4955548b: IdrTourCounterDemo
-        !h 649b96d3: DefaultName
-        !h 712a095a: cDemoTourCounter
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Demo_Prologue_Airport
-      - !h 4955548b: IdrOfficeDemo01
-        !h 649b96d3: DefaultName
-        !h 712a095a: cRoomInside
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Demo_Office_OR
-      - !h 4955548b: IdrTailor
-        !h 649b96d3: DefaultName
-        !h 712a095a: cRoomWhite
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_Tailor
-      - !h 4955548b: GrowUpTalk
-        !h 649b96d3: DefaultName
-        !h 712a095a: cRoomInside
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Demo_Office_OR
-      - !h 4955548b: IdrMuseumEnt02
-        !h 649b96d3: StructureInside_MuseumEnt01
-        !h 712a095a: cStrMuseumEnt
-        !h a8aaebc0: 時間連動
-        !h af61d9af: false
-        !h b3350fa7: !l 1
-        !h efcf2112: DefaultName
-      - !h 4955548b: IdrTsunekichi
-        !h 649b96d3: DefaultName
-        !h 712a095a: cDefault
-        !h a8aaebc0: 夜
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_Tsunekichi_OR
-      - !h 4955548b: IdrMuseumArt_0
-        !h 649b96d3: DefaultName
-        !h 712a095a: cStrMuseumFish02
-        !h a8aaebc0: 昼
-        !h af61d9af: false
-        !h b3350fa7: !l 0
-        !h efcf2112: Inside_Structure_MuseumArt01_OR
+      - !h mIdrName.Str: IdrMuseumFossil_1
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cStrMuseumFossil
+        !h mIdrEffectEnvType.Enum: 夜
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumFossil01_OR
+      - !h mIdrName.Str: IdrMarket01
+        !h mPaletteSetName.Str: StructureInside_Market
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: Inside_Structure_Market_OR
+      - !h mIdrName.Str: IdrMuseumInsect_0
+        !h mPaletteSetName.Str: StructureInside_MuseumInsect
+        !h mColorCorrectType.Enum: cStrMuseumInsect00
+        !h mIdrEffectEnvType.Enum: 時間連動
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: Inside_Structure_MuseumInsect_OR
+      - !h mIdrName.Str: IdrMuseumEnt01
+        !h mPaletteSetName.Str: StructureInside_MuseumEnt01
+        !h mColorCorrectType.Enum: cStrMuseumEnt
+        !h mIdrEffectEnvType.Enum: 時間連動
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: Inside_Structure_MuseumEntrance_OR
+      - !h mIdrName.Str: IdrMuseumFish_2
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cStrMuseumFish02
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumFish_02_OR
+      - !h mIdrName.Str: IdrMuseumInsect_1
+        !h mPaletteSetName.Str: StructureInside_MuseumInsect01
+        !h mColorCorrectType.Enum: cStrMuseumInsect01
+        !h mIdrEffectEnvType.Enum: 時間連動
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: DefaultName
+      - !h mIdrName.Str: IdrSpotlightScene
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cDemoSpotlight
+        !h mIdrEffectEnvType.Enum: 夜
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_SpotlightScene
+      - !h mIdrName.Str: IdrTanukichi
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_Tanukichi_OR
+      - !h mIdrName.Str: IdrMuseumEnt00
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumTent_OR
+      - !h mIdrName.Str: IdrMuseumFish_0
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cStrMuseumFish00
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumFish_00_OR
+      - !h mIdrName.Str: IdrMuseumFish_1
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cStrMuseumFish01
+        !h mIdrEffectEnvType.Enum: 夜
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumFish_01_OR
+      - !h mIdrName.Str: IdrAirPort
+        !h mPaletteSetName.Str: StructureInside_Airport
+        !h mColorCorrectType.Enum: cStrAirport
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: Inside_Structure_Airport_Morning_OR
+      - !h mIdrName.Str: IdrMuseumInsect_2
+        !h mPaletteSetName.Str: StructureInside_MuseumInsect02
+        !h mColorCorrectType.Enum: cStrMuseumInsect02
+        !h mIdrEffectEnvType.Enum: 時間連動
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: Inside_Structure_MuseumInsect_02_Afternoon_OR
+      - !h mIdrName.Str: IdrMuseumFossil_0
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cStrMuseumFossil
+        !h mIdrEffectEnvType.Enum: 夜
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumFossil_OR
+      - !h mIdrName.Str: IdrMuseumFossil_2
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cStrMuseumFossil
+        !h mIdrEffectEnvType.Enum: 夜
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumFossil_OR
+      - !h mIdrName.Str: IdrOffice01
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_Office
+      - !h mIdrName.Str: IdrMarket02
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomWhite
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_Market_02_Morning_OR
+      - !h mIdrName.Str: IdrCampSiteTent
+        !h mPaletteSetName.Str: TentInside
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: DefaultName
+      - !h mIdrName.Str: IdrAmiibo
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cDefault
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Demo_AmiiboPhone
+      - !h mIdrName.Str: IdrTourCounterDemo
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cDemoTourCounter
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Demo_Prologue_Airport
+      - !h mIdrName.Str: IdrOfficeDemo01
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Demo_Office_OR
+      - !h mIdrName.Str: IdrTailor
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomWhite
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_Tailor
+      - !h mIdrName.Str: GrowUpTalk
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Demo_Office_OR
+      - !h mIdrName.Str: IdrMuseumEnt02
+        !h mPaletteSetName.Str: StructureInside_MuseumEnt01
+        !h mColorCorrectType.Enum: cStrMuseumEnt
+        !h mIdrEffectEnvType.Enum: 時間連動
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: DefaultName
+      - !h mIdrName.Str: IdrTsunekichi
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cDefault
+        !h mIdrEffectEnvType.Enum: 夜
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_Tsunekichi_OR
+      - !h mIdrName.Str: IdrMuseumArt_0
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cStrMuseumFish02
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_MuseumArt01_OR
