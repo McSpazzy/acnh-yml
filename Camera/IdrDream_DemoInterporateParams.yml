@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h f2dbc864:
+  !h IdrDream_DemoInterporateParams:
     !h mParamsBuffer[]:
       - !h mCurvef.Curvef:
           - !l 10

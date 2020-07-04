@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h aa9b0068:
-    !h 4c8cd725:
+  !h MapMini_RVer_10300:
+    !h mIconLimitPos[].f32:
       - 178.00000
       - -177.00000
       - 137.00000

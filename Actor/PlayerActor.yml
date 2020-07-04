@@ -16,7 +16,7 @@ root:
     !h mDiveInOutSpeedChaseValue.f32: 0.30000
     !h mBlackFadeEndOffsetStageWalkIn.f32: 25.00000
     !h mSharePlayCullingCheckRadius.f32: 5.00000
-    !h 1bc54997: !l 60
+    !h mBreathEndTimer.u32: !l 60
     !h mEatIconOffsetZ.f32: 0.00000
     !h mSwimWaitSlowSpeed.f32: 0.10000
     !h mAddCalcPosRate_ChestOperate.f32: 0.12000
@@ -53,7 +53,7 @@ root:
     !h mMoveSpeedMax.f32: 1.80000
     !h mIconMinScale.f32: 0.80000
     !h mStickInvalidArea.f32: 0.00000
-    !h 4cd7580c: !l 20
+    !h mDiveCameraStartFrame.u32: !l 20
     !h mShowIconOffsetX.f32: 0.25000
     !h mDiveWaitTurnChaseDegreeY.f32: 2.00000
     !h mStickSpeedAddCalcRate.f32: 0.25000
@@ -74,7 +74,7 @@ root:
     !h mStickSpeedEmbranceDegreeMax_RunMax.f32: 180.00000
     !h mDiveInRootMorphMinusFrame.u32: !l 11
     !h mPassOverTimer.u32: !l 26
-    !h 550f1b70: !l 0
+    !h mDiveCameraEndFrame.u32: !l 0
     !h mShowDIYRecipeDegreeX.f32: 62.00000
     !h mJumpValleyMaxDist_Hole.f32: 20.50000
     !h mFootBuryCheckUnitRate.f32: 0.65000
@@ -154,7 +154,7 @@ root:
     !h mSwimWaitZeroSpeedChaseValue.f32: 0.01000
     !h mTurnStartDegreeGap_Prog.f32: 60.00000
     !h mBlackFadeStartOffsetDoorIn.f32: 0.00000
-    !h b2ed83e2: !l 25
+    !h mJumpInTimerHigh.s32: !l 25
     !h mBlackFadeStartOffsetDoorOut.f32: 5.00000
     !h mWateringUpperLevelOffsetZ.f32: 8.00000
     !h mScoopTopOffsetX.f32: 0.00000
@@ -178,7 +178,7 @@ root:
     !h mBlackFadeEndOffsetStageWalkOut.f32: 30.00000
     !h mStickSpeedEmbranceDegreeMin.f32: 33.00000
     !h mDiveMoveStartSpeedRate.f32: 0.50000
-    !h c970859e: !l 3
+    !h mDiveActionUseBreathTimer.u32: !l 3
     !h mDiveInOutSpeed.f32: 0.20000
     !h mStickSpeedEmbranceDegreeMax.f32: 60.00000
     !h mScoopTopOffsetZ.f32: -0.75000
@@ -202,7 +202,7 @@ root:
     !h mPickupGetDemoOffsetX.f32: 0.00000
     !h mStickSpeedEmbranceDegreeMin_RunMax.f32: 90.00000
     !h mFoodPowerupTimer.u32: !l 5400
-    !h eb80e688: !l 20
+    !h mJumpInTimer.s32: !l 20
     !h mDiveGetDemoOffsetY.f32: -3.00000
     !h mDetectObjHeight.f32: 10.00000
     !h mLongStickCameraOffsetZ.f32: 0.00000

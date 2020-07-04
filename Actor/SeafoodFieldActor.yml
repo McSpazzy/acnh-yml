@@ -3,72 +3,72 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h e8624ee7:
-    !h 16a680fd:
+  !h SeafoodFieldActor:
+    !h mCatchableRad[].f32:
       - 2.50000
       - 3.00000
       - 4.00000
       - 4.70000
       - 5.00000
-    !h 2e8a0b56: 16.00000
-    !h 30147099:
+    !h mWaterSurfaceDepthOffsetWithPlayerDiving.f32: 16.00000
+    !h mSpeedRatePlayerSlowlySwim[].f32:
       - 0.30000
       - 0.28000
       - 0.25000
       - 0.25000
       - 0.25000
-    !h 342fe59c:
+    !h mWaitTimeMin[].f32:
       - 1.75000
       - 2.00000
       - 3.00000
       - 5.00000
       - 6.00000
-    !h 37a3e4dc:
+    !h mPlayerDetectDist[].f32:
       - 30.00000
       - 30.00000
       - 30.00000
       - 20.00000
       - 30.00000
-    !h 39df0a7f: 4.00000
-    !h 420ad562: 2.00000
-    !h 559a5c5b:
+    !h mPlayerCatchOffsetTriggerActionButton.f32: 4.00000
+    !h mLifeShrinkageMiddleRange.f32: 2.00000
+    !h mMoveSpeedMax[].f32:
       - 0.53000
       - 0.50000
       - 0.30000
       - 0.15000
       - 0.10000
-    !h 59e902a7:
+    !h mFirstVerocity[].f32:
       - 0.82000
       - 0.78000
       - 0.70000
       - 0.60000
       - 0.50000
-    !h 6d8fddf4:
+    !h mPlayerDetectDistWithSlowlySwim[].f32:
       - 10.50000
       - 10.50000
       - 10.00000
       - 10.00000
       - 10.00000
-    !h 75b8b106: 4.00000
-    !h 76dae8c6:
+    !h mLifeShrinkageLongRange.f32: 4.00000
+    !h mAmplitude[].f32:
       - 0.55000
       - 0.50000
       - 0.40000
       - 0.40000
       - 0.40000
-    !h 9751ef3e: 1.50000
-    !h 976f7e21: !l 0
-    !h a51388a3: 2.00000
-    !h b6e6c69c: 10.00000
-    !h c074f24b:
+    !h mWaterSurfaceDepthOffset.f32: 1.50000
+    !h mLookOutFrame.s32: !l 0
+    !h mPlayerCatchRad.f32: 2.00000
+    !h mBuoyDetectDist.f32: 10.00000
+    !h mAccele[].f32:
       - 0.95000
       - 0.95000
       - 0.90000
       - 0.45000
       - 0.03000
-    !h dc2e28ea: 30.00000
-    !h dfddc8a5: 20.00000
-    !h e3c457dd:
+    !h mCorrectLeaveDistMax.f32: 30.00000
+    !h mCorrectLeaveDistMin.f32: 20.00000
+    !h mWaitTimeMax[].f32:
       - 8.75000
       - 9.00000
       - 10.00000

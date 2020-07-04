@@ -1145,7 +1145,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 680.00000
         !h mDOFEnd.f32: 730.00000
-      !h ecce3da:
+      !h cGetDemoSm:
         !h mDOFNearEnd.f32: 93.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.50000

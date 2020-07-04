@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h e7e323ea:
+  !h SeafoodMuseumPassData:
     !h mPassBuffer[]:
       - !h mPassName.Str: 深海
         !h mAquariumID.s32: !l 0

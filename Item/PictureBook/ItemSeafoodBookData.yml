@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 812e8ec7:
+  !h SeafoodBook[]:
     - {!h mUniqueID.u16: !l 2620}
     - {!h mUniqueID.u16: !l 2830}
     - {!h mUniqueID.u16: !l 2842}

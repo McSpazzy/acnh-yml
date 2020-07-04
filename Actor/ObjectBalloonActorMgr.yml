@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h ObjectBalloonActorMgr:
-    !h 2042726a: 200.00000
+    !h mAreaLimitOffset.f32: 200.00000
     !h mDownLimitAll.s32: !l 192
     !h mUpLimitAll.s32: !l 80
     !h mUpDeltaOffset.s32: !l 0

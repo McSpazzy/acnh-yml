@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 725f8ec3:
-    !h 1881746f:
+  !h SeafoodFieldActorMgr:
+    !h mNameEnumArray[].s32:
       - !l 3
       - !l 0
       - !l 3
@@ -20,11 +20,11 @@ root:
       - !l 1
       - !l 3
       - !l 4
-    !h 1c5fcae: 154.00000
-    !h 1e221f1: 5.00000
-    !h 20e10eb7: 30.00000
-    !h 2598ca3a: 9.00000
-    !h 2ebbe94a:
+    !h mTourBuoyRightCreateAreaOffset.f32: 154.00000
+    !h mTourCreateCycle.f32: 5.00000
+    !h mTourBuoyRightOffset.f32: 30.00000
+    !h mCreateCycle.f32: 9.00000
+    !h mAngleXArray[].f32:
       - 0.00000
       - 0.00000
       - 0.00000
@@ -40,18 +40,18 @@ root:
       - 31.00000
       - 0.00000
       - 0.00000
-    !h 3283f00a: 30.00000
-    !h 352d1649: 123.00000
-    !h 3d5f0a7a: 128.00000
-    !h 3f8c4fb2: !l 60
-    !h 4676ce0e: 116.00000
-    !h 4d595619: 154.00000
-    !h 60166e1c: 126.00000
-    !h 66cfc403: 40.00000
-    !h 6a5da5d0: 40.00000
-    !h 70c17e46: 30.00000
-    !h a2233b8a: 24.00000
-    !h b48d36e2:
+    !h mTourBuoyDownOffset.f32: 30.00000
+    !h mTourBuoyUpCreateAreaOffset.f32: 123.00000
+    !h mBuoyRightCreateAreaOffset.f32: 128.00000
+    !h mGulBQuestItemCreateRate.u8: !l 60
+    !h mTourBuoyDownCreateAreaOffset.f32: 116.00000
+    !h mTourBuoyLeftCreateAreaOffset.f32: 154.00000
+    !h mBuoyUpCreateAreaOffset.f32: 126.00000
+    !h mBuoyUpOffset.f32: 40.00000
+    !h mTourBuoyUpOffset.f32: 40.00000
+    !h mBuoyLeftOffset.f32: 30.00000
+    !h mBuoyDownOffset.f32: 24.00000
+    !h mPosArray[].V3f:
       - - 178.00000
         - -40.00000
         - 140.00000
@@ -97,7 +97,7 @@ root:
       - - 170.00000
         - -20.00000
         - 620.00000
-    !h b51ea525:
+    !h mAngleYArray[].f32:
       - 0.00000
       - 205.00000
       - 0.00000
@@ -113,7 +113,7 @@ root:
       - 287.00000
       - 0.00000
       - 134.00000
-    !h c28077d5:
+    !h mAngleZArray[].f32:
       - 0.00000
       - 0.00000
       - 0.00000
@@ -129,11 +129,11 @@ root:
       - 0.00000
       - 0.00000
       - 0.00000
-    !h cdc92d5c: 30.00000
-    !h d44b533d: 128.00000
-    !h df64cb2a: 130.00000
-    !h e061b5c6: 30.00000
-    !h e753a52a:
+    !h mBuoyRightOffset.f32: 30.00000
+    !h mBuoyLeftCreateAreaOffset.f32: 128.00000
+    !h mBuoyDownCreateAreaOffset.f32: 130.00000
+    !h mTourBuoyLeftOffset.f32: 30.00000
+    !h mScaleArray[].f32:
       - 1.50000
       - 1.00000
       - 2.00000

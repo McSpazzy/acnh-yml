@@ -3,5 +3,5 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h a775e4de:
+  !h SeafoodMuseumLayout[]:
     - {!h mStartPassIdx.s32: !l 0, !h mCreateOffsetAngleY.f32: 30.00000, !h mPassID.s32: !l 0, !h mUniqueID.u16: !l 2857, !h mBaseSpeed.f32: 0.50000}
