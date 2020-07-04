@@ -1,0 +1,17 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h f2dbc864:
+    !h mParamsBuffer[]:
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 1.00000
+            - 0.96778
+            - 1.94444
+        !h mKey.Str: InIdrDreamZoomInOut
+        !h mFrame.s32: !l 120

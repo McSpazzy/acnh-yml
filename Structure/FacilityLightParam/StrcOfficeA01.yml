@@ -6,7 +6,7 @@ root:
   !h StrcOfficeA01:
     !h mLightParamArray[]:
       - {!h mLightKind.s32: !l 1}
-      - {!h mLightKind.s32: !l 1}
-      - {!h mLightKind.s32: !l 1}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}
       - {!h mLightKind.s32: !l 1}
       - {!h mLightKind.s32: !l 1}

@@ -34,6 +34,36 @@ root:
         - true
         - true
         - true
+    !h b62c9cf:
+      !h mValueBuffer[].bool:
+        - false
+        - false
+        - true
+        - true
+        - true
+        - false
+        - false
+        - false
+        - false
+        - true
+        - true
+        - true
+        - false
+        - false
+        - false
+        - false
+        - true
+        - true
+        - true
+        - false
+        - false
+        - false
+        - false
+        - true
+        - true
+        - true
+        - false
+        - false
     !h mUnitFilterNoMakeRoad:
       !h mValueBuffer[].bool:
         - false

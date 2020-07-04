@@ -1,0 +1,7 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 9184dbf6:
+    - {!h mLocatorID.s32: !l 3, !h mUniqueID.u16: !l 7318}

@@ -1145,6 +1145,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 680.00000
         !h mDOFEnd.f32: 730.00000
+      !h ecce3da:
+        !h mDOFNearEnd.f32: 93.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 5.12000
+          - 4.80000
+        !h mDOFStart.f32: 180.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 16.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 20.31740
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 78.00000
+        !h mDOFEnd.f32: 380.00000
       !h cTalkFtrActionOutdoor:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000

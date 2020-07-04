@@ -1,0 +1,72 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h a775e4de:
+    - !h mStartPassIdx.s32: !l 0
+      !h mCreateOffsetAngleY.f32: -61.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_2_NB
+      !h mUniqueID.u16: !l 2853
+      !h mBaseSpeed.f32: 0.00000
+    - !h mStartPassIdx.s32: !l 1
+      !h mCreateOffsetAngleY.f32: 60.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_1_NB
+      !h mUniqueID.u16: !l 2858
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 2
+      !h mCreateOffsetAngleY.f32: 60.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_2_NB
+      !h mUniqueID.u16: !l 2856
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 3
+      !h mCreateOffsetAngleY.f32: 60.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_1_NB
+      !h mUniqueID.u16: !l 7203
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 4
+      !h mCreateOffsetAngleY.f32: -70.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_1_NB
+      !h mUniqueID.u16: !l 7303
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 5
+      !h mCreateOffsetAngleY.f32: -32.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_1_NB
+      !h mUniqueID.u16: !l 7318
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 6
+      !h mCreateOffsetAngleY.f32: 80.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_2_NB
+      !h mUniqueID.u16: !l 6920
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 7
+      !h mCreateOffsetAngleY.f32: -81.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_2_NB
+      !h mUniqueID.u16: !l 2850
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 8
+      !h mCreateOffsetAngleY.f32: 120.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_1_NB
+      !h mUniqueID.u16: !l 7318
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 9
+      !h mCreateOffsetAngleY.f32: -60.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: IdrMuseumFish_1_1_NB
+      !h mUniqueID.u16: !l 7318
+      !h mBaseSpeed.f32: 0.50000
+    - !h mStartPassIdx.s32: !l 10
+      !h mCreateOffsetAngleY.f32: -161.00000
+      !h mPassID.s32: !l 0
+      !h 53a4bc21: 
+      !h mUniqueID.u16: !l 2853
+      !h mBaseSpeed.f32: 0.50000

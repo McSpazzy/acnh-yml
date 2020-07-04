@@ -1,0 +1,24 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 9184dbf6:
+    - {!h mLocatorID.s32: !l 3, !h mUniqueID.u16: !l 2832}
+    - {!h mLocatorID.s32: !l 3, !h mUniqueID.u16: !l 2841}
+    - {!h mLocatorID.s32: !l 3, !h mUniqueID.u16: !l 2834}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 7308}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 7228}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 2833}
+    - {!h mLocatorID.s32: !l 5, !h mUniqueID.u16: !l 2838}
+    - {!h mLocatorID.s32: !l 5, !h mUniqueID.u16: !l 7214}
+    - {!h mLocatorID.s32: !l 5, !h mUniqueID.u16: !l 2848}
+    - {!h mLocatorID.s32: !l 5, !h mUniqueID.u16: !l 7267}
+    - {!h mLocatorID.s32: !l 6, !h mUniqueID.u16: !l 2840}
+    - {!h mLocatorID.s32: !l 6, !h mUniqueID.u16: !l 2847}
+    - {!h mLocatorID.s32: !l 6, !h mUniqueID.u16: !l 2843}
+    - {!h mLocatorID.s32: !l 6, !h mUniqueID.u16: !l 7411}
+    - {!h mLocatorID.s32: !l 7, !h mUniqueID.u16: !l 2831}
+    - {!h mLocatorID.s32: !l 7, !h mUniqueID.u16: !l 7278}
+    - {!h mLocatorID.s32: !l 7, !h mUniqueID.u16: !l 2846}
+    - {!h mLocatorID.s32: !l 4, !h mUniqueID.u16: !l 2620}

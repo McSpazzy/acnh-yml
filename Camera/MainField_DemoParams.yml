@@ -366,3 +366,41 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: SeoTalkLeft
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - -6.90000
+          - 4.40000
+          - -10.24000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 79.00000
+        !h mAngle.V3f:
+          - 23.55380
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: SeoTalkRight
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 6.90000
+          - 4.40000
+          - -10.24000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 79.00000
+        !h mAngle.V3f:
+          - 23.55380
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000

@@ -7,6 +7,7 @@ root:
     !h mTreeWaveShiftParam.V2f:
       - 0.05000
       - 0.08000
+    !h 447208d6: 0.12000
     !h mGrassFieldEdgeColorSnowNight.C4f:
       - 0.86500
       - 0.84500
@@ -61,6 +62,8 @@ root:
       - 0.14000
       - 3.00000
       - 1.00000
+    !h de3754e5: 0.02000
+    !h df063232: 0.06000
     !h mGrassFieldEdgeColor.C4f:
       - 0.15000
       - 0.50000

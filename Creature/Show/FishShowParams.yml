@@ -111,7 +111,7 @@ root:
       !h mOffsetPos.V3f:
         - -0.33000
         - 2.19000
-        - -0.51000
+        - -0.36000
       !h mOffsetScale.f32: 1.00000
       !h mUniqueID.u16: !l 4201
     - !h mOffsetDegAngle.V3f:
@@ -180,8 +180,8 @@ root:
         - 0.00000
       !h mOffsetPos.V3f:
         - 0.45000
-        - 0.15000
-        - -1.26000
+        - 0.23000
+        - -1.10000
       !h mOffsetScale.f32: 1.00000
       !h mUniqueID.u16: !l 2277
     - !h mOffsetDegAngle.V3f:
@@ -481,7 +481,7 @@ root:
       !h mOffsetPos.V3f:
         - 0.00000
         - 3.81000
-        - -0.90000
+        - -0.45000
       !h mOffsetScale.f32: 1.00000
       !h mUniqueID.u16: !l 4190
     - !h mOffsetDegAngle.V3f:
@@ -510,8 +510,8 @@ root:
         - 0.00000
       !h mOffsetPos.V3f:
         - 0.00000
-        - 2.52000
-        - -0.45000
+        - 2.62000
+        - -0.18000
       !h mOffsetScale.f32: 1.00000
       !h mUniqueID.u16: !l 2246
     - !h mOffsetDegAngle.V3f:

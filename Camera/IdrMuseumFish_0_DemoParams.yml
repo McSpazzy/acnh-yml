@@ -84,7 +84,7 @@ root:
       - !h mDOFNearEnd.f32: 0.00000
         !h mKey.Str: CameraArea:2
         !h mDOFVignettingBlurIntensity.f32: 0.00000
-        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
         !h mOffset.V3f:
           - 0.00000
           - 18.50000
@@ -100,3 +100,98 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 220.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: IdrMuseumFish_0_1_NB
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFStart.f32: 121.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 16.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 20.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 220.00000
+      - !h mDOFNearEnd.f32: 58.00000
+        !h mKey.Str: IdrMuseumFish_0_2_NB
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFStart.f32: 148.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 12.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 15.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 84.00000
+        !h mDOFEnd.f32: 123.00000
+      - !h mDOFNearEnd.f32: 58.00000
+        !h mKey.Str: IdrMuseumFish_0_3_NB
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFStart.f32: 148.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 12.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 15.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 84.00000
+        !h mDOFEnd.f32: 123.00000
+      - !h mDOFNearEnd.f32: 58.00000
+        !h mKey.Str: IdrMuseumFish_0_4_NB
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFStart.f32: 178.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 16.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 15.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 84.00000
+        !h mDOFEnd.f32: 128.00000
+      - !h mDOFNearEnd.f32: 58.00000
+        !h mKey.Str: IdrMuseumFish_0_5_NB
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 1.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 5.44000
+        !h mDOFStart.f32: 178.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 20.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 30.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 84.00000
+        !h mDOFEnd.f32: 194.00000

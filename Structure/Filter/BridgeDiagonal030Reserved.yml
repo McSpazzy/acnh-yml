@@ -254,6 +254,72 @@ root:
         - false
         - false
         - false
+    !h b62c9cf:
+      !h mValueBuffer[].bool:
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - true
+        - true
+        - true
+        - false
+        - false
+        - false
+        - false
+        - true
+        - true
+        - true
+        - true
+        - true
+        - false
+        - false
+        - true
+        - true
+        - true
+        - true
+        - true
+        - true
+        - false
+        - false
+        - true
+        - true
+        - true
+        - true
+        - true
+        - true
+        - false
+        - false
+        - true
+        - true
+        - true
+        - true
+        - true
+        - false
+        - false
+        - false
+        - false
+        - true
+        - true
+        - true
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
+        - false
     !h mUnitFilterNoMakeRoad:
       !h mValueBuffer[].bool:
         - false

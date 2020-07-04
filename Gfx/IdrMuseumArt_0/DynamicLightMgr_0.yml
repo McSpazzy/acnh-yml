@@ -456,14 +456,14 @@ root:
           - 165.25000
           - 56.00000
           - 226.20000
-        !h mSize.f32: 52.00000
+        !h mSize.f32: 50.00000
         !h mDir.V3f:
           - 0.00000
           - -0.77740
           - -0.62901
         !h mBindBoneName.Str: 
         !h mName.Str: Modern2
-        !h mFar.f32: 51.00000
+        !h mFar.f32: 57.00000
         !h mIntensity.f32: 7.00000
         !h mFovy.f32: 1.18682
         !h mBindModelName.Str: 

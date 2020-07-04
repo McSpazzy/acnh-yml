@@ -3,4 +3,10 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h ObjectBalloonActorMgr: {!h mDownLimitAll.s32: !l 192, !h mUpLimitAll.s32: !l 80, !h mUpDeltaOffset.s32: !l 0, !h mEntryHeight.f32: 35.00000, !h mDownDeletaOffset.s32: !l 0}
+  !h ObjectBalloonActorMgr:
+    !h 2042726a: 200.00000
+    !h mDownLimitAll.s32: !l 192
+    !h mUpLimitAll.s32: !l 80
+    !h mUpDeltaOffset.s32: !l 0
+    !h mEntryHeight.f32: 35.00000
+    !h mDownDeletaOffset.s32: !l 0

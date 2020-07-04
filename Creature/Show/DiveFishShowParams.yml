@@ -1,0 +1,406 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h CreatureShow[]:
+    - !h mOffsetDegAngle.V3f:
+        - 22.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.10000
+        - 3.21000
+        - 0.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2832
+    - !h mOffsetDegAngle.V3f:
+        - 70.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.27000
+        - 3.50000
+        - -0.30000
+      !h mOffsetScale.f32: 1.20000
+      !h mUniqueID.u16: !l 2833
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.25000
+        - 3.60000
+        - -0.18000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2841
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - -90.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.24000
+        - 2.76000
+        - 0.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2845
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.27000
+        - 4.35000
+        - -0.10000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2831
+    - !h mOffsetDegAngle.V3f:
+        - 56.16000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.27000
+        - 3.60000
+        - 0.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2839
+    - !h mOffsetDegAngle.V3f:
+        - -105.00000
+        - 0.00000
+        - 180.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 1.20000
+        - 0.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2857
+    - !h mOffsetDegAngle.V3f:
+        - -66.24000
+        - 174.24000
+        - -0.72000
+      !h mOffsetPos.V3f:
+        - -0.09000
+        - 3.40000
+        - -0.84000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2835
+    - !h mOffsetDegAngle.V3f:
+        - 47.88000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.33000
+        - 3.60000
+        - -0.60000
+      !h mOffsetScale.f32: 1.10000
+      !h mUniqueID.u16: !l 2838
+    - !h mOffsetDegAngle.V3f:
+        - -62.64000
+        - 180.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.30000
+        - 2.40000
+        - -0.30000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2858
+    - !h mOffsetDegAngle.V3f:
+        - -117.00000
+        - 0.00000
+        - 180.00000
+      !h mOffsetPos.V3f:
+        - -0.10000
+        - 3.10000
+        - -1.50000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2850
+    - !h mOffsetDegAngle.V3f:
+        - -119.52000
+        - 24.84000
+        - 180.00000
+      !h mOffsetPos.V3f:
+        - -0.27000
+        - 3.21000
+        - -0.60000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2846
+    - !h mOffsetDegAngle.V3f:
+        - -125.64000
+        - 26.28000
+        - 180.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 4.05000
+        - -0.20000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2847
+    - !h mOffsetDegAngle.V3f:
+        - -154.08000
+        - 59.76000
+        - 180.00000
+      !h mOffsetPos.V3f:
+        - -0.06000
+        - 3.54000
+        - -1.29000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2843
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - -60.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.20000
+        - -1.51000
+        - -0.50000
+      !h mOffsetScale.f32: 1.20000
+      !h mUniqueID.u16: !l 2855
+    - !h mOffsetDegAngle.V3f:
+        - -20.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.27000
+        - 1.00000
+        - 0.51000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2830
+    - !h mOffsetDegAngle.V3f:
+        - -128.00000
+        - 0.00000
+        - 180.00000
+      !h mOffsetPos.V3f:
+        - -0.21000
+        - 2.20000
+        - -1.70000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2852
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 1.48000
+        - -0.18000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2854
+    - !h mOffsetDegAngle.V3f:
+        - 1.44000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 2.90000
+        - 1.20000
+      !h mOffsetScale.f32: 1.06000
+      !h mUniqueID.u16: !l 2840
+    - !h mOffsetDegAngle.V3f:
+        - -60.00000
+        - 180.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.36000
+        - 3.40000
+        - -1.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7191
+    - !h mOffsetDegAngle.V3f:
+        - -77.04000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.23000
+        - 3.20000
+        - 0.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2844
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.27000
+        - 2.10000
+        - 0.30000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7252
+    - !h mOffsetDegAngle.V3f:
+        - -70.00000
+        - 180.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 2.60000
+        - -1.65000
+      !h mOffsetScale.f32: 0.92000
+      !h mUniqueID.u16: !l 2848
+    - !h mOffsetDegAngle.V3f:
+        - -70.00000
+        - 180.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.30000
+        - 3.20000
+        - -1.35000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7308
+    - !h mOffsetDegAngle.V3f:
+        - -37.80000
+        - 180.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.39000
+        - 0.09000
+        - 1.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2853
+    - !h mOffsetDegAngle.V3f:
+        - -122.40000
+        - 0.00000
+        - 180.00000
+      !h mOffsetPos.V3f:
+        - -0.30000
+        - 3.34000
+        - -1.58000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2849
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.40000
+        - 2.80000
+        - -0.20000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7228
+    - !h mOffsetDegAngle.V3f:
+        - 10.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.12000
+        - 2.60000
+        - 0.90000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7267
+    - !h mOffsetDegAngle.V3f:
+        - 5.40000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.27000
+        - 3.03000
+        - 0.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7245
+    - !h mOffsetDegAngle.V3f:
+        - -67.68000
+        - -71.28000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -1.23000
+        - 3.10000
+        - 0.30000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7303
+    - !h mOffsetDegAngle.V3f:
+        - 83.52000
+        - -180.00000
+        - -21.60000
+      !h mOffsetPos.V3f:
+        - -0.30000
+        - 3.30000
+        - 1.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7278
+    - !h mOffsetDegAngle.V3f:
+        - 56.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.33000
+        - 3.60000
+        - 0.00000
+      !h mOffsetScale.f32: 1.20000
+      !h mUniqueID.u16: !l 7411
+    - !h mOffsetDegAngle.V3f:
+        - -100.80000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.25000
+        - 3.54000
+        - -0.50000
+      !h mOffsetScale.f32: 1.10000
+      !h mUniqueID.u16: !l 6920
+    - !h mOffsetDegAngle.V3f:
+        - 39.96000
+        - 0.00000
+        - -11.88000
+      !h mOffsetPos.V3f:
+        - -0.78000
+        - 1.41000
+        - 0.48000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7214
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.39000
+        - 1.71000
+        - 0.10000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7318
+    - !h mOffsetDegAngle.V3f:
+        - -12.00000
+        - 15.00000
+        - -7.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 3.90000
+        - 0.40000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2834
+    - !h mOffsetDegAngle.V3f:
+        - -90.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.33000
+        - 2.70000
+        - 0.00000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 7203
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 82.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 3.48000
+        - 0.30000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2856
+    - !h mOffsetDegAngle.V3f:
+        - 80.00000
+        - 18.36000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - -0.51000
+        - 2.20000
+        - -0.70000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2842
+    - !h mOffsetDegAngle.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.00000
+        - 0.08000
+        - -0.15000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 2620
