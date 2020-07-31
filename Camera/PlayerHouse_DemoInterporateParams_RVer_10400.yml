@@ -1,0 +1,30 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h PlayerHouse_DemoInterporateParams_RVer_10400:
+    !h mParamsBuffer[]:
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 1.00000
+            - 0.96778
+            - 1.94444
+        !h mKey.Str: ToDreamTkk
+        !h mFrame.s32: !l 300
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 0.56065
+            - 0.28634
+            - 1.04494
+            - 0.99554
+            - 1.00102
+            - 2.36074
+        !h mKey.Str: ToDreamZoomInOut
+        !h mFrame.s32: !l 150

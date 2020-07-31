@@ -187,3 +187,10 @@ root:
         !h mDofVignettingBlendType.bool: false
         !h mIdrEnvType.s32: !l 0
         !h mPaletteName.Str: Inside_Structure_MuseumArt01_OR
+      - !h mIdrName.Str: IdrDream
+        !h mPaletteSetName.Str: DefaultName
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 0
+        !h mPaletteName.Str: Inside_Structure_Dream_OR

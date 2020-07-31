@@ -10,7 +10,7 @@ root:
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 1.00000
         !h mOffset.V3f:
-          - 0.00000
+          - -2.00000
           - 8.00000
           - 0.00000
         !h mDOFStart.f32: 4840.00000
@@ -29,7 +29,7 @@ root:
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 1.00000
         !h mOffset.V3f:
-          - 0.00000
+          - -2.00000
           - 5.00000
           - 0.00000
         !h mDOFStart.f32: 4840.00000

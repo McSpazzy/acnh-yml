@@ -6,21 +6,27 @@ root:
   !h FtrActor:
     !h mFanParam:
       !h mOffset.V3f:
-        - 20.00000
+        - 25.50000
         - 0.00000
         - 0.00000
       !h mPower.f32: 5.00000
-      !h mRadius.f32: 11.00000
+      !h mHalfLen.V3f:
+        - 25.00000
+        - 4.40000
+        - 4.40000
     !h mLeafGravity.f32: 0.10000
     !h mRotateFrame.f32: 10.00000
     !h mDemiseScaleDownFrame.f32: 7.00000
     !h mFanWallParam:
       !h mOffset.V3f:
-        - 26.00000
+        - 38.00000
         - 0.00000
         - 0.00000
       !h mPower.f32: 5.00000
-      !h mRadius.f32: 13.00000
+      !h mHalfLen.V3f:
+        - 30.00000
+        - 4.70000
+        - 4.70000
     !h mLeafOffsetPosY.f32: 5.00000
     !h mAirconditionerParam:
       !h mOffset.V3f:

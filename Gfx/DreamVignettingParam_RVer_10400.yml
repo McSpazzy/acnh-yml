@@ -1,0 +1,23 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h VignettingParam:
+    !h 24dce960: 1.00000
+    !h 28d7852b: 0.80000
+    !h mColor.C4f:
+      - 0.10000
+      - 0.10000
+      - 0.10000
+      - 0.00000
+    !h 6b81de68:
+      - 1.20000
+      - 1.00000
+    !h 7a16000c: !l 150
+    !h 94a626f6:
+      - 0.00000
+      - 0.15000
+    !h 9e733c49: 0.00000
+    !h dcc63af5: !l 150
+    !h mGradationRange.f32: 0.70000

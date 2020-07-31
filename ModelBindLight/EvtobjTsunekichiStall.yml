@@ -1,0 +1,58 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h EvtobjTsunekichiStall[]:
+    - !h mLightType.Enum: スポットライト
+      !h mNormAreaSidemRemakeTool: true
+      !h mPos.V3f:
+        - 10.00000
+        - 16.00000
+        - 19.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.67000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 0.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - 0.23600
+        - -1.00000
+        - -0.59200
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 20.00000
+      !h mFovy.f32: 3.05433
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
+      !h mNormAreaSidemRemakeTool: true
+      !h mPos.V3f:
+        - 10.00000
+        - 15.00000
+        - 20.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.67000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 0.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - -0.38000
+        - -1.00000
+        - 0.75600
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 22.00000
+      !h mIntensity.f32: 25.00000
+      !h mFovy.f32: 2.61799
+      !h mIsUseMaterialColor.bool: false

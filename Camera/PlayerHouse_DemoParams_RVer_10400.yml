@@ -1,0 +1,102 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h PlayerHouse_DemoParams_RVer_10400:
+    !h mParamsBuffer[]:
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: ToDreamTkk
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 10.00000
+        !h mDistance.f32: 50.00000
+        !h mAngle.V3f:
+          - 32.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: ToDreamZoomIn
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 50.00000
+        !h mAngle.V3f:
+          - 70.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: ToDreamZoomOut
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 70.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: ToDreamZoomInLow
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 50.00000
+        !h mAngle.V3f:
+          - 20.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: ToDreamZoomOutLow
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 5.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 20.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
