@@ -5,9 +5,9 @@ HasReferenceNodes: False
 root:
   !h PlayerViewerActor:
     !h 4e5d79a1: 1.00000
-    !h 58682483: 0.00000
-    !h 65080d33: 14.00000
-    !h 68a7394: 1500.00000
-    !h 8325dd27: 15.00000
-    !h be45f497: 0.00000
-    !h c485a7f7: 30.00000
+    !h mViewerCameraDegreeY.f32: 0.00000
+    !h mViewerCameraDegreeX.f32: 14.00000
+    !h mViewerCameraDist.f32: 1500.00000
+    !h mViewerCameraOffsetY.f32: 15.00000
+    !h mViewerCameraOffsetX.f32: 0.00000
+    !h mViewerCameraOffsetZ.f32: 30.00000

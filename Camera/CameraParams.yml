@@ -993,7 +993,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 500.00000
-      !h c610dee:
+      !h cRoomEditCeilingNear:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
@@ -1050,7 +1050,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 400.00000
-      !h d811cf49:
+      !h cRoomEditCeilingNormal:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
