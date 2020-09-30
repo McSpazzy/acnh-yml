@@ -43,6 +43,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 80.00000
         !h mDOFEnd.f32: 200.00000
+      - !h mDOFNearEnd.f32: 46.00000
+        !h mKey.Str: GrowupDemoTalkBehind
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.40000
+        !h mOffset.V3f:
+          - 0.00000
+          - 6.00000
+          - 10.00000
+        !h mDOFStart.f32: 120.00000
+        !h mDrumAngle.f32: 25.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 90.00000
+        !h mAngle.V3f:
+          - 55.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 200.00000
       - !h mDOFNearEnd.f32: 0.00000
         !h mKey.Str: GrowupDemoStart
         !h mDOFVignettingBlurIntensity.f32: 0.00000

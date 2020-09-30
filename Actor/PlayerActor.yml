@@ -81,6 +81,7 @@ root:
     !h mShowDIYRecipeTransX.f32: -0.60000
     !h mBgCollisionRadius.f32: 4.99000
     !h mEatIconOffsetY.f32: -1.00000
+    !h mSWalkWaitOffsetZ.f32: 0.00500
     !h mCancelPadTimerBySharePlayModeChange.u32: !l 6
     !h mPickupTargetOffsetZ.f32: -1.00000
     !h mAngleYChaseDegreeStep.f32: 19.00000

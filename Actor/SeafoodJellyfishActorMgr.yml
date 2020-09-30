@@ -1,0 +1,6 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h SeafoodJellyfishActorMgr: {!h mCreateCycleFrame.f32: 120.00000, !h 29b2dfa2: 30.00000, !h 2a413fed: 60.00000}

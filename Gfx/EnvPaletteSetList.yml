@@ -4045,3 +4045,205 @@ root:
               - 
               - 
         !h mPaletteSetName.Str: StructureInside_MuseumEnt01
+      - !h mEnvTimeTableArray[]:
+          - !h ProbeSetTypeList[]:
+              - Midnight_Fine_OR
+              - 
+              - 
+              - 
+              - Midnight_Fine_OR
+              - Dawn_Fine_OR
+              - Dawn_Fine_OR
+              - Morning_Fine_OR
+              - 
+              - Forenoon_Fine_OR
+              - 
+              - 
+              - Afternoon_Fine_OR
+              - 
+              - 
+              - 
+              - Teatime_Fine_OR
+              - 
+              - Twilight_Fine_OR
+              - Night_Fine_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight
+              - 
+              - 
+              - 
+              - Midnight
+              - Dawn_OR
+              - Dawn_OR
+              - Morning
+              - 
+              - Forenoon
+              - 
+              - 
+              - Afternoon
+              - 
+              - 
+              - 
+              - Teatime
+              - 
+              - Twilight
+              - Night
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Halloween_Midnight_Cloudy_OR
+              - 
+              - 
+              - 
+              - Midnight_Cloudy_OR
+              - 
+              - Dawn_Cloudy_OR
+              - Morning_Cloudy_OR
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Halloween_Twilight_Cloudy_OR
+              - Halloween_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Halloween_Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - Dawn_Cloudy_BeforeRainy_OR
+              - Morning_Cloudy_BeforeRainy_OR
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Halloween_Twilight_Cloudy_BeforeRainy_OR
+              - Halloween_Night_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_Rainy_OR
+              - Morning_Rainy_OR
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Twilight_Rainy_OR
+              - Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavyRain_OR
+              - Morning_HeavyRain_OR
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Twilight_HeavyRain_OR
+              - Night_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_Snow_OR
+              - 
+              - 
+              - 
+              - Midnight_Snow_OR
+              - 
+              - Dawn_Snow_OR
+              - Morning_Snow_OR
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Twilight_Snow_OR
+              - Night_Snow_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavySnow_OR
+              - Morning_HeavySnow_OR
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Twilight_HeavySnow_OR
+              - Night_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+        !h mPaletteSetName.Str: HalloweenOutside

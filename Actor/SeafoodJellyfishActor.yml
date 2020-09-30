@@ -1,0 +1,14 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h SeafoodJellyfishActor:
+    !h 1ce994c8: 0.10000
+    !h mFadeOutFrame.f32: 6.00000
+    !h mFadeInFrame.f32: 6.00000
+    !h mWaterSurfaceDepthOffset.f32: 2.50000
+    !h mBiteFadeOutDepthOffset.f32: 5.00000
+    !h mBiteFadeOutFrame.f32: 3.00000
+    !h mEntryDepthOffset.f32: 10.00000
+    !h mChaseSpeed.f32: 0.08500

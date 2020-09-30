@@ -1,0 +1,40 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h EvtobjRazyStallPumpkin[]:
+    - !h mLightType.Enum: ポイントライト
+      !h mNormAreaSidemRemakeTool: true
+      !h mIsCandle.bool: false
+      !h mPos.V3f:
+        - 4.75000
+        - 3.00000
+        - 11.00000
+      !h mRadiusOffset.f32: 1.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.67000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 0.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mCycleAR.f32: 0.09000
+      !h mBindBoneName.Str: Root
+      !h mCycleB.f32: 0.05000
+      !h mCycleBR.f32: 0.00300
+      !h mIntensity.f32: 12.00000
+      !h mRadius.f32: 10.00000
+      !h mCycleA.f32: 0.20000
+      !h mIsCandleColor.bool: false
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: なし
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000

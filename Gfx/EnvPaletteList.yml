@@ -35300,3 +35300,1089 @@ root:
           - 1.00000
         !h mMoonlightEdgeLightLongi.f32: 0.00000
         !h mMoonLightEdgeParamMoon.f32: 250.00000
+      - !h mStarBrightness.f32: 0.00000
+        !h mRoomLightPalette:
+          !h mAlternateLight:
+            !h mPos.V2f:
+              - 0.00000
+              - 0.00000
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 1.00000
+              - 1.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mFar.f32: 0.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 0.00000
+          !h mRoomPointLight: {!h mIntensity.f32: 1.00000}
+        !h mSkyLightIntensity.f32: 130.00000
+        !h mBloomBlendColor3.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudShadeIntensity.f32: 1.10000
+        !h mSub0Lati.f32: 0.78540
+        !h mBloomBlendColor2.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3Lati.f32: 0.00000
+        !h mHemiLightIntensity.f32: 0.00000
+        !h mRayleighIntensity.f32: 0.02500
+        !h mSub2Lati.f32: 0.00000
+        !h mSub3Longi.f32: 0.00000
+        !h mMoonlightEdgeLightIntensity.f32: 60.00000
+        !h mSub1Longi.f32: 0.00000
+        !h mRoomNightLightPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mStarAmount.f32: 0.00000
+        !h mCloudColor.C4f:
+          - 0.42700
+          - 0.06900
+          - 0.22100
+          - 1.00000
+        !h mSpecialBackCloudOffset.f32: -0.20000
+        !h mDirectLightDirLati.f32: 0.76819
+        !h mCloudShadowIntensity.f32: 0.90000
+        !h mSub3Size.f32: 1.00000
+        !h mSub0IluColor.C4f:
+          - 1.00000
+          - 0.30000
+          - 0.20000
+          - 1.00000
+        !h mCloudDensity.f32: 0.20000
+        !h mFogIntensity.f32: 1.20000
+        !h mSub2Size.f32: 1.00000
+        !h mBloomBlendColor0.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightColor.C4f:
+          - 1.00000
+          - 0.30000
+          - 0.05000
+          - 1.00000
+        !h mSub2IluIntensity.f32: 0.00000
+        !h mSub1Size.f32: 1.00000
+        !h mSub2IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSpecialBackCloudColor.C4f:
+          - 0.35294
+          - 0.32941
+          - 0.48628
+          - 1.00000
+        !h mShadowIntensity.f32: 1.00000
+        !h mRoomNightLightRadiuse.f32: 0.00000
+        !h mBloomBlendColor1.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub0Size.f32: 1.00000
+        !h mEnvMapTintIntensity.f32: 0.80000
+        !h mWorldAoIntensity.f32: 0.40000
+        !h mSub0IluIntensity.f32: 0.00000
+        !h cIdrTanukichiDutch: 0.00000
+        !h mDarkFogColor.C4f:
+          - 0.20000
+          - 0.05000
+          - 0.07000
+          - 1.00000
+        !h mDirectLightIntensity.f32: 11.50000
+        !h mEnvMapTintIntensityLow.f32: 0.60000
+        !h mFogColor.C4f:
+          - 1.00000
+          - 0.00000
+          - 0.71700
+          - 1.00000
+        !h mDofColor.C4f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mBloomThreshold.f32: 6.00000
+        !h mMoonAgePalette:
+          !h mFullMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.00000, !h mDirectionalLightIntensity.f32: 1.00000}
+          !h mNewMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.00000, !h mDirectionalLightIntensity.f32: 1.00000}
+        !h mEnvMapTintIntensityHigh.f32: 0.80000
+        !h mCloudLight.C4f:
+          - 1.00000
+          - 0.32800
+          - 0.47600
+          - 1.00000
+        !h mHemiGroundColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogZPos.f32: -60.00000
+        !h mSunColor.C4f:
+          - 1.00000
+          - 0.18500
+          - 0.10000
+          - 1.00000
+        !h mSub3IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogIntensity.f32: 0.98000
+        !h mDarkFogNear.f32: 100.00000
+        !h mMoonlightEdgeLightDirBlendRate.f32: 0.40000
+        !h mFieldGIOverrideColor.C4f:
+          - 0.30000
+          - 0.10000
+          - 0.10000
+          - 1.00000
+        !h mDarkFogFar.f32: 200.00000
+        !h mCloudColorSpecialMul.C4f:
+          - 0.86500
+          - 0.66000
+          - 0.69000
+          - 0.21700
+        !h mMoonlightEdgeLightLati.f32: 0.66323
+        !h mDirectLightColor.C4f:
+          - 1.00000
+          - 0.50000
+          - 0.25000
+          - 1.00000
+        !h mMieIntensity.f32: 2.00000
+        !h mSub0Longi.f32: -1.39626
+        !h mSub1IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3IluIntensity.f32: 0.00000
+        !h mSub2Longi.f32: 0.00000
+        !h mSub1IluIntensity.f32: 0.00000
+        !h mCloudShadeOffset.f32: 0.03000
+        !h mCloudScale.f32: 10.00000
+        !h mSpecialBackCloudIntensity.f32: 1.00000
+        !h mDirectLightDirLongi.f32: -0.62458
+        !h mPaletteName.Str: Halloween_Twilight_Cloudy_OR
+        !h mHemiSkyColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightLongi.f32: 4.18879
+        !h mMoonLightEdgeParamMoon.f32: 12.00000
+      - !h mStarBrightness.f32: 15.00000
+        !h mRoomLightPalette:
+          !h mAlternateLight:
+            !h mPos.V2f:
+              - 0.00000
+              - 0.00000
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 1.00000
+              - 1.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mFar.f32: 0.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 0.00000
+          !h mRoomPointLight: {!h mIntensity.f32: 1.00000}
+        !h mSkyLightIntensity.f32: 15.00000
+        !h mBloomBlendColor3.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudShadeIntensity.f32: 0.13000
+        !h mSub0Lati.f32: 0.00000
+        !h mBloomBlendColor2.C4f:
+          - 0.60000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mSub3Lati.f32: 0.00000
+        !h mHemiLightIntensity.f32: 0.50000
+        !h mRayleighIntensity.f32: 0.02000
+        !h mSub2Lati.f32: 0.00000
+        !h mSub3Longi.f32: 0.00000
+        !h mMoonlightEdgeLightIntensity.f32: 15.00000
+        !h mSub1Longi.f32: 0.00000
+        !h mRoomNightLightPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mStarAmount.f32: -0.50000
+        !h mCloudColor.C4f:
+          - 0.10000
+          - 0.08000
+          - 0.25000
+          - 1.00000
+        !h mSpecialBackCloudOffset.f32: -0.30000
+        !h mDirectLightDirLati.f32: 0.76819
+        !h mCloudShadowIntensity.f32: 0.50000
+        !h mSub3Size.f32: 1.00000
+        !h mSub0IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudDensity.f32: 0.20000
+        !h mFogIntensity.f32: 1.00000
+        !h mSub2Size.f32: 1.00000
+        !h mBloomBlendColor0.C4f:
+          - 0.60000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightColor.C4f:
+          - 0.50000
+          - 0.50000
+          - 0.50000
+          - 1.00000
+        !h mSub2IluIntensity.f32: 0.00000
+        !h mSub1Size.f32: 1.00000
+        !h mSub2IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSpecialBackCloudColor.C4f:
+          - 0.05000
+          - 0.30000
+          - 0.50000
+          - 1.00000
+        !h mShadowIntensity.f32: 0.60000
+        !h mRoomNightLightRadiuse.f32: 0.00000
+        !h mBloomBlendColor1.C4f:
+          - 0.20000
+          - 0.80000
+          - 1.00000
+          - 1.00000
+        !h mSub0Size.f32: 1.00000
+        !h mEnvMapTintIntensity.f32: 0.60000
+        !h mWorldAoIntensity.f32: 0.40000
+        !h mSub0IluIntensity.f32: 0.00000
+        !h cIdrTanukichiDutch: 0.00000
+        !h mDarkFogColor.C4f:
+          - 0.00000
+          - 0.01000
+          - 0.04000
+          - 1.00000
+        !h mDirectLightIntensity.f32: 12.00000
+        !h mEnvMapTintIntensityLow.f32: 0.20000
+        !h mFogColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 0.85000
+          - 1.00000
+        !h mDofColor.C4f:
+          - 0.10000
+          - 0.20000
+          - 0.38000
+          - 1.00000
+        !h mBloomThreshold.f32: 4.00000
+        !h mMoonAgePalette:
+          !h mFullMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.00000, !h mDirectionalLightIntensity.f32: 1.20000}
+          !h mNewMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 0.10000, !h mDirectionalLightIntensity.f32: 0.75000}
+        !h mEnvMapTintIntensityHigh.f32: 0.60000
+        !h mCloudLight.C4f:
+          - 0.90000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mHemiGroundColor.C4f:
+          - 0.15000
+          - 0.30000
+          - 0.50000
+          - 1.00000
+        !h mDarkFogZPos.f32: -70.00000
+        !h mSunColor.C4f:
+          - 1.00000
+          - 0.10000
+          - 0.05000
+          - 1.00000
+        !h mSub3IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogIntensity.f32: 0.98000
+        !h mDarkFogNear.f32: 100.00000
+        !h mMoonlightEdgeLightDirBlendRate.f32: 0.00000
+        !h mFieldGIOverrideColor.C4f:
+          - 0.05000
+          - 0.05000
+          - 0.20000
+          - 1.00000
+        !h mDarkFogFar.f32: 200.00000
+        !h mCloudColorSpecialMul.C4f:
+          - 0.18600
+          - 0.23200
+          - 0.73000
+          - 0.07600
+        !h mMoonlightEdgeLightLati.f32: -3.14159
+        !h mDirectLightColor.C4f:
+          - 0.20000
+          - 0.18000
+          - 0.85000
+          - 1.00000
+        !h mMieIntensity.f32: 0.00000
+        !h mSub0Longi.f32: 0.00000
+        !h mSub1IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3IluIntensity.f32: 0.00000
+        !h mSub2Longi.f32: 0.00000
+        !h mSub1IluIntensity.f32: 0.00000
+        !h mCloudShadeOffset.f32: 0.03000
+        !h mCloudScale.f32: 10.00000
+        !h mSpecialBackCloudIntensity.f32: 1.00000
+        !h mDirectLightDirLongi.f32: -0.62458
+        !h mPaletteName.Str: Halloween_Night_Cloudy_OR
+        !h mHemiSkyColor.C4f:
+          - 0.10000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightLongi.f32: 2.26893
+        !h mMoonLightEdgeParamMoon.f32: 200.00000
+      - !h mStarBrightness.f32: 0.00000
+        !h mRoomLightPalette:
+          !h mAlternateLight:
+            !h mPos.V2f:
+              - 0.00000
+              - 0.00000
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 1.00000
+              - 1.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mFar.f32: 0.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 0.00000
+          !h mRoomPointLight: {!h mIntensity.f32: 1.00000}
+        !h mSkyLightIntensity.f32: 40.00000
+        !h mBloomBlendColor3.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudShadeIntensity.f32: 1.20000
+        !h mSub0Lati.f32: 0.78540
+        !h mBloomBlendColor2.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3Lati.f32: 0.00000
+        !h mHemiLightIntensity.f32: 0.00000
+        !h mRayleighIntensity.f32: 0.02170
+        !h mSub2Lati.f32: 0.00000
+        !h mSub3Longi.f32: 0.00000
+        !h mMoonlightEdgeLightIntensity.f32: 20.00000
+        !h mSub1Longi.f32: 0.00000
+        !h mRoomNightLightPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mStarAmount.f32: 0.00000
+        !h mCloudColor.C4f:
+          - 0.19500
+          - 0.10000
+          - 0.19100
+          - 1.00000
+        !h mSpecialBackCloudOffset.f32: 0.00000
+        !h mDirectLightDirLati.f32: 0.76819
+        !h mCloudShadowIntensity.f32: 0.00000
+        !h mSub3Size.f32: 1.00000
+        !h mSub0IluColor.C4f:
+          - 1.00000
+          - 0.30000
+          - 0.20000
+          - 1.00000
+        !h mCloudDensity.f32: 0.22000
+        !h mFogIntensity.f32: 0.60000
+        !h mSub2Size.f32: 1.00000
+        !h mBloomBlendColor0.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightColor.C4f:
+          - 1.00000
+          - 0.30000
+          - 0.40000
+          - 1.00000
+        !h mSub2IluIntensity.f32: 0.00000
+        !h mSub1Size.f32: 1.00000
+        !h mSub2IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSpecialBackCloudColor.C4f:
+          - 0.18431
+          - 0.12549
+          - 0.15294
+          - 1.00000
+        !h mShadowIntensity.f32: 0.60000
+        !h mRoomNightLightRadiuse.f32: 0.00000
+        !h mBloomBlendColor1.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub0Size.f32: 1.00000
+        !h mEnvMapTintIntensity.f32: 0.80000
+        !h mWorldAoIntensity.f32: 0.40000
+        !h mSub0IluIntensity.f32: 0.00000
+        !h cIdrTanukichiDutch: 0.00000
+        !h mDarkFogColor.C4f:
+          - 0.10000
+          - 0.05000
+          - 0.05000
+          - 1.00000
+        !h mDirectLightIntensity.f32: 6.00000
+        !h mEnvMapTintIntensityLow.f32: 0.60000
+        !h mFogColor.C4f:
+          - 1.00000
+          - 0.50000
+          - 0.25000
+          - 1.00000
+        !h mDofColor.C4f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mBloomThreshold.f32: 6.00000
+        !h mMoonAgePalette:
+          !h mFullMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.00000, !h mDirectionalLightIntensity.f32: 1.00000}
+          !h mNewMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.00000, !h mDirectionalLightIntensity.f32: 1.00000}
+        !h mEnvMapTintIntensityHigh.f32: 0.80000
+        !h mCloudLight.C4f:
+          - 1.00000
+          - 0.48300
+          - 0.39900
+          - 1.00000
+        !h mHemiGroundColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogZPos.f32: -60.00000
+        !h mSunColor.C4f:
+          - 1.00000
+          - 0.18500
+          - 0.15000
+          - 1.00000
+        !h mSub3IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogIntensity.f32: 0.70000
+        !h mDarkFogNear.f32: 100.00000
+        !h mMoonlightEdgeLightDirBlendRate.f32: 0.40000
+        !h mFieldGIOverrideColor.C4f:
+          - 0.60000
+          - 0.30000
+          - 0.30000
+          - 1.00000
+        !h mDarkFogFar.f32: 200.00000
+        !h mCloudColorSpecialMul.C4f:
+          - 0.39600
+          - 0.26900
+          - 0.34100
+          - 0.29500
+        !h mMoonlightEdgeLightLati.f32: 0.66323
+        !h mDirectLightColor.C4f:
+          - 1.00000
+          - 0.40000
+          - 0.60000
+          - 1.00000
+        !h mMieIntensity.f32: 2.00000
+        !h mSub0Longi.f32: -1.39626
+        !h mSub1IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3IluIntensity.f32: 0.00000
+        !h mSub2Longi.f32: 0.00000
+        !h mSub1IluIntensity.f32: 0.00000
+        !h mCloudShadeOffset.f32: 0.03000
+        !h mCloudScale.f32: 8.00000
+        !h mSpecialBackCloudIntensity.f32: 1.10000
+        !h mDirectLightDirLongi.f32: -0.62458
+        !h mPaletteName.Str: Halloween_Twilight_Cloudy_BeforeRainy_OR
+        !h mHemiSkyColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightLongi.f32: 4.18879
+        !h mMoonLightEdgeParamMoon.f32: 12.00000
+      - !h mStarBrightness.f32: 10.00000
+        !h mRoomLightPalette:
+          !h mAlternateLight:
+            !h mPos.V2f:
+              - 0.00000
+              - 0.00000
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 1.00000
+              - 1.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mFar.f32: 0.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 0.00000
+          !h mRoomPointLight: {!h mIntensity.f32: 1.00000}
+        !h mSkyLightIntensity.f32: 15.00000
+        !h mBloomBlendColor3.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudShadeIntensity.f32: 0.08000
+        !h mSub0Lati.f32: 0.00000
+        !h mBloomBlendColor2.C4f:
+          - 0.60000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mSub3Lati.f32: 0.00000
+        !h mHemiLightIntensity.f32: 0.30000
+        !h mRayleighIntensity.f32: 0.02000
+        !h mSub2Lati.f32: 0.00000
+        !h mSub3Longi.f32: 0.00000
+        !h mMoonlightEdgeLightIntensity.f32: 10.00000
+        !h mSub1Longi.f32: 0.00000
+        !h mRoomNightLightPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mStarAmount.f32: -0.50000
+        !h mCloudColor.C4f:
+          - 0.10100
+          - 0.03500
+          - 0.16700
+          - 1.00000
+        !h mSpecialBackCloudOffset.f32: 0.00000
+        !h mDirectLightDirLati.f32: 0.76819
+        !h mCloudShadowIntensity.f32: 0.00000
+        !h mSub3Size.f32: 1.00000
+        !h mSub0IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudDensity.f32: 0.13000
+        !h mFogIntensity.f32: 2.40000
+        !h mSub2Size.f32: 1.00000
+        !h mBloomBlendColor0.C4f:
+          - 0.60000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightColor.C4f:
+          - 0.50000
+          - 0.50000
+          - 0.50000
+          - 1.00000
+        !h mSub2IluIntensity.f32: 0.00000
+        !h mSub1Size.f32: 1.00000
+        !h mSub2IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSpecialBackCloudColor.C4f:
+          - 0.03000
+          - 0.03000
+          - 0.07000
+          - 1.00000
+        !h mShadowIntensity.f32: 0.50000
+        !h mRoomNightLightRadiuse.f32: 0.00000
+        !h mBloomBlendColor1.C4f:
+          - 0.20000
+          - 0.80000
+          - 1.00000
+          - 1.00000
+        !h mSub0Size.f32: 1.00000
+        !h mEnvMapTintIntensity.f32: 0.60000
+        !h mWorldAoIntensity.f32: 0.40000
+        !h mSub0IluIntensity.f32: 0.00000
+        !h cIdrTanukichiDutch: 0.00000
+        !h mDarkFogColor.C4f:
+          - 0.00000
+          - 0.01000
+          - 0.04000
+          - 1.00000
+        !h mDirectLightIntensity.f32: 7.00000
+        !h mEnvMapTintIntensityLow.f32: 0.20000
+        !h mFogColor.C4f:
+          - 0.42000
+          - 0.34400
+          - 0.66000
+          - 1.00000
+        !h mDofColor.C4f:
+          - 0.10000
+          - 0.20000
+          - 0.38000
+          - 1.00000
+        !h mBloomThreshold.f32: 4.00000
+        !h mMoonAgePalette:
+          !h mFullMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.00000, !h mDirectionalLightIntensity.f32: 1.20000}
+          !h mNewMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 0.10000, !h mDirectionalLightIntensity.f32: 0.75000}
+        !h mEnvMapTintIntensityHigh.f32: 0.60000
+        !h mCloudLight.C4f:
+          - 1.00000
+          - 0.89200
+          - 0.76500
+          - 1.00000
+        !h mHemiGroundColor.C4f:
+          - 0.15000
+          - 0.30000
+          - 0.50000
+          - 1.00000
+        !h mDarkFogZPos.f32: -70.00000
+        !h mSunColor.C4f:
+          - 1.00000
+          - 0.10000
+          - 0.05000
+          - 1.00000
+        !h mSub3IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogIntensity.f32: 1.00000
+        !h mDarkFogNear.f32: 100.00000
+        !h mMoonlightEdgeLightDirBlendRate.f32: 0.00000
+        !h mFieldGIOverrideColor.C4f:
+          - 0.05000
+          - 0.05000
+          - 0.20000
+          - 1.00000
+        !h mDarkFogFar.f32: 200.00000
+        !h mCloudColorSpecialMul.C4f:
+          - 0.18600
+          - 0.23200
+          - 0.73000
+          - 0.07600
+        !h mMoonlightEdgeLightLati.f32: -3.14159
+        !h mDirectLightColor.C4f:
+          - 0.32800
+          - 0.20000
+          - 0.34100
+          - 1.00000
+        !h mMieIntensity.f32: 0.00000
+        !h mSub0Longi.f32: 0.00000
+        !h mSub1IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3IluIntensity.f32: 0.00000
+        !h mSub2Longi.f32: 0.00000
+        !h mSub1IluIntensity.f32: 0.00000
+        !h mCloudShadeOffset.f32: 0.03000
+        !h mCloudScale.f32: 10.00000
+        !h mSpecialBackCloudIntensity.f32: 1.00000
+        !h mDirectLightDirLongi.f32: -0.62458
+        !h mPaletteName.Str: Halloween_Night_Cloudy_BeforeRainy_OR
+        !h mHemiSkyColor.C4f:
+          - 0.10000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightLongi.f32: 2.26893
+        !h mMoonLightEdgeParamMoon.f32: 200.00000
+      - !h mStarBrightness.f32: 20.00000
+        !h mRoomLightPalette:
+          !h mAlternateLight:
+            !h mPos.V2f:
+              - 0.00000
+              - 0.00000
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 1.00000
+              - 1.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mFar.f32: 0.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 0.00000
+          !h mRoomPointLight: {!h mIntensity.f32: 1.00000}
+        !h mSkyLightIntensity.f32: 15.00000
+        !h mBloomBlendColor3.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudShadeIntensity.f32: 0.10000
+        !h mSub0Lati.f32: 0.00000
+        !h mBloomBlendColor2.C4f:
+          - 0.60000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mSub3Lati.f32: 0.00000
+        !h mHemiLightIntensity.f32: 1.00000
+        !h mRayleighIntensity.f32: 0.01000
+        !h mSub2Lati.f32: 0.00000
+        !h mSub3Longi.f32: 0.00000
+        !h mMoonlightEdgeLightIntensity.f32: 30.00000
+        !h mSub1Longi.f32: 0.00000
+        !h mRoomNightLightPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mStarAmount.f32: -0.60000
+        !h mCloudColor.C4f:
+          - 0.06800
+          - 0.01300
+          - 0.12900
+          - 1.00000
+        !h mSpecialBackCloudOffset.f32: -0.20000
+        !h mDirectLightDirLati.f32: 0.76819
+        !h mCloudShadowIntensity.f32: 0.00000
+        !h mSub3Size.f32: 1.00000
+        !h mSub0IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudDensity.f32: 0.20000
+        !h mFogIntensity.f32: 1.80000
+        !h mSub2Size.f32: 1.00000
+        !h mBloomBlendColor0.C4f:
+          - 0.60000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightColor.C4f:
+          - 0.30000
+          - 0.50000
+          - 1.00000
+          - 1.00000
+        !h mSub2IluIntensity.f32: 0.00000
+        !h mSub1Size.f32: 1.00000
+        !h mSub2IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSpecialBackCloudColor.C4f:
+          - 0.05000
+          - 0.30000
+          - 0.50000
+          - 1.00000
+        !h mShadowIntensity.f32: 0.60000
+        !h mRoomNightLightRadiuse.f32: 0.00000
+        !h mBloomBlendColor1.C4f:
+          - 0.20000
+          - 0.80000
+          - 1.00000
+          - 1.00000
+        !h mSub0Size.f32: 1.00000
+        !h mEnvMapTintIntensity.f32: 0.60000
+        !h mWorldAoIntensity.f32: 0.40000
+        !h mSub0IluIntensity.f32: 0.00000
+        !h cIdrTanukichiDutch: 0.00000
+        !h mDarkFogColor.C4f:
+          - 0.00000
+          - 0.01000
+          - 0.04000
+          - 1.00000
+        !h mDirectLightIntensity.f32: 10.00000
+        !h mEnvMapTintIntensityLow.f32: 0.20000
+        !h mFogColor.C4f:
+          - 0.42000
+          - 0.31800
+          - 0.80000
+          - 1.00000
+        !h mDofColor.C4f:
+          - 0.10000
+          - 0.20000
+          - 0.38000
+          - 1.00000
+        !h mBloomThreshold.f32: 4.00000
+        !h mMoonAgePalette:
+          !h mFullMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.50000, !h mDirectionalLightIntensity.f32: 1.40000}
+          !h mNewMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 0.10000, !h mDirectionalLightIntensity.f32: 0.75000}
+        !h mEnvMapTintIntensityHigh.f32: 0.60000
+        !h mCloudLight.C4f:
+          - 0.84100
+          - 0.63900
+          - 1.00000
+          - 1.00000
+        !h mHemiGroundColor.C4f:
+          - 0.15000
+          - 0.30000
+          - 0.50000
+          - 1.00000
+        !h mDarkFogZPos.f32: -87.50000
+        !h mSunColor.C4f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 1.00000
+        !h mSub3IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogIntensity.f32: 1.00000
+        !h mDarkFogNear.f32: 100.00000
+        !h mMoonlightEdgeLightDirBlendRate.f32: 0.00000
+        !h mFieldGIOverrideColor.C4f:
+          - 0.05000
+          - 0.05000
+          - 0.10000
+          - 1.00000
+        !h mDarkFogFar.f32: 200.00000
+        !h mCloudColorSpecialMul.C4f:
+          - 1.21000
+          - 2.00000
+          - 2.00000
+          - 0.00000
+        !h mMoonlightEdgeLightLati.f32: 0.00000
+        !h mDirectLightColor.C4f:
+          - 0.15800
+          - 0.12000
+          - 0.41600
+          - 1.00000
+        !h mMieIntensity.f32: 0.00000
+        !h mSub0Longi.f32: 0.00000
+        !h mSub1IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3IluIntensity.f32: 0.00000
+        !h mSub2Longi.f32: 0.00000
+        !h mSub1IluIntensity.f32: 0.00000
+        !h mCloudShadeOffset.f32: 0.03000
+        !h mCloudScale.f32: 10.00000
+        !h mSpecialBackCloudIntensity.f32: 1.00000
+        !h mDirectLightDirLongi.f32: -0.62458
+        !h mPaletteName.Str: Halloween_Midnight_Cloudy_OR
+        !h mHemiSkyColor.C4f:
+          - 0.10000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightLongi.f32: 0.00000
+        !h mMoonLightEdgeParamMoon.f32: 200.00000
+      - !h mStarBrightness.f32: 10.00000
+        !h mRoomLightPalette:
+          !h mAlternateLight:
+            !h mPos.V2f:
+              - 0.00000
+              - 0.00000
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 1.00000
+              - 1.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mFar.f32: 0.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 0.00000
+          !h mRoomPointLight: {!h mIntensity.f32: 1.00000}
+        !h mSkyLightIntensity.f32: 15.00000
+        !h mBloomBlendColor3.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudShadeIntensity.f32: 0.10000
+        !h mSub0Lati.f32: 0.00000
+        !h mBloomBlendColor2.C4f:
+          - 0.60000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mSub3Lati.f32: 0.00000
+        !h mHemiLightIntensity.f32: 0.70000
+        !h mRayleighIntensity.f32: 0.01000
+        !h mSub2Lati.f32: 0.00000
+        !h mSub3Longi.f32: 0.00000
+        !h mMoonlightEdgeLightIntensity.f32: 10.00000
+        !h mSub1Longi.f32: 0.00000
+        !h mRoomNightLightPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mStarAmount.f32: -0.60000
+        !h mCloudColor.C4f:
+          - 0.05500
+          - 0.02000
+          - 0.06900
+          - 1.00000
+        !h mSpecialBackCloudOffset.f32: 0.00000
+        !h mDirectLightDirLati.f32: 0.76819
+        !h mCloudShadowIntensity.f32: 0.00000
+        !h mSub3Size.f32: 1.00000
+        !h mSub0IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mCloudDensity.f32: 0.10000
+        !h mFogIntensity.f32: 2.00000
+        !h mSub2Size.f32: 1.00000
+        !h mBloomBlendColor0.C4f:
+          - 0.60000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightColor.C4f:
+          - 0.30000
+          - 0.50000
+          - 1.00000
+          - 1.00000
+        !h mSub2IluIntensity.f32: 0.00000
+        !h mSub1Size.f32: 1.00000
+        !h mSub2IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSpecialBackCloudColor.C4f:
+          - 0.01000
+          - 0.01000
+          - 0.03000
+          - 1.00000
+        !h mShadowIntensity.f32: 0.50000
+        !h mRoomNightLightRadiuse.f32: 0.00000
+        !h mBloomBlendColor1.C4f:
+          - 0.20000
+          - 0.80000
+          - 1.00000
+          - 1.00000
+        !h mSub0Size.f32: 1.00000
+        !h mEnvMapTintIntensity.f32: 0.60000
+        !h mWorldAoIntensity.f32: 0.40000
+        !h mSub0IluIntensity.f32: 0.00000
+        !h cIdrTanukichiDutch: 0.00000
+        !h mDarkFogColor.C4f:
+          - 0.00000
+          - 0.01000
+          - 0.04000
+          - 1.00000
+        !h mDirectLightIntensity.f32: 5.00000
+        !h mEnvMapTintIntensityLow.f32: 0.20000
+        !h mFogColor.C4f:
+          - 0.66200
+          - 0.51000
+          - 1.00000
+          - 1.00000
+        !h mDofColor.C4f:
+          - 0.10000
+          - 0.20000
+          - 0.38000
+          - 1.00000
+        !h mBloomThreshold.f32: 4.00000
+        !h mMoonAgePalette:
+          !h mFullMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 1.50000, !h mDirectionalLightIntensity.f32: 1.40000}
+          !h mNewMoonParam: {!h mMoonlightEdgeLightIntensity.f32: 0.10000, !h mDirectionalLightIntensity.f32: 0.75000}
+        !h mEnvMapTintIntensityHigh.f32: 0.60000
+        !h mCloudLight.C4f:
+          - 0.46100
+          - 0.73700
+          - 1.00000
+          - 1.00000
+        !h mHemiGroundColor.C4f:
+          - 0.15000
+          - 0.30000
+          - 0.50000
+          - 1.00000
+        !h mDarkFogZPos.f32: -87.50000
+        !h mSunColor.C4f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 1.00000
+        !h mSub3IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mDarkFogIntensity.f32: 1.00000
+        !h mDarkFogNear.f32: 100.00000
+        !h mMoonlightEdgeLightDirBlendRate.f32: 0.00000
+        !h mFieldGIOverrideColor.C4f:
+          - 0.05000
+          - 0.05000
+          - 0.10000
+          - 1.00000
+        !h mDarkFogFar.f32: 200.00000
+        !h mCloudColorSpecialMul.C4f:
+          - 1.21000
+          - 2.00000
+          - 2.00000
+          - 0.00000
+        !h mMoonlightEdgeLightLati.f32: 0.00000
+        !h mDirectLightColor.C4f:
+          - 0.18600
+          - 0.15600
+          - 0.54400
+          - 1.00000
+        !h mMieIntensity.f32: 0.00000
+        !h mSub0Longi.f32: 0.00000
+        !h mSub1IluColor.C4f:
+          - 1.00000
+          - 1.00000
+          - 1.00000
+          - 1.00000
+        !h mSub3IluIntensity.f32: 0.00000
+        !h mSub2Longi.f32: 0.00000
+        !h mSub1IluIntensity.f32: 0.00000
+        !h mCloudShadeOffset.f32: 0.03000
+        !h mCloudScale.f32: 10.00000
+        !h mSpecialBackCloudIntensity.f32: 1.00000
+        !h mDirectLightDirLongi.f32: -0.62458
+        !h mPaletteName.Str: Halloween_Midnight_Cloudy_BeforeRainy_OR
+        !h mHemiSkyColor.C4f:
+          - 0.10000
+          - 0.40000
+          - 1.00000
+          - 1.00000
+        !h mMoonlightEdgeLightLongi.f32: 0.00000
+        !h mMoonLightEdgeParamMoon.f32: 200.00000
