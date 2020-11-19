@@ -4,6 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h tig03:
+    !h mCookingRangeLUZ.u8: !l 26
     !h mWall: {!h mItemNameParam.u64: !l 4849}
     !h mDIYWorkbench:
       !h mUnitZ.u8: !l 36
@@ -12,13 +13,16 @@ root:
       !h mLayer.u8: !l 0
     !h mDIYRangeHeight.u8: !l 4
     !h mDIYRangeLUZ.u8: !l 34
+    !h mCookingRangeHeight.u8: !l 4
+    !h mCookingRangeLUX.u8: !l 28
+    !h mKitchen:
+      !h mUnitZ.u8: !l 26
+      !h mItemSaveParam: {!h mItemNameParam.u64: !ul 17179872454}
+      !h mUnitX.u8: !l 28
+      !h mLayer.u8: !l 0
     !h mLifePoint.f32: 22.42009
     !h mHobbyPoint.f32: 8.11094
     !h mFtrList[]:
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 71314}
-        !h mUnitX.u8: !l 28
-        !h mLayer.u8: !l 3
       - !h mUnitZ.u8: !l 30
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 71326}
         !h mUnitX.u8: !l 26
@@ -27,14 +31,6 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 138209}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884909022}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562958543556515}
-        !h mUnitX.u8: !l 36
-        !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 5790}
         !h mUnitX.u8: !l 32
@@ -43,10 +39,6 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971405}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 23
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 929}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 2
       - !h mUnitZ.u8: !l 36
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 139676}
         !h mUnitX.u8: !l 28
@@ -59,22 +51,30 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 138204}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 200046}
-        !h mUnitX.u8: !l 36
+      - !h mUnitZ.u8: !l 23
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 929}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 2
+      - !h mUnitZ.u8: !l 28
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884909022}
+        !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 28
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562958543556515}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589938710}
         !h mUnitX.u8: !l 28
         !h mLayer.u8: !l 2
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 71314}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 3
       - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 2560}
-        !h mUnitX.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 200046}
+        !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 17179870937}
-        !h mUnitX.u8: !l 26
-        !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 17179872454}
         !h mUnitX.u8: !l 28
@@ -87,8 +87,17 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 420906796509}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 2560}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 17179870937}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 1
     !h mFloor: {!h mItemNameParam.u64: !l 5074}
     !h mMusic: {!h mItemNameParam.u64: !l 2438}
+    !h mCookingRangeWidth.u8: !l 4
     !h mFloorRotate.u8: !l 0
     !h mDIYRangeLUX.u8: !l 26
     !h mDIYRangeWidth.u8: !l 4

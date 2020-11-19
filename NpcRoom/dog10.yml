@@ -4,6 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h dog10:
+    !h mCookingRangeLUZ.u8: !l 26
     !h mWall: {!h mItemNameParam.u64: !l 4882}
     !h mDIYWorkbench:
       !h mUnitZ.u8: !l 36
@@ -12,6 +13,13 @@ root:
       !h mLayer.u8: !l 0
     !h mDIYRangeHeight.u8: !l 4
     !h mDIYRangeLUZ.u8: !l 34
+    !h mCookingRangeHeight.u8: !l 4
+    !h mCookingRangeLUX.u8: !l 34
+    !h mKitchen:
+      !h mUnitZ.u8: !l 26
+      !h mItemSaveParam: {!h mItemNameParam.u64: !l 3615}
+      !h mUnitX.u8: !l 34
+      !h mLayer.u8: !l 0
     !h mLifePoint.f32: 20.79935
     !h mHobbyPoint.f32: 15.12652
     !h mFtrList[]:
@@ -23,6 +31,10 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 135125}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 25
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294968224}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 2
       - !h mUnitZ.u8: !l 30
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294969310}
         !h mUnitX.u8: !l 32
@@ -35,22 +47,6 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 1866}
         !h mUnitX.u8: !l 32
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 25
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294968224}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 2
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295034846}
-        !h mUnitX.u8: !l 32
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 141733988154}
-        !h mUnitX.u8: !l 32
-        !h mLayer.u8: !l 1
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562958543359907}
-        !h mUnitX.u8: !l 32
-        !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 30
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 21475037227}
         !h mUnitX.u8: !l 26
@@ -67,6 +63,10 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 21474906155}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 3615}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884971043}
         !h mUnitX.u8: !l 26
@@ -76,13 +76,21 @@ root:
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 3615}
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589936437}
         !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295034846}
+        !h mUnitX.u8: !l 32
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 7337}
-        !h mUnitX.u8: !l 30
-        !h mLayer.u8: !l 6
+      - !h mUnitZ.u8: !l 28
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 141733988154}
+        !h mUnitX.u8: !l 32
+        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562958543359907}
+        !h mUnitX.u8: !l 32
+        !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 21474971691}
         !h mUnitX.u8: !l 26
@@ -95,12 +103,13 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 4107}
         !h mUnitX.u8: !l 28
         !h mLayer.u8: !l 1
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589936437}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 7337}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 6
     !h mFloor: {!h mItemNameParam.u64: !l 4969}
     !h mMusic: {!h mItemNameParam.u64: !l 4314}
+    !h mCookingRangeWidth.u8: !l 4
     !h mFloorRotate.u8: !l 0
     !h mDIYRangeLUX.u8: !l 34
     !h mDIYRangeWidth.u8: !l 4

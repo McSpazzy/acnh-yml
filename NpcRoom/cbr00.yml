@@ -4,6 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h cbr00:
+    !h mCookingRangeLUZ.u8: !l 34
     !h mWall: {!h mItemNameParam.u64: !l 4869}
     !h mDIYWorkbench:
       !h mUnitZ.u8: !l 36
@@ -12,6 +13,13 @@ root:
       !h mLayer.u8: !l 0
     !h mDIYRangeHeight.u8: !l 4
     !h mDIYRangeLUZ.u8: !l 34
+    !h mCookingRangeHeight.u8: !l 4
+    !h mCookingRangeLUX.u8: !l 26
+    !h mKitchen:
+      !h mUnitZ.u8: !l 36
+      !h mItemSaveParam: {!h mItemNameParam.u64: !l 134323}
+      !h mUnitX.u8: !l 27
+      !h mLayer.u8: !l 0
     !h mLifePoint.f32: 16.68555
     !h mHobbyPoint.f32: 27.23083
     !h mFtrList[]:
@@ -36,25 +44,25 @@ root:
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971297}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971293}
         !h mUnitX.u8: !l 26
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295102367}
-        !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295167528}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 28
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295102367}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 30
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971296}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971292}
-        !h mUnitX.u8: !l 31
-        !h mLayer.u8: !l 2
       - !h mUnitZ.u8: !l 30
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562954248458147}
         !h mUnitX.u8: !l 26
@@ -63,12 +71,13 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971298}
         !h mUnitX.u8: !l 32
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971297}
-        !h mUnitX.u8: !l 30
-        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 24
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294971292}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 2
     !h mFloor: {!h mItemNameParam.u64: !l 5028}
     !h mMusic: {!h mItemNameParam.u64: !l 2444}
+    !h mCookingRangeWidth.u8: !l 4
     !h mFloorRotate.u8: !l 0
     !h mDIYRangeLUX.u8: !l 26
     !h mDIYRangeWidth.u8: !l 4

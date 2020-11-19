@@ -4,6 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h flg17:
+    !h mCookingRangeLUZ.u8: !l 28
     !h mWall: {!h mItemNameParam.u64: !l 4905}
     !h mDIYWorkbench:
       !h mUnitZ.u8: !l 28
@@ -12,6 +13,13 @@ root:
       !h mLayer.u8: !l 0
     !h mDIYRangeHeight.u8: !l 4
     !h mDIYRangeLUZ.u8: !l 28
+    !h mCookingRangeHeight.u8: !l 4
+    !h mCookingRangeLUX.u8: !l 26
+    !h mKitchen:
+      !h mUnitZ.u8: !l 28
+      !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294970566}
+      !h mUnitX.u8: !l 26
+      !h mLayer.u8: !l 0
     !h mLifePoint.f32: 2.25890
     !h mHobbyPoint.f32: 16.58607
     !h mFtrList[]:
@@ -37,11 +45,11 @@ root:
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884902421}
-        !h mUnitX.u8: !l 30
+        !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884902421}
-        !h mUnitX.u8: !l 34
+        !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 28
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 134747}
@@ -51,10 +59,6 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 138417}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 6
-      - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 7788}
-        !h mUnitX.u8: !l 31
-        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 28
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294974686}
         !h mUnitX.u8: !l 31
@@ -63,8 +67,13 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 7408}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 30
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 7788}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 0
     !h mFloor: {!h mItemNameParam.u64: !l 4990}
     !h mMusic: {!h mItemNameParam.u64: !l 2430}
+    !h mCookingRangeWidth.u8: !l 4
     !h mFloorRotate.u8: !l 0
     !h mDIYRangeLUX.u8: !l 26
     !h mDIYRangeWidth.u8: !l 4

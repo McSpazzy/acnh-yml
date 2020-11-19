@@ -4,6 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h hrs13:
+    !h mCookingRangeLUZ.u8: !l 32
     !h mWall: {!h mItemNameParam.u64: !l 5500}
     !h mDIYWorkbench:
       !h mUnitZ.u8: !l 30
@@ -12,6 +13,13 @@ root:
       !h mLayer.u8: !l 0
     !h mDIYRangeHeight.u8: !l 4
     !h mDIYRangeLUZ.u8: !l 28
+    !h mCookingRangeHeight.u8: !l 4
+    !h mCookingRangeLUX.u8: !l 26
+    !h mKitchen:
+      !h mUnitZ.u8: !l 32
+      !h mItemSaveParam: {!h mItemNameParam.u64: !l 68787}
+      !h mUnitX.u8: !l 26
+      !h mLayer.u8: !l 0
     !h mLifePoint.f32: 28.95046
     !h mHobbyPoint.f32: 73.84093
     !h mFtrList[]:
@@ -24,53 +32,69 @@ root:
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5959}
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5960}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 30
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5955}
+        !h mUnitX.u8: !l 33
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 30
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 135033}
         !h mUnitX.u8: !l 31
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 24
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 72363}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 3
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 3774}
-        !h mUnitX.u8: !l 31
-        !h mLayer.u8: !l 1
-      - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5955}
-        !h mUnitX.u8: !l 33
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5960}
-        !h mUnitX.u8: !l 26
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 135033}
-        !h mUnitX.u8: !l 31
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5962}
-        !h mUnitX.u8: !l 28
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589941421}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 24
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25769941675}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 4
       - !h mUnitZ.u8: !l 24
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25769876139}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 3
       - !h mUnitZ.u8: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25770007211}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 5
-      - !h mUnitZ.u8: !l 24
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 137899}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 4
+      - !h mUnitZ.u8: !l 22
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5964}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 2
+      - !h mUnitZ.u8: !l 34
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 137035}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 24
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25769876139}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 3
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5962}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 34
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 5954}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5961}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 24
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 137899}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 4
+      - !h mUnitZ.u8: !l 36
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5957}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 24
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25770007211}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 5
       - !h mUnitZ.u8: !l 24
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25770007211}
         !h mUnitX.u8: !l 26
@@ -79,42 +103,22 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25769810603}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 2
-      - !h mUnitZ.u8: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5964}
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5959}
         !h mUnitX.u8: !l 31
-        !h mLayer.u8: !l 2
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589941421}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 3774}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 24
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 203435}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 5
-      - !h mUnitZ.u8: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25769876139}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 3
-      - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5957}
-        !h mUnitX.u8: !l 26
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5961}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 6827}
-        !h mUnitX.u8: !l 26
-        !h mLayer.u8: !l 2
-      - !h mUnitZ.u8: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 137899}
-        !h mUnitX.u8: !l 34
-        !h mLayer.u8: !l 4
-      - !h mUnitZ.u8: !l 24
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 25769941675}
-        !h mUnitX.u8: !l 30
-        !h mLayer.u8: !l 4
-      - !h mUnitZ.u8: !l 34
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 137035}
-        !h mUnitX.u8: !l 26
-        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 22
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 137030}
         !h mUnitX.u8: !l 31
@@ -123,8 +127,13 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 6827}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 2
+      - !h mUnitZ.u8: !l 24
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 6827}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 2
     !h mFloor: {!h mItemNameParam.u64: !l 5267}
     !h mMusic: {!h mItemNameParam.u64: !l 2483}
+    !h mCookingRangeWidth.u8: !l 4
     !h mFloorRotate.u8: !l 0
     !h mDIYRangeLUX.u8: !l 30
     !h mDIYRangeWidth.u8: !l 4
