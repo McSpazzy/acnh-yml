@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h d7e668d8:
+  !h EvtobjHarvestLight[]:
     - !h mLightType.Enum: ポイントライト
       !h mNormAreaSidemRemakeTool: false
       !h mIsCandle.bool: true
