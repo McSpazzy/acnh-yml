@@ -9,6 +9,7 @@ root:
         !h mAnimOperationParamBuffer[]:
           - {!h mTagName.Str: EfInvalid, !h mAnimOpeOption.Bit: !l 0}
           - {!h mTagName.Str: WrappingOpen, !h mAnimOpeOption.Bit: !l 1}
+          - {!h mTagName.Str: OrnamentWrappingOpen, !h mAnimOpeOption.Bit: !l 1}
           - {!h mTagName.Str: BoxOpen, !h mAnimOpeOption.Bit: !l 0}
           - {!h mTagName.Str: PresentRedOpen, !h mAnimOpeOption.Bit: !l 0}
           - {!h mTagName.Str: PresentGreenOpen, !h mAnimOpeOption.Bit: !l 0}

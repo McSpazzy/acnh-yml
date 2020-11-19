@@ -1383,6 +1383,59 @@ root:
           - 陸弱
           - 陸中
           - 陸強
+      !h 97501dcf:
+        !h mLabel.Str: EventDay03
+        !h mReport.Enum: 雨のち曇り
+        !h mWeatherType[].Enum:
+          - 快晴
+          - 晴れ
+          - 曇り
+          - 晴れ
+          - 曇り
+          - 雨
+          - 大雨
+          - 雨
+          - 大雨
+          - 雨
+          - 大雨
+          - 雨
+          - 雨雲
+          - 大雨
+          - 雨
+          - 大雨
+          - 曇り
+          - 晴れ
+          - 曇り
+          - 快晴
+          - 晴れ
+          - 快晴
+          - 晴れ
+          - 曇り
+        !h mWindType[].Enum:
+          - 陸強
+          - 陸中
+          - 陸強
+          - 陸中
+          - 陸中
+          - 陸中
+          - 陸弱
+          - 凪
+          - 海弱
+          - 海弱
+          - 海中
+          - 海強
+          - 海強
+          - 海中
+          - 海弱
+          - 海強
+          - 海中
+          - 海強
+          - 海弱
+          - 凪
+          - 陸弱
+          - 陸中
+          - 陸中
+          - 陸弱
       !h cWeatherPattern_12:
         !h mLabel.Str: Rain02
         !h mReport.Enum: 雨
@@ -1595,6 +1648,59 @@ root:
           - 陸中
           - 陸中
           - 陸弱
+      !h e594c75:
+        !h mLabel.Str: EventDay02
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
+          - 大雨
+          - 大雨
+          - 大雨
+          - 雨
+          - 大雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 大雨
+          - 大雨
+          - 雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 雨
+        !h mWindType[].Enum:
+          - 陸中
+          - 陸中
+          - 陸弱
+          - 陸強
+          - 陸中
+          - 陸中
+          - 陸弱
+          - 凪
+          - 海弱
+          - 海強
+          - 海中
+          - 海強
+          - 海弱
+          - 海中
+          - 海中
+          - 海強
+          - 海中
+          - 凪
+          - 陸弱
+          - 陸中
+          - 陸弱
+          - 陸中
+          - 陸弱
+          - 陸強
       !h cWeatherPattern_33:
         !h mLabel.Str: EventDay00
         !h mReport.Enum: 晴れ

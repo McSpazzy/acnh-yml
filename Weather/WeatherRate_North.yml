@@ -42,8 +42,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
-        !h mEndMonth.s8: !l 11
-        !h mEndDay.s8: !l 15
+          - !l 0
+          - !l 0
+        !h mEndMonth.s8: !l 10
+        !h mEndDay.s8: !l 30
       !h cWeatherRateTable_1:
         !h mRate[].s8:
           - !l 4
@@ -81,10 +83,21 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 1
         !h mEndDay.s8: !l 4
       !h cWeatherRateTable_16:
         !h mRate[].s8:
+          - !l 2
+          - !l 15
+          - !l 15
+          - !l 15
+          - !l 15
+          - !l 15
+          - !l 15
+          - !l 4
+          - !l 4
           - !l 0
           - !l 0
           - !l 0
@@ -98,9 +111,6 @@ root:
           - !l 0
           - !l 0
           - !l 0
-          - !l 30
-          - !l 40
-          - !l 30
           - !l 0
           - !l 0
           - !l 0
@@ -116,12 +126,8 @@ root:
           - !l 0
           - !l 0
           - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-        !h mEndMonth.s8: !l 12
-        !h mEndDay.s8: !l 10
+        !h mEndMonth.s8: !l 11
+        !h mEndDay.s8: !l 25
       !h cWeatherRateTable_5:
         !h mRate[].s8:
           - !l 4
@@ -131,6 +137,8 @@ root:
           - !l 14
           - !l 18
           - !l 14
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -198,47 +206,133 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 8
         !h mEndDay.s8: !l 31
-      !h cWeatherRateTable_17:
+      !h 3be898e7:
         !h mRate[].s8:
-          - !l 4
-          - !l 3
-          - !l 9
-          - !l 3
-          - !l 9
-          - !l 3
-          - !l 9
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 5
-          - !l 5
-          - !l 5
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
           - !l 0
           - !l 0
           - !l 0
           - !l 0
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 3
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 15
+          - !l 15
+          - !l 15
+          - !l 10
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 15
+          - !l 15
+          - !l 15
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
         !h mEndMonth.s8: !l 12
-        !h mEndDay.s8: !l 23
+        !h mEndDay.s8: !l 30
+      !h 4cefa871:
+        !h mRate[].s8:
+          - !l 4
+          - !l 20
+          - !l 21
+          - !l 19
+          - !l 19
+          - !l 9
+          - !l 8
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+        !h mEndMonth.s8: !l 12
+        !h mEndDay.s8: !l 31
+      !h cWeatherRateTable_17:
+        !h mRate[].s8:
+          - !l 2
+          - !l 10
+          - !l 9
+          - !l 10
+          - !l 9
+          - !l 9
+          - !l 9
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+        !h mEndMonth.s8: !l 12
+        !h mEndDay.s8: !l 9
       !h cWeatherRateTable_4:
         !h mRate[].s8:
           - !l 4
@@ -276,19 +370,12 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 3
         !h mEndDay.s8: !l 31
       !h cWeatherRateTable_13:
         !h mRate[].s8:
-          - !l 2
-          - !l 18
-          - !l 10
-          - !l 18
-          - !l 10
-          - !l 18
-          - !l 10
-          - !l 7
-          - !l 7
           - !l 0
           - !l 0
           - !l 0
@@ -315,8 +402,19 @@ root:
           - !l 0
           - !l 0
           - !l 0
-        !h mEndMonth.s8: !l 11
-        !h mEndDay.s8: !l 24
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 100
+          - !l 0
+          - !l 0
+        !h mEndMonth.s8: !l 10
+        !h mEndDay.s8: !l 31
       !h cWeatherRateTable_0:
         !h mRate[].s8:
           - !l 10
@@ -353,6 +451,8 @@ root:
           - !l 0
           - !l 0
           - !l 90
+          - !l 0
+          - !l 0
           - !l 0
         !h mEndMonth.s8: !l 1
         !h mEndDay.s8: !l 1
@@ -393,47 +493,51 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 7
         !h mEndDay.s8: !l 31
       !h cWeatherRateTable_19:
         !h mRate[].s8:
           - !l 4
-          - !l 20
-          - !l 21
-          - !l 19
-          - !l 19
+          - !l 3
           - !l 9
-          - !l 8
+          - !l 3
+          - !l 9
+          - !l 3
+          - !l 9
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 5
+          - !l 5
+          - !l 5
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
           - !l 0
           - !l 0
           - !l 0
           - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 3
+          - !l 3
           - !l 0
           - !l 0
           - !l 0
           - !l 0
           - !l 0
         !h mEndMonth.s8: !l 12
-        !h mEndDay.s8: !l 31
+        !h mEndDay.s8: !l 23
       !h cWeatherRateTable_11:
         !h mRate[].s8:
           - !l 3
@@ -468,6 +572,8 @@ root:
           - !l 1
           - !l 1
           - !l 1
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -510,47 +616,51 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 2
         !h mEndDay.s8: !l 23
       !h cWeatherRateTable_15:
         !h mRate[].s8:
           - !l 2
+          - !l 18
           - !l 10
-          - !l 9
+          - !l 18
           - !l 10
-          - !l 9
-          - !l 9
-          - !l 9
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 3
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
+          - !l 18
+          - !l 10
+          - !l 7
+          - !l 7
           - !l 0
           - !l 0
           - !l 0
           - !l 0
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
-          - !l 2
           - !l 0
           - !l 0
           - !l 0
-        !h mEndMonth.s8: !l 12
-        !h mEndDay.s8: !l 9
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+        !h mEndMonth.s8: !l 11
+        !h mEndDay.s8: !l 24
       !h cWeatherRateTable_6:
         !h mRate[].s8:
           - !l 2
@@ -588,8 +698,92 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 6
         !h mEndDay.s8: !l 15
+      !h a2e1c95d:
+        !h mRate[].s8:
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 100
+        !h mEndMonth.s8: !l 12
+        !h mEndDay.s8: !l 25
+      !h d5e6f9cb:
+        !h mRate[].s8:
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 100
+          - !l 0
+        !h mEndMonth.s8: !l 12
+        !h mEndDay.s8: !l 24
       !h cWeatherRateTable_18:
         !h mRate[].s8:
           - !l 0
@@ -602,10 +796,12 @@ root:
           - !l 0
           - !l 0
           - !l 0
-          - !l 15
-          - !l 15
-          - !l 15
-          - !l 10
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 30
+          - !l 40
+          - !l 30
           - !l 0
           - !l 0
           - !l 0
@@ -618,9 +814,9 @@ root:
           - !l 0
           - !l 0
           - !l 0
-          - !l 15
-          - !l 15
-          - !l 15
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -628,31 +824,33 @@ root:
           - !l 0
           - !l 0
         !h mEndMonth.s8: !l 12
-        !h mEndDay.s8: !l 30
+        !h mEndDay.s8: !l 10
       !h cWeatherRateTable_14:
         !h mRate[].s8:
+          - !l 3
+          - !l 10
+          - !l 10
+          - !l 10
+          - !l 10
+          - !l 10
+          - !l 10
           - !l 2
-          - !l 15
-          - !l 15
-          - !l 15
-          - !l 15
-          - !l 15
-          - !l 15
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 1
+          - !l 1
+          - !l 1
+          - !l 2
           - !l 4
           - !l 4
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
-          - !l 0
+          - !l 2
+          - !l 2
+          - !l 2
+          - !l 3
+          - !l 3
           - !l 0
           - !l 0
           - !l 0
@@ -667,7 +865,7 @@ root:
           - !l 0
           - !l 0
         !h mEndMonth.s8: !l 11
-        !h mEndDay.s8: !l 25
+        !h mEndDay.s8: !l 15
       !h cWeatherRateTable_7:
         !h mRate[].s8:
           - !l 2
@@ -702,6 +900,8 @@ root:
           - !l 3
           - !l 3
           - !l 3
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -744,6 +944,8 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 9
         !h mEndDay.s8: !l 15
       !h cWeatherRateTable_3:
@@ -770,6 +972,8 @@ root:
           - !l 10
           - !l 10
           - !l 10
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0

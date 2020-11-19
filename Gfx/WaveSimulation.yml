@@ -5,7 +5,8 @@ HasReferenceNodes: False
 root:
   !h WaveSimulationParam:
     !h mCausticsSealineSub.f32: 0.75000
-    !h mNormAreaUp.f32: 256.00000
+    !h mNormAreaUp.f32: 400.00000
+    !h mUIIndirectScale.f32: 1.00000
     !h mSeaIndirectScale.f32: 1.00000
     !h mPropagationFrame.u32: !l 30
     !h mFlowEpsilon.f32: 0.01000
@@ -53,7 +54,7 @@ root:
       - 65.00000
     !h mFlowAloneAttenuation.f32: 0.60000
     !h mFlowVicinityRate.f32: 0.75000
-    !h mNormAreaSide.f32: 150.00000
+    !h mNormAreaSide.f32: 200.00000
     !h mFlowPower.f32: 0.25000
     !h mSeaChoppyTextureScale1.V2f:
       - 40.00000
@@ -95,3 +96,4 @@ root:
       - 55.00000
       - 48.00000
     !h mOffsetWaterHeight.f32: 7.29000
+    !h mDrawBackSeaDot.f32: 0.60000

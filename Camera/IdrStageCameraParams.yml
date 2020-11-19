@@ -11,6 +11,7 @@ root:
       !h IdrGarden00: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 18.00000, !h mScrollLimitXMax.f32: 30.00000, !h mScrollLimitXMin.f32: 30.00000}
       !h IdrMuseumEnt02: {!h mScrollLimitZMin.f32: -56.00000, !h mScrollLimitZMax.f32: 5.00000, !h mScrollLimitXMax.f32: 75.00000, !h mScrollLimitXMin.f32: 75.00000}
       !h IdrMuseumFish_0: {!h mScrollLimitZMin.f32: 0.00000, !h mScrollLimitZMax.f32: 24.00000, !h mScrollLimitXMax.f32: 34.00000, !h mScrollLimitXMin.f32: 38.00000}
+      !h 6fac984f: {!h mScrollLimitZMin.f32: 40.00000, !h mScrollLimitZMax.f32: 15.00000, !h mScrollLimitXMax.f32: 50.00000, !h mScrollLimitXMin.f32: 50.00000}
       !h IdrMuseumInsect_0: {!h mScrollLimitZMin.f32: 42.00000, !h mScrollLimitZMax.f32: 32.00000, !h mScrollLimitXMax.f32: 38.00000, !h mScrollLimitXMin.f32: 38.00000}
       !h IdrOffice01: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 18.00000, !h mScrollLimitXMax.f32: 45.00000, !h mScrollLimitXMin.f32: 45.00000}
       !h IdrMuseumFossil_2: {!h mScrollLimitZMin.f32: 120.00000, !h mScrollLimitZMax.f32: 10.00000, !h mScrollLimitXMax.f32: 20.00000, !h mScrollLimitXMin.f32: 20.00000}
@@ -26,7 +27,7 @@ root:
       !h IdrTsunekichi: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 9.50000, !h mScrollLimitXMax.f32: 37.00000, !h mScrollLimitXMin.f32: 37.00000}
       !h IdrAirPort: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 13.00000, !h mScrollLimitXMax.f32: 45.00000, !h mScrollLimitXMin.f32: 45.00000}
       !h IdrMuseumFossil_1: {!h mScrollLimitZMin.f32: 80.00000, !h mScrollLimitZMax.f32: 16.00000, !h mScrollLimitXMax.f32: 35.00000, !h mScrollLimitXMin.f32: 36.00000}
-      !h e62ce761: {!h mScrollLimitZMin.f32: 10.00000, !h mScrollLimitZMax.f32: 15.00000, !h mScrollLimitXMax.f32: 45.00000, !h mScrollLimitXMin.f32: 45.00000}
+      !h e62ce761: {!h mScrollLimitZMin.f32: 10.00000, !h mScrollLimitZMax.f32: 18.00000, !h mScrollLimitXMax.f32: 45.00000, !h mScrollLimitXMin.f32: 45.00000}
       !h IdrMuseumArt_1: {!h mScrollLimitZMin.f32: 25.00000, !h mScrollLimitZMax.f32: 40.00000, !h mScrollLimitXMax.f32: 50.00000, !h mScrollLimitXMin.f32: 50.00000}
       !h IdrMuseumEnt01: {!h mScrollLimitZMin.f32: -40.00000, !h mScrollLimitZMax.f32: 5.00000, !h mScrollLimitXMax.f32: 40.00000, !h mScrollLimitXMin.f32: 40.00000}
       !h IdrMuseumInsect_1: {!h mScrollLimitZMin.f32: 27.00000, !h mScrollLimitZMax.f32: 20.00000, !h mScrollLimitXMax.f32: 38.00000, !h mScrollLimitXMin.f32: 36.00000}

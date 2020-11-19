@@ -6,6 +6,7 @@ root:
   !h NpcActivityParam:
     !h mConversationSpeakerChangeRate.s32: !l 50
     !h mInterestChangeValue.s32: !l 1
+    !h 1321775c: !l 60
     !h mInterestRushRateMax.s32: !l 30
     !h mNaturalChangeTime.s32: !l 2
     !h mCatchInsectStopDist.f32: 10.00000
@@ -23,7 +24,10 @@ root:
     !h mMinimumSitFrameInHousing.s32: !l 900
     !h mUpdateFrame.s32: !l 15
     !h mConcentrateInterest2to3V.s32: !l 51
+    !h 2fce5ae8: !l 30
     !h mDoingStopChangeTime.s32: !l 1
+    !h mChristmasExcitedRatio.s32: !l 20
+    !h mChristmasAbsentMindednessRatio.s32: !l 7
     !h mExerciseClassMaxRadius.f32: 22.50000
     !h mConversationEndFrameMax.s32: !l 30
     !h mNaturalChangeValue.s32: !l -2
@@ -40,15 +44,22 @@ root:
     !h mConversationReactionFrameMin.s32: !l 0
     !h mConversationReactionFrameMax.s32: !l 30
     !h mInterestGainTime.s32: !l 1
+    !h mToolActionInDoNotingRate.s32: !l 25
+    !h 54b50b42: !l 35
     !h mConcentrateInterest4to5H.s32: !l 0
     !h mLostThresholdValue.s32: !l 60
+    !h mGroupPlayFireworkIntervalMax.s32: !l 90
+    !h mGroupPlayFireworkIntervalMin.s32: !l 30
     !h mConversationRadiusM.f32: 7.50000
     !h mFollowInsectMaxDist.f32: 4.00000
+    !h mChristmasBasicRatio.s32: !l 80
     !h mPersonalSpaceReactionTime.s32: !l 90
     !h mSightLength.f32: 45.00000
+    !h mChristmasSmilingRatio.s32: !l 42
     !h mFtrSwitchResponseFrameMin.s32: !l 5
     !h mConversationRadiusL.f32: 8.80000
     !h mFtrSwitchResponseFrameMax.s32: !l 15
+    !h mChristmasTakePhotoRatio.s32: !l 9
     !h mConversationTalkFrameMax.s32: !l 120
     !h mConversationTalkFrameMin.s32: !l 60
     !h mExerciseClassMinRadius.f32: 10.00000
@@ -56,11 +67,15 @@ root:
     !h mConflictChangeTime.s32: !l 1
     !h mNeedCurveBias.f32: 0.75000
     !h mConflictQuitInterestTh.s32: !l 50
+    !h mChristmasBasicTimerMax.s32: !l 240
+    !h mChristmasBasicTimerMin.s32: !l 120
     !h mConversationRadiusS.f32: 6.50000
+    !h mChristmasSmilingTimerMax.s32: !l 600
     !h mConflictReverseEndThMax.s32: !l 100
     !h mCatchInsectStartDist.f32: 15.00000
     !h mConflictReverseEndThMin.s32: !l 0
     !h mConcentrateInterest4to5V.s32: !l 20
+    !h mChristmasSmilingTimerMin.s32: !l 240
     !h mConflictChangeRangeTime.s32: !l 10
     !h mLookToSkyPercent.s32: !l 10
     !h mNeedStartValue.s32: !l 100
@@ -69,16 +84,23 @@ root:
     !h mCatchInsectMaxDist.f32: 35.00000
     !h mConflictQuitConcentrateTh.s32: !l 20
     !h mInterestGainRate.f32: 0.95000
+    !h mChristmasInterestSmilingRatio.s32: !l 33
     !h mConflictStartLineOffset.f32: 0.00000
     !h mPlacementFieldRateHouse.s32: !l 40
+    !h mGroupPlayFireworkWaitFrameMin.s32: !l 150
+    !h mGroupPlayFireworkWaitFrameMax.s32: !l 240
     !h mConflictReverseEndNeedValue.s32: !l 80
     !h mSightAngle.f32: 60.00000
+    !h b0adbd46: !l 180
     !h mConflictReverseEndRateMin.s32: !l 10
     !h mConflictReverseEndRateMax.s32: !l 20
+    !h b35e5d09: !l 320
     !h mWanderFrameInHousing.s32: !l 600
     !h mRecoverChangeValue.s32: !l 2
+    !h mChristmasInterestLookRatio.s32: !l 33
     !h mWatchFtrHeight.f32: 100.00000
     !h mPlacementFieldRateEventPlaza.s32: !l 40
+    !h mChristmasFirstLookRatio.s32: !l 16
     !h mWateringWaitFrameMax.s32: !l 300
     !h mConflictEndLineSlope.f32: 2.00000
     !h mWateringWaitFrameMin.s32: !l 90
@@ -86,21 +108,29 @@ root:
     !h mDoingChangeTime.s32: !l 1
     !h mConflictChangeRange.s32: !l -5
     !h mMinimumReadFrameInHousing.s32: !l 1200
+    !h mGroupPlayFireworkNumMax.s32: !l 5
+    !h mGroupPlayFireworkNumMin.s32: !l 2
     !h mConflictInterestStopChange.s32: !l -7
     !h mFollowInsectStartDist.f32: 3.00000
     !h mReactionDelayFrameMin.s32: !l 5
+    !h mChristmasWatchRatio.s32: !l 20
     !h mReactionDelayFrameMax.s32: !l 15
     !h mWanderPercentInHousing.s32: !l 10
     !h mNeedLimitValue.s32: !l 0
+    !h mSitBenchFrame.s32: !l 900
     !h mAudioFinishDelayMinBeat.s32: !l 3
     !h mNatureInterestHeight.s32: !l 50
     !h mConcentrateInterest1to2V.s32: !l 66
     !h mNeedNaturalChange.s32: !l 1
     !h mConflictChangeSlope.f32: -0.06000
+    !h mChristmasExcitedTimeMax.s32: !l 180
     !h mPersonalSpaceRadius.f32: 15.00000
+    !h mChristmasExcitedTimeMin.s32: !l 160
     !h mConcentrateInterest2to3H.s32: !l 0
+    !h mChristmasSingRatio.s32: !l 2
     !h mConflictStartLineSlope.f32: 1.00000
     !h mConflictEndLineOffset.f32: 0.00000
+    !h mChristmasInterestExcitedRatio.s32: !l 35
     !h mCatchFollowInsectTurnAngle.f32: 45.00000
     !h mConcentrateInterest3to4H.s32: !l 0
     !h mConflictInterestChangeRange.s32: !l -3
