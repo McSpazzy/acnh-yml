@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h EvtobjLamp[]:
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 4.90000
         - 27.20000

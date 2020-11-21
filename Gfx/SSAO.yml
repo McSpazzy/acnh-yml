@@ -7,13 +7,13 @@ root:
     !h mIsEnable.bool: false
     !h 40fd7b8e: true
     !h 41be853a: 0.25000
-    !h 4cb0d69f: cHalf
+    !h mResolutionType.Enum: cHalf
     !h mFbSize.V2f:
       - 960.00000
       - 540.00000
     !h mMaxMipLevel.u32: !l 2
     !h mIntensity.f32: 1.20000
-    !h b6372d17:
+    !h mCameraInfo.V4f:
       - 1.00000
       - 100000.00000
       - 0.34557

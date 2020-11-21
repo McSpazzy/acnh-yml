@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h StrcTsunekichiA00[]:
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
       !h mPos.V3f:
         - 7.10000
@@ -33,7 +33,7 @@ root:
       !h mIsCandleColor.bool: false
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mIsCandle.bool: true
       !h mPos.V3f:
         - -5.20000
@@ -61,7 +61,7 @@ root:
       !h mIsCandleColor.bool: false
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
       !h mPos.V3f:
         - 20.00000

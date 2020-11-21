@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h StrcMarketA02[]:
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 0.00000
         - 19.80000
@@ -31,7 +31,7 @@ root:
       !h mFovy.f32: 3.14159
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -26.10000
         - 16.70000
@@ -57,7 +57,7 @@ root:
       !h mFovy.f32: 1.39626
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 20.40000
         - 20.40000
@@ -83,7 +83,7 @@ root:
       !h mFovy.f32: 1.39626
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -20.40000
         - 20.40000

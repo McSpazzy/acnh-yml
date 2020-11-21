@@ -11,7 +11,7 @@ root:
         - 0.00000
         - 0.00000
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
       !h mPos.V3f:
         - 0.00000

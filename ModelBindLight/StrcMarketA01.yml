@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h StrcMarketA01[]:
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
       !h mPos.V3f:
         - -9.80000
@@ -33,7 +33,7 @@ root:
       !h mIsCandleColor.bool: false
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 15.40000
         - 14.40000

@@ -8,7 +8,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 通路ポイント
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -37,7 +37,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -69,7 +69,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 全体ライト
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -98,7 +98,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -131,7 +131,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: ドードー周り
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -153,7 +153,7 @@ root:
             !h mIntensity.f32: 120.00000
             !h mFovy.f32: 1.57080
             !h mBindModelName.Str: 
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mColor.C4f:
               - 1.00000
@@ -178,7 +178,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 植物：左
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -200,7 +200,7 @@ root:
             !h mIntensity.f32: 1.00000
             !h mFovy.f32: 1.04720
             !h mBindModelName.Str: 
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mColor.C4f:
               - 1.00000
@@ -225,7 +225,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 通路スポット
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -247,7 +247,7 @@ root:
             !h mIntensity.f32: 0.00000
             !h mFovy.f32: 0.78540
             !h mBindModelName.Str: 
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mColor.C4f:
               - 1.00000
@@ -272,7 +272,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 手紙周り
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -294,7 +294,7 @@ root:
             !h mIntensity.f32: 5.00000
             !h mFovy.f32: 0.86708
             !h mBindModelName.Str: 
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mColor.C4f:
               - 1.00000
@@ -319,7 +319,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: ゲート周り
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -341,7 +341,7 @@ root:
             !h mIntensity.f32: 5.00000
             !h mFovy.f32: 2.09440
             !h mBindModelName.Str: 
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mColor.C4f:
               - 1.00000
@@ -366,7 +366,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 植物：右
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -388,7 +388,7 @@ root:
             !h mIntensity.f32: 5.00000
             !h mFovy.f32: 1.04720
             !h mBindModelName.Str: "\t\t\t"
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000

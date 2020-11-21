@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h SeafoodJellyfishActor:
-    !h 1ce994c8: 0.10000
+    !h mEntryModelScale.f32: 0.10000
     !h mFadeOutFrame.f32: 6.00000
     !h mFadeInFrame.f32: 6.00000
     !h mWaterSurfaceDepthOffset.f32: 2.50000

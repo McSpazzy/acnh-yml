@@ -8,7 +8,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: ルームライト
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -37,7 +37,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -70,7 +70,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: フィルライト
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -92,7 +92,7 @@ root:
             !h mIntensity.f32: 20.00000
             !h mFovy.f32: 0.78540
             !h mBindModelName.Str: 
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 1.00000
@@ -117,7 +117,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 窓ライト
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 0.70000
@@ -139,7 +139,7 @@ root:
             !h mIntensity.f32: 20.00000
             !h mFovy.f32: 0.73304
             !h mBindModelName.Str: 
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mColor.C4f:
               - 0.70000

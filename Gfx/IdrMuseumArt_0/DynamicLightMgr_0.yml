@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h DynamicLightSceneParam:
     !h mSpotParamArray[]:
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -27,7 +27,7 @@ root:
         !h mIntensity.f32: 2.40000
         !h mFovy.f32: 0.69813
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -49,7 +49,7 @@ root:
         !h mIntensity.f32: 1.50000
         !h mFovy.f32: 0.69813
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -71,7 +71,7 @@ root:
         !h mIntensity.f32: 1.50000
         !h mFovy.f32: 0.52360
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -93,7 +93,7 @@ root:
         !h mIntensity.f32: 2.50000
         !h mFovy.f32: 0.90757
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -115,7 +115,7 @@ root:
         !h mIntensity.f32: 3.50000
         !h mFovy.f32: 1.53589
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -137,7 +137,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 1.09956
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -159,7 +159,7 @@ root:
         !h mIntensity.f32: 3.50000
         !h mFovy.f32: 1.22173
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -181,7 +181,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 1.30900
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -203,7 +203,7 @@ root:
         !h mIntensity.f32: 3.50000
         !h mFovy.f32: 1.22173
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -225,7 +225,7 @@ root:
         !h mIntensity.f32: 3.50000
         !h mFovy.f32: 0.95993
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -247,7 +247,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.92503
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -269,7 +269,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 1.48353
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -291,7 +291,7 @@ root:
         !h mIntensity.f32: 2.50000
         !h mFovy.f32: 0.95993
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -313,7 +313,7 @@ root:
         !h mIntensity.f32: 3.50000
         !h mFovy.f32: 1.13446
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -335,7 +335,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.52360
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -357,7 +357,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.52360
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -379,7 +379,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.57596
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -401,7 +401,7 @@ root:
         !h mIntensity.f32: 2.50000
         !h mFovy.f32: 0.62832
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -423,7 +423,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.52360
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -445,7 +445,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.61087
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -467,7 +467,7 @@ root:
         !h mIntensity.f32: 7.00000
         !h mFovy.f32: 1.18682
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -489,7 +489,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.48869
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -511,7 +511,7 @@ root:
         !h mIntensity.f32: 2.50000
         !h mFovy.f32: 0.45379
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -533,7 +533,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.40143
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -555,7 +555,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.78540
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -577,7 +577,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.78540
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -599,7 +599,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.61087
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -621,7 +621,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.48869
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -643,7 +643,7 @@ root:
         !h mIntensity.f32: 1.50000
         !h mFovy.f32: 0.52360
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -665,7 +665,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.78540
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -687,7 +687,7 @@ root:
         !h mIntensity.f32: 1.75000
         !h mFovy.f32: 0.55851
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -709,7 +709,7 @@ root:
         !h mIntensity.f32: 2.50000
         !h mFovy.f32: 0.61087
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -731,7 +731,7 @@ root:
         !h mIntensity.f32: 3.00000
         !h mFovy.f32: 0.73304
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 0.90000
@@ -753,7 +753,7 @@ root:
         !h mIntensity.f32: 18.00000
         !h mFovy.f32: 0.48869
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 0.90000
@@ -775,7 +775,7 @@ root:
         !h mIntensity.f32: 6.00000
         !h mFovy.f32: 1.64061
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 0.90000
@@ -797,7 +797,7 @@ root:
         !h mIntensity.f32: 6.00000
         !h mFovy.f32: 1.64061
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 0.90000
@@ -819,7 +819,7 @@ root:
         !h mIntensity.f32: 9.00000
         !h mFovy.f32: 0.83776
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 0.90000
@@ -841,7 +841,7 @@ root:
         !h mIntensity.f32: 20.00000
         !h mFovy.f32: 2.12930
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -863,7 +863,7 @@ root:
         !h mIntensity.f32: 8.00000
         !h mFovy.f32: 0.69813
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 0.95000
@@ -885,7 +885,7 @@ root:
         !h mIntensity.f32: 2.00000
         !h mFovy.f32: 1.13446
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -907,7 +907,7 @@ root:
         !h mIntensity.f32: 1.00000
         !h mFovy.f32: 0.78540
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -929,7 +929,7 @@ root:
         !h mIntensity.f32: 1.00000
         !h mFovy.f32: 1.22173
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -951,7 +951,7 @@ root:
         !h mIntensity.f32: 5.00000
         !h mFovy.f32: 1.39626
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -973,7 +973,7 @@ root:
         !h mIntensity.f32: 5.00000
         !h mFovy.f32: 1.39626
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -995,7 +995,7 @@ root:
         !h mIntensity.f32: 2.00000
         !h mFovy.f32: 1.13446
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -1017,7 +1017,7 @@ root:
         !h mIntensity.f32: 3.50000
         !h mFovy.f32: 0.51522
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -1039,7 +1039,7 @@ root:
         !h mIntensity.f32: 3.50000
         !h mFovy.f32: 0.71000
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -1061,7 +1061,7 @@ root:
         !h mIntensity.f32: 1.50000
         !h mFovy.f32: 0.87267
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -1083,7 +1083,7 @@ root:
         !h mIntensity.f32: 1.00000
         !h mFovy.f32: 0.78540
         !h mBindModelName.Str: 
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mColor.C4f:
           - 1.00000
@@ -1106,7 +1106,7 @@ root:
         !h mFovy.f32: 1.13446
         !h mBindModelName.Str: 
     !h mPointParamArray[]:
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mIsCandle.bool: false
         !h mColor.C4f:
@@ -1135,7 +1135,7 @@ root:
         !h mCycleA.f32: 0.20000
         !h mBindModelName.Str: 
         !h mIsCandleColor.bool: false
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mIsCandle.bool: false
         !h mColor.C4f:
@@ -1164,7 +1164,7 @@ root:
         !h mCycleA.f32: 0.20000
         !h mBindModelName.Str: 
         !h mIsCandleColor.bool: false
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mIsCandle.bool: false
         !h mColor.C4f:
@@ -1193,7 +1193,7 @@ root:
         !h mCycleA.f32: 0.20000
         !h mBindModelName.Str: 
         !h mIsCandleColor.bool: false
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mIsCandle.bool: false
         !h mColor.C4f:
@@ -1222,7 +1222,7 @@ root:
         !h mCycleA.f32: 0.20000
         !h mBindModelName.Str: 
         !h mIsCandleColor.bool: false
-      - !h mNormAreaSidemRemakeTool: false
+      - !h mIsNightLight.bool: false
         !h mIsEnable.bool: true
         !h mIsCandle.bool: false
         !h mColor.C4f:

@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h PlayerViewerActor:
-    !h 4e5d79a1: 1.00000
+    !h mViewerCameraFovyDegree.f32: 1.00000
     !h mViewerCameraDegreeY.f32: 0.00000
     !h mViewerCameraDegreeX.f32: 14.00000
     !h mViewerCameraDist.f32: 1500.00000

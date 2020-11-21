@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h EvtobjTsunekichiStall[]:
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 10.00000
         - 16.00000
@@ -31,7 +31,7 @@ root:
       !h mFovy.f32: 3.05433
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 10.00000
         - 15.00000

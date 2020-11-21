@@ -119,7 +119,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 100.00000
         !h mDOFEnd.f32: 500.00000
-      !h 1b79e11b:
+      !h cFacePanelBehind:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
@@ -290,7 +290,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 10000.00000
-      !h 45b01014:
+      !h cFirstPersonNear:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
@@ -385,7 +385,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 270.00000
-      !h 5544e376:
+      !h cFirstPersonNormal:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
@@ -689,7 +689,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 140.00000
         !h mDOFEnd.f32: 10000.00000
-      !h 8ee7c41b:
+      !h cFirstPersonFar:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000

@@ -1383,7 +1383,7 @@ root:
           - 陸弱
           - 陸中
           - 陸強
-      !h 97501dcf:
+      !h cWeatherPattern_36:
         !h mLabel.Str: EventDay03
         !h mReport.Enum: 雨のち曇り
         !h mWeatherType[].Enum:
@@ -1648,7 +1648,7 @@ root:
           - 陸中
           - 陸中
           - 陸弱
-      !h e594c75:
+      !h cWeatherPattern_35:
         !h mLabel.Str: EventDay02
         !h mReport.Enum: 雨
         !h mWeatherType[].Enum:

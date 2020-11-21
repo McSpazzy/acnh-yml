@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h StrcStudioA00[]:
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
       !h mPos.V3f:
         - -10.60000
@@ -33,7 +33,7 @@ root:
       !h mIsCandleColor.bool: false
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 15.60000
         - 21.80000
@@ -59,7 +59,7 @@ root:
       !h mFovy.f32: 0.52360
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 20.00000
         - 16.50000

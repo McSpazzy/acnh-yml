@@ -8,7 +8,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト00
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -37,7 +37,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -69,7 +69,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト01
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -98,7 +98,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -130,7 +130,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト02
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -159,7 +159,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -191,7 +191,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト03
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -220,7 +220,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -252,7 +252,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト04
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -281,7 +281,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -313,7 +313,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト05
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -342,7 +342,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -374,7 +374,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト06
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -403,7 +403,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -435,7 +435,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: 夜間ライト07
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -464,7 +464,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: false
             !h mIsCandle.bool: false
             !h mColor.C4f:

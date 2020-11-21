@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h EvtobjRazyStallPumpkin[]:
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
       !h mPos.V3f:
         - 4.75000

@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h EvtobjCampfire[]:
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: false
+      !h mIsNightLight.bool: false
       !h mIsCandle.bool: false
       !h mPos.V3f:
         - 9.60000

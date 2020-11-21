@@ -11,7 +11,7 @@ root:
         - 0.00000
         - 0.00000
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -8.60000
         - 52.20000
@@ -37,7 +37,7 @@ root:
       !h mFovy.f32: 0.78540
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 2.75000
         - 52.20000
@@ -63,7 +63,7 @@ root:
       !h mFovy.f32: 0.78540
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -11.40000
         - 57.58400
@@ -89,7 +89,7 @@ root:
       !h mFovy.f32: 1.13446
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -21.60000
         - 52.20000

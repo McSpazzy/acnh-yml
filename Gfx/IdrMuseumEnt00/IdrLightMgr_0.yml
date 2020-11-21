@@ -8,7 +8,7 @@ root:
       - !h mIsEnable.bool: true
         !h mName.Str: メインライト
         !h mParam[]:
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mIsCandle.bool: false
             !h mColor.C4f:
@@ -37,7 +37,7 @@ root:
             !h mCycleA.f32: 0.20000
             !h mBindModelName.Str: 
             !h mIsCandleColor.bool: false
-          - !h mNormAreaSidemRemakeTool: false
+          - !h mIsNightLight.bool: false
             !h mIsEnable.bool: true
             !h mIsCandle.bool: false
             !h mColor.C4f:

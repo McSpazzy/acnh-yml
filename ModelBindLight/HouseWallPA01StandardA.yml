@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h HouseWallPA01StandardA[]:
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 0.00000
         - 24.90000
@@ -31,7 +31,7 @@ root:
       !h mFovy.f32: 1.04720
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -8.10000
         - 25.10000
@@ -57,7 +57,7 @@ root:
       !h mFovy.f32: 0.78540
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 8.10000
         - 25.10000

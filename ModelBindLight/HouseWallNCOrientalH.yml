@@ -5,7 +5,7 @@ HasReferenceNodes: False
 root:
   !h HouseWallNCOrientalH[]:
     - !h mLightType.Enum: ポイントライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -8.80000
         - 16.50000
@@ -21,7 +21,7 @@ root:
       !h mRadius.f32: 18.00000
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - -14.60000
         - 15.20000
@@ -42,7 +42,7 @@ root:
       !h mFovy.f32: 1.13446
       !h mIsUseMaterialColor.bool: false
     - !h mLightType.Enum: スポットライト
-      !h mNormAreaSidemRemakeTool: true
+      !h mIsNightLight.bool: true
       !h mPos.V3f:
         - 14.60000
         - 15.20000
