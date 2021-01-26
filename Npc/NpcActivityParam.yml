@@ -24,7 +24,7 @@ root:
     !h mMinimumSitFrameInHousing.s32: !l 900
     !h mUpdateFrame.s32: !l 15
     !h mConcentrateInterest2to3V.s32: !l 51
-    !h 2fce5ae8: !l 30
+    !h mChristmasInterestAbsentMindednessRatio.s32: !l 30
     !h mDoingStopChangeTime.s32: !l 1
     !h mChristmasExcitedRatio.s32: !l 20
     !h mChristmasAbsentMindednessRatio.s32: !l 7
@@ -45,7 +45,7 @@ root:
     !h mConversationReactionFrameMax.s32: !l 30
     !h mInterestGainTime.s32: !l 1
     !h mToolActionInDoNotingRate.s32: !l 25
-    !h 54b50b42: !l 35
+    !h mChristmasInterestTakePhotoRatio.s32: !l 35
     !h mConcentrateInterest4to5H.s32: !l 0
     !h mLostThresholdValue.s32: !l 60
     !h mGroupPlayFireworkIntervalMax.s32: !l 90
@@ -91,10 +91,10 @@ root:
     !h mGroupPlayFireworkWaitFrameMax.s32: !l 240
     !h mConflictReverseEndNeedValue.s32: !l 80
     !h mSightAngle.f32: 60.00000
-    !h b0adbd46: !l 180
+    !h mChristmasAbsentMindednessTimeMin.s32: !l 180
     !h mConflictReverseEndRateMin.s32: !l 10
     !h mConflictReverseEndRateMax.s32: !l 20
-    !h b35e5d09: !l 320
+    !h mChristmasAbsentMindednessTimeMax.s32: !l 320
     !h mWanderFrameInHousing.s32: !l 600
     !h mRecoverChangeValue.s32: !l 2
     !h mChristmasInterestLookRatio.s32: !l 33
