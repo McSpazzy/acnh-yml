@@ -154,6 +154,19 @@ root:
           - - 0.00000
             - 1.00000
         !h mFrame.s32: !l 30
+      !h cFirstPerson:
+        !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - 0.00000
+            - 0.50000
+            - 0.50000
+            - 1.62069
+            - 1.00000
+            - 1.00000
+            - 0.00000
+        !h mFrame.s32: !l 36
       !h cTalk_Drum:
         !h mCurvef.Curvef:
           - !l 1

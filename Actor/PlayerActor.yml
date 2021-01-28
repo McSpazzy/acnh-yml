@@ -12,6 +12,7 @@ root:
     !h mAddCalcAngleRate.f32: 0.37000
     !h mWateringUpperLevelOffsetDegY.f32: 5.00000
     !h mDiveMoveFastSpeed.f32: 0.35000
+    !h 176fc4bf: !l 0
     !h mScoopChaseTimer.u32: !l 11
     !h mDiveInOutSpeedChaseValue.f32: 0.30000
     !h mBlackFadeEndOffsetStageWalkIn.f32: 25.00000
@@ -21,7 +22,9 @@ root:
     !h mSwimWaitSlowSpeed.f32: 0.10000
     !h mAddCalcPosRate_ChestOperate.f32: 0.12000
     !h mShowDIYRecipeTransZ.f32: -1.70000
+    !h mPipeExitPopCameraFrame.u32: !l 12
     !h mSmartPhoneLookAtOffsetY.f32: 7.00000
+    !h mPipeEnterFallStartFrame.u32: !l 0
     !h mActionWaitFrameByEmotionRingMenu.s32: !l 5
     !h mStickMorphSpeed.f32: 0.20000
     !h mJumpValleyJudgeGapDegree.f32: 25.00000
@@ -31,6 +34,7 @@ root:
     !h mShowDIYRecipeDegreeZ.f32: -40.00000
     !h mStateWalkOutSceneChangeTimer.s32: !l 30
     !h mObjCollisionHeight.f32: 14.90000
+    !h mPipeExitRiseSpeedY.f32: 0.40000
     !h mBgCollisionAirRadius.f32: 4.99000
     !h mPushStickCancelTimer.u32: !l 15
     !h mWateringTopOffsetY.f32: -4.00000
@@ -41,6 +45,7 @@ root:
     !h mSpeedYMin.f32: -2.10000
     !h mInputDiffDegreeForMoveSpeedMin.f32: 10.00000
     !h mDiveMoveFastSpeedChaseValue.f32: 0.12500
+    !h mPipeExitFadeInDelayFrame.u32: !l 10
     !h mTurnStickSpeedMin.f32: 0.01000
     !h mDetectObjRadius.f32: 1.85000
     !h mLinecarAddCalcRate.f32: 0.80000
@@ -51,6 +56,7 @@ root:
     !h mTurnMoveSpeedMin.f32: 0.40000
     !h mTestModelBlackRate.f32: 0.00000
     !h mMoveSpeedMax.f32: 1.80000
+    !h mPipeCommonWipeSpeed.f32: 1.00000
     !h mIconMinScale.f32: 0.80000
     !h mStickInvalidArea.f32: 0.00000
     !h mDiveCameraStartFrame.u32: !l 20
@@ -71,8 +77,10 @@ root:
         - 0.00000
     !h mEscapeSpeedTimer.u32: !l 2
     !h mStickForceByDebugPage.f32: 0.00500
+    !h mSpeedRateFPC.f32: 0.35000
     !h mStickSpeedEmbranceDegreeMax_RunMax.f32: 180.00000
     !h mDiveInRootMorphMinusFrame.u32: !l 11
+    !h mPipeEnterScaleDownSpeed.f32: 0.02000
     !h mPassOverTimer.u32: !l 26
     !h mDiveCameraEndFrame.u32: !l 0
     !h mShowDIYRecipeDegreeX.f32: 62.00000
@@ -110,10 +118,12 @@ root:
     !h mBlackFadeEndOffsetDoorIn.f32: 10.00000
     !h mWateringTopOffsetZ.f32: 0.00000
     !h mToolBreakStartWaitTimer.u32: !l 13
+    !h mPipeExitScaleUpSpeed.f32: 0.02000
     !h mDiveMoveTurnChaseDegreeY.f32: 2.00000
     !h mPassOverTrunRate.f32: 0.18000
     !h mSwimWaitTurnChaseDegreeY.f32: 4.00000
     !h mDashAngleYSpeedMax.f32: 0.95000
+    !h mPipeExitPipeSEStartFrame.u32: !l 23
     !h mJumpInWaterGravity.f32: -0.35000
     !h mDiveWaitZeroSpeedChaseValue.f32: 0.01000
     !h mLongStickJumpGravity.f32: -0.13000
@@ -127,21 +137,25 @@ root:
     !h mStickSpeedChangeValue.f32: 0.20000
     !h mWateringTopOffsetX.f32: 0.00000
     !h mDiveOutSpeedY.f32: 0.70000
+    !h mPipeExitScaleUpStartFrame.u32: !l 0
     !h mScoopTopOffsetY.f32: -5.70000
     !h mSwimMoveFastSpeed.f32: 0.46000
     !h mInvalidObjCollisionRadius.f32: 1.50000
     !h mAddCalcPosRate_Door.f32: 0.12500
+    !h mPipeEnterTurnAddCalcRate.f32: 0.30000
     !h mPickupFlowerForceOffsetY.f32: -2.50000
     !h mToolBreakLookWaitTimer.u32: !l 120
     !h mSharePlaySubWarpTimer.u32: !l 60
     !h mSeaGroundBottomOffset.f32: -23.00000
     !h mWalkToAim_FrontHit_AngleAddCalcRate.f32: 0.27000
+    !h mPipeEnterFallSpeedY.f32: 0.40000
     !h mDefaultGravity.f32: -0.25000
     !h mObjCollisionRadius.f32: 5.00000
     !h mCameraSpecialOffsetY.f32: 5.00000
     !h mPickupGetDemoOffsetZ.f32: 1.50000
     !h mWalkToAim_TurnAddCalcRate.f32: 0.30000
     !h mSwimWaitLeanShapeDegreeXChaseValue.f32: 0.02000
+    !h mPipeCommonScaleMin.f32: 0.55000
     !h mAirportDockHeight.f32: 5.40000
     !h mJumpInWaterDownSpeedChaseRateY.f32: 0.25000
     !h mSharePlayCullingCheckOffsetY.f32: 7.50000
@@ -153,6 +167,7 @@ root:
     !h mWalkToAim_WarpUnit.f32: 16.00000
     !h mSharePlayMainGetCancelTimer.u32: !l 30
     !h mSwimWaitZeroSpeedChaseValue.f32: 0.01000
+    !h mPipeEnterFadeOutStartFrame.u32: !l 16
     !h mTurnStartDegreeGap_Prog.f32: 60.00000
     !h mBlackFadeStartOffsetDoorIn.f32: 0.00000
     !h mJumpInTimerHigh.s32: !l 25
@@ -166,6 +181,7 @@ root:
     !h mFittingRoomGoInOffsetZ.f32: -2.00000
     !h mDiveMoveSlowSpeedChaseValue.f32: 0.00500
     !h mAngleXChaseStep.f32: 0.35000
+    !h mPipeExitRiseStartFrame.u32: !l 27
     !h mSwimWaitFastSpeedChaseValue.f32: 0.01500
     !h mRunSpeedMax.f32: 1.25000
     !h mSwimMoveZeroSpeedChaseValue.f32: 0.00300
@@ -187,6 +203,7 @@ root:
     !h mSwimMoveFastSpeedChaseValue.f32: 0.21000
     !h mBlackFadeStartOffsetStageStairsOut.f32: 5.00000
     !h mJumpInWaterUpSpeedChaseRateY.f32: 0.12000
+    !h mPipeEnterRequestCameraFrame.u32: !l 0
     !h mPickupTargetOffset.f32: -2.20000
     !h mDiveWaitSlowSpeedChaseValue.f32: 0.00500
     !h mJumpValleyJudgeTimer.u32: !l 8
@@ -203,6 +220,7 @@ root:
     !h mPickupGetDemoOffsetX.f32: 0.00000
     !h mStickSpeedEmbranceDegreeMin_RunMax.f32: 90.00000
     !h mFoodPowerupTimer.u32: !l 5400
+    !h mPipeCommonJumpGravity.f32: 0.40000
     !h mJumpInTimer.s32: !l 20
     !h mDiveGetDemoOffsetY.f32: -3.00000
     !h mDetectObjHeight.f32: 10.00000

@@ -6,7 +6,7 @@ root:
   !h SSAO:
     !h mIsEnable.bool: false
     !h 40fd7b8e: true
-    !h 41be853a: 0.25000
+    !h mThresholdDepth.f32: 0.25000
     !h mResolutionType.Enum: cHalf
     !h mFbSize.V2f:
       - 960.00000

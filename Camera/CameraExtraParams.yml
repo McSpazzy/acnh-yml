@@ -49,6 +49,28 @@ root:
           - 0.00000
           - 0.00000
           - 0.00000
+      !h 411a81ce:
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 15.00000
+        !h mFovy.f32: 0.00000
+        !h mDistance.f32: 0.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+      !h 41ddf77:
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 4.00000
+        !h mFovy.f32: 0.00000
+        !h mDistance.f32: 0.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
       !h cCeremonyTakePhoto:
         !h mOffset.V3f:
           - 0.00000
@@ -69,6 +91,17 @@ root:
         !h mDistance.f32: 0.00000
         !h mAngle.V3f:
           - 14.00000
+          - 0.00000
+          - 0.00000
+      !h 88818c77:
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 12.00000
+        !h mFovy.f32: 0.00000
+        !h mDistance.f32: 0.00000
+        !h mAngle.V3f:
+          - 0.00000
           - 0.00000
           - 0.00000
       !h cShopBuyMenu:
@@ -113,6 +146,17 @@ root:
         !h mDistance.f32: 0.00000
         !h mAngle.V3f:
           - -12.00000
+          - 0.00000
+          - 0.00000
+      !h d91267c:
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 13.00000
+        !h mFovy.f32: 0.00000
+        !h mDistance.f32: 0.00000
+        !h mAngle.V3f:
+          - 0.00000
           - 0.00000
           - 0.00000
       !h cEmoticonMenuOnSharePlay:

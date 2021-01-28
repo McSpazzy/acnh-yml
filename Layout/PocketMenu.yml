@@ -13,6 +13,8 @@ root:
           - {!h mTagName.Str: BoxOpen, !h mAnimOpeOption.Bit: !l 0}
           - {!h mTagName.Str: PresentRedOpen, !h mAnimOpeOption.Bit: !l 0}
           - {!h mTagName.Str: PresentGreenOpen, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: OtoshidamaChWrappingOpen, !h mAnimOpeOption.Bit: !l 1}
+          - {!h mTagName.Str: OtoshidamaKrWrappingOpen, !h mAnimOpeOption.Bit: !l 1}
         !h mBaseOption.Bit: !l 2
         !h mPath.Str: L_Btn
         !h mGroupName.Str: Btn

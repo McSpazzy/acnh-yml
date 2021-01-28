@@ -44,7 +44,7 @@ root:
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 3580}
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 134652}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
@@ -55,14 +55,14 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 4008}
         !h mUnitX.u8: !l 35
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 279172874965}
-        !h mUnitX.u8: !l 28
-        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 24
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294972932}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 2
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 279172874965}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 0
     !h mFloor: {!h mItemNameParam.u64: !l 5039}
     !h mMusic: {!h mItemNameParam.u64: !l 2489}
     !h mCookingRangeWidth.u8: !l 4

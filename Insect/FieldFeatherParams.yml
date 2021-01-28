@@ -1,0 +1,43 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h FieldFeatherParams:
+    !h mCommon:
+      !h mExclusionArea.V2i:
+        - !l 6
+        - !l 6
+      !h mAppearNumMax.u32: !l 5
+      !h mFloatingObjectParams:
+        !h mAddDirAng.f32: 2.99927
+        !h mEscapeRate.f32: 2.00000
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mSpeedUpDown.f32: 0.07813
+        !h mBaseHeight.f32: 10.00000
+        !h mSpeedChaseMove.f32: 0.00781
+        !h mSpeed.f32: 0.12500
+      !h mAppearProbOfRainbow.f32: 5.00000
+    !h mUniqueDummy: {!h mLabel.Str: ''}
+    !h mCommonDummy:
+      !h mExclusionArea.V2i:
+        - !l 6
+        - !l 6
+      !h mAppearNumMax.u32: !l 5
+      !h mFloatingObjectParams:
+        !h mAddDirAng.f32: 2.99927
+        !h mEscapeRate.f32: 2.00000
+        !h mBreathMax.f32: 0.07813
+        !h mSwingBreath.f32: 0.62500
+        !h mSpeedUpDown.f32: 0.07813
+        !h mBaseHeight.f32: 10.00000
+        !h mSpeedChaseMove.f32: 0.01172
+        !h mSpeed.f32: 0.15625
+      !h mAppearProbOfRainbow.f32: 5.00000
+    !h mUniqueBuffer[]:
+      - {!h mLabel.Str: FeatherRed}
+      - {!h mLabel.Str: FeatherBlue}
+      - {!h mLabel.Str: FeatherGreen}
+      - {!h mLabel.Str: FeatherPurple}
+      - {!h mLabel.Str: FeatherRainbow}

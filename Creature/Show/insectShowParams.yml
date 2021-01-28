@@ -854,3 +854,53 @@ root:
         - -0.57000
       !h mOffsetScale.f32: 1.00000
       !h mUniqueID.u16: !l 3540
+    - !h mOffsetDegAngle.V3f:
+        - -38.00000
+        - -48.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.15000
+        - 3.50000
+        - -0.60000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3542
+    - !h mOffsetDegAngle.V3f:
+        - -38.00000
+        - -48.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.15000
+        - 3.50000
+        - -0.60000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3541
+    - !h mOffsetDegAngle.V3f:
+        - -38.00000
+        - -48.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.15000
+        - 3.50000
+        - -0.60000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3543
+    - !h mOffsetDegAngle.V3f:
+        - -38.00000
+        - -48.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.15000
+        - 3.50000
+        - -0.60000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3545
+    - !h mOffsetDegAngle.V3f:
+        - -38.00000
+        - -48.00000
+        - 0.00000
+      !h mOffsetPos.V3f:
+        - 0.35000
+        - 3.40000
+        - -0.30000
+      !h mOffsetScale.f32: 1.00000
+      !h mUniqueID.u16: !l 3548

@@ -640,3 +640,38 @@ root:
         !h mSarchDistance.f32: 15.00000
         !h Cheekformat: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: FeatherRed
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
+        !h Cheekformat: 1.70000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: FeatherBlue
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
+        !h Cheekformat: 1.70000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: FeatherGreen
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
+        !h Cheekformat: 1.70000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: FeatherPurple
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
+        !h Cheekformat: 1.70000
+        !h mPlayerSpeedOffset.f32: 0.00000
+      - !h mLabel.Str: FeatherRainbow
+        !h mPatienceLv2.f32: 0.00000
+        !h mPatienceLv1.f32: 50.00000
+        !h mSeaHoveringFrame.s32: !l 8
+        !h mSarchDistance.f32: 15.00000
+        !h Cheekformat: 1.70000
+        !h mPlayerSpeedOffset.f32: 0.00000

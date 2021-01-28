@@ -39,6 +39,10 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 131935}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 28
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4295102049}
+        !h mUnitX.u8: !l 27
+        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562949953618711}
         !h mUnitX.u8: !l 36
@@ -47,17 +51,9 @@ root:
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 937}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294970977}
-        !h mUnitX.u8: !l 27
-        !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 33
         !h mItemSaveParam: {!h mItemNameParam.u64: !l 1177}
         !h mUnitX.u8: !l 30
-        !h mLayer.u8: !l 0
-      - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589935673}
-        !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8590001981}
@@ -74,6 +70,10 @@ root:
       - !h mUnitZ.u8: !l 36
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8590067516}
         !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589935673}
+        !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
         !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884902975}

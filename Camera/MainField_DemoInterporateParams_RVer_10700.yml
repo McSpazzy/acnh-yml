@@ -1,0 +1,126 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h MainField_DemoInterporateParams_RVer_10700:
+    !h mParamsBuffer[]:
+      - !h mCurvef.Curvef:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - -0.05098
+            - 1.00000
+            - 1.00000
+            - 0.12016
+        !h mKey.Str: GrowupDemo
+        !h mFrame.s32: !l 150
+      - !h mCurvef.Curvef:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - -0.01024
+            - 1.00000
+            - 1.00000
+            - 0.01083
+        !h mKey.Str: GrowupDemoTalk
+        !h mFrame.s32: !l 150
+      - !h mCurvef.Curvef:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - -0.01024
+            - 1.00000
+            - 1.00000
+            - 0.01083
+        !h mKey.Str: EventNotice
+        !h mFrame.s32: !l 150
+      - !h mCurvef.Curvef:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - -0.01024
+            - 1.00000
+            - 1.00000
+            - 0.01083
+        !h mKey.Str: PlazaAreaForCountDownDemo
+        !h mFrame.s32: !l 45
+      - !h mCurvef.Curvef:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - 0.19145
+            - 1.00000
+            - 1.00000
+            - 0.04017
+        !h mKey.Str: HappyNewYear
+        !h mFrame.s32: !l 60
+      - !h mCurvef.Curvef:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - -0.01024
+            - 1.00000
+            - 1.00000
+            - 0.01083
+        !h mKey.Str: PreTkkLive
+        !h mFrame.s32: !l 30
+      - !h mCurvef.Curvef:
+          - !l 7
+          - - 0.00000
+            - 0.00000
+            - -0.01024
+            - 1.00000
+            - 1.00000
+            - 0.01083
+        !h mKey.Str: TkkLive
+        !h mFrame.s32: !l 60
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 0.50593
+            - 0.38352
+            - 1.50973
+            - 0.99899
+            - 0.99417
+            - 0.01323
+        !h mKey.Str: InDreamZoomInOut
+        !h mFrame.s32: !l 150
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 0.50593
+            - 0.38352
+            - 1.50973
+            - 0.99899
+            - 0.99417
+            - 0.01323
+        !h mKey.Str: CookingBirdview
+        !h mFrame.s32: !l 130
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 0.99899
+            - 0.99417
+            - 0.01323
+        !h mKey.Str: CarnivalDanceRainbow
+        !h mFrame.s32: !l 12
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02905
+            - 0.51171
+            - 0.37079
+            - 1.80000
+            - 0.99899
+            - 0.99417
+            - 0.01323
+        !h mKey.Str: CarnivalDanceRainbowPop
+        !h mFrame.s32: !l 12

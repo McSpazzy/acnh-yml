@@ -7,30 +7,32 @@ root:
     !h mCommon: null
     !h mUniqueDummy:
       !h mLabel.Str: 
-      !h mAddDirAng.f32: 2.99927
-      !h mEscapeRate.f32: 2.00000
-      !h mBreathMax.f32: 0.07813
-      !h mSwingBreath.f32: 0.62500
       !h mDumpAccel.f32: 0.00625
       !h mDumpSpeed.f32: 0.31250
-      !h mSpeedUpDown.f32: 0.07813
-      !h mBaseHeight.f32: 10.00000
       !h mGravity.f32: -0.00625
-      !h mDownSpeedMax.f32: -0.46875
-      !h mSpeedChaseMove.f32: 0.01172
-      !h mSpeed.f32: 0.15625
-    !h mCommonDummy: null
-    !h mUniqueBuffer[]:
-      - !h mLabel.Str: Sakurapetal
+      !h mFloatingObjectParams:
         !h mAddDirAng.f32: 2.99927
         !h mEscapeRate.f32: 2.00000
         !h mBreathMax.f32: 0.07813
         !h mSwingBreath.f32: 0.62500
-        !h mDumpAccel.f32: 0.00625
-        !h mDumpSpeed.f32: 0.31250
         !h mSpeedUpDown.f32: 0.07813
         !h mBaseHeight.f32: 10.00000
-        !h mGravity.f32: -0.00625
-        !h mDownSpeedMax.f32: -0.46875
         !h mSpeedChaseMove.f32: 0.01172
         !h mSpeed.f32: 0.15625
+      !h mDownSpeedMax.f32: -0.46875
+    !h mCommonDummy: null
+    !h mUniqueBuffer[]:
+      - !h mLabel.Str: Sakurapetal
+        !h mDumpAccel.f32: 0.00625
+        !h mDumpSpeed.f32: 0.31250
+        !h mGravity.f32: -0.00625
+        !h mFloatingObjectParams:
+          !h mAddDirAng.f32: 2.99927
+          !h mEscapeRate.f32: 2.00000
+          !h mBreathMax.f32: 0.07813
+          !h mSwingBreath.f32: 0.62500
+          !h mSpeedUpDown.f32: 0.07813
+          !h mBaseHeight.f32: 10.00000
+          !h mSpeedChaseMove.f32: 0.01172
+          !h mSpeed.f32: 0.15625
+        !h mDownSpeedMax.f32: -0.46875

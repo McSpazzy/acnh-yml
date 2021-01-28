@@ -58,14 +58,14 @@ root:
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
-          - -1.57080
+          - -1.69300
         !h mScale.V3f:
-          - 1.00000
+          - 1.04713
           - 1.00000
           - 1.00000
         !h mTrans.V3f:
-          - 6.28386
-          - 0.00000
+          - 6.18996
+          - 0.97585
           - 0.00000
       !h G_Normal:
         !h mEarSetType.s32: !l 0
@@ -96,7 +96,7 @@ root:
           - 0.00030
           - 0.00000
       !h C_Brim:
-        !h mEarSetType.s32: !l 0
+        !h mEarSetType.s32: !l 3
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
@@ -110,18 +110,18 @@ root:
           - -0.26991
           - 0.00000
       !h C_Knit:
-        !h mEarSetType.s32: !l 0
+        !h mEarSetType.s32: !l 3
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.95821
         !h mScale.V3f:
-          - 1.04751
-          - 1.04751
-          - 1.04751
+          - 1.11965
+          - 1.06872
+          - 1.01639
         !h mTrans.V3f:
-          - 3.83101
-          - -0.07357
+          - 3.85438
+          - -0.01629
           - 0.00000
       !h C_Left:
         !h mEarSetType.s32: !l 0
@@ -140,19 +140,19 @@ root:
       !h C_Mask:
         !h mEarSetType.s32: !l 0
         !h mRotate.V3f:
-          - -0.52778
-          - -0.34095
-          - -1.43909
+          - -0.77964
+          - -0.25917
+          - -1.50718
         !h mScale.V3f:
           - 0.57416
           - 0.57416
           - 0.57416
         !h mTrans.V3f:
-          - 4.37509
-          - 1.50908
-          - 3.93196
+          - 5.12469
+          - 1.07129
+          - 3.51683
       !h C_Normal:
-        !h mEarSetType.s32: !l 0
+        !h mEarSetType.s32: !l 3
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
@@ -180,32 +180,32 @@ root:
           - 4.36545
           - 0.00000
       !h C_Bandana:
-        !h mEarSetType.s32: !l 0
+        !h mEarSetType.s32: !l 3
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
           - -1.95821
         !h mScale.V3f:
+          - 1.11965
           - 1.06872
-          - 1.06872
-          - 1.06872
+          - 1.01639
         !h mTrans.V3f:
-          - 3.78335
-          - -0.19036
+          - 3.85438
+          - -0.01629
           - 0.00000
       !h C_Top:
         !h mEarSetType.s32: !l 0
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
-          - -1.59272
+          - -1.82533
         !h mScale.V3f:
           - 1.00000
           - 1.00000
           - 1.00000
         !h mTrans.V3f:
-          - 6.26679
-          - -0.22320
+          - 6.06920
+          - -1.38112
           - 0.00000
       !h G_FitLittle:
         !h mEarSetType.s32: !l 0
@@ -238,9 +238,9 @@ root:
       !h C_LeftBig:
         !h mEarSetType.s32: !l 0
         !h mRotate.V3f:
-          - 1.79042
-          - -1.01531
-          - -3.12436
+          - 0.57343
+          - 0.32167
+          - -1.09524
         !h mScale.V3f:
           - 1.00000
           - 1.00000
@@ -305,6 +305,20 @@ root:
           - 3.04381
           - 4.19866
           - 0.00000
+      !h G_LeftBig:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
+          - -2.86337
+          - -1.45990
+          - 1.06476
+        !h mScale.V3f:
+          - 1.05113
+          - 1.05113
+          - 1.05113
+        !h mTrans.V3f:
+          - 3.75057
+          - 3.47174
+          - 1.90922
     !h mSitOffset.V3f:
       - 0.00000
       - 0.28371

@@ -301,8 +301,8 @@ root:
         !h mDOFStart.f32: 4840.00000
         !h mDrumAngle.f32: 35.00000
         !h mDOFIntensity.f32: 0.00000
-        !h mFovy.f32: 30.00000
-        !h mDistance.f32: 10.00000
+        !h mFovy.f32: 32.00000
+        !h mDistance.f32: 5.00000
         !h mAngle.V3f:
           - -80.00000
           - 0.00000
@@ -396,8 +396,8 @@ root:
         !h mDOFStart.f32: 4840.00000
         !h mDrumAngle.f32: 35.00000
         !h mDOFIntensity.f32: 0.00000
-        !h mFovy.f32: 30.00000
-        !h mDistance.f32: 10.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
         !h mAngle.V3f:
           - 0.00000
           - 0.00000
@@ -700,8 +700,8 @@ root:
         !h mDOFStart.f32: 4840.00000
         !h mDrumAngle.f32: 35.00000
         !h mDOFIntensity.f32: 0.00000
-        !h mFovy.f32: 30.00000
-        !h mDistance.f32: 10.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
         !h mAngle.V3f:
           - 80.00000
           - 0.00000
