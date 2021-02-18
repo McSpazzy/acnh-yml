@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h SnowDrawParam:
-    !h MultiFilterTrimmingConvert: !l 128
+    !h mHardSnowCreateNum.s32: !l 128
     !h mColor.C4f:
       - 1.00000
       - 1.00000

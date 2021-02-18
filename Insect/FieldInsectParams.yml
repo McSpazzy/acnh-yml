@@ -26,7 +26,7 @@ root:
       !h mPatienceLv1.f32: 0.00000
       !h mSeaHoveringFrame.s32: !l 8
       !h mSarchDistance.f32: 0.00000
-      !h Cheekformat: 0.00000
+      !h mHitRad.f32: 0.00000
       !h mPlayerSpeedOffset.f32: 0.00000
     !h mCommonDummy:
       !h mEscapeAccelWorm.f32: -0.10000
@@ -50,628 +50,628 @@ root:
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Monkicho
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Agehacho
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Karasuageha
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ohkabamadara
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Morufuocho
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 25.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Miirotateha
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Akaeritoribaneageha
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 45.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Arekisandoratoribaneageha
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 25.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 60.00000
-        !h Cheekformat: 2.50000
+        !h mHitRad.f32: 2.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ga
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 125.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 5.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Yonagunisan
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Mitsubachi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.00000
+        !h mHitRad.f32: 1.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Hachi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 5.00000
+        !h mHitRad.f32: 5.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Shoryobatta
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 20.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Tonosamabatta
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 20.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Inago
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Kamakiri
         !h mPatienceLv2.f32: 80.00000
         !h mPatienceLv1.f32: 20.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Hanakamakiri
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 9
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Aburazemi
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 12.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Minminzemi
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 12.50000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Kumazemi
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 12.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Tsukutsukuhousi
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 12.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Higurashi
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 12.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Seminonukegara
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Akiakane
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 60.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ginyanma
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 60.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Oniyanma
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 2.20000
+        !h mHitRad.f32: 2.20000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ari
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 2.50000
+        !h mHitRad.f32: 2.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Amenbo
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 2.50000
+        !h mHitRad.f32: 2.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Gengorou
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 2.50000
+        !h mHitRad.f32: 2.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Kamemushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 60.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Katatsumuri
         !h mPatienceLv2.f32: 125.00000
         !h mPatienceLv1.f32: 25.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Kohrogi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Suzumushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Kirigirisu
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.80000
+        !h mHitRad.f32: 1.80000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Okera
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Konohamushi
         !h mPatienceLv2.f32: 30.00000
         !h mPatienceLv1.f32: 5.00000
         !h mSeaHoveringFrame.s32: !l 11
         !h mSarchDistance.f32: 40.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: -0.70000
       - !h mLabel.Str: Nanafushi
         !h mPatienceLv2.f32: 80.00000
         !h mPatienceLv1.f32: 15.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 45.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.70000
       - !h mLabel.Str: Minomushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Tentoumushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 60.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.25000
+        !h mHitRad.f32: 1.25000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Baiorinmushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 16.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Gomadarakamikiri
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 16.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Hanmyou
         !h mPatienceLv2.f32: 120.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 20.00000
-        !h Cheekformat: 1.25000
+        !h mHitRad.f32: 1.25000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Funkorogashi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 100.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.50000
+        !h mHitRad.f32: 2.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Funamushi
         !h mPatienceLv2.f32: 120.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Yadokari
         !h mPatienceLv2.f32: 30.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 10
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ohsenchikogane
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Purachinakogane
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 33.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Tamamushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 12.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Miyamakuwagata
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Nokogirikuwagata
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Ohkuwagata
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 33.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Nijiirokuwagata
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 33.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Hosoakakuwagata
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 33.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Ougononikuwagata
         !h mPatienceLv2.f32: 9.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 40.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Kabutomushi
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Kohkasasuohkabuto
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 33.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Zoukabuto
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 33.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Herakuresuohkabuto
         !h mPatienceLv2.f32: 9.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 40.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Goraiasuohtsunohanamuguri
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 33.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Nomi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 0.93750
+        !h mHitRad.f32: 0.93750
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Dangomushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 25.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.25000
+        !h mHitRad.f32: 1.25000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ka
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 0.93750
+        !h mHitRad.f32: 0.93750
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Hae
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 37.50000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 0.93750
+        !h mHitRad.f32: 0.93750
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Mukade
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 1.87500
+        !h mHitRad.f32: 1.87500
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Kumo
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 10
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 1.25000
+        !h mHitRad.f32: 1.25000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Taranchura
         !h mPatienceLv2.f32: 37.50000
         !h mPatienceLv1.f32: 3.12500
         !h mSeaHoveringFrame.s32: !l 11
         !h mSarchDistance.f32: 50.00000
-        !h Cheekformat: 2.18750
+        !h mHitRad.f32: 2.18750
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Sasori
         !h mPatienceLv2.f32: 37.50000
         !h mPatienceLv1.f32: 3.12500
         !h mSeaHoveringFrame.s32: !l 11
         !h mSarchDistance.f32: 50.00000
-        !h Cheekformat: 2.50000
+        !h mHitRad.f32: 2.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Hotaru
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 25.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.25000
+        !h mHitRad.f32: 1.25000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Aosujiageha
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ohgomamadara
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Ohmurasaki
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Kanabun
         !h mPatienceLv2.f32: 50.00000
         !h mPatienceLv1.f32: 12.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Girafanokogirikuwagata
         !h mPatienceLv2.f32: 9.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 40.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Jinmenkamemushi
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 60.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Nishikiohtsubamega
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 40.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 35.00000
-        !h Cheekformat: 2.00000
+        !h mHitRad.f32: 2.00000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Housekizoumushi
         !h mPatienceLv2.f32: 12.00000
         !h mPatienceLv1.f32: 4.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 4.00000
+        !h mHitRad.f32: 4.00000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: Ruriboshikamikiri
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 12.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 30.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: -0.10000
       - !h mLabel.Str: SnowCrystal
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: SnowCrystalLarge
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 10.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.56250
+        !h mHitRad.f32: 1.56250
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: YutaroWisp
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 1.25000
+        !h mHitRad.f32: 1.25000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Tagame
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 0.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 0.00000
-        !h Cheekformat: 2.50000
+        !h mHitRad.f32: 2.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Itotonbo
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 60.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 25.00000
-        !h Cheekformat: 1.50000
+        !h mHitRad.f32: 1.50000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: Sakurapetal
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: AutumnLeaf
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: FeatherRed
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: FeatherBlue
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: FeatherGreen
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: FeatherPurple
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000
       - !h mLabel.Str: FeatherRainbow
         !h mPatienceLv2.f32: 0.00000
         !h mPatienceLv1.f32: 50.00000
         !h mSeaHoveringFrame.s32: !l 8
         !h mSarchDistance.f32: 15.00000
-        !h Cheekformat: 1.70000
+        !h mHitRad.f32: 1.70000
         !h mPlayerSpeedOffset.f32: 0.00000

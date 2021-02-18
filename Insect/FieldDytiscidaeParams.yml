@@ -9,7 +9,7 @@ root:
       !h mUnderOffset.f32: -2.00000
       !h mDestMinDist.f32: 7.50000
       !h mLabel.Str: 
-      !h RestartPriceBottom: !l 150
+      !h mNidusTimeMin.s32: !l 150
       !h mNidusTimeMax.s32: !l 300
       !h mEscapeUnderOffset.f32: -2.50000
       !h mSlowDown.f32: 0.00781
@@ -29,7 +29,7 @@ root:
       - !h mUnderOffset.f32: -1.50000
         !h mDestMinDist.f32: 10.00000
         !h mLabel.Str: Gengorou
-        !h RestartPriceBottom: !l 0
+        !h mNidusTimeMin.s32: !l 0
         !h mNidusTimeMax.s32: !l 0
         !h mEscapeUnderOffset.f32: -2.50000
         !h mSlowDown.f32: 0.01000
@@ -47,7 +47,7 @@ root:
       - !h mUnderOffset.f32: -1.50000
         !h mDestMinDist.f32: 10.00000
         !h mLabel.Str: Tagame
-        !h RestartPriceBottom: !l 300
+        !h mNidusTimeMin.s32: !l 300
         !h mNidusTimeMax.s32: !l 600
         !h mEscapeUnderOffset.f32: -2.50000
         !h mSlowDown.f32: 0.00781
