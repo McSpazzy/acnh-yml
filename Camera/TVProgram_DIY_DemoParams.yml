@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h d3f2de94:
+  !h TVProgram_DIY_DemoParams:
     !h mParamsBuffer[]:
       - !h mKey.Str: Cut0Start
         !h mOffset.V3f:

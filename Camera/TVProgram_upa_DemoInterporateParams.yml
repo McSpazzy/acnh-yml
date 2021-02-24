@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 7a048a2d:
+  !h TVProgram_upa_DemoInterporateParams:
     !h mParamsBuffer:
       !h ad0f5887:
         !h mCurvef.Curvef:
