@@ -1,0 +1,15 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h f176ce52:
+    !h mParamsBuffer[]:
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 2.76197
+            - 1.00000
+            - -0.04259
+        !h mKey.Str: Cut0
+        !h mFrame.s32: !l 100

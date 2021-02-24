@@ -1,0 +1,77 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 77e2dc6b:
+    !h mParamsBuffer[]:
+      - !h mKey.Str: Cut0Start
+        !h mOffset.V3f:
+          - 0.00000
+          - 3.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mAngleZ.f32: 0.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 120.00000
+        !h mAngleY.f32: 0.00000
+        !h mAngleX.f32: 35.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mKey.Str: Cut0End
+        !h mOffset.V3f:
+          - 0.00000
+          - 3.00000
+          - -5.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mAngleZ.f32: 0.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 55.00000
+        !h mAngleY.f32: 0.00000
+        !h mAngleX.f32: 12.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mKey.Str: Cut1Start
+        !h mOffset.V3f:
+          - 0.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mAngleZ.f32: 0.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 65.00000
+        !h mAngleY.f32: -25.00000
+        !h mAngleX.f32: 20.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mKey.Str: Cut1End
+        !h mOffset.V3f:
+          - 0.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mAngleZ.f32: 0.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 65.00000
+        !h mAngleY.f32: 25.00000
+        !h mAngleX.f32: 20.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mKey.Str: CutDefault
+        !h mOffset.V3f:
+          - 0.00000
+          - 5.12000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mAngleZ.f32: 0.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 99.00000
+        !h mAngleY.f32: 0.00000
+        !h mAngleX.f32: 24.60000
+        !h mDOFEnd.f32: 9000.00000
