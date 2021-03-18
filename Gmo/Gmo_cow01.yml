@@ -346,7 +346,7 @@ root:
         !h mTrans.V3f:
           - 0.00000
           - 0.00000
-          - 0.00000
+          - -0.09193
         !h mScale.f32: 1.00000
       !h PaperFan:
         !h mRotate.V3f:

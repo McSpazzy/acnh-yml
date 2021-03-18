@@ -24,3 +24,22 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 83.00000
         !h mDOFEnd.f32: 193.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: DemoTalk0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - -5.00000
+          - 0.00000
+          - -15.00000
+        !h mDOFStart.f32: 120.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.50000
+        !h mFovy.f32: 22.20000
+        !h mDistance.f32: 115.00000
+        !h mAngle.V3f:
+          - 27.00000
+          - -15.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 145.00000

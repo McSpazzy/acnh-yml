@@ -7,9 +7,9 @@ root:
     !h mEmoticonNodeParamsArray:
       !h EyeR:
         !h mTrans.V3f:
-          - -2.68177
-          - -0.23925
-          - 1.03413
+          - -2.51581
+          - 0.94900
+          - 1.18554
       !h Mouth:
         !h mTrans.V3f:
           - 0.00000
@@ -17,9 +17,9 @@ root:
           - 3.23759
       !h EyeL:
         !h mTrans.V3f:
-          - 2.68177
-          - -0.23925
-          - 1.03413
+          - 2.51581
+          - 0.94900
+          - 1.18554
     !h mHandItemOffset.V3f:
       - 0.00000
       - 0.74592
@@ -78,8 +78,8 @@ root:
           - 1.06359
           - 1.04765
         !h mTrans.V3f:
-          - 2.50868
-          - 4.36347
+          - 3.18810
+          - 4.01124
           - 0.00000
       !h C_Crown:
         !h mEarSetType.s32: !l 0
@@ -170,14 +170,14 @@ root:
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
-          - -2.10133
+          - -1.99812
         !h mScale.V3f:
           - 1.07988
           - 1.04765
           - 1.04765
         !h mTrans.V3f:
-          - 2.84136
-          - 4.30098
+          - 3.01075
+          - 4.11116
           - 0.00000
       !h C_Bandana:
         !h mEarSetType.s32: !l 0
@@ -305,15 +305,49 @@ root:
           - 3.13092
           - 4.10991
           - 0.00000
+      !h G_LeftBig:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
+          - -0.32924
+          - -1.26469
+          - -1.54153
+        !h mScale.V3f:
+          - 1.38707
+          - 1.38707
+          - 1.38707
+        !h mTrans.V3f:
+          - 3.51478
+          - 2.25194
+          - 2.10605
     !h mSitOffset.V3f:
       - 0.00000
       - 0.00000
       - 0.00000
     !h mEyeCtrlParamVertical.V3f:
-      - -22.50000
+      - -20.52501
       - 22.50000
       - 5.10000
     !h mToolParamsArray:
+      !h Fpan:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h Tr:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h PaperFan:
         !h mRotate.V3f:
           - 0.00000
@@ -474,6 +508,26 @@ root:
           - 0.00000
           - -0.24586
         !h mScale.f32: 0.85162
+      !h FAndK:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h Dh:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - -0.21230
+          - -0.24444
+        !h mScale.f32: 1.00000
       !h Duster:
         !h mRotate.V3f:
           - 0.00000
@@ -564,6 +618,16 @@ root:
           - 0.37960
           - 1.16488
         !h mScale.f32: 0.94163
+      !h Mcas:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Broom:
         !h mRotate.V3f:
           - 0.00000
@@ -644,6 +708,26 @@ root:
           - 0.00000
           - -0.24586
         !h mScale.f32: 0.93219
+      !h None:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h MChart:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Umbrella:
         !h mRotate.V3f:
           - 0.00000
@@ -677,9 +761,9 @@ root:
     !h mCharacterSize.Enum: cNormal
     !h mFootScale.f32: 1.70000
     !h mEyeCtrlParamHorizon.V3f:
-      - -45.00000
-      - 45.00000
-      - 5.10000
+      - -52.89999
+      - 52.89999
+      - 7.12500
     !h mBedOffset.V3f:
       - 0.00000
       - -0.33951

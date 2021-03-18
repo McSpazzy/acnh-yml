@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 3a7db6b2:
+  !h EvtobjCarnivalDecorations[]:
     - !h mLightType.Enum: スポットライト
       !h mIsNightLight.bool: false
       !h mPos.V3f:

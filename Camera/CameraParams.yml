@@ -233,6 +233,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 500.00000
+      !h 342159c4:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 32.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - -80.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cRoomEditCeilingFar:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -290,25 +309,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 10000.00000
-      !h cFirstPersonNear:
-        !h mDOFNearEnd.f32: 0.00000
+      !h 42714a08:
+        !h mDOFNearEnd.f32: 650.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
-        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
         !h mOffset.V3f:
           - 0.00000
-          - 12.00000
+          - 5.00000
           - 0.00000
-        !h mDOFStart.f32: 4840.00000
+        !h mDOFStart.f32: 10000.00000
         !h mDrumAngle.f32: 35.00000
         !h mDOFIntensity.f32: 0.00000
-        !h mFovy.f32: 32.00000
-        !h mDistance.f32: 5.00000
+        !h mFovy.f32: 5.00000
+        !h mDistance.f32: 1200.00000
         !h mAngle.V3f:
-          - -80.00000
+          - 89.90000
           - 0.00000
           - 0.00000
-        !h mDOFNearStart.f32: 0.00000
-        !h mDOFEnd.f32: 9000.00000
+        !h mDOFNearStart.f32: 680.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cTalkIntoShop:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -366,6 +385,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 9000.00000
+      !h 5096bc30:
+        !h mDOFNearEnd.f32: 650.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 0.00000
+          - 5.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 5.00000
+        !h mDistance.f32: 1100.00000
+        !h mAngle.V3f:
+          - 50.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 680.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cEmoticonMenu:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -385,13 +423,13 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 270.00000
-      !h cFirstPersonNormal:
+      !h 56ecbec9:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
         !h mOffset.V3f:
           - 0.00000
-          - 12.00000
+          - 14.00000
           - 0.00000
         !h mDOFStart.f32: 4840.00000
         !h mDrumAngle.f32: 35.00000
@@ -399,7 +437,7 @@ root:
         !h mFovy.f32: 34.00000
         !h mDistance.f32: 5.00000
         !h mAngle.V3f:
-          - 0.00000
+          - 10.00000
           - 0.00000
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
@@ -423,6 +461,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 9000.00000
+      !h 578dfd3:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 165.00000
+        !h mAngle.V3f:
+          - 29.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cStrcCommon:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -461,6 +518,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 95.00000
         !h mDOFEnd.f32: 160.00000
+      !h 5d333327:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 14.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 180.00000
+        !h mAngle.V3f:
+          - 5.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cBuildStructureBehind:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -537,6 +613,44 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 270.00000
+      !h 64f75f2f:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      !h cFirstPersonRoomFar:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 80.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cItemMenu:
         !h mDOFNearEnd.f32: 140.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -613,6 +727,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 9000.00000
+      !h 7a7a777b:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 32.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - -80.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cFriendListBehind:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -632,6 +765,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 10000.00000
+      !h cBirdViewRight:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 230.00000
+        !h mAngle.V3f:
+          - 45.00000
+          - 23.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cRoomNear:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -689,7 +841,26 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 140.00000
         !h mDOFEnd.f32: 10000.00000
-      !h cFirstPersonFar:
+      !h 8db038c5:
+        !h mDOFNearEnd.f32: 200.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 0.00000
+          - 16.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 17.00000
+        !h mDistance.f32: 180.00000
+        !h mAngle.V3f:
+          - 1.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 140.00000
+        !h mDOFEnd.f32: 10000.00000
+      !h cFirstPersonRoomNormal:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
@@ -703,7 +874,7 @@ root:
         !h mFovy.f32: 34.00000
         !h mDistance.f32: 5.00000
         !h mAngle.V3f:
-          - 80.00000
+          - 0.00000
           - 0.00000
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
@@ -784,6 +955,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 106.00000
         !h mDOFEnd.f32: 145.00000
+      !h cFirstPersonRoomNear:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 32.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - -80.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cShopRoomItem:
         !h mDOFNearEnd.f32: 69.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -841,6 +1031,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 66.00000
         !h mDOFEnd.f32: 199.00000
+      !h aa71ddad:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 28.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 260.00000
+        !h mAngle.V3f:
+          - 89.90000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cSmaphoMenu:
         !h mDOFNearEnd.f32: 140.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -860,6 +1069,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 130.00000
         !h mDOFEnd.f32: 270.00000
+      !h ae2b9d5f:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 80.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cATM:
         !h mDOFNearEnd.f32: 100.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -879,6 +1107,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 95.00000
         !h mDOFEnd.f32: 199.00000
+      !h b09dec12:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 8.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cNormal:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -898,6 +1145,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 500.00000
+      !h b1253f8e:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 21.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 220.00000
+        !h mAngle.V3f:
+          - 47.50000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cShelf2:
         !h mDOFNearEnd.f32: 69.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -974,6 +1240,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 78.00000
         !h mDOFEnd.f32: 380.00000
+      !h bc2dc82d:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - 0.00000
+        !h mDOFStart.f32: 10000.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 3.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 220.00000
+        !h mAngle.V3f:
+          - 50.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 80.00000
+        !h mDOFEnd.f32: 10000.00000
       !h cBuildStructure:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -1031,6 +1316,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 241.00000
+      !h c41d4669:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 14.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 80.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cSharePlayEntrance:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -1145,6 +1449,44 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 240.00000
+      !h db7caecc:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      !h cBirdViewLeft:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 230.00000
+        !h mAngle.V3f:
+          - 43.00000
+          - -23.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cRoomEditFloorFar:
         !h mDOFNearEnd.f32: 650.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -1335,6 +1677,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 10000.00000
+      !h f18676bd:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 80.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cDive:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -1350,6 +1711,44 @@ root:
         !h mDistance.f32: 175.00000
         !h mAngle.V3f:
           - 89.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      !h fb6764d7:
+        !h mDOFNearEnd.f32: 650.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 0.00000
+          - 14.00000
+          - 0.00000
+        !h mDOFStart.f32: 1030.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 5.00000
+        !h mDistance.f32: 800.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 680.00000
+        !h mDOFEnd.f32: 860.00000
+      !h fbf1fa86:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 14.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - -80.00000
           - 0.00000
           - 0.00000
         !h mDOFNearStart.f32: 0.00000

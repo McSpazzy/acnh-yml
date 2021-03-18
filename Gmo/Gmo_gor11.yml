@@ -7,9 +7,9 @@ root:
     !h mEmoticonNodeParamsArray:
       !h EyeR:
         !h mTrans.V3f:
-          - -1.59420
-          - 0.79023
-          - 2.95370
+          - -2.06167
+          - 1.14271
+          - 2.36049
       !h Mouth:
         !h mTrans.V3f:
           - 0.00000
@@ -17,9 +17,9 @@ root:
           - 4.81282
       !h EyeL:
         !h mTrans.V3f:
-          - 1.59420
-          - 0.79023
-          - 2.95370
+          - 2.06167
+          - 1.14271
+          - 2.36049
     !h mHandItemOffset.V3f:
       - 0.00000
       - 0.67918
@@ -58,14 +58,14 @@ root:
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
-          - -1.60691
+          - -1.28113
         !h mScale.V3f:
-          - 0.87500
+          - 0.85360
           - 0.94705
           - 0.98198
         !h mTrans.V3f:
-          - 6.14928
-          - 0.94156
+          - 6.66364
+          - 0.54920
           - 0.00000
       !h G_Normal:
         !h mEarSetType.s32: !l 0
@@ -114,14 +114,14 @@ root:
         !h mRotate.V3f:
           - 0.00000
           - -1.57080
-          - -2.03796
+          - -2.00714
         !h mScale.V3f:
-          - 0.79513
-          - 0.82962
+          - 0.78160
+          - 0.85107
           - 0.82446
         !h mTrans.V3f:
-          - 3.78595
-          - -0.17797
+          - 3.91725
+          - -0.13574
           - 0.00000
       !h C_Left:
         !h mEarSetType.s32: !l 0
@@ -288,9 +288,9 @@ root:
           - 0.72760
           - 0.72760
         !h mTrans.V3f:
-          - 3.79145
-          - 2.88595
-          - 1.25822
+          - 3.79467
+          - 2.89990
+          - 1.35952
       !h G_UP:
         !h mEarSetType.s32: !l 0
         !h mRotate.V3f:
@@ -305,15 +305,49 @@ root:
           - 3.47281
           - 3.71120
           - 0.00000
+      !h G_LeftBig:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
+          - 2.91165
+          - -1.43034
+          - 1.34446
+        !h mScale.V3f:
+          - 0.74402
+          - 0.72760
+          - 0.72760
+        !h mTrans.V3f:
+          - 3.79145
+          - 2.88595
+          - 1.25822
     !h mSitOffset.V3f:
       - 0.00000
       - 0.35978
       - 0.00000
     !h mEyeCtrlParamVertical.V3f:
-      - -30.00000
-      - 25.00000
+      - -20.23750
+      - 24.55000
       - 5.10000
     !h mToolParamsArray:
+      !h Fpan:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h Tr:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 1.04574
+        !h mScale.f32: 1.00000
       !h PaperFan:
         !h mRotate.V3f:
           - 0.00000
@@ -474,6 +508,26 @@ root:
           - 0.00000
           - -1.01761
         !h mScale.f32: 0.96598
+      !h FAndK:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h Dh:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - -1.13287
+          - -0.83777
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Duster:
         !h mRotate.V3f:
           - 0.00000
@@ -564,6 +618,16 @@ root:
           - 1.11696
           - 0.81569
         !h mScale.f32: 1.08289
+      !h Mcas:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Broom:
         !h mRotate.V3f:
           - 0.00000
@@ -591,8 +655,8 @@ root:
           - 0.00000
         !h mTrans.V3f:
           - 0.00000
-          - -1.00022
-          - 0.00000
+          - -0.89574
+          - 0.90636
         !h mScale.f32: 1.00000
       !h Canister:
         !h mRotate.V3f:
@@ -644,6 +708,26 @@ root:
           - 0.00000
           - -1.01761
         !h mScale.f32: 1.08289
+      !h None:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h MChart:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Umbrella:
         !h mRotate.V3f:
           - 0.00000
@@ -677,8 +761,8 @@ root:
     !h mCharacterSize.Enum: cLarge
     !h mFootScale.f32: 2.89625
     !h mEyeCtrlParamHorizon.V3f:
-      - -42.50000
-      - 42.50000
+      - -44.37500
+      - 44.37500
       - 5.10000
     !h mBedOffset.V3f:
       - 0.00000
@@ -693,4 +777,4 @@ root:
       - 0.00000
       - 0.35978
       - -0.59658
-    !h mFootPrint.Enum: ShoeslessMaru
+    !h mFootPrint.Enum: ShoesHard

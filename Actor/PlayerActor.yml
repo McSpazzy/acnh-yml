@@ -12,7 +12,7 @@ root:
     !h mAddCalcAngleRate.f32: 0.37000
     !h mWateringUpperLevelOffsetDegY.f32: 5.00000
     !h mDiveMoveFastSpeed.f32: 0.35000
-    !h 176fc4bf: !l 0
+    !h mPipeEnterScaleDownStartFrame.u32: !l 0
     !h mScoopChaseTimer.u32: !l 11
     !h mDiveInOutSpeedChaseValue.f32: 0.30000
     !h mBlackFadeEndOffsetStageWalkIn.f32: 25.00000
@@ -77,7 +77,7 @@ root:
         - 0.00000
     !h mEscapeSpeedTimer.u32: !l 2
     !h mStickForceByDebugPage.f32: 0.00500
-    !h 50317a4a: 0.35000
+    !h mSpeedRateFPC.f32: 0.35000
     !h mStickSpeedEmbranceDegreeMax_RunMax.f32: 180.00000
     !h mDiveInRootMorphMinusFrame.u32: !l 11
     !h mPipeEnterScaleDownSpeed.f32: 0.02000

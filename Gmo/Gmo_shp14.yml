@@ -7,19 +7,19 @@ root:
     !h mEmoticonNodeParamsArray:
       !h EyeR:
         !h mTrans.V3f:
-          - -1.81918
-          - 1.72153
-          - 2.59275
+          - -1.61455
+          - 1.44286
+          - 3.45311
       !h Mouth:
         !h mTrans.V3f:
           - -0.00014
-          - -0.29033
+          - 0.01940
           - 5.08344
       !h EyeL:
         !h mTrans.V3f:
-          - 1.81918
-          - 1.72153
-          - 2.59275
+          - 1.61455
+          - 1.44286
+          - 3.45311
     !h mHandItemOffset.V3f:
       - 0.00000
       - 0.17030
@@ -78,8 +78,8 @@ root:
           - 0.85137
           - 0.85137
         !h mTrans.V3f:
-          - 3.09778
-          - 4.40937
+          - 2.99431
+          - 4.52933
           - 0.00000
       !h C_Crown:
         !h mEarSetType.s32: !l 0
@@ -176,8 +176,8 @@ root:
           - 0.85137
           - 0.85137
         !h mTrans.V3f:
-          - 3.15247
-          - 4.34596
+          - 2.86265
+          - 4.68198
           - 0.00000
       !h C_Bandana:
         !h mEarSetType.s32: !l 0
@@ -305,15 +305,49 @@ root:
           - 3.10597
           - 3.98736
           - 0.00000
+      !h G_LeftBig:
+        !h mEarSetType.s32: !l 0
+        !h mRotate.V3f:
+          - -0.95299
+          - -1.50080
+          - -1.80377
+        !h mScale.V3f:
+          - 1.00000
+          - 1.08067
+          - 1.00000
+        !h mTrans.V3f:
+          - 3.01053
+          - 2.97382
+          - 1.35111
     !h mSitOffset.V3f:
       - 0.00000
       - 0.52948
       - 0.00000
     !h mEyeCtrlParamVertical.V3f:
-      - -22.50000
-      - 7.58750
+      - -19.95000
+      - 17.07500
       - 5.10000
     !h mToolParamsArray:
+      !h Fpan:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h Tr:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - -0.20805
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h PaperFan:
         !h mRotate.V3f:
           - 0.00000
@@ -474,6 +508,26 @@ root:
           - 0.00000
           - -0.34731
         !h mScale.f32: 0.96048
+      !h FAndK:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h Dh:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - -0.11121
+          - -0.18224
+        !h mScale.f32: 1.00000
       !h Duster:
         !h mRotate.V3f:
           - 0.00000
@@ -564,6 +618,16 @@ root:
           - 0.24363
           - 1.22969
         !h mScale.f32: 0.95407
+      !h Mcas:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Broom:
         !h mRotate.V3f:
           - 0.00000
@@ -644,6 +708,26 @@ root:
           - 0.00000
           - -0.34731
         !h mScale.f32: 1.00000
+      !h None:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h MChart:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Umbrella:
         !h mRotate.V3f:
           - 0.00000
@@ -677,14 +761,14 @@ root:
     !h mCharacterSize.Enum: cSmall
     !h mFootScale.f32: 1.89375
     !h mEyeCtrlParamHorizon.V3f:
-      - -42.45000
-      - 42.45000
+      - -40.80000
+      - 40.80000
       - 5.10000
     !h mBedOffset.V3f:
       - 0.00000
       - 0.84769
       - 0.00000
-    !h mEyeCtrlRotateOffset.f32: -4.50000
+    !h mEyeCtrlRotateOffset.f32: -8.32500
     !h mEyeCtrlOffset.V3f:
       - 3.56842
       - 0.00000

@@ -322,7 +322,7 @@ root:
         !h mScale.f32: 50.00000
       - !h mVirtualCameraAngle.V3f:
           - -10.00000
-          - 140.00000
+          - -25.00000
           - -10.00000
         !h mOffset.V3f:
           - -500.00000

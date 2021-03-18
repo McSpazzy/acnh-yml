@@ -5,6 +5,7 @@ HasReferenceNodes: False
 root:
   !h FtrEditLayout:
     !h mRotate90Frame.u8: !l 6
+    !h mDragHeightCeiling.f32: -5.00000
     !h mRotate180DownFrame.u8: !l 3
     !h mInteriorInterpolateFrame.u8: !l 20
     !h mWallInterpolateThresholdAngle.u32: !l 85
@@ -69,6 +70,9 @@ root:
       - !l 1
       - !l 1
     !h mDragOffsetOnWall.f32: 5.00000
+    !h mStickFactorRangeSpecial.Rangef:
+      - 0.10000
+      - 1.80000
     !h mRotate180Height.f32: 10.00000
     !h mWallOverideInterpolateFrame.u8: !l 40
     !h mStickFactorValidArea.Rangef:
@@ -82,13 +86,13 @@ root:
       - 1.80000
     !h mRotate180Frame.u8: !l 6
     !h mPickFrame.u8: !l 10
+    !h e1fb6481: !l 25
     !h mDragHeight.f32: 10.00000
     !h mMaterialFillColorPhotoStudio.C4f:
       - 1.00000
       - 0.60000
       - 0.60000
       - 1.00000
-    !h mCloseUnitOffset.s32: !l 3
     !h mChangeVisibleWaitFrameFloorToWall.u8: !l 20
     !h mStickValidArea.Rangef:
       - 0.10000
