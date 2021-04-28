@@ -357,6 +357,25 @@ root:
           - -175.00000
           - 0.00000
         !h mScale.f32: 10.00000
+    !h mCArray[]:
+      - !h mVirtualCameraAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 40.00000
+      - !h mVirtualCameraAngle.V3f:
+          - 30.00000
+          - 0.00000
+          - 0.00000
+        !h mOffset.V3f:
+          - -160.00000
+          - -200.00000
+          - 0.00000
+        !h mScale.f32: 60.00000
     !h mMyDesignExchangeArray[]:
       - !h mVirtualCameraAngle.V3f:
           - 10.00000

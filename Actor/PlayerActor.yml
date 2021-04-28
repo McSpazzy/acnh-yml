@@ -17,6 +17,7 @@ root:
     !h mDiveInOutSpeedChaseValue.f32: 0.30000
     !h mBlackFadeEndOffsetStageWalkIn.f32: 25.00000
     !h mSharePlayCullingCheckRadius.f32: 5.00000
+    !h mShowIconOffsetCoZ.f32: 5.00000
     !h mBreathEndTimer.u32: !l 60
     !h mEatIconOffsetZ.f32: 0.00000
     !h mSwimWaitSlowSpeed.f32: 0.10000
@@ -89,8 +90,10 @@ root:
     !h mShowDIYRecipeTransX.f32: -0.60000
     !h mBgCollisionRadius.f32: 4.99000
     !h mEatIconOffsetY.f32: -1.00000
+    !h mShowIconOffsetCoY.f32: 4.00000
     !h mSWalkWaitOffsetZ.f32: 0.00500
     !h mCancelPadTimerBySharePlayModeChange.u32: !l 6
+    !h mShowIconOffsetCoX.f32: -3.20000
     !h mPickupTargetOffsetZ.f32: -1.00000
     !h mAngleYChaseDegreeStep.f32: 19.00000
     !h mDoorDemoScaleMin.f32: 0.90000
@@ -117,6 +120,7 @@ root:
     !h mWateringActionLocalOffsetX.f32: 0.00000
     !h mBlackFadeEndOffsetDoorIn.f32: 10.00000
     !h mWateringTopOffsetZ.f32: 0.00000
+    !h mSWalkInAddCalcRate.f32: 0.75000
     !h mToolBreakStartWaitTimer.u32: !l 13
     !h mPipeExitScaleUpSpeed.f32: 0.02000
     !h mDiveMoveTurnChaseDegreeY.f32: 2.00000
@@ -140,6 +144,7 @@ root:
     !h mPipeExitScaleUpStartFrame.u32: !l 0
     !h mScoopTopOffsetY.f32: -5.70000
     !h mSwimMoveFastSpeed.f32: 0.46000
+    !h mFoodPowerN.s32: !l 2
     !h mInvalidObjCollisionRadius.f32: 1.50000
     !h mAddCalcPosRate_Door.f32: 0.12500
     !h mPipeEnterTurnAddCalcRate.f32: 0.30000
@@ -162,6 +167,7 @@ root:
     !h mWalkToAim_ToAimPos_StickInputMin.f32: 0.20000
     !h mWalkToAim_ArrivalDistUnitRate.f32: 0.07000
     !h mWalkToAim_ToAimPos_StickInputMax.f32: 7.00000
+    !h mFoodPowerT.s32: !l 5
     !h mPushStickCenterLimit.f32: 0.60000
     !h mDiveGetDemoOffsetZ.f32: 1.80000
     !h mWalkToAim_WarpUnit.f32: 16.00000
@@ -177,6 +183,7 @@ root:
     !h mSwimWaitLeanShapeDegreeX.f32: 16.00000
     !h mCameraDoorInOffsetY.f32: 7.00000
     !h mAngleYChaseDegreeSpeedUpStep.f32: 6.00000
+    !h mSWalkOutAddCalcRate.f32: 0.75000
     !h mWateringActionLocalOffsetZ.f32: 11.00000
     !h mFittingRoomGoInOffsetZ.f32: -2.00000
     !h mDiveMoveSlowSpeedChaseValue.f32: 0.00500

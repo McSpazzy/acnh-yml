@@ -1,0 +1,30 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h DynamicLightSceneParam:
+    !h mSpotParamArray[]:
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.85000
+          - 0.55000
+          - 1.00000
+        !h mPos.V3f:
+          - 819.94670
+          - 9.38487
+          - 659.23190
+        !h mSize.f32: 0.00000
+        !h mDir.V3f:
+          - 0.00000
+          - 0.00000
+          - -1.00000
+        !h mBindBoneName.Str: 
+        !h mName.Str: Identify
+        !h mFar.f32: 150.00000
+        !h mIntensity.f32: 3.00000
+        !h mFovy.f32: 0.61087
+        !h mBindModelName.Str: 
+    !h mPointParamArray[]: null

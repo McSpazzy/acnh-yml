@@ -106,8 +106,8 @@ root:
           - 0.00000
       !h cShopBuyMenu:
         !h mOffset.V3f:
-          - 12.00000
-          - 0.00000
+          - 17.00000
+          - -2.50000
           - 0.00000
         !h mFovy.f32: 0.00000
         !h mDistance.f32: 0.00000

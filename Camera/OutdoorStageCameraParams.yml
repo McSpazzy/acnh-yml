@@ -6,6 +6,6 @@ root:
   !h OutdoorStageCameraParams:
     !h mParams:
       !h MysteryTour: {!h mSouthShoreRange.f32: 50.00000, !h mSouthShoreOffset.f32: 10.00000, !h mSouthShoreBaseline.f32: 520.00000}
-      !h Invalid: {!h mSouthShoreRange.f32: 50.00000, !h mSouthShoreOffset.f32: 10.00000, !h mSouthShoreBaseline.f32: 500.00000}
+      !h Invalid: {!h mSouthShoreRange.f32: 50.00000, !h mSouthShoreOffset.f32: 0.00000, !h mSouthShoreBaseline.f32: 1000.00000}
       !h MainField: {!h mSouthShoreRange.f32: 50.00000, !h mSouthShoreOffset.f32: 10.00000, !h mSouthShoreBaseline.f32: 1000.00000}
       !h ExtendIsland: {!h mSouthShoreRange.f32: 50.00000, !h mSouthShoreOffset.f32: 10.00000, !h mSouthShoreBaseline.f32: 360.00000}

@@ -613,7 +613,7 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 270.00000
-      !h 64f75f2f:
+      !h cFirstPersonIdrNormal:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
         !h mDOFVignettingColorIntensity.f32: 0.00000
