@@ -103,7 +103,7 @@ root:
     !h mJumpInWaterUpSpeedChaseRateXZ.f32: 0.10000
     !h mShowDIYRecipeDegreeY.f32: 35.00000
     !h mSwimMoveSlowSpeedChaseValue.f32: 0.01000
-    !h 6d77c866: 215.00000
+    !h mSharePlayCullingCheckDistanceZ_ByCliff1.f32: 215.00000
     !h mDiveInOutTurnChaseDegreeY.f32: 5.00000
     !h mCancelBalloonHasAnyKeyTimer.u32: !l 15
     !h mTurnStartDegreeGap.f32: 45.00000
