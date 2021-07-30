@@ -11,7 +11,7 @@ root:
       !h IdrMarket01: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 18.00000, !h mScrollLimitXMax.f32: 45.00000, !h mScrollLimitXMin.f32: 45.00000}
       !h IdrGarden00: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 18.00000, !h mScrollLimitXMax.f32: 30.00000, !h mScrollLimitXMin.f32: 30.00000}
       !h IdrMuseumEnt02: {!h mScrollLimitZMin.f32: -56.00000, !h mScrollLimitZMax.f32: 5.00000, !h mScrollLimitXMax.f32: 75.00000, !h mScrollLimitXMin.f32: 75.00000}
-      !h IdrMuseumCafe: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 20.00000, !h mScrollLimitXMax.f32: 39.00000, !h mScrollLimitXMin.f32: 37.00000}
+      !h IdrMuseumCafe: {!h mScrollLimitZMin.f32: 20.00000, !h mScrollLimitZMax.f32: 20.00000, !h mScrollLimitXMax.f32: 40.00000, !h mScrollLimitXMin.f32: 40.00000}
       !h IdrMuseumFish_0: {!h mScrollLimitZMin.f32: 0.00000, !h mScrollLimitZMax.f32: 24.00000, !h mScrollLimitXMax.f32: 34.00000, !h mScrollLimitXMin.f32: 38.00000}
       !h 6fac984f: {!h mScrollLimitZMin.f32: 18.00000, !h mScrollLimitZMax.f32: 30.00000, !h mScrollLimitXMax.f32: 40.00000, !h mScrollLimitXMin.f32: 40.00000}
       !h IdrMuseumInsect_0: {!h mScrollLimitZMin.f32: 42.00000, !h mScrollLimitZMax.f32: 32.00000, !h mScrollLimitXMax.f32: 38.00000, !h mScrollLimitXMin.f32: 38.00000}

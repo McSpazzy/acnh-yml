@@ -530,14 +530,14 @@ root:
         !h mScale.f32: 0.77210
       !h SwRing:
         !h mRotate.V3f:
-          - 0.00000
+          - 0.03543
           - 0.00000
           - 0.00000
         !h mTrans.V3f:
           - 0.00000
-          - 0.00000
-          - 0.00000
-        !h mScale.f32: 1.00000
+          - -0.13491
+          - -0.08624
+        !h mScale.f32: 0.88503
       !h HighBagHand:
         !h mRotate.V3f:
           - 0.00000

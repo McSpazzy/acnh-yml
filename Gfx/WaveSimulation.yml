@@ -15,6 +15,7 @@ root:
     !h mEdgeAlphaOffset.f32: 0.00000
     !h mRainUnitRate.f32: 0.00400
     !h mRainTimeRate.f32: 1.00000
+    !h mRiverBackLimitDepth.f32: 240.00000
     !h mBrackishSouthMax.V2i:
       - !l 13
       - !l 12

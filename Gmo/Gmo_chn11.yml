@@ -328,6 +328,16 @@ root:
       - 22.50000
       - 5.62500
     !h mToolParamsArray:
+      !h Trwl:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Fpan:
         !h mRotate.V3f:
           - 0.00000
@@ -368,6 +378,16 @@ root:
           - 0.03085
           - 0.22434
         !h mScale.f32: 1.00000
+      !h Pitc:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Cop:
         !h mRotate.V3f:
           - 0.00000
@@ -388,7 +408,7 @@ root:
           - -0.18304
           - 0.00000
         !h mScale.f32: 1.00000
-      !h Coffee:
+      !h GlDr:
         !h mRotate.V3f:
           - 0.00000
           - 0.00000
@@ -398,7 +418,7 @@ root:
           - 0.00000
           - 0.00000
         !h mScale.f32: 1.00000
-      !h 54c663d3:
+      !h Coffee:
         !h mRotate.V3f:
           - 0.00000
           - 0.00000
@@ -516,8 +536,8 @@ root:
         !h mTrans.V3f:
           - 0.00000
           - 0.00000
-          - 0.00000
-        !h mScale.f32: 1.00000
+          - -0.33541
+        !h mScale.f32: 1.16480
       !h HighBagHand:
         !h mRotate.V3f:
           - 0.00000
@@ -658,16 +678,6 @@ root:
           - 0.00000
           - 0.00000
         !h mScale.f32: 1.33346
-      !h SpannerR:
-        !h mRotate.V3f:
-          - 0.00000
-          - 0.00000
-          - 0.00000
-        !h mTrans.V3f:
-          - 0.00000
-          - 0.00000
-          - 0.00000
-        !h mScale.f32: 1.00000
       !h Branch:
         !h mRotate.V3f:
           - 0.00000
@@ -718,7 +728,7 @@ root:
           - 0.00000
           - -0.20644
         !h mScale.f32: 0.94143
-      !h cbba73fc:
+      !h DStk:
         !h mRotate.V3f:
           - 0.00000
           - 0.00000
@@ -728,17 +738,7 @@ root:
           - 0.00000
           - 0.00000
         !h mScale.f32: 1.00000
-      !h DishStack:
-        !h mRotate.V3f:
-          - 0.00000
-          - 0.00000
-          - 0.00000
-        !h mTrans.V3f:
-          - 0.00000
-          - 0.00000
-          - 0.00000
-        !h mScale.f32: 1.00000
-      !h Glass:
+      !h SpnR:
         !h mRotate.V3f:
           - 0.00000
           - 0.00000
@@ -798,7 +798,7 @@ root:
           - 0.00000
           - 0.00000
         !h mScale.f32: 0.88021
-      !h Coconut:
+      !h Cnut:
         !h mRotate.V3f:
           - 0.00000
           - 0.00000

@@ -557,3 +557,38 @@ root:
               - 1000.00000
               - 100.00000
               - 0.00000
+    !h mRemakeSubTool:
+      !h mRemakeItemInfoArray[]:
+        - !h mVirtualCameraAngle.V3f:
+            - 18.00000
+            - 0.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - -400.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 18.00000
+            - 90.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - -140.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 18.00000
+            - 180.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - 140.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 18.00000
+            - -90.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - 400.00000
+            - 0.00000
+            - 0.00000
+    !h mRemakeSubToolScale.f32: 32.00000

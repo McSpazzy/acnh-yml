@@ -323,6 +323,59 @@ root:
           - 陸中
           - 陸弱
           - 陸中
+      !h cWeatherPattern_40:
+        !h mLabel.Str: Rain07
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨
+          - 雨雲
+          - 曇り
+          - 曇り
+          - 曇り
+          - 雨雲
+          - 大雨
+          - 大雨
+          - 雨
+          - 雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 雨
+          - 雨
+          - 大雨
+          - 大雨
+          - 雨
+          - 曇り
+          - 雨雲
+        !h mWindType[].Enum:
+          - 陸中
+          - 陸強
+          - 陸中
+          - 陸弱
+          - 陸中
+          - 陸中
+          - 凪
+          - 海弱
+          - 海弱
+          - 海中
+          - 海中
+          - 海強
+          - 海中
+          - 海中
+          - 海強
+          - 海強
+          - 海中
+          - 海弱
+          - 海中
+          - 凪
+          - 陸弱
+          - 陸中
+          - 陸中
+          - 陸弱
       !h cWeatherPattern_19:
         !h mLabel.Str: CloudFine00
         !h mReport.Enum: 曇りのち晴れ
@@ -959,6 +1012,59 @@ root:
           - 陸中
           - 陸弱
           - 陸弱
+      !h cWeatherPattern_38:
+        !h mLabel.Str: Rain06
+        !h mReport.Enum: 雨
+        !h mWeatherType[].Enum:
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+          - 大雨
+        !h mWindType[].Enum:
+          - 陸中
+          - 陸弱
+          - 陸弱
+          - 陸中
+          - 陸中
+          - 陸強
+          - 陸中
+          - 凪
+          - 海中
+          - 海弱
+          - 海中
+          - 海弱
+          - 海中
+          - 海強
+          - 海中
+          - 海強
+          - 海中
+          - 海弱
+          - 凪
+          - 陸中
+          - 陸中
+          - 陸強
+          - 陸中
+          - 陸強
       !h cWeatherPattern_34:
         !h mLabel.Str: EventDay01
         !h mReport.Enum: 晴れのち曇り
@@ -1065,6 +1171,59 @@ root:
           - 陸弱
           - 陸中
           - 陸中
+      !h cWeatherPattern_39:
+        !h mLabel.Str: Fine07
+        !h mReport.Enum: 晴れ
+        !h mWeatherType[].Enum:
+          - 快晴
+          - 快晴
+          - 晴れ
+          - 晴れ
+          - 快晴
+          - 快晴
+          - 晴れ
+          - 快晴
+          - 晴れ
+          - 快晴
+          - 晴れ
+          - 晴れ
+          - 快晴
+          - 晴れ
+          - 快晴
+          - 晴れ
+          - 晴れ
+          - 快晴
+          - 晴れ
+          - 快晴
+          - 快晴
+          - 快晴
+          - 晴れ
+          - 快晴
+        !h mWindType[].Enum:
+          - 陸弱
+          - 陸中
+          - 陸中
+          - 陸強
+          - 陸強
+          - 陸弱
+          - 陸弱
+          - 凪
+          - 海弱
+          - 海弱
+          - 海弱
+          - 海中
+          - 海弱
+          - 海中
+          - 海強
+          - 海強
+          - 海中
+          - 海弱
+          - 凪
+          - 陸弱
+          - 陸弱
+          - 陸弱
+          - 陸中
+          - 陸弱
       !h cWeatherPattern_22:
         !h mLabel.Str: FineRain00
         !h mReport.Enum: 晴れ所により雨
