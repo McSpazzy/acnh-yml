@@ -6,7 +6,7 @@ root:
   !h NpcActivityParam:
     !h mConversationSpeakerChangeRate.s32: !l 50
     !h mInterestChangeValue.s32: !l 1
-    !h 1321775c: !l 60
+    !h mFacePanelReactionIntervalTime.s32: !l 60
     !h mInterestRushRateMax.s32: !l 30
     !h mNaturalChangeTime.s32: !l 2
     !h mCatchInsectStopDist.f32: 10.00000
