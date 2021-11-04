@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 451767be:
+  !h StrcWherearenRockArch[]:
     - !h mLightType.Enum: スポットライト
       !h mIsNightLight.bool: true
       !h mPos.V3f:
@@ -28,7 +28,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 60.00000
       !h mIntensity.f32: 12.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 0.87267
       !h mIsUseMaterialColor.bool: false
@@ -56,7 +56,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 60.00000
       !h mIntensity.f32: 12.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 0.87267
       !h mIsUseMaterialColor.bool: false

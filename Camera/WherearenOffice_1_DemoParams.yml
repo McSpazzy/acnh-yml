@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 92433ee4:
+  !h WherearenOffice_1_DemoParams:
     !h mParamsBuffer[]:
       - !h mDOFNearEnd.f32: 32.00000
         !h mKey.Str: OpenMaterialsBox

@@ -17,7 +17,7 @@ root:
     !h mDiveInOutSpeedChaseValue.f32: 0.30000
     !h mBlackFadeEndOffsetStageWalkIn.f32: 25.00000
     !h mSharePlayCullingCheckRadius.f32: 5.00000
-    !h 1b8faab2: -3.15000
+    !h mShowIconOffsetDrX.f32: -3.15000
     !h mShowIconOffsetCoZ.f32: 3.00000
     !h mBreathEndTimer.u32: !l 60
     !h mEatIconOffsetZ.f32: 0.00000
@@ -29,9 +29,9 @@ root:
     !h mPipeEnterFallStartFrame.u32: !l 0
     !h mActionWaitFrameByEmotionRingMenu.s32: !l 5
     !h mStickMorphSpeed.f32: 0.20000
-    !h 26ef8302: 1.50000
+    !h mShowIconOffsetDrY.f32: 1.50000
     !h mJumpValleyJudgeGapDegree.f32: 25.00000
-    !h 2b2f9f3c: 2.50000
+    !h mShowIconOffsetCoFZ.f32: 2.50000
     !h mDiveInEndRootMorphPosRate.f32: 0.01500
     !h mFoodPowerupDashAddRate.f32: 0.25000
     !h mIsTurnSpeedDegreeY.f32: 10.00000
@@ -86,7 +86,7 @@ root:
     !h mStickSpeedEmbranceDegreeMax_RunMax.f32: 180.00000
     !h mDiveInRootMorphMinusFrame.u32: !l 11
     !h mPipeEnterScaleDownSpeed.f32: 0.02000
-    !h 51efcc5c: -3.20000
+    !h mShowIconOffsetCoFX.f32: -3.20000
     !h mPassOverTimer.u32: !l 26
     !h mDiveCameraEndFrame.u32: !l 0
     !h mShowDIYRecipeDegreeX.f32: 62.00000
@@ -98,7 +98,7 @@ root:
     !h mShowIconOffsetCoY.f32: 1.90000
     !h mSWalkWaitOffsetZ.f32: 0.00500
     !h mCancelPadTimerBySharePlayModeChange.u32: !l 6
-    !h 614ff9d2: 2.00000
+    !h mShowIconOffsetDrZ.f32: 2.00000
     !h mShowIconOffsetCoX.f32: -3.10000
     !h mPickupTargetOffsetZ.f32: -1.00000
     !h mAngleYChaseDegreeStep.f32: 19.00000
@@ -112,8 +112,8 @@ root:
     !h mJumpInWaterUpSpeedChaseRateXZ.f32: 0.10000
     !h mShowDIYRecipeDegreeY.f32: 35.00000
     !h mSwimMoveSlowSpeedChaseValue.f32: 0.01000
-    !h 6c8fe5ec: 0.00000
-    !h 6cfcc4d7: !l 1
+    !h mShowIconOffsetCoFY.f32: 0.00000
+    !h mTumblePercentFD.s32: !l 1
     !h mSharePlayCullingCheckDistanceZ_ByCliff1.f32: 215.00000
     !h mDiveInOutTurnChaseDegreeY.f32: 5.00000
     !h mCancelBalloonHasAnyKeyTimer.u32: !l 15

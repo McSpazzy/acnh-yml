@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h c4065fd3:
+  !h CommuneObjTrailerFortune[]:
     - !h mLightType.Enum: ポイントライト
       !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
@@ -29,7 +29,7 @@ root:
       !h mCycleBR.f32: 0.00300
       !h mIntensity.f32: 6.00000
       !h mRadius.f32: 20.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mCycleA.f32: 0.20000
       !h mIsCandleColor.bool: false
@@ -40,7 +40,7 @@ root:
         - 0.00000
         - 0.00000
         - 0.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
     - !h mLightType.Enum: なし
       !h mColorOffset.C4f:
@@ -48,5 +48,5 @@ root:
         - 0.00000
         - 0.00000
         - 0.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false

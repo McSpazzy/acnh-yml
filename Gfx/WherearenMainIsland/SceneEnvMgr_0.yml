@@ -4,11 +4,11 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h StageEnvParam:
-    !h 374ac4d0: true
+    !h mIsLightParamOverride.bool: true
     !h mShadowAreaSizeZZ.V2f:
       - 50.00000
       - 250.00000
-    !h 77d37cc: !l 2
+    !h mLightAreaScale.u32: !l 2
     !h mShadowAresSizeXY.V2f:
       - 150.00000
       - 120.00000

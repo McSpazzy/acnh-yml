@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 44d48cd5:
+  !h HouseWallPB04BrickA[]:
     - !h mLightType.Enum: ポイントライト
       !h mIsNightLight.bool: true
       !h mIsCandle.bool: false

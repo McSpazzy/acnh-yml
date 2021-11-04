@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 43c06d85:
+  !h StrcWherearenAirportA00[]:
     - !h mLightType.Enum: スポットライト
       !h mIsNightLight.bool: false
       !h mPos.V3f:

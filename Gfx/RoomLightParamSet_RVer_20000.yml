@@ -4,7 +4,7 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h RoomLightParamSet:
-    !h 9471d8c6:
+    !h mOriginalLightParamArray[]:
       - !h mColor.C4f:
           - 0.95000
           - 1.00000

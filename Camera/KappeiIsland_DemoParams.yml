@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 9f5bf8bd:
+  !h KappeiIsland_DemoParams:
     !h mParamsBuffer[]:
       - !h mDOFNearEnd.f32: 100.00000
         !h mKey.Str: Talk_kpp

@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h dbe2bb4c:
+  !h WherearenNpcGarden_DemoParams:
     !h mParamsBuffer[]:
       - !h mDOFNearEnd.f32: 0.00000
         !h mKey.Str: LeaveDemo

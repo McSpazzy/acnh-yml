@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 296439ba:
+  !h CommuneObjGate01[]:
     - !h mLightType.Enum: ポイントライト
       !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
@@ -29,7 +29,7 @@ root:
       !h mCycleBR.f32: 0.00300
       !h mIntensity.f32: 20.00000
       !h mRadius.f32: 37.30000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mCycleA.f32: 0.20000
       !h mIsCandleColor.bool: false

@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 6a1ae86e:
+  !h WherearenMainIsland_DemoParams:
     !h mParamsBuffer[]:
       - !h mDOFNearEnd.f32: 0.00000
         !h mKey.Str: CameraArea:0

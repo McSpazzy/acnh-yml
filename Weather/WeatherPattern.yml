@@ -588,7 +588,7 @@ root:
           - 陸中
           - 陸中
           - 陸強
-      !h 46751eab:
+      !h cWeatherPattern_41:
         !h mLabel.Str: Fine08
         !h mReport.Enum: 晴れ
         !h mWeatherType[].Enum:
@@ -1860,7 +1860,7 @@ root:
           - 陸中
           - 陸中
           - 陸弱
-      !h df7c4f11:
+      !h cWeatherPattern_42:
         !h mLabel.Str: Fine09
         !h mReport.Enum: 晴れ
         !h mWeatherType[].Enum:

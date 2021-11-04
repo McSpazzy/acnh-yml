@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 5316e324: {!h 39252151: 40.00000, !h 8cac26da: 10.00000, !h afb68a72: 60.00000, !h d56959dd: 10.00000}
+  !h FirstPersonCameraParam: {!h mFocalDistanceIndoor.f32: 40.00000, !h mPermissibleCoCSizeIndoor.f32: 10.00000, !h mFocalDistanceOutdoor.f32: 60.00000, !h mPermissibleCoCSizeOutdoor.f32: 10.00000}

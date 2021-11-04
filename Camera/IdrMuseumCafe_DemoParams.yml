@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 6510cc6d:
+  !h IdrMuseumCafe_DemoParams:
     !h mParamsBuffer[]:
       - !h mDOFNearEnd.f32: 0.00000
         !h mKey.Str: IdrMuseumCafe

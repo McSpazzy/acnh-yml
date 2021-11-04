@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 98c3ace1:
+  !h HouseWallPD04SoilA[]:
     - !h mLightType.Enum: スポットライト
       !h mIsNightLight.bool: true
       !h mPos.V3f:

@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 5bf25957:
+  !h StrcWallWherearenSchoolA:
     !h mLightParamArray[]:
       - {!h mLightKind.s32: !l 0}
       - {!h mLightKind.s32: !l 0}

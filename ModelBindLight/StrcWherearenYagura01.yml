@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h d9e58390:
+  !h StrcWherearenYagura01[]:
     - !h mLightType.Enum: スポットライト
       !h mIsNightLight.bool: true
       !h mPos.V3f:
@@ -29,9 +29,9 @@ root:
       !h mBindBoneName.Str: Light00
       !h mFar.f32: 200.00000
       !h mIntensity.f32: 10.00000
-      !h a655037a: true
+      !h mIsUseMaterialIntensity.bool: true
       !h mIsForceVisible.bool: true
       !h mFovy.f32: 0.69813
       !h mMaterialColorParam.Enum: const_color0
-      !h d257925a: const_float0
+      !h mMaterialIntensityParam.Enum: const_float0
       !h mIsUseMaterialColor.bool: true

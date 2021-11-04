@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 17bcad06:
+  !h StrcWallWherearenCafeA[]:
     - !h mLightType.Enum: スポットライト
       !h mIsNightLight.bool: true
       !h mPos.V3f:
@@ -28,7 +28,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 25.00000
       !h mIntensity.f32: 8.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 0.87267
       !h mIsUseMaterialColor.bool: false
@@ -57,7 +57,7 @@ root:
       !h mCycleBR.f32: 0.00300
       !h mIntensity.f32: 7.00000
       !h mRadius.f32: 19.80000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mCycleA.f32: 0.20000
       !h mIsCandleColor.bool: false
@@ -86,7 +86,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 25.00000
       !h mIntensity.f32: 6.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 0.87267
       !h mIsUseMaterialColor.bool: false
@@ -114,7 +114,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 25.00000
       !h mIntensity.f32: 8.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 0.87267
       !h mIsUseMaterialColor.bool: false
@@ -124,5 +124,5 @@ root:
         - 0.00000
         - 0.00000
         - 0.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false

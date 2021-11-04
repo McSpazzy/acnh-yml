@@ -3,1284 +3,1284 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h a74c0641:
-    !h 7e830540:
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+  !h KKFesConductorParams:
+    !h mPlayerParamsBuffer[]:
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBigSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cMattari
           - cBlue
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightSmallSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightCrossSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 1
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 1
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightOff
           - LightOff2
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cOneRoom
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cMattari
-        !h 9d662840: !l 1
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 1
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBlue
           - LightPink
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Intro
           - cDJ_Song
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cFukigen
-        !h 9d662840: !l 1
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 1
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightWhite
           - LightPink
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cBlue
-        !h 9d662840: !l 1
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 1
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBlue
           - LightWhite
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cWakaranai
-        !h 9d662840: !l 2
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 2
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightPink
           - LightWhite
           - LightBlue
           - LightWhite
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Intro
           - cDJ_Song
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightCrossSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Intro
           - cEmission
           - cOneRoom
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 3
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 3
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - SpotOff
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Intro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 3
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 3
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 3
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 3
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - SpotOffSync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 3
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 3
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightOff2Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Outro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightWhite
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cEmission
           - cOneRoom
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cFukigen
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightPink
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Intro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cBlue
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBlue
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Intro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 3
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 3
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - AlwaysSpotOn
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 3
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 3
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 3
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 3
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - SpotOnSync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cEmission
           - cOneRoom
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 1
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 1
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBlue
           - LightPink
           - 
           - 
-        !h d4d4220f: !l 2
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 2
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 13
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 13
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_Experimental
-        !h fe6557ba: !l 174
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 174
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 1
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 1
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBlue
           - LightPink
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 174
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 174
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_EmotionalFlare
-        !h fe6557ba: !l 238
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 238
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightSlide00Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 174
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 174
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_EmotionalFlare
-        !h fe6557ba: !l 238
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 238
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightEqualizerOP00Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 4
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 4
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_Experimental
-        !h fe6557ba: !l 15
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 15
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightEqualizerOP01Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 15
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 15
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_Experimental
-        !h fe6557ba: !l 19
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 19
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightScroll00Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 19
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 19
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_Experimental
-        !h fe6557ba: !l 21
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 21
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightScroll01Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 21
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 21
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_Experimental
-        !h fe6557ba: !l 23
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: true
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 23
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: true
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightScroll02Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 23
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 23
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_Experimental
-        !h fe6557ba: !l 27
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 27
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBigSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_EmotionalFlare
           - cDemo_Intro_EmotionalFlare
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 3
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 3
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - AlwaysSpotOn
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_EmotionalFlare
           - cDemo_Intro_EmotionalFlare
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightSlide00Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 174
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 174
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_Intro_EmotionalFlare
-        !h fe6557ba: !l 238
-      - !h 1c2cc37: !l 1
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 238
+      - !h mSlotInfoIndex.s32: !l 1
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 1
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 1
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightBlue
           - LightPink
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 174
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 174
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_Intro_EmotionalFlare
-        !h fe6557ba: !l 238
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 238
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightScroll01Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Intro
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightEqualizer01Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cFukigen
           - cBlue
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 0
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 0
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightOff
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightDemoStartSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 32
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 32
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_EmotionalFlare
-        !h fe6557ba: !l 33
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 33
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightDemoStopSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 33
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 33
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_EmotionalFlare
-        !h fe6557ba: !l 38
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 38
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightDemoEndSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 38
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 38
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_FirstIntro_EmotionalFlare
-        !h fe6557ba: !l 39
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 39
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightDemoStartSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 9
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 9
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_Intro_EmotionalFlare
-        !h fe6557ba: !l 10
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 10
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightDemoStopSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 10
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 10
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_Intro_EmotionalFlare
-        !h fe6557ba: !l 13
-      - !h 1c2cc37: !l 2
-        !h 5b1a0834: false
-        !h 7a58077e: true
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 13
+      - !h mSlotInfoIndex.s32: !l 2
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: true
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightDemoEndSwing
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 13
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 13
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDemo_Intro_EmotionalFlare
-        !h fe6557ba: !l 14
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 14
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cMattari
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightSlide00Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cGokigen
           - cFukigen
           - cMattari
           - cBlue
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightSlide02Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cEmission
-        !h fe6557ba: !l 1
-      - !h 1c2cc37: !l 0
-        !h 5b1a0834: false
-        !h 7a58077e: false
-        !h 98317cf1:
+        !h mDetailPlayTimingEnd.s32: !l 1
+      - !h mSlotInfoIndex.s32: !l 0
+        !h mIsDetailPlayTimingSyncSpan.bool: false
+        !h mIsDetailPlayTimingSetting.bool: false
+        !h mSongCategoryBuffer[].Enum:
           - cWakaranai
-        !h 9d662840: !l 0
-        !h 9f6e92f1:
+        !h mPattern.s32: !l 0
+        !h mCommandDataFourCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
           - cKeep
-        !h a53c6116: !l 2
-        !h befec39: !l 1
-        !h c1aa26b0: true
-        !h c8115335:
+        !h mSwitchTimingFrame.s32: !l 2
+        !h mSwitchType.s32: !l 1
+        !h mIsSyncAnimeRatio.bool: true
+        !h mAnimationNameInfoArray[].Str:
           - LightScroll10Sync
           - 
           - 
           - 
-        !h d4d4220f: !l 1
-        !h ec1e9ae3:
+        !h mInterval.s32: !l 1
+        !h mCommandDataThreeCount[].Enum:
           - cKeep
           - cKeep
           - cKeep
-        !h ec9e1fd9: !l 0
-        !h f5bb53cc:
+        !h mDetailPlayTimingStart.s32: !l 0
+        !h mMusicSequenceTypeBuffer[].Enum:
           - cDJ_Song
-        !h fe6557ba: !l 1
+        !h mDetailPlayTimingEnd.s32: !l 1

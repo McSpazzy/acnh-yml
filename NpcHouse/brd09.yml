@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 2b7b6620:
+  !h brd09:
     !h mWall.u16: !l 86
     !h mCurtain.u16: !l 2
     !h mDeco: {!h mItemNameParam.u64: !l 65534}

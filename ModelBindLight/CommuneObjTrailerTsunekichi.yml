@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 3f453cb2:
+  !h CommuneObjTrailerTsunekichi[]:
     - !h mLightType.Enum: ポイントライト
       !h mIsNightLight.bool: true
       !h mIsCandle.bool: false
@@ -29,7 +29,7 @@ root:
       !h mCycleBR.f32: 0.00300
       !h mIntensity.f32: 6.00000
       !h mRadius.f32: 20.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mCycleA.f32: 0.20000
       !h mIsCandleColor.bool: false
@@ -58,7 +58,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 50.00000
       !h mIntensity.f32: 2.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 0.95993
       !h mIsUseMaterialColor.bool: false
@@ -86,7 +86,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 50.00000
       !h mIntensity.f32: 2.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 0.95993
       !h mIsUseMaterialColor.bool: false

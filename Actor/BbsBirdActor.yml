@@ -15,14 +15,14 @@ root:
       - - 6.40000
         - 0.00000
         - 0.00000
-    !h 18160618:
+    !h mCreatePosExtendedAreaNightSnow[].V3f:
       - - 632.00000
         - 22.00000
         - 491.65000
       - - 636.00000
         - 22.00000
         - 491.65000
-    !h 1a8a6fc6: !l 0
+    !h mNumGenMinExtendedAreaNight.s32: !l 0
     !h mPhotoIslandNightMin[].V3f:
       - - -50.80000
         - 20.40000
@@ -147,8 +147,8 @@ root:
       - - 7.30000
         - 0.00000
         - 0.00000
-    !h 484abf14: !l 16
-    !h 48e3ab2e: 260.00000
+    !h mNumGenMaxExtendedAreaDay.s32: !l 16
+    !h mCommuneRecreateDistance.f32: 260.00000
     !h mWoodSnowDayMax[].V3f:
       - - -6.10000
         - 0.50000
@@ -243,7 +243,7 @@ root:
         - -10.00000
     !h mFlyAwayDistance.f32: 25.00000
     !h mNightDownScale.f32: 0.98000
-    !h 95d8092: !l 10
+    !h mNumGenMinExtendedAreaDay.s32: !l 10
     !h mIronDayMin[].V3f:
       - - -7.30000
         - 0.00000
@@ -309,7 +309,7 @@ root:
       - 1.00000
       - 0.70000
     !h Fountain[]: 0.60000
-    !h c1353c21: !l 2
+    !h mNumGenMaxExtendedAreaNight.s32: !l 2
     !h mNightFlyTarget[].V3f:
       - - -24.00000
         - 100.00000
@@ -353,7 +353,7 @@ root:
       - - 6.10000
         - 0.00000
         - 0.00000
-    !h dae822f4:
+    !h mCreatePosExtendedAreaDay[].V3f:
       - - 780.00000
         - 0.00000
         - 500.00000
@@ -402,7 +402,7 @@ root:
       - - 845.00000
         - 0.00000
         - 670.00000
-    !h dae962e4:
+    !h mCreatePosExtendedAreaNight[].V3f:
       - - 632.00000
         - 20.90000
         - 491.65000

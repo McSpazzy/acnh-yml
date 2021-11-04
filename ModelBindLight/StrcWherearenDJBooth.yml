@@ -3,14 +3,14 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 11817dfc:
+  !h StrcWherearenDJBooth[]:
     - !h mLightType.Enum: なし
       !h mColorOffset.C4f:
         - 0.00000
         - 0.00000
         - 0.00000
         - 0.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
     - !h mLightType.Enum: なし
       !h mColorOffset.C4f:
@@ -18,7 +18,7 @@ root:
         - 0.00000
         - 0.00000
         - 0.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
     - !h mLightType.Enum: スポットライト
       !h mIsNightLight.bool: true
@@ -44,7 +44,7 @@ root:
       !h mBindBoneName.Str: Root
       !h mFar.f32: 20.00000
       !h mIntensity.f32: 6.00000
-      !h a655037a: false
+      !h mIsUseMaterialIntensity.bool: false
       !h mIsForceVisible.bool: false
       !h mFovy.f32: 1.30900
       !h mIsUseMaterialColor.bool: false

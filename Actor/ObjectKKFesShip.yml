@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 43c1eea:
+  !h ObjectKKFesShip:
     !h mCurvef.Curvef:
       - !l 10
       - - 0.00000
@@ -15,18 +15,18 @@ root:
         - 1.00000
         - 1.00000
         - -0.01241
-    !h 2cfbd456: !l 46
-    !h 2d58ed7b: 129.00000
-    !h 41d73956: !l 48
-    !h 54b072b4: !l 64
-    !h 55aaf875: !l 500
-    !h 592cf732: 0.30000
-    !h 5a92fd7f: 2.50000
-    !h 5f6c2b5b: !l 240
-    !h 66d3522a: !l 0
+    !h mDJKKZoomOutBeatCount.s32: !l 46
+    !h mAppearOffset.f32: 129.00000
+    !h mIntroCut1BeatIDx.s32: !l 48
+    !h mOutroZoomOutBeatIDx.s32: !l 64
+    !h mOutro1stZoomOutBeatIDx.s32: !l 500
+    !h mWave1Height.f32: 0.30000
+    !h mWave2CycleSpd.f32: 2.50000
+    !h mNpcFoundDelay.s32: !l 240
+    !h mAppearDelay.s32: !l 0
     !h mFrame.s32: !l 950
-    !h bae4507f: 1.00000
-    !h c0ce9133: 0.15000
-    !h d17adc0c: !l 48
-    !h da727539: !l 28
-    !h e75891b1: 5.00000
+    !h mAttractStep.f32: 1.00000
+    !h mWave2Height.f32: 0.15000
+    !h mDJKKZoomBeatIdx.s32: !l 48
+    !h mIntroCut0BeatIDx.s32: !l 28
+    !h mWave1CycleSpd.f32: 5.00000

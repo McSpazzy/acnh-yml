@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 1d795eb4:
+  !h WherearenNpcHouse_DemoParams:
     !h mParamsBuffer[]:
       - !h mDOFNearEnd.f32: 0.00000
         !h mKey.Str: CameraDemoNpcUpStart

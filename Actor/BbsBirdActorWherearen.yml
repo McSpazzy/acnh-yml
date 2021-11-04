@@ -3,20 +3,20 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 964a24e5:
-    !h 26d6d1fa: 0.98000
-    !h 2cfb21ec: 50.00000
-    !h 46c07576: 100.00000
-    !h 472523a2:
+  !h BbsBirdActorWherearen:
+    !h mWherearenNightDownScale.f32: 0.98000
+    !h mWherearenNightFlyTargetDistXZ.f32: 50.00000
+    !h mWherearenDayFlyTargetHeightY.f32: 100.00000
+    !h mGardenDayTransRatio[].f32:
       - 5.00000
       - 1.00000
       - 1.70000
       - 1.00000
       - 0.70000
-    !h 61bedb45:
-      !h 209d0532: !l 9
-      !h 236ee57d: !l 4
-      !h ad9ca4c3:
+    !h mGardenDay13:
+      !h mNumGenMax.s32: !l 9
+      !h mNumGenMin.s32: !l 4
+      !h mCreatePos[].V3f:
         - - 360.00000
           - 0.00000
           - 465.00000
@@ -44,20 +44,20 @@ root:
         - - 348.00000
           - 0.00000
           - 330.00000
-    !h 6338ce64:
+    !h mWherearenNightScale[].f32:
       - 1.00000
       - 0.85000
       - 0.75000
-    !h 79c0e973:
-      !h 2838093d: !l 2
-      !h 29349389: !l 1
-      !h 3b36b745:
+    !h mWherearenDayArea6:
+      !h mNumGenMaxDay.s32: !l 2
+      !h mNumGenMinDay.s32: !l 1
+      !h mTransRatio[].f32:
         - 5.00000
         - 1.00000
         - 2.00000
         - 1.00000
         - 0.70000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -68,8 +68,8 @@ root:
         - true
         - true
         - true
-      !h ad92cf4f: !l 1
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 1
+      !h mCreatePos[].V3f:
         - - 364.00000
           - 0.80000
           - 654.00000
@@ -79,18 +79,18 @@ root:
         - - 418.50000
           - 0.80000
           - 685.00000
-      !h e0ca1be5: 15.00000
-      !h fc6b7412: !l 0
-    !h 7ead2d6a:
-      !h 2838093d: !l 3
-      !h 29349389: !l 1
-      !h 3b36b745:
+      !h mRunDistance.f32: 15.00000
+      !h mNumGenMinAfternoon.s32: !l 0
+    !h mWherearenDayArea2:
+      !h mNumGenMaxDay.s32: !l 3
+      !h mNumGenMinDay.s32: !l 1
+      !h mTransRatio[].f32:
         - 5.00000
         - 1.00000
         - 2.00000
         - 1.00000
         - 0.70000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -101,8 +101,8 @@ root:
         - true
         - true
         - true
-      !h ad92cf4f: !l 1
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 1
+      !h mCreatePos[].V3f:
         - - 244.10000
           - 34.92000
           - 355.02000
@@ -118,13 +118,13 @@ root:
         - - 226.00000
           - -4.00000
           - 444.60000
-      !h e0ca1be5: 25.00000
-      !h fc6b7412: !l 0
-    !h 897a0a17: 1.30000
-    !h 8fb0ba69:
-      !h 209d0532: !l 8
-      !h 236ee57d: !l 4
-      !h ad9ca4c3:
+      !h mRunDistance.f32: 25.00000
+      !h mNumGenMinAfternoon.s32: !l 0
+    !h mWherearenNightFlySpeed.f32: 1.30000
+    !h mGardenDay11:
+      !h mNumGenMax.s32: !l 8
+      !h mNumGenMin.s32: !l 4
+      !h mCreatePos[].V3f:
         - - 384.26000
           - 0.00000
           - 338.00000
@@ -149,17 +149,17 @@ root:
         - - 495.00000
           - 15.00000
           - 425.00000
-    !h 9346b5c: 2.00000
-    !h 97ce885f:
-      !h 2838093d: !l 2
-      !h 29349389: !l 1
-      !h 3b36b745:
+    !h mWherearenDayFlySpeed.f32: 2.00000
+    !h mWherearenDayArea4:
+      !h mNumGenMaxDay.s32: !l 2
+      !h mNumGenMinDay.s32: !l 1
+      !h mTransRatio[].f32:
         - 7.00000
         - 0.70000
         - 0.10000
         - 1.00000
         - 0.30000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -170,26 +170,26 @@ root:
         - false
         - false
         - false
-      !h ad92cf4f: !l 1
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 1
+      !h mCreatePos[].V3f:
         - - 429.50000
           - 10.30000
           - 410.60000
         - - 469.30000
           - 10.30000
           - 436.50000
-      !h e0ca1be5: 9.00000
-      !h fc6b7412: !l 0
-    !h 9aa1dfc:
-      !h 2838093d: !l 5
-      !h 29349389: !l 3
-      !h 3b36b745:
+      !h mRunDistance.f32: 9.00000
+      !h mNumGenMinAfternoon.s32: !l 0
+    !h mWherearenDayArea3:
+      !h mNumGenMaxDay.s32: !l 5
+      !h mNumGenMinDay.s32: !l 3
+      !h mTransRatio[].f32:
         - 5.00000
         - 1.00000
         - 2.00000
         - 1.00000
         - 0.70000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -200,8 +200,8 @@ root:
         - true
         - true
         - true
-      !h ad92cf4f: !l 2
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 2
+      !h mCreatePos[].V3f:
         - - 302.00000
           - -4.00000
           - 560.00000
@@ -223,27 +223,27 @@ root:
         - - 483.30000
           - -4.00000
           - 580.40000
-      !h e0ca1be5: 25.00000
-      !h fc6b7412: !l 1
-    !h 9b423712: 100.00000
-    !h 9e68bf9:
-      !h 209d0532: !l 1
-      !h 236ee57d: !l 0
-      !h ad9ca4c3:
+      !h mRunDistance.f32: 25.00000
+      !h mNumGenMinAfternoon.s32: !l 1
+    !h mWherearenNightFlyTargetHeightY.f32: 100.00000
+    !h mWherearenNightArea7:
+      !h mNumGenMax.s32: !l 1
+      !h mNumGenMin.s32: !l 0
+      !h mCreatePos[].V3f:
         - - 689.90000
           - 25.80000
           - 323.00000
-      !h e0ca1be5: 25.00000
-    !h 9e78c474:
-      !h 2838093d: !l 6
-      !h 29349389: !l 4
-      !h 3b36b745:
+      !h mRunDistance.f32: 25.00000
+    !h mWherearenDayArea8:
+      !h mNumGenMaxDay.s32: !l 6
+      !h mNumGenMinDay.s32: !l 4
+      !h mTransRatio[].f32:
         - 5.00000
         - 1.00000
         - 2.00000
         - 1.00000
         - 0.70000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -254,8 +254,8 @@ root:
         - true
         - true
         - true
-      !h ad92cf4f: !l 3
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 3
+      !h mCreatePos[].V3f:
         - - 552.50000
           - 0.00000
           - 413.50000
@@ -283,16 +283,16 @@ root:
         - - 708.60000
           - -4.00000
           - 580.00000
-      !h e0ca1be5: 25.00000
-      !h fc6b7412: !l 1
-    !h a16e3ff2: !l 4
-    !h a3c58c83: 50.00000
-    !h c7580783: 0.60000
-    !h cc4a4add: 250.00000
-    !h da4ee6cb:
-      !h 209d0532: !l 8
-      !h 236ee57d: !l 4
-      !h ad9ca4c3:
+      !h mRunDistance.f32: 25.00000
+      !h mNumGenMinAfternoon.s32: !l 1
+    !h mWherearenNightHoldFrame.s32: !l 4
+    !h mWherearenDayFlyTargetDistXZ.f32: 50.00000
+    !h mWherearenDayDownScale.f32: 0.60000
+    !h mWherearenRecreateDistance.f32: 250.00000
+    !h mGardenDay1:
+      !h mNumGenMax.s32: !l 8
+      !h mNumGenMin.s32: !l 4
+      !h mCreatePos[].V3f:
         - - 363.00000
           - 30.00000
           - 334.00000
@@ -317,10 +317,10 @@ root:
         - - 335.00000
           - 30.00000
           - 345.00000
-    !h e0852ecc:
-      !h 209d0532: !l 4
-      !h 236ee57d: !l 0
-      !h ad9ca4c3:
+    !h mWherearenNightArea1:
+      !h mNumGenMax.s32: !l 4
+      !h mNumGenMin.s32: !l 0
+      !h mCreatePos[].V3f:
         - - 330.80000
           - 57.94000
           - 206.50000
@@ -333,17 +333,17 @@ root:
         - - 382.80000
           - 56.64000
           - 246.40000
-      !h e0ca1be5: 25.00000
-    !h e0c9b8c9:
-      !h 2838093d: !l 2
-      !h 29349389: !l 1
-      !h 3b36b745:
+      !h mRunDistance.f32: 25.00000
+    !h mWherearenDayArea5:
+      !h mNumGenMaxDay.s32: !l 2
+      !h mNumGenMinDay.s32: !l 1
+      !h mTransRatio[].f32:
         - 5.00000
         - 0.10000
         - 0.00000
         - 1.00000
         - 0.40000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -354,8 +354,8 @@ root:
         - false
         - false
         - true
-      !h ad92cf4f: !l 1
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 1
+      !h mCreatePos[].V3f:
         - - 402.30000
           - 26.80000
           - 606.50000
@@ -365,9 +365,9 @@ root:
         - - 397.60000
           - 11.60000
           - 608.00000
-      !h e0ca1be5: 0.00000
-      !h fc6b7412: !l 0
-    !h e3f1f552:
+      !h mRunDistance.f32: 0.00000
+      !h mNumGenMinAfternoon.s32: !l 0
+    !h mGardenDayDirection[].bool:
       - true
       - true
       - true
@@ -378,16 +378,16 @@ root:
       - true
       - true
       - true
-    !h e7a47cd0:
-      !h 2838093d: !l 4
-      !h 29349389: !l 2
-      !h 3b36b745:
+    !h mWherearenDayArea1:
+      !h mNumGenMaxDay.s32: !l 4
+      !h mNumGenMinDay.s32: !l 2
+      !h mTransRatio[].f32:
         - 5.00000
         - 1.00000
         - 1.70000
         - 1.00000
         - 0.70000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -398,8 +398,8 @@ root:
         - true
         - true
         - true
-      !h ad92cf4f: !l 2
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 2
+      !h mCreatePos[].V3f:
         - - 330.40000
           - 57.90000
           - 205.30000
@@ -427,18 +427,18 @@ root:
         - - 408.00000
           - 30.00000
           - 296.00000
-      !h e0ca1be5: 25.00000
-      !h fc6b7412: !l 1
-    !h e97ff4e2:
-      !h 2838093d: !l 5
-      !h 29349389: !l 2
-      !h 3b36b745:
+      !h mRunDistance.f32: 25.00000
+      !h mNumGenMinAfternoon.s32: !l 1
+    !h mWherearenDayArea9:
+      !h mNumGenMaxDay.s32: !l 5
+      !h mNumGenMinDay.s32: !l 2
+      !h mTransRatio[].f32:
         - 5.00000
         - 0.30000
         - 0.00000
         - 1.00000
         - 0.70000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -449,8 +449,8 @@ root:
         - false
         - false
         - false
-      !h ad92cf4f: !l 2
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 2
+      !h mCreatePos[].V3f:
         - - 592.00000
           - 0.39000
           - 439.00000
@@ -472,18 +472,18 @@ root:
         - - 613.00000
           - 1.57000
           - 486.25000
-      !h e0ca1be5: 15.00000
-      !h fc6b7412: !l 1
-    !h ec7d9e5:
-      !h 2838093d: !l 3
-      !h 29349389: !l 2
-      !h 3b36b745:
+      !h mRunDistance.f32: 15.00000
+      !h mNumGenMinAfternoon.s32: !l 1
+    !h mWherearenDayArea7:
+      !h mNumGenMaxDay.s32: !l 3
+      !h mNumGenMinDay.s32: !l 2
+      !h mTransRatio[].f32:
         - 5.00000
         - 1.00000
         - 2.00000
         - 1.00000
         - 0.70000
-      !h 9fe261b5:
+      !h mDirection[].bool:
         - true
         - true
         - true
@@ -494,8 +494,8 @@ root:
         - true
         - true
         - true
-      !h ad92cf4f: !l 1
-      !h ad9ca4c3:
+      !h mNumGenMaxAfternoon.s32: !l 1
+      !h mCreatePos[].V3f:
         - - 510.00000
           - -4.00000
           - 300.00000
@@ -511,12 +511,12 @@ root:
         - - 703.00000
           - -4.00000
           - 242.00000
-      !h e0ca1be5: 25.00000
-      !h fc6b7412: !l 0
-    !h fd658a9e:
-      !h 209d0532: !l 3
-      !h 236ee57d: !l 1
-      !h ad9ca4c3:
+      !h mRunDistance.f32: 25.00000
+      !h mNumGenMinAfternoon.s32: !l 0
+    !h mGardenNight46:
+      !h mNumGenMax.s32: !l 3
+      !h mNumGenMin.s32: !l 1
+      !h mCreatePos[].V3f:
         - - 347.00000
           - 27.92000
           - 308.00000

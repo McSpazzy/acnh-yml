@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h c6a157cb:
+  !h WherearenPlayerWall:
     !h mUnitFilterFieldCheck:
       !h mValueBuffer[].bool:
         - true
@@ -379,7 +379,7 @@ root:
         - false
         - false
         - false
-    !h b815bb06:
+    !h mUnitFilterExclusionTree:
       !h mValueBuffer[].bool:
         - true
         - true

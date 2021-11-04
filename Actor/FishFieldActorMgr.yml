@@ -3,4 +3,4 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h FishFieldActorMgr: {!h 1eb38eac: !l 300, !h 1fbf1418: !l 480, !h 88ba78ec: !l 20, !h 89b6e258: !l 240}
+  !h FishFieldActorMgr: {!h mKappeiTourChouzameMinSec.s32: !l 300, !h mKappeiTourChouzameMaxSec.s32: !l 480, !h mKappeiTourChouzameFirstMinSec.s32: !l 20, !h mKappeiTourChouzameFirstMaxSec.s32: !l 240}

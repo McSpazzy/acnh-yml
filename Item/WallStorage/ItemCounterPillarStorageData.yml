@@ -3,7 +3,7 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 5cc93834:
+  !h CounterPillarStorage[]:
     - {!h mUniqueID.u16: !l 13902}
     - {!h mUniqueID.u16: !l 14313}
     - {!h mUniqueID.u16: !l 14601}

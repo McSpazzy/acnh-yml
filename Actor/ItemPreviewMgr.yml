@@ -431,7 +431,7 @@ root:
               - 400.00000
               - 0.00000
               - 0.00000
-    !h 70ba3382:
+    !h mRemakeFixLadder:
       !h mRemakeItemInfoArray[]:
         - !h mVirtualCameraAngle.V3f:
             - 0.00000
@@ -504,9 +504,9 @@ root:
             - 400.00000
             - -10.00000
             - 0.00000
-    !h c5a845f: 15.00000
-    !h cd34814: 26.00000
-    !h d0bdf5f:
+    !h mRemakeFixLadderScale.f32: 15.00000
+    !h mRemakeHaniwaScale.f32: 26.00000
+    !h mRemakeHaniwa:
       !h mRemakeItemInfoArray[]:
         - !h mVirtualCameraAngle.V3f:
             - 10.00000

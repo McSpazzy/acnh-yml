@@ -3,8 +3,8 @@ IsBigEndian: False
 SupportPaths: False
 HasReferenceNodes: False
 root:
-  !h 9b98803f:
-    !h 3716680e:
+  !h WherearenIslandsMap:
+    !h mLinkUniqueIdArray[].u16:
       - !l 31
       - !l 36
       - !l 27
@@ -54,7 +54,7 @@ root:
       - !l 43
       - !l 42
       - !l 28
-    !h 802279a9:
+    !h mNpcIconOffset[].V2f:
       - - 10.60000
         - -11.00000
       - - 14.60000
