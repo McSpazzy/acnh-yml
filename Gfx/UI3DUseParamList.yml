@@ -35,6 +35,7 @@ root:
           - 0.00000
         !h mCategoryUseParamArray[]:
           - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: Closet_00, !h mUseParamIndex.s32: !l 3}
+          - {!h mCategoryIndex.s32: !l 1, !h mUseParamName.Str: ClosetSpNpc, !h mUseParamIndex.s32: !l 19}
       - !h mMode.Enum: 作業台：クラフト
         !h mParamName.Str: WorkBenchCraft
         !h mSpecialDeleteFrame.u32: !l 4
@@ -155,3 +156,67 @@ root:
           - -50.00000
         !h mCategoryUseParamArray[]:
           - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: CatalogGift, !h mUseParamIndex.s32: !l 14}
+      - !h mMode.Enum: キャスト変更
+        !h mParamName.Str: WherearenCast
+        !h mSpecialDeleteFrame.u32: !l 2
+        !h mNormalDeleteFrame.u32: !l 0
+        !h X_Encoding[]:
+          - 100.00000
+          - 100.00000
+        !h mItemAreaPos.V2f:
+          - 0.00000
+          - 0.00000
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: WherearenCast, !h mUseParamIndex.s32: !l 15}
+      - !h mMode.Enum: ナッティーカタログ
+        !h mParamName.Str: NatteeCataog
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 2
+        !h X_Encoding[]:
+          - 450.00000
+          - 600.00000
+        !h mItemAreaPos.V2f:
+          - -475.00000
+          - -50.00000
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: NatteeCatalog, !h mUseParamIndex.s32: !l 16}
+      - !h mMode.Enum: 施設外観カスタマイズ
+        !h mParamName.Str: CustomFacility
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
+        !h X_Encoding[]:
+          - 100.00000
+          - 100.00000
+        !h mItemAreaPos.V2f:
+          - 0.00000
+          - 0.00000
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: FacilitySchool, !h mUseParamIndex.s32: !l 20}
+          - {!h mCategoryIndex.s32: !l 1, !h mUseParamName.Str: FacilityHospital, !h mUseParamIndex.s32: !l 21}
+          - {!h mCategoryIndex.s32: !l 2, !h mUseParamName.Str: FacilityRestaurant, !h mUseParamIndex.s32: !l 22}
+          - {!h mCategoryIndex.s32: !l 3, !h mUseParamName.Str: FacilityCafe, !h mUseParamIndex.s32: !l 23}
+          - {!h mCategoryIndex.s32: !l 4, !h mUseParamName.Str: FacilityTailor, !h mUseParamIndex.s32: !l 24}
+      - !h mMode.Enum: NPCの家外観カスタマイズ
+        !h mParamName.Str: CustomNpcHome
+        !h mSpecialDeleteFrame.u32: !l 0
+        !h mNormalDeleteFrame.u32: !l 8
+        !h X_Encoding[]:
+          - 100.00000
+          - 100.00000
+        !h mItemAreaPos.V2f:
+          - 0.00000
+          - 0.00000
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: NpcHouseCustom, !h mUseParamIndex.s32: !l 17}
+      - !h mMode.Enum: 調理台
+        !h mParamName.Str: CookingTable
+        !h mSpecialDeleteFrame.u32: !l 4
+        !h mNormalDeleteFrame.u32: !l 9
+        !h X_Encoding[]:
+          - 660.00000
+          - 580.00000
+        !h mItemAreaPos.V2f:
+          - -430.00000
+          - -90.00000
+        !h mCategoryUseParamArray[]:
+          - {!h mCategoryIndex.s32: !l 0, !h mUseParamName.Str: CookingTable, !h mUseParamIndex.s32: !l 18}

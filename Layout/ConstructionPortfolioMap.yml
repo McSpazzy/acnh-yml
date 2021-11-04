@@ -1,0 +1,6 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink: {!h 'mPartsParamBuffer[]': null, !h mUserName.Str: UI_ConstructionPortfolioMap, !h mIsUniqueUserId.bool: false, !h 'mAnimOperationParamBuffer[]': null}

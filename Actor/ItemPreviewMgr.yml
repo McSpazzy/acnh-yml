@@ -6,7 +6,7 @@ root:
   !h ItemPreviewMgr:
     !h mRemakeFtrScaleArray[].f32:
       - 16.00000
-      - 12.00000
+      - 11.30000
       - 8.00000
       - 15.00000
       - 8.00000
@@ -55,7 +55,7 @@ root:
             - 0.00000
             - 0.00000
           !h mOffset.V3f:
-            - -400.00000
+            - -360.00000
             - 0.00000
             - 0.00000
         - !h mVirtualCameraAngle.V3f:
@@ -63,7 +63,7 @@ root:
             - 90.00000
             - 0.00000
           !h mOffset.V3f:
-            - -140.00000
+            - -90.00000
             - 0.00000
             - 0.00000
         - !h mVirtualCameraAngle.V3f:
@@ -71,17 +71,30 @@ root:
             - 180.00000
             - 0.00000
           !h mOffset.V3f:
-            - 140.00000
+            - 180.00000
             - 0.00000
             - 0.00000
         - !h mVirtualCameraAngle.V3f:
             - 0.00000
-            - -90.00000
+            - -92.00000
             - 0.00000
           !h mOffset.V3f:
-            - 400.00000
+            - 450.00000
             - 0.00000
             - 0.00000
+    !h 531f374d:
+      - - 55.00000
+        - 0.00000
+        - 0.00000
+      - - 55.00000
+        - 90.00000
+        - 0.00000
+      - - 55.00000
+        - 180.00000
+        - 0.00000
+      - - 55.00000
+        - -90.00000
+        - 0.00000
     !h mRemakeUpperScaleArray[].f32:
       - 20.00000
       - 15.00000
@@ -418,6 +431,40 @@ root:
               - 400.00000
               - 0.00000
               - 0.00000
+    !h 70ba3382:
+      !h mRemakeItemInfoArray[]:
+        - !h mVirtualCameraAngle.V3f:
+            - 0.00000
+            - 0.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - -314.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 0.00000
+            - 45.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - -20.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 0.00000
+            - -45.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - 314.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 0.00000
+            - 180.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - 1000.00000
+            - 0.00000
+            - 0.00000
     !h mRemakeFtrWallScaleArray[].f32:
       - 18.50000
       - 15.00000
@@ -456,6 +503,42 @@ root:
           !h mOffset.V3f:
             - 400.00000
             - -10.00000
+            - 0.00000
+    !h c5a845f: 15.00000
+    !h cd34814: 26.00000
+    !h d0bdf5f:
+      !h mRemakeItemInfoArray[]:
+        - !h mVirtualCameraAngle.V3f:
+            - 10.00000
+            - 0.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - -400.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 10.00000
+            - 90.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - -140.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 10.00000
+            - 180.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - 140.00000
+            - 0.00000
+            - 0.00000
+        - !h mVirtualCameraAngle.V3f:
+            - 10.00000
+            - -90.00000
+            - 0.00000
+          !h mOffset.V3f:
+            - 400.00000
+            - 0.00000
             - 0.00000
     !h mRemakeFtrWallArray[]:
       - !h mRemakeItemInfoArray[]:

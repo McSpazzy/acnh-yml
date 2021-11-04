@@ -1,0 +1,89 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 267855bd:
+    - !h mLightType.Enum: ポイントライト
+      !h mIsNightLight.bool: true
+      !h mIsCandle.bool: false
+      !h mPos.V3f:
+        - 0.00000
+        - 15.00000
+        - 2.00000
+      !h mRadiusOffset.f32: 1.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.80000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 10.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mCycleAR.f32: 0.09000
+      !h mBindBoneName.Str: Root
+      !h mCycleB.f32: 0.05000
+      !h mCycleBR.f32: 0.00300
+      !h mIntensity.f32: 10.00000
+      !h mRadius.f32: 22.00000
+      !h mIsForceVisible.bool: false
+      !h mCycleA.f32: 0.20000
+      !h mIsCandleColor.bool: false
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: true
+      !h mPos.V3f:
+        - -16.30000
+        - 25.10000
+        - -13.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.80000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 20.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - -0.20000
+        - -1.00000
+        - 0.00000
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 8.00000
+      !h mIsForceVisible.bool: false
+      !h mFovy.f32: 0.78540
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: true
+      !h mPos.V3f:
+        - 16.30000
+        - 25.10000
+        - -13.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.80000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 20.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - 0.20000
+        - -1.00000
+        - 0.00000
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 8.00000
+      !h mIsForceVisible.bool: false
+      !h mFovy.f32: 0.78540
+      !h mIsUseMaterialColor.bool: false

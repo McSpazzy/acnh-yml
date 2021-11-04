@@ -187,6 +187,13 @@ root:
         !h mDofVignettingBlendType.bool: false
         !h mIdrEnvType.s32: !l 0
         !h mPaletteName.Str: Inside_Structure_MuseumArt01_OR
+      - !h mIdrName.Str: IdrWherearenOffice
+        !h mPaletteSetName.Str: StructureInside_WherearenOffice0
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: Inside_Structure_Office
       - !h mIdrName.Str: IdrDream
         !h mPaletteSetName.Str: DefaultName
         !h mColorCorrectType.Enum: cRoomInside
@@ -194,3 +201,24 @@ root:
         !h mDofVignettingBlendType.bool: false
         !h mIdrEnvType.s32: !l 0
         !h mPaletteName.Str: Inside_Structure_Dream_OR
+      - !h mIdrName.Str: IdrWherearenOffice_1
+        !h mPaletteSetName.Str: StructureInside_WherearenOffice0
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: DefaultName
+      - !h mIdrName.Str: IdrMuseumEnt03
+        !h mPaletteSetName.Str: StructureInside_MuseumEnt01
+        !h mColorCorrectType.Enum: cStrMuseumEnt
+        !h mIdrEffectEnvType.Enum: 時間連動
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: DefaultName
+      - !h mIdrName.Str: IdrMuseumCafe
+        !h mPaletteSetName.Str: StructureInside_MuseumCafe0
+        !h mColorCorrectType.Enum: cRoomInside
+        !h mIdrEffectEnvType.Enum: 昼
+        !h mDofVignettingBlendType.bool: false
+        !h mIdrEnvType.s32: !l 1
+        !h mPaletteName.Str: DefaultName

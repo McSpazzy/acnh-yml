@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 1fad03bb:
+    !h mWall.u16: !l 71
+    !h mCurtain.u16: !l 1
+    !h mDeco: {!h mItemNameParam.u64: !l 65534}
+    !h mRoof.u16: !l 42
+    !h mShape.u16: !l 1
+    !h mDoor.u16: !l 226

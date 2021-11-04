@@ -1,0 +1,83 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 74f38a1c:
+    !h mParamsBuffer[]:
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - -0.00916
+            - 0.10000
+            - 0.23792
+            - 0.40000
+            - 0.33966
+            - 0.72271
+            - 0.28942
+            - 0.95000
+            - 0.13721
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: CameraDemoNpcUpRP
+        !h mFrame.s32: !l 180
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - -0.00916
+            - 0.10000
+            - 0.23792
+            - 0.40000
+            - 0.33966
+            - 0.72271
+            - 0.28942
+            - 0.95000
+            - 0.13721
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: EntranceTalk_EventFtrWall
+        !h mFrame.s32: !l 50
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.10614
+            - 0.20000
+            - 0.32327
+            - 0.55000
+            - 0.44235
+            - 0.90000
+            - 0.25272
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: Complete_Smooth
+        !h mFrame.s32: !l 240
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.10614
+            - 0.36990
+            - 0.65611
+            - 0.76990
+            - 0.24206
+            - 0.88714
+            - 0.11211
+            - 0.95955
+            - 0.07391
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: Complete_FastSlow
+        !h mFrame.s32: !l 90
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.10614
+            - 0.06929
+            - 0.09033
+            - 0.28415
+            - 0.43672
+            - 0.85656
+            - 0.44824
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: Complete_SlowFast
+        !h mFrame.s32: !l 90

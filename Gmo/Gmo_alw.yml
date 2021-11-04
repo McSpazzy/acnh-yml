@@ -675,9 +675,9 @@ root:
           - 0.00000
         !h mTrans.V3f:
           - 0.00000
+          - 0.23852
           - 0.00000
-          - 0.00000
-        !h mScale.f32: 1.06159
+        !h mScale.f32: 0.84288
       !h Branch:
         !h mRotate.V3f:
           - 0.00000

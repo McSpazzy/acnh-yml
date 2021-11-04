@@ -1,0 +1,83 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 2cb6bd7f:
+    !h mCookingRangeLUZ.u8: !l 32
+    !h mWall: {!h mItemNameParam.u64: !l 5400}
+    !h mDIYWorkbench:
+      !h mUnitZ.u8: !l 32
+      !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884968665}
+      !h mUnitX.u8: !l 26
+      !h mLayer.u8: !l 0
+    !h mDIYRangeHeight.u8: !l 4
+    !h mDIYRangeLUZ.u8: !l 32
+    !h mCookingRangeHeight.u8: !l 4
+    !h mCookingRangeLUX.u8: !l 26
+    !h mKitchen:
+      !h mUnitZ.u8: !l 32
+      !h mItemSaveParam: {!h mItemNameParam.u64: !l 69151}
+      !h mUnitX.u8: !l 26
+      !h mLayer.u8: !l 0
+    !h mLifePoint.f32: 11.93752
+    !h mHobbyPoint.f32: 4.04658
+    !h mFtrList[]:
+      - !h mUnitZ.u8: !l 29
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 134855}
+        !h mUnitX.u8: !l 30
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 3784}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562949953422106}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294980303}
+        !h mUnitX.u8: !l 36
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589935431}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294974749}
+        !h mUnitX.u8: !l 26
+        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 29
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 137439086394}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 30064970234}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 30064839162}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 78542}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 32
+        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 137439020758}
+        !h mUnitX.u8: !l 31
+        !h mLayer.u8: !l 1
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5790}
+        !h mUnitX.u8: !l 28
+        !h mLayer.u8: !l 0
+      - !h mUnitZ.u8: !l 26
+        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5790}
+        !h mUnitX.u8: !l 34
+        !h mLayer.u8: !l 0
+    !h mFloor: {!h mItemNameParam.u64: !l 5069}
+    !h mMusic: {!h mItemNameParam.u64: !l 7666}
+    !h mCookingRangeWidth.u8: !l 4
+    !h mFloorRotate.u8: !l 0
+    !h mDIYRangeLUX.u8: !l 26
+    !h mDIYRangeWidth.u8: !l 4

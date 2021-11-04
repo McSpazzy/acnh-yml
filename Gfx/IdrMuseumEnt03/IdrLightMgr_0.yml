@@ -1,0 +1,398 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h IdrLightMgrParam:
+    !h mPointLightParam[]:
+      - !h mIsEnable.bool: true
+        !h mName.Str: 喫茶看板
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mIsCandle.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.95000
+              - 0.90000
+              - 1.00000
+            !h mPos.V3f:
+              - 125.00000
+              - 29.00000
+              - 115.00000
+            !h mRadiusOffset.f32: 1.00000
+            !h mSize.f32: 2.00000
+            !h mColorOffset.C4f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mCycleAR.f32: 0.09000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mCycleB.f32: 0.05000
+            !h mCycleBR.f32: 0.00300
+            !h mIntensity.f32: 6.00000
+            !h mRadius.f32: 20.00000
+            !h mCycleA.f32: 0.20000
+            !h mBindModelName.Str: 
+            !h mIsCandleColor.bool: false
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mIsCandle.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.95000
+              - 0.90000
+              - 1.00000
+            !h mPos.V3f:
+              - 125.00000
+              - 29.00000
+              - 115.00000
+            !h mRadiusOffset.f32: 1.00000
+            !h mSize.f32: 2.00000
+            !h mColorOffset.C4f:
+              - 0.00000
+              - 0.00000
+              - 0.00000
+              - 0.00000
+            !h mCycleAR.f32: 0.09000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mCycleB.f32: 0.05000
+            !h mCycleBR.f32: 0.00300
+            !h mIntensity.f32: 6.00000
+            !h mRadius.f32: 20.00000
+            !h mCycleA.f32: 0.20000
+            !h mBindModelName.Str: 
+            !h mIsCandleColor.bool: false
+    !h mSpotLightParam[]:
+      - !h mIsEnable.bool: true
+        !h mName.Str: 廊下ライト左
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 108.00000
+              - 28.52148
+              - 222.50000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.52400
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 1.39626
+            !h mBindModelName.Str: 
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 108.00000
+              - 28.52148
+              - 222.50000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.52400
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 1.39626
+            !h mBindModelName.Str: 
+      - !h mIsEnable.bool: true
+        !h mName.Str: 廊下ライト右
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 212.00000
+              - 28.52148
+              - 222.50000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.52400
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 1.39626
+            !h mBindModelName.Str: 
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 212.00000
+              - 28.52148
+              - 222.50000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.52400
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 1.39626
+            !h mBindModelName.Str: 
+      - !h mIsEnable.bool: true
+        !h mName.Str: スカイライト
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.90000
+              - 0.70000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 210.00000
+              - 145.80000
+            !h mSize.f32: 170.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - 0.24000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 235.00000
+            !h mIntensity.f32: 40.00000
+            !h mFovy.f32: 1.57080
+            !h mBindModelName.Str: 
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 0.80000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 210.00000
+              - 145.80000
+            !h mSize.f32: 170.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - 0.24000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 235.00000
+            !h mIntensity.f32: 12.00000
+            !h mFovy.f32: 0.69813
+            !h mBindModelName.Str: 
+      - !h mIsEnable.bool: true
+        !h mName.Str: 照り返しライト
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.80000
+              - 0.60000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 1.28000
+              - 330.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.44000
+              - -2.00000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 145.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 1.39626
+            !h mBindModelName.Str: 
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 1.00000
+              - 1.00000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 0.00000
+              - 330.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - 0.44000
+              - -2.00000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 145.00000
+            !h mIntensity.f32: 1.00000
+            !h mFovy.f32: 1.39626
+            !h mBindModelName.Str: "\t\t"
+      - !h mIsEnable.bool: true
+        !h mName.Str: 廊下ライト中央
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 41.59808
+              - 156.44490
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.43600
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 0.87267
+            !h mBindModelName.Str: 
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 41.59808
+              - 156.44490
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.43600
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 0.87267
+            !h mBindModelName.Str: 
+      - !h mIsEnable.bool: true
+        !h mName.Str: 天井ライト
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.80000
+              - 0.40000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 35.26400
+              - 164.76800
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00100
+              - 1.00000
+              - 0.00000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 200.00000
+            !h mIntensity.f32: 0.00000
+            !h mFovy.f32: 2.61799
+            !h mBindModelName.Str: 
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.80000
+              - 0.40000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 35.26400
+              - 164.76800
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00100
+              - 1.00000
+              - 0.00000
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 200.00000
+            !h mIntensity.f32: 40.00000
+            !h mFovy.f32: 2.61799
+            !h mBindModelName.Str: 
+      - !h mIsEnable.bool: true
+        !h mName.Str: 廊下ライト二階
+        !h mParam[]:
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 88.00000
+              - 127.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.43600
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 0.87267
+            !h mBindModelName.Str: 
+          - !h mIsNightLight.bool: false
+            !h mIsEnable.bool: false
+            !h mColor.C4f:
+              - 1.00000
+              - 0.60000
+              - 0.20000
+              - 1.00000
+            !h mPos.V3f:
+              - 160.00000
+              - 88.00000
+              - 127.00000
+            !h mSize.f32: 0.00000
+            !h mDir.V3f:
+              - 0.00000
+              - -1.00000
+              - -0.43600
+            !h mBindBoneName.Str: 
+            !h mName.Str: DefaultName
+            !h mFar.f32: 50.00000
+            !h mIntensity.f32: 18.00000
+            !h mFovy.f32: 0.87267
+            !h mBindModelName.Str: 

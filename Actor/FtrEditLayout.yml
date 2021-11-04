@@ -9,6 +9,7 @@ root:
     !h mRotate180DownFrame.u8: !l 3
     !h mInteriorInterpolateFrame.u8: !l 20
     !h mWallInterpolateThresholdAngle.u32: !l 85
+    !h 3a2d3e65: !l 1
     !h mMaterialFillColor.C4f:
       - 1.00000
       - 1.00000
@@ -72,7 +73,7 @@ root:
     !h mDragOffsetOnWall.f32: 5.00000
     !h mStickFactorRangeSpecial.Rangef:
       - 0.10000
-      - 1.80000
+      - 2.30000
     !h mRotate180Height.f32: 10.00000
     !h mWallOverideInterpolateFrame.u8: !l 40
     !h mStickFactorValidArea.Rangef:

@@ -1,0 +1,45 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h e8c5765b:
+    !h mParamsBuffer[]:
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: EventRadioGymnastics
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.20000
+        !h mOffset.V3f:
+          - 0.00000
+          - 3.80000
+          - 0.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 25.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 155.00000
+        !h mAngle.V3f:
+          - 20.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 400.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: EventRadioGymnasticsBehind
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.20000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 2.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 25.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 155.00000
+        !h mAngle.V3f:
+          - 35.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 400.00000

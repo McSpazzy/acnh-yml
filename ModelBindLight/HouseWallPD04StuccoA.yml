@@ -1,0 +1,87 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 34c42e10:
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: true
+      !h mPos.V3f:
+        - 0.00000
+        - 20.50000
+        - 7.20000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.80000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 23.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - 0.00000
+        - -1.00000
+        - -1.70400
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 32.00000
+      !h mIntensity.f32: 6.00000
+      !h mIsForceVisible.bool: false
+      !h mFovy.f32: 1.91986
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: true
+      !h mPos.V3f:
+        - -17.90000
+        - 24.70000
+        - -13.90000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.80000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 20.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - -0.20000
+        - -1.00000
+        - 0.00000
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 8.00000
+      !h mIsForceVisible.bool: false
+      !h mFovy.f32: 0.78540
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: true
+      !h mPos.V3f:
+        - 17.90000
+        - 24.70000
+        - -13.90000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.80000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 20.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - 0.20000
+        - -1.00000
+        - 0.00000
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 8.00000
+      !h mIsForceVisible.bool: false
+      !h mFovy.f32: 0.78540
+      !h mIsUseMaterialColor.bool: false

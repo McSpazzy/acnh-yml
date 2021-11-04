@@ -2529,3 +2529,141 @@ root:
               - -15.00000
               - -10.60000
             !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: ピラニア水槽判定用パス
+        !h mAquariumID.s32: !l 4
+        !h mCenterPinPos.V3f:
+          - 271.53520
+          - 23.61021
+          - 207.03400
+        !h mIsUseLocatorPos.bool: false
+        !h mPointBuffer[]:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 2.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - 21.71774
+              - 0.79801
+              - 17.69032
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 6.00000
+            !h mCorrectRadius.f32: 10.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - 25.72739
+              - -3.18386
+              - 43.39120
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 6.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - 4.64462
+              - -8.52893
+              - 43.45425
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 6.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - -41.61859
+              - -6.81118
+              - -3.93417
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 5.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - -41.74631
+              - -4.53757
+              - -42.69691
+            !h mSecondDistination.s32: !l -1
+      - !h mLocatorID.s32: !l -1
+        !h mPassName.Str: グッピー水槽判定用パス
+        !h mAquariumID.s32: !l 5
+        !h mCenterPinPos.V3f:
+          - 40.00000
+          - 14.00000
+          - 208.00000
+        !h mIsUseLocatorPos.bool: false
+        !h mPointBuffer[]:
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 3.00000
+            !h mFirstDistination.s32: !l 1
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - 19.15781
+              - -4.16625
+              - 20.55466
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 3.00000
+            !h mFirstDistination.s32: !l 2
+            !h mIsSpActionPoint.bool: true
+            !h mPoint.V3f:
+              - 4.19562
+              - -4.66641
+              - 20.27281
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 3.00000
+            !h mFirstDistination.s32: !l 3
+            !h mIsSpActionPoint.bool: true
+            !h mPoint.V3f:
+              - -1.08754
+              - -3.83659
+              - 13.90533
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 3.00000
+            !h mFirstDistination.s32: !l 4
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - -2.07501
+              - -4.37061
+              - 4.73811
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 3.00000
+            !h mCorrectRadius.f32: 3.00000
+            !h mFirstDistination.s32: !l 5
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - 1.11234
+              - -5.23221
+              - -2.95989
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 2.00000
+            !h mCorrectRadius.f32: 4.00000
+            !h mFirstDistination.s32: !l 6
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - 11.34362
+              - -5.37453
+              - -6.09009
+            !h mSecondDistination.s32: !l -1
+          - !h mThirdDistination.s32: !l -1
+            !h mPosOffset.f32: 0.00000
+            !h mCorrectRadius.f32: 20.00000
+            !h mFirstDistination.s32: !l 0
+            !h mIsSpActionPoint.bool: false
+            !h mPoint.V3f:
+              - 20.93108
+              - -5.92790
+              - -1.74947
+            !h mSecondDistination.s32: !l -1

@@ -1,0 +1,16 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: EfInvalid, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 2
+        !h mPath.Str: /L_Btn
+        !h mGroupName.Str: Btn
+    !h mUserName.Str: UI_InsectCheck
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

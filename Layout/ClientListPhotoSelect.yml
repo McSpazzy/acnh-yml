@@ -1,0 +1,18 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: Entry, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: /L_PhotoBtn
+        !h mGroupName.Str: PhotoButton
+    !h mUserName.Str: UI_ClientListPhotoSelect
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]:
+      - {!h mTagName.Str: EntryL, !h mAnimOpeOption.Bit: !l 0}
+      - {!h mTagName.Str: EntryR, !h mAnimOpeOption.Bit: !l 0}

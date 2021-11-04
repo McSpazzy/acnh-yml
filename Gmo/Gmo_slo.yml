@@ -328,6 +328,16 @@ root:
       - 15.92500
       - 6.00000
     !h mToolParamsArray:
+      !h Trwl:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Fpan:
         !h mRotate.V3f:
           - 0.00000
@@ -368,6 +378,16 @@ root:
           - 0.00000
           - 0.00000
         !h mScale.f32: 0.99332
+      !h Pitc:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.03315
+          - 0.00000
+          - 0.39590
+        !h mScale.f32: 1.00000
       !h Cop:
         !h mRotate.V3f:
           - 0.00000
@@ -379,6 +399,16 @@ root:
           - 0.00000
         !h mScale.f32: 0.97031
       !h HandLens:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
+      !h GlDr:
         !h mRotate.V3f:
           - 0.00000
           - 0.00000
@@ -498,6 +528,16 @@ root:
           - 0.00000
           - 0.00000
         !h mScale.f32: 0.97039
+      !h SwRing:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h HighBagHand:
         !h mRotate.V3f:
           - 0.00000
@@ -514,9 +554,9 @@ root:
           - 0.00000
           - 0.00000
         !h mTrans.V3f:
-          - 0.00000
-          - 0.00000
-          - 0.00000
+          - -0.37825
+          - -0.36201
+          - -0.08288
         !h mScale.f32: 1.00000
       !h Dh:
         !h mRotate.V3f:
@@ -688,6 +728,26 @@ root:
           - 0.00000
           - 0.00000
         !h mScale.f32: 0.92294
+      !h DStk:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - -0.74547
+          - 0.22781
+        !h mScale.f32: 1.00000
+      !h SpnR:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Hammer:
         !h mRotate.V3f:
           - 0.00000
@@ -735,9 +795,19 @@ root:
           - 0.00000
         !h mTrans.V3f:
           - 0.00000
-          - 0.00000
+          - 1.02026
           - 0.00000
         !h mScale.f32: 0.97345
+      !h Cnut:
+        !h mRotate.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mTrans.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 1.00000
       !h Firework:
         !h mRotate.V3f:
           - 0.00000

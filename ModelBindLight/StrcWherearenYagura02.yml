@@ -1,0 +1,37 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h dba33dc9:
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: true
+      !h mPos.V3f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.67000
+        - 0.45000
+        - 1.00000
+      !h cParamCameraCatcher: mFlagA
+      !h mSize.f32: 0.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - 1.00000
+        - 0.00000
+        - 0.00000
+      !h mBindBoneName.Str: Light00
+      !h mFar.f32: 200.00000
+      !h mIntensity.f32: 10.00000
+      !h a655037a: true
+      !h mIsForceVisible.bool: true
+      !h mFovy.f32: 0.69813
+      !h mMaterialColorParam.Enum: const_color0
+      !h d257925a: const_float0
+      !h mIsUseMaterialColor.bool: true

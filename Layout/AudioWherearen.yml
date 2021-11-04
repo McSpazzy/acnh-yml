@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: Volume_00, !h mGroupName.Str: VolumeDown}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: Volume_01, !h mGroupName.Str: VolumeUp}
+    !h mUserName.Str: UI_AudioPlayer
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

@@ -1,0 +1,1166 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 6a1ae86e:
+    !h mParamsBuffer[]:
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: CameraArea:0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.70000
+        !h mOffset.V3f:
+          - -4.80000
+          - 12.00000
+          - 11.52000
+        !h mDOFStart.f32: 170.00000
+        !h mDrumAngle.f32: 30.00000
+        !h mDOFIntensity.f32: 1.60000
+        !h mFovy.f32: 25.00000
+        !h mDistance.f32: 72.00000
+        !h mAngle.V3f:
+          - 21.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 240.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: CameraArea:1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 80.00000
+          - -3.00000
+          - -6.00000
+        !h mDOFStart.f32: 170.00000
+        !h mDrumAngle.f32: 17.00000
+        !h mDOFIntensity.f32: 0.31000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 265.00000
+        !h mAngle.V3f:
+          - 43.00000
+          - -30.00000
+          - -15.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 240.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: CameraArea:2
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 16.00000
+          - 23.00000
+          - 20.00000
+        !h mDOFStart.f32: 170.00000
+        !h mDrumAngle.f32: 25.00000
+        !h mDOFIntensity.f32: 1.00000
+        !h mFovy.f32: 28.00000
+        !h mDistance.f32: 100.00000
+        !h mAngle.V3f:
+          - 18.00000
+          - 10.00000
+          - 3.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 240.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OrderCut0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 25.00000
+          - 1.50000
+          - -15.00000
+        !h mDOFStart.f32: 170.00000
+        !h mDrumAngle.f32: 4.00000
+        !h mDOFIntensity.f32: 1.50000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 95.00000
+        !h mAngle.V3f:
+          - 11.50000
+          - -34.00000
+          - -1.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 240.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OrderCut0_1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 23.00000
+          - 11.00000
+          - -15.00000
+        !h mDOFStart.f32: 170.00000
+        !h mDrumAngle.f32: 4.00000
+        !h mDOFIntensity.f32: 1.50000
+        !h mFovy.f32: 25.00000
+        !h mDistance.f32: 92.00000
+        !h mAngle.V3f:
+          - -2.00000
+          - -27.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 240.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OrderCut1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 15.30000
+          - -3.00000
+          - -37.12000
+        !h mDOFStart.f32: 170.00000
+        !h mDrumAngle.f32: 4.00000
+        !h mDOFIntensity.f32: 1.50000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 130.00000
+        !h mAngle.V3f:
+          - 14.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 240.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: ChocolateDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -15.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 180.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 108.00000
+        !h mAngle.V3f:
+          - 15.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 220.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilitySchoolCeremonyDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -12.00000
+          - 10.00000
+          - 9.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 120.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityRestaurantCeremonyDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -25.00000
+          - 10.00000
+          - 9.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 120.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityCafeCeremonyDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -15.00000
+          - 9.00000
+          - 9.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 100.00000
+        !h mAngle.V3f:
+          - 11.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityHospitalCeremonyDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -15.00000
+          - 8.00000
+          - 9.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 115.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 190.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityTailorCeremonyDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -12.00000
+          - 9.00000
+          - 9.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 11.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: SchoolEditStartDemo_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 8.00000
+          - 38.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 80.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilitySchoolEditStartDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 8.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 120.00000
+        !h mAngle.V3f:
+          - 8.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: RestaurantEditStartDemo_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 7.50000
+          - 38.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 80.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityRestaurantEditStartDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 7.50000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 120.00000
+        !h mAngle.V3f:
+          - 8.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: CafeEditStartDemo_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 8.00000
+          - 38.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 80.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityCafeEditStartDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 7.50000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: HospitalEditStartDemo_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 8.00000
+          - 38.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 75.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityHospitalEditStartDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 8.00000
+          - 9.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 105.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: TailorEditStartDemo_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 7.60000
+          - 38.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 80.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: FacilityTailorEditStartDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 7.60000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 200.00000
+        !h mDrumAngle.f32: 20.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 11.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 210.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: EnvSoundGetDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 5.50000
+          - 8.40000
+          - 0.00000
+        !h mDOFStart.f32: 400.00000
+        !h mDrumAngle.f32: 15.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 32.00000
+        !h mDistance.f32: 80.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 8.00000
+          - 2.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 600.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: EnvSoundGetDemoPlayerCenter
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - 0.00000
+        !h mDOFStart.f32: 400.00000
+        !h mDrumAngle.f32: 25.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 18.00000
+        !h mDistance.f32: 140.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 600.00000
+      - !h mDOFNearEnd.f32: 93.00000
+        !h mKey.Str: EnvSoundGetDemoPlayerUp
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 7.00000
+          - 0.00000
+        !h mDOFStart.f32: 400.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 16.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 17.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 78.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: EnvSoundDemoSwim
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -3.20000
+          - -5.00000
+          - 20.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 25.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 160.00000
+        !h mAngle.V3f:
+          - 30.00000
+          - 10.00000
+          - 2.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: TakeOrderDemo
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - -1.00000
+          - 9.00000
+          - -8.00000
+        !h mDOFStart.f32: 417.00000
+        !h mDrumAngle.f32: 28.00000
+        !h mDOFIntensity.f32: 1.50000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 170.00000
+        !h mAngle.V3f:
+          - 33.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 310.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OPCut0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - -12.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 20.00000
+        !h mDistance.f32: 80.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OPCut1_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 15.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 5.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OPCut1_1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 15.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 5.00000
+          - -12.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OPCut2_0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - -4.00000
+          - 12.00000
+          - -110.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 90.00000
+        !h mAngle.V3f:
+          - -2.00000
+          - 7.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OPCut2_1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - -4.00000
+          - 12.00000
+          - -110.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 130.00000
+        !h mAngle.V3f:
+          - -2.00000
+          - 7.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesNoticeStart
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 60.00000
+          - -20.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 30.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 140.00000
+        !h mAngle.V3f:
+          - 48.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesNotice
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 15.00000
+        !h mDOFIntensity.f32: 2.50000
+        !h mFovy.f32: 30.00000
+        !h mDistance.f32: 85.00000
+        !h mAngle.V3f:
+          - 10.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesZoomKK
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 12.00000
+          - 0.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 15.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 30.00000
+        !h mDistance.f32: 50.00000
+        !h mAngle.V3f:
+          - 5.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesZoomOutKK
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 15.00000
+          - 107.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 15.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 30.00000
+        !h mDistance.f32: 85.00000
+        !h mAngle.V3f:
+          - 12.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesIntroCut0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 8.00000
+          - -5.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 25.00000
+        !h mDistance.f32: 90.00000
+        !h mAngle.V3f:
+          - 30.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesIntroCut1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 25.00000
+          - 20.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 28.00000
+        !h mDistance.f32: 155.00000
+        !h mAngle.V3f:
+          - 35.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesOutroStart
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 15.00000
+          - 0.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 16.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 12.00000
+        !h mDistance.f32: 200.00000
+        !h mAngle.V3f:
+          - 40.00000
+          - 5.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesOutroEnd
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 35.00000
+          - -10.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 16.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 29.00000
+        !h mDistance.f32: 275.00000
+        !h mAngle.V3f:
+          - 60.00000
+          - -5.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut0
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 55.00000
+          - 40.00000
+          - 118.00000
+        !h mDOFStart.f32: 422.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 260.00000
+        !h mAngle.V3f:
+          - 40.00000
+          - -2.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 720.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut0End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 54.00000
+          - 5.00000
+          - 118.00000
+        !h mDOFStart.f32: 422.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 260.00000
+        !h mAngle.V3f:
+          - 35.00000
+          - 2.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 720.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - -30.00000
+          - 0.00000
+          - 37.00000
+        !h mDOFStart.f32: 400.00000
+        !h mDrumAngle.f32: 30.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 26.00000
+        !h mDistance.f32: 140.00000
+        !h mAngle.V3f:
+          - 2.00000
+          - 6.00000
+          - -5.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut1End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 37.00000
+        !h mDOFStart.f32: 400.00000
+        !h mDrumAngle.f32: 30.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 140.00000
+        !h mAngle.V3f:
+          - 2.00000
+          - -3.00000
+          - -4.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut2
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 20.00000
+          - 7.00000
+          - 0.00000
+        !h mDOFStart.f32: 150.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 28.00000
+        !h mDistance.f32: 100.00000
+        !h mAngle.V3f:
+          - 35.00000
+          - 15.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 200.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut2End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 20.00000
+          - 8.00000
+          - 65.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 10.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 28.00000
+        !h mDistance.f32: 100.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - -5.00000
+          - 2.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut3
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - -20.00000
+          - 5.00000
+          - 100.00000
+        !h mDOFStart.f32: 250.00000
+        !h mDrumAngle.f32: 8.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 30.00000
+        !h mDistance.f32: 65.00000
+        !h mAngle.V3f:
+          - 3.00000
+          - -25.00000
+          - -2.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut3End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - -10.00000
+          - 25.00000
+          - 120.00000
+        !h mDOFStart.f32: 250.00000
+        !h mDrumAngle.f32: 8.00000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 25.00000
+        !h mDistance.f32: 60.00000
+        !h mAngle.V3f:
+          - 40.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut4
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 50.00000
+          - 5.00000
+          - 110.00000
+        !h mDOFStart.f32: 350.00000
+        !h mDrumAngle.f32: 15.50000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 25.00000
+        !h mDistance.f32: 185.00000
+        !h mAngle.V3f:
+          - 15.00000
+          - 10.00000
+          - 2.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut4End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 20.00000
+          - 16.00000
+          - 110.00000
+        !h mDOFStart.f32: 350.00000
+        !h mDrumAngle.f32: 15.50000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 13.00000
+        !h mDistance.f32: 185.00000
+        !h mAngle.V3f:
+          - 20.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut5
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - -70.00000
+          - 27.00000
+          - 110.00000
+        !h mDOFStart.f32: 330.00000
+        !h mDrumAngle.f32: 11.00000
+        !h mDOFIntensity.f32: 1.40000
+        !h mFovy.f32: 27.00000
+        !h mDistance.f32: 185.00000
+        !h mAngle.V3f:
+          - 16.00000
+          - 5.00000
+          - 1.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 600.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut5End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - -10.00000
+          - 27.00000
+          - 110.00000
+        !h mDOFStart.f32: 330.00000
+        !h mDrumAngle.f32: 11.00000
+        !h mDOFIntensity.f32: 1.40000
+        !h mFovy.f32: 27.00000
+        !h mDistance.f32: 185.00000
+        !h mAngle.V3f:
+          - 16.00000
+          - 5.00000
+          - 1.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 600.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut6
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 40.00000
+          - 5.00000
+          - 120.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 15.50000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 20.00000
+        !h mDistance.f32: 185.00000
+        !h mAngle.V3f:
+          - 55.00000
+          - 10.00000
+          - 15.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut6End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 30.00000
+          - 5.00000
+          - 65.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 15.50000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 185.00000
+        !h mAngle.V3f:
+          - 55.00000
+          - -10.00000
+          - 10.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut7
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 20.00000
+          - 8.00000
+          - 106.88000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 7.60000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 25.00000
+        !h mDistance.f32: 62.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 22.00000
+          - -5.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: KKFesDemoLiveCut7End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 5.00000
+          - 9.00000
+          - 120.00000
+        !h mDOFStart.f32: 260.00000
+        !h mDrumAngle.f32: 15.50000
+        !h mDOFIntensity.f32: 2.00000
+        !h mFovy.f32: 30.00000
+        !h mDistance.f32: 43.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - -10.00000
+          - -10.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 500.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: PostKKFesTalk
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -5.00000
+          - 3.00000
+          - 0.00000
+        !h mDOFStart.f32: 500.00000
+        !h mDrumAngle.f32: 30.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 130.00000
+        !h mAngle.V3f:
+          - 23.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 200.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: BridgeForceTalk
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - -17.60000
+          - 0.00000
+          - -15.68000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 105.00000
+        !h mAngle.V3f:
+          - 25.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: OtgSickBridge
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 120.00000
+        !h mAngle.V3f:
+          - 25.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: Landing0Start
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 110.00000
+          - 0.00000
+          - -80.00000
+        !h mDOFStart.f32: 0.00000
+        !h mDrumAngle.f32: 1.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 260.00000
+        !h mAngle.V3f:
+          - 50.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 0.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: Landing0End
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - -190.00000
+          - 0.00000
+          - 300.00000
+        !h mDOFStart.f32: 0.00000
+        !h mDrumAngle.f32: 1.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 260.00000
+        !h mAngle.V3f:
+          - 50.00000
+          - 0.00000
+          - 10.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 0.00000

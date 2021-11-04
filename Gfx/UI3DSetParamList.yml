@@ -117,7 +117,7 @@ root:
           - -176.00000
           - 0.00000
         !h mScale.f32: 9.20000
-      - !h mSpecialEnvPaletteName.Str: 
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_FenceRemake_OR
         !h mVirtualCameraAngleY.f32: 0.00000
         !h mPlayerLookPos.V3f:
           - 0.00000
@@ -245,3 +245,163 @@ root:
           - -165.00000
           - 0.00000
         !h mScale.f32: 22.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: WherearenCast
+        !h mEnvPaletteName.Str: ModelOnUI_CharaMake_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mScale.f32: 15.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: -0.34907
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: NatteeCatalog
+        !h mEnvPaletteName.Str: ModelOnUI_Catalog_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
+          - -320.00000
+          - -165.00000
+          - 0.00000
+        !h mScale.f32: 22.00000
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_PlayerHouse_Night_OR
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: NpcHouseCustom
+        !h mEnvPaletteName.Str: ModelOnUI_PlayerHouse_OR
+        !h mPerspectiveProjectionFovy.f32: 45.00000
+        !h mPosition.V3f:
+          - -338.00000
+          - -176.00000
+          - 0.00000
+        !h mScale.f32: 9.20000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: CookingTable
+        !h mEnvPaletteName.Str: ModelOnUI_Cook_OR
+        !h mPerspectiveProjectionFovy.f32: 10.00000
+        !h mPosition.V3f:
+          - -240.00000
+          - -140.00000
+          - 0.00000
+        !h mScale.f32: 36.00000
+      - !h mSpecialEnvPaletteName.Str: 
+        !h mVirtualCameraAngleY.f32: 0.00000
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.17453
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: ClosetSpNpc
+        !h mEnvPaletteName.Str: ModelOnUI_CharaMake_OR
+        !h mPerspectiveProjectionFovy.f32: 5.00000
+        !h mPosition.V3f:
+          - 0.00000
+          - -240.00000
+          - 0.00000
+        !h mScale.f32: 23.00000
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_PlayerHouse_Night_OR
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: FacilitySchool
+        !h mEnvPaletteName.Str: ModelOnUI_PlayerHouse_OR
+        !h mPerspectiveProjectionFovy.f32: 45.00000
+        !h mPosition.V3f:
+          - -370.00000
+          - -220.00000
+          - 0.00000
+        !h mScale.f32: 9.30000
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_PlayerHouse_Night_OR
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: FacilityHospital
+        !h mEnvPaletteName.Str: ModelOnUI_PlayerHouse_OR
+        !h mPerspectiveProjectionFovy.f32: 45.00000
+        !h mPosition.V3f:
+          - -340.00000
+          - -210.00000
+          - 0.00000
+        !h mScale.f32: 9.30000
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_PlayerHouse_Night_OR
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: FacilityRestaurant
+        !h mEnvPaletteName.Str: ModelOnUI_PlayerHouse_OR
+        !h mPerspectiveProjectionFovy.f32: 45.00000
+        !h mPosition.V3f:
+          - -390.00000
+          - -220.00000
+          - 0.00000
+        !h mScale.f32: 9.30000
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_PlayerHouse_Night_OR
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: FacilityCafe
+        !h mEnvPaletteName.Str: ModelOnUI_PlayerHouse_OR
+        !h mPerspectiveProjectionFovy.f32: 45.00000
+        !h mPosition.V3f:
+          - -320.00000
+          - -210.00000
+          - 0.00000
+        !h mScale.f32: 9.30000
+      - !h mSpecialEnvPaletteName.Str: ModelOnUI_PlayerHouse_Night_OR
+        !h mVirtualCameraAngleY.f32: -0.26180
+        !h mPlayerLookPos.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mVirtualCameraAngleX.f32: 0.00000
+        !h mVirtualCameraAngleZ.f32: 0.00000
+        !h mParamName.Str: FacilityTailor
+        !h mEnvPaletteName.Str: ModelOnUI_PlayerHouse_OR
+        !h mPerspectiveProjectionFovy.f32: 45.00000
+        !h mPosition.V3f:
+          - -310.00000
+          - -210.00000
+          - 0.00000
+        !h mScale.f32: 9.30000

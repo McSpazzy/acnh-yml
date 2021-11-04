@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]: null
+    !h mUserName.Str: UI_NatteeCatalog
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]:
+      - {!h mTagName.Str: ToResults, !h mAnimOpeOption.Bit: !l 0}
+      - {!h mTagName.Str: ToSearch, !h mAnimOpeOption.Bit: !l 0}

@@ -46,6 +46,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 10
         !h mEndDay.s8: !l 30
       !h cWeatherRateTable_1:
@@ -57,6 +61,10 @@ root:
           - !l 16
           - !l 16
           - !l 16
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -132,6 +140,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 11
         !h mEndDay.s8: !l 25
       !h cWeatherRateTable_5:
@@ -143,6 +155,10 @@ root:
           - !l 14
           - !l 18
           - !l 14
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -218,6 +234,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 8
         !h mEndDay.s8: !l 31
       !h cWeatherRateTable_22:
@@ -261,6 +281,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 12
         !h mEndDay.s8: !l 30
       !h cWeatherRateTable_23:
@@ -272,6 +296,10 @@ root:
           - !l 19
           - !l 9
           - !l 8
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -347,6 +375,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 12
         !h mEndDay.s8: !l 9
       !h cWeatherRateTable_4:
@@ -383,6 +415,10 @@ root:
           - !l 2
           - !l 2
           - !l 2
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -433,6 +469,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 10
         !h mEndDay.s8: !l 31
       !h cWeatherRateTable_0:
@@ -476,6 +516,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 1
         !h mEndDay.s8: !l 1
       !h cWeatherRateTable_8:
@@ -506,6 +550,10 @@ root:
           - !l 5
           - !l 3
           - !l 3
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -562,6 +610,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 12
         !h mEndDay.s8: !l 23
       !h cWeatherRateTable_11:
@@ -598,6 +650,10 @@ root:
           - !l 1
           - !l 1
           - !l 1
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -648,6 +704,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 2
         !h mEndDay.s8: !l 23
       !h cWeatherRateTable_15:
@@ -661,6 +721,10 @@ root:
           - !l 10
           - !l 7
           - !l 7
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -734,6 +798,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 6
         !h mEndDay.s8: !l 15
       !h cWeatherRateTable_21:
@@ -775,6 +843,10 @@ root:
           - !l 0
           - !l 0
           - !l 100
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
         !h mEndMonth.s8: !l 12
@@ -820,6 +892,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 12
         !h mEndDay.s8: !l 24
       !h cWeatherRateTable_18:
@@ -840,6 +916,10 @@ root:
           - !l 30
           - !l 40
           - !l 30
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -906,6 +986,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 11
         !h mEndDay.s8: !l 15
       !h cWeatherRateTable_7:
@@ -942,6 +1026,10 @@ root:
           - !l 3
           - !l 3
           - !l 3
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0
@@ -992,6 +1080,10 @@ root:
           - !l 0
           - !l 0
           - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
         !h mEndMonth.s8: !l 9
         !h mEndDay.s8: !l 15
       !h cWeatherRateTable_3:
@@ -1018,6 +1110,10 @@ root:
           - !l 10
           - !l 10
           - !l 10
+          - !l 0
+          - !l 0
+          - !l 0
+          - !l 0
           - !l 0
           - !l 0
           - !l 0

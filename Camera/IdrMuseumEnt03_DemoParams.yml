@@ -1,0 +1,26 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 6c5f695e:
+    !h mParamsBuffer[]:
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: IdrMuseumEnt03
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 24.50000
+          - 7.68000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 125.00000
+        !h mAngle.V3f:
+          - 22.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000

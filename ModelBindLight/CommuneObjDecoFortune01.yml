@@ -1,0 +1,64 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 9d4cd1c8:
+    - !h mLightType.Enum: ポイントライト
+      !h mIsNightLight.bool: false
+      !h mIsCandle.bool: true
+      !h mPos.V3f:
+        - 20.00000
+        - 10.30000
+        - 18.50000
+      !h mRadiusOffset.f32: 0.60000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.67000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 11.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mCycleAR.f32: 0.09000
+      !h mBindBoneName.Str: Root
+      !h mCycleB.f32: 0.05000
+      !h mCycleBR.f32: 0.00300
+      !h mIntensity.f32: 10.00000
+      !h mRadius.f32: 21.00000
+      !h a655037a: false
+      !h mIsForceVisible.bool: false
+      !h mCycleA.f32: 0.20000
+      !h mIsCandleColor.bool: false
+      !h mIsUseMaterialColor.bool: false
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: false
+      !h mPos.V3f:
+        - 20.00000
+        - -6.80000
+        - 19.00000
+      !h mLightColor.C4f:
+        - 0.20000
+        - 0.80000
+        - 1.00000
+        - 1.00000
+      !h mSize.f32: 13.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - 0.00000
+        - 1.00000
+        - -0.52800
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 30.00000
+      !h mIntensity.f32: 15.00000
+      !h a655037a: false
+      !h mIsForceVisible.bool: false
+      !h mFovy.f32: 1.18682
+      !h mIsUseMaterialColor.bool: false

@@ -1,0 +1,25 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: CraftBtn, !h mGroupName.Str: BtnCraft}
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: EquipIn, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: BtnMain
+        !h mGroupName.Str: BtnMain
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: EquipIn, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: BtnSub
+        !h mGroupName.Str: BtnSub
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_DialogCheck_00/L_BtnL_00, !h mGroupName.Str: BtnLeft}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_DialogCheck_00/L_BtnR_00, !h mGroupName.Str: BtnRight}
+    !h mUserName.Str: UI_WorkBenchRemakeSelectAlp
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

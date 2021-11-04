@@ -1,0 +1,6 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h DynamicLightSceneParam: {!h 'mSpotParamArray[]': null, !h 'mPointParamArray[]': null}

@@ -138,6 +138,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 10000.00000
+      !h 22f4daf9:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 14.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 30.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cItemMenuBehind:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -244,7 +263,7 @@ root:
         !h mDOFStart.f32: 4840.00000
         !h mDrumAngle.f32: 35.00000
         !h mDOFIntensity.f32: 0.00000
-        !h mFovy.f32: 32.00000
+        !h mFovy.f32: 34.00000
         !h mDistance.f32: 5.00000
         !h mAngle.V3f:
           - -80.00000
@@ -437,7 +456,7 @@ root:
         !h mFovy.f32: 34.00000
         !h mDistance.f32: 5.00000
         !h mAngle.V3f:
-          - 10.00000
+          - 15.00000
           - 0.00000
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
@@ -776,11 +795,11 @@ root:
         !h mDOFStart.f32: 4840.00000
         !h mDrumAngle.f32: 10.00000
         !h mDOFIntensity.f32: 1.30000
-        !h mFovy.f32: 22.00000
-        !h mDistance.f32: 230.00000
+        !h mFovy.f32: 17.00000
+        !h mDistance.f32: 250.00000
         !h mAngle.V3f:
           - 45.00000
-          - 23.00000
+          - 30.00000
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 9000.00000
@@ -907,7 +926,7 @@ root:
           - 11.00000
           - 0.00000
         !h mDOFStart.f32: 163.00000
-        !h mDrumAngle.f32: 35.00000
+        !h mDrumAngle.f32: 10.00000
         !h mDOFIntensity.f32: 2.50000
         !h mFovy.f32: 22.00000
         !h mDistance.f32: 140.00000
@@ -1040,7 +1059,7 @@ root:
           - 1.00000
           - 0.00000
         !h mDOFStart.f32: 132.00000
-        !h mDrumAngle.f32: 35.00000
+        !h mDrumAngle.f32: 10.00000
         !h mDOFIntensity.f32: 2.50000
         !h mFovy.f32: 22.00000
         !h mDistance.f32: 120.00000
@@ -1126,6 +1145,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 95.00000
         !h mDOFEnd.f32: 199.00000
+      !h afdd9915:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 14.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 18.50000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h b09dec12:
         !h mDOFNearEnd.f32: 0.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -1183,6 +1221,25 @@ root:
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 10000.00000
+      !h b18805e:
+        !h mDOFNearEnd.f32: 0.00000
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 14.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 0.00000
+        !h mFovy.f32: 34.00000
+        !h mDistance.f32: 5.00000
+        !h mAngle.V3f:
+          - 7.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
       !h cShelf2:
         !h mDOFNearEnd.f32: 69.00000
         !h mDOFVignettingBlurIntensity.f32: 0.00000
@@ -1498,11 +1555,11 @@ root:
         !h mDOFStart.f32: 4840.00000
         !h mDrumAngle.f32: 10.00000
         !h mDOFIntensity.f32: 1.30000
-        !h mFovy.f32: 22.00000
-        !h mDistance.f32: 230.00000
+        !h mFovy.f32: 17.00000
+        !h mDistance.f32: 250.00000
         !h mAngle.V3f:
-          - 43.00000
-          - -23.00000
+          - 45.00000
+          - -30.00000
           - 0.00000
         !h mDOFNearStart.f32: 0.00000
         !h mDOFEnd.f32: 9000.00000

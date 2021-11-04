@@ -1,0 +1,1442 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h a74c0641:
+    !h 7e830540:
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBigSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cMattari
+          - cBlue
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightSmallSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightCrossSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightOff
+          - LightOff2
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cOneRoom
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cMattari
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightPink
+          - LightBlue
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Intro
+          - cDJ_Song
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cFukigen
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightPink
+          - LightWhite
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cBlue
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightWhite
+          - LightBlue
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cWakaranai
+        !h 9d662840: !l 2
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightWhite
+          - LightPink
+          - LightWhite
+          - LightBlue
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Intro
+          - cDJ_Song
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightCrossSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Intro
+          - cEmission
+          - cOneRoom
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1: null
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightWhite
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cEmission
+          - cOneRoom
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 3
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - SpotOff
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Intro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 3
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 3
+        !h c1aa26b0: true
+        !h c8115335:
+          - SpotOffSync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 3
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightOff2Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Outro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightWhite
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cEmission
+          - cOneRoom
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cFukigen
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightPink
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Intro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cBlue
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBlue
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Intro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 3
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - AlwaysSpotOn
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 3
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 3
+        !h c1aa26b0: true
+        !h c8115335:
+          - SpotOnSync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cEmission
+          - cOneRoom
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBlue
+          - LightPink
+          - 
+          - 
+        !h d4d4220f: !l 2
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 13
+        !h f5bb53cc:
+          - cDemo_FirstIntro_Experimental
+        !h fe6557ba: !l 174
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBlue
+          - LightPink
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 174
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+        !h fe6557ba: !l 198
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightSlide00Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 174
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+        !h fe6557ba: !l 238
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightEqualizerOP00Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 4
+        !h f5bb53cc:
+          - cDemo_FirstIntro_Experimental
+        !h fe6557ba: !l 15
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightEqualizerOP01Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 15
+        !h f5bb53cc:
+          - cDemo_FirstIntro_Experimental
+        !h fe6557ba: !l 19
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightScroll00Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 19
+        !h f5bb53cc:
+          - cDemo_FirstIntro_Experimental
+        !h fe6557ba: !l 21
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightScroll01Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 21
+        !h f5bb53cc:
+          - cDemo_FirstIntro_Experimental
+        !h fe6557ba: !l 23
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: true
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightScroll02Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 23
+        !h f5bb53cc:
+          - cDemo_FirstIntro_Experimental
+        !h fe6557ba: !l 27
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBigSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 3
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - AlwaysSpotOn
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightSlide00Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 174
+        !h f5bb53cc:
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 238
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBlue
+          - LightPink
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 34
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightScroll01Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Intro
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightEqualizer01Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cFukigen
+          - cBlue
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightOff
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightDemoStartSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 32
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+        !h fe6557ba: !l 33
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightDemoStopSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 33
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+        !h fe6557ba: !l 38
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightDemoEndSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 38
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+        !h fe6557ba: !l 39
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightDemoStartSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 9
+        !h f5bb53cc:
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 10
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightDemoStopSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 10
+        !h f5bb53cc:
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 13
+      - !h 1c2cc37: !l 2
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightDemoEndSwing
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 13
+        !h f5bb53cc:
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 14
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightWhite
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 33
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+        !h fe6557ba: !l 38
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightWhite
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 10
+        !h f5bb53cc:
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 13
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBlue
+          - LightPink
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 221
+        !h f5bb53cc:
+          - cDemo_FirstIntro_EmotionalFlare
+        !h fe6557ba: !l 238
+      - !h 1c2cc37: !l 1
+        !h 5b1a0834: false
+        !h 7a58077e: true
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 1
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 0
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightBlue
+          - LightPink
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 49
+        !h f5bb53cc:
+          - cDemo_Intro_EmotionalFlare
+        !h fe6557ba: !l 62
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cMattari
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightSlide00Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cGokigen
+          - cFukigen
+          - cMattari
+          - cBlue
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightSlide02Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cEmission
+        !h fe6557ba: !l 1
+      - !h 1c2cc37: !l 0
+        !h 5b1a0834: false
+        !h 7a58077e: false
+        !h 98317cf1:
+          - cWakaranai
+        !h 9d662840: !l 0
+        !h 9f6e92f1:
+          - cKeep
+          - cKeep
+          - cKeep
+          - cKeep
+        !h a53c6116: !l 2
+        !h befec39: !l 1
+        !h c1aa26b0: true
+        !h c8115335:
+          - LightScroll10Sync
+          - 
+          - 
+          - 
+        !h d4d4220f: !l 1
+        !h ec1e9ae3:
+          - cKeep
+          - cKeep
+          - cKeep
+        !h ec9e1fd9: !l 0
+        !h f5bb53cc:
+          - cDJ_Song
+        !h fe6557ba: !l 1

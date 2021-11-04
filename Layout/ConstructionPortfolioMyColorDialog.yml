@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: MyColor, !h mGroupName.Str: ColorBtn}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: L_Btn, !h mGroupName.Str: DecideBtn}
+    !h mUserName.Str: UI_ConstructionPortfolioMyColorDialog
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

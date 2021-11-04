@@ -4,6 +4,6 @@ SupportPaths: False
 HasReferenceNodes: False
 root:
   !h FishMuseumChasePlayer[]:
-    - {!h mSearchRadius.f32: 15.00000, !h mChaseDist.f32: 5.00000, !h mUniqueID.u16: !l 2249}
-    - {!h mSearchRadius.f32: 15.00000, !h mChaseDist.f32: 5.00000, !h mUniqueID.u16: !l 2245}
-    - {!h mSearchRadius.f32: 10.00000, !h mChaseDist.f32: 5.00000, !h mUniqueID.u16: !l 2228}
+    - {!h mSearchRadius.f32: 15.00000, !h mChaseDist.f32: 5.00000, !h mUniqueID.u16: !l 2249, !h bccc937d: !l 26}
+    - {!h mSearchRadius.f32: 15.00000, !h mChaseDist.f32: 5.00000, !h mUniqueID.u16: !l 2245, !h bccc937d: !l 27}
+    - {!h mSearchRadius.f32: 10.00000, !h mChaseDist.f32: 5.00000, !h mUniqueID.u16: !l 2228, !h bccc937d: !l -1}

@@ -1,0 +1,17 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: FollowIn, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: FollowOut, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: /L_InfoBtnList_00/L_BtnList
+        !h mGroupName.Str: Button
+    !h mUserName.Str: UI_WherearenInspectInfo
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

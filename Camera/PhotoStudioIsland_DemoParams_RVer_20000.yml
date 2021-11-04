@@ -1,0 +1,159 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 18991189:
+    !h mParamsBuffer[]:
+      - !h mDOFNearEnd.f32: 100.00000
+        !h mKey.Str: DemoJB_Cut1
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 10.00000
+          - 1.50000
+          - 0.00000
+        !h mDOFStart.f32: 120.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 115.00000
+        !h mAngle.V3f:
+          - 22.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 95.00000
+        !h mDOFEnd.f32: 145.00000
+      - !h mDOFNearEnd.f32: 100.00000
+        !h mKey.Str: DemoJB_Cut2
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - -10.00000
+          - 1.50000
+          - 0.00000
+        !h mDOFStart.f32: 120.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 22.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 95.00000
+        !h mDOFEnd.f32: 145.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: PhotoStudioIslandIdentifyMin
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 45.00000
+        !h mDistance.f32: 35.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: PhotoStudioIslandIdentifyMax
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - 0.00000
+          - 10.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 45.00000
+        !h mDistance.f32: 60.00000
+        !h mAngle.V3f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
+      - !h mDOFNearEnd.f32: 100.00000
+        !h mKey.Str: Talk_bpt
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 0.00000
+          - 5.50000
+          - 9.00000
+        !h mDOFStart.f32: 149.00000
+        !h mDrumAngle.f32: 15.00000
+        !h mDOFIntensity.f32: 1.80000
+        !h mFovy.f32: 18.00000
+        !h mDistance.f32: 108.00000
+        !h mAngle.V3f:
+          - 25.00000
+          - 40.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 95.00000
+        !h mDOFEnd.f32: 191.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: PooHairStyling
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - -8.00000
+          - 6.00000
+          - 0.00000
+        !h mDOFStart.f32: 231.00000
+        !h mDrumAngle.f32: 25.00000
+        !h mDOFIntensity.f32: 1.80000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 100.00000
+        !h mAngle.V3f:
+          - 12.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 107.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: CommuneExpansion
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.60000
+        !h mOffset.V3f:
+          - 8.00000
+          - 3.84000
+          - 0.00000
+        !h mDOFStart.f32: 249.00000
+        !h mDrumAngle.f32: 22.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 18.00000
+        !h mDistance.f32: 120.00000
+        !h mAngle.V3f:
+          - 12.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 327.00000
+      - !h mDOFNearEnd.f32: 100.00000
+        !h mKey.Str: Talk_alp
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.50000
+        !h mOffset.V3f:
+          - 0.00000
+          - 6.00000
+          - 0.00000
+        !h mDOFStart.f32: 120.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.50000
+        !h mFovy.f32: 16.00000
+        !h mDistance.f32: 108.00000
+        !h mAngle.V3f:
+          - 20.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 95.00000
+        !h mDOFEnd.f32: 145.00000

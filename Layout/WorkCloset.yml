@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 3, !h mPath.Str: /L_SelWinPlayer_00, !h mGroupName.Str: SelectWindow}
+    !h mUserName.Str: UI_ClosetWherearenWork
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]:
+      - {!h mTagName.Str: FinishOut, !h mAnimOpeOption.Bit: !l 0}

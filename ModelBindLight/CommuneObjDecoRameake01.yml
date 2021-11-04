@@ -1,0 +1,36 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 9d9ec349:
+    - !h mLightType.Enum: ポイントライト
+      !h mIsNightLight.bool: true
+      !h mIsCandle.bool: false
+      !h mPos.V3f:
+        - 41.50000
+        - 8.00000
+        - 6.00000
+      !h mRadiusOffset.f32: 1.00000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 1.00000
+        - 0.95000
+        - 1.00000
+      !h mSize.f32: 7.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mCycleAR.f32: 0.09000
+      !h mBindBoneName.Str: Root
+      !h mCycleB.f32: 0.05000
+      !h mCycleBR.f32: 0.00300
+      !h mIntensity.f32: 4.00000
+      !h mRadius.f32: 18.00000
+      !h a655037a: false
+      !h mIsForceVisible.bool: false
+      !h mCycleA.f32: 0.20000
+      !h mIsCandleColor.bool: false
+      !h mIsUseMaterialColor.bool: false

@@ -129,6 +129,11 @@ root:
           - 20.00000
           - 0.00000
         !h mScale.f32: 29.00000
+      - !h mVirtualCameraAngle.V3f:
+          - 10.00000
+          - 20.00000
+          - 0.00000
+        !h mScale.f32: 20.00000
     !h mCatalogRotateSpeed.f32: 1.00000
     !h mMyDesignEditArray[]:
       - !h mVirtualCameraAngle.V3f:
@@ -359,12 +364,12 @@ root:
         !h mScale.f32: 10.00000
     !h mCArray[]:
       - !h mVirtualCameraAngle.V3f:
-          - 20.00000
-          - -35.00000
+          - -6.00000
+          - -2.00000
           - 0.00000
         !h mOffset.V3f:
-          - -276.00000
-          - -146.00000
+          - -295.00000
+          - -140.00000
           - 0.00000
         !h mScale.f32: 40.00000
       - !h mVirtualCameraAngle.V3f:
@@ -372,10 +377,28 @@ root:
           - -15.00000
           - 0.00000
         !h mOffset.V3f:
-          - -276.00000
-          - -135.00000
+          - -285.00000
+          - -148.00000
           - 0.00000
-        !h mScale.f32: 45.00000
+        !h mScale.f32: 65.00000
+      - !h mVirtualCameraAngle.V3f:
+          - 10.00000
+          - -20.00000
+          - 0.00000
+        !h mOffset.V3f:
+          - -280.00000
+          - -211.00000
+          - 0.00000
+        !h mScale.f32: 50.00000
+      - !h mVirtualCameraAngle.V3f:
+          - 10.00000
+          - -5.00000
+          - 0.00000
+        !h mOffset.V3f:
+          - -290.00000
+          - -155.00000
+          - 0.00000
+        !h mScale.f32: 42.00000
     !h mMyDesignExchangeArray[]:
       - !h mVirtualCameraAngle.V3f:
           - 10.00000
@@ -827,3 +850,13 @@ root:
           - -25.00000
           - 0.00000
         !h mScale.f32: 75.00000
+      - !h mVirtualCameraAngle.V3f:
+          - 15.00000
+          - -25.00000
+          - 0.00000
+        !h mOffset.V3f:
+          - -284.00000
+          - -206.00000
+          - 0.00000
+        !h mScale.f32: 20.00000
+    !h efaf17a7: 4.16000

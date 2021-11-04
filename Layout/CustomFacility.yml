@@ -1,0 +1,11 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_Decide_00, !h mGroupName.Str: DecideBtn}
+    !h mUserName.Str: UI_CustomFacility
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

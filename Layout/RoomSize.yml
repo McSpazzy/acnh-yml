@@ -1,0 +1,16 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: /L_SoundBtn, !h mGroupName.Str: SoundBtn}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: /L_RoomSizeBar, !h mGroupName.Str: RoomSizeBar}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: /L_WindowBtn, !h mGroupName.Str: WindowBtn}
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: /L_EntranceBtn, !h mGroupName.Str: EntranceBtn}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: /L_LightColorBar_00, !h mGroupName.Str: LightColorBar}
+      - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 2, !h mPath.Str: /L_LightBar_00, !h mGroupName.Str: LightBar}
+    !h mUserName.Str: UI_RoomSize
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

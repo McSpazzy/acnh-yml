@@ -1,0 +1,111 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 1b7afdb3:
+    !h mParamsBuffer[]:
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.00000
+            - 0.15000
+            - 0.37326
+            - 0.55000
+            - 0.41396
+            - 0.90000
+            - 0.26758
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: LeaveDemoRP
+        !h mFrame.s32: !l 100
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: OPOverview0
+        !h mFrame.s32: !l 240
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: OPOverview1
+        !h mFrame.s32: !l 240
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: OPOverview2
+        !h mFrame.s32: !l 240
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: OPOverview3
+        !h mFrame.s32: !l 240
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: OPOverview4
+        !h mFrame.s32: !l 240
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: OrderThemeAppear
+        !h mFrame.s32: !l 45
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.10614
+            - 0.20000
+            - 0.32327
+            - 0.55000
+            - 0.44235
+            - 0.90000
+            - 0.25272
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: Complete_Smooth
+        !h mFrame.s32: !l 240
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.10614
+            - 0.29566
+            - 0.50288
+            - 0.71635
+            - 0.28810
+            - 0.93749
+            - 0.11406
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: Complete_FastSlow
+        !h mFrame.s32: !l 90
+      - !h mCurvef.Curvef:
+          - !l 1
+          - - 0.00000
+            - 0.10614
+            - 0.11513
+            - 0.18854
+            - 0.41858
+            - 0.44235
+            - 0.90000
+            - 0.25272
+            - 1.00000
+            - 0.00000
+        !h mKey.Str: Complete_SlowFast
+        !h mFrame.s32: !l 90

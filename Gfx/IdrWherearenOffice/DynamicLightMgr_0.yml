@@ -1,0 +1,118 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h DynamicLightSceneParam:
+    !h mSpotParamArray[]:
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.40000
+          - 1.00000
+        !h mPos.V3f:
+          - 119.00000
+          - 60.00000
+          - 162.00000
+        !h mSize.f32: 64.00000
+        !h mDir.V3f:
+          - -0.15157
+          - -0.88122
+          - -0.44775
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightFar00
+        !h mFar.f32: 70.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.40000
+          - 1.00000
+        !h mPos.V3f:
+          - 127.00000
+          - 60.00000
+          - 162.00000
+        !h mSize.f32: 64.00000
+        !h mDir.V3f:
+          - 0.09810
+          - -0.90818
+          - -0.40693
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightFar01
+        !h mFar.f32: 70.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.40000
+          - 1.00000
+        !h mPos.V3f:
+          - 142.00000
+          - 60.00000
+          - 162.00000
+        !h mSize.f32: 64.00000
+        !h mDir.V3f:
+          - 0.19767
+          - -0.88234
+          - -0.42710
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightFar02
+        !h mFar.f32: 70.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.40000
+          - 1.00000
+        !h mPos.V3f:
+          - 135.00000
+          - 50.00000
+          - 185.00000
+        !h mSize.f32: 44.00000
+        !h mDir.V3f:
+          - 0.12788
+          - -0.93590
+          - -0.32824
+        !h mBindBoneName.Str: 
+        !h mName.Str: RailLightNear00
+        !h mFar.f32: 50.00000
+        !h mIntensity.f32: 2.00000
+        !h mFovy.f32: 0.64577
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.90000
+          - 0.60000
+          - 1.00000
+        !h mPos.V3f:
+          - 119.84000
+          - 60.00000
+          - 193.20000
+        !h mSize.f32: 34.00000
+        !h mDir.V3f:
+          - -0.15082
+          - -0.94262
+          - -0.29787
+        !h mBindBoneName.Str: 
+        !h mName.Str: LetterLight
+        !h mFar.f32: 68.00000
+        !h mIntensity.f32: 6.00000
+        !h mFovy.f32: 0.78540
+        !h mBindModelName.Str: 
+    !h mPointParamArray[]: null

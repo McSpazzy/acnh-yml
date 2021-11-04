@@ -1,0 +1,12 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h e9c29dce:
+    !h mLightParamArray[]:
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}
+      - {!h mLightKind.s32: !l 0}

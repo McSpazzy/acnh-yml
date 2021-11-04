@@ -15,6 +15,8 @@ root:
           - {!h mTagName.Str: PresentGreenOpen, !h mAnimOpeOption.Bit: !l 0}
           - {!h mTagName.Str: OtoshidamaChWrappingOpen, !h mAnimOpeOption.Bit: !l 1}
           - {!h mTagName.Str: OtoshidamaKrWrappingOpen, !h mAnimOpeOption.Bit: !l 1}
+          - {!h mTagName.Str: OtoshidamaJpWrappingOpen, !h mAnimOpeOption.Bit: !l 1}
+          - {!h mTagName.Str: BoxWhWrappingOpen, !h mAnimOpeOption.Bit: !l 1}
         !h mBaseOption.Bit: !l 2
         !h mPath.Str: L_Btn
         !h mGroupName.Str: Btn
@@ -25,6 +27,13 @@ root:
       - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 3, !h mPath.Str: /L_SelWinPlayer_00, !h mGroupName.Str: SelectWindow}
       - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_TextBtn_00, !h mGroupName.Str: FinishBtn}
       - {!h mIsIncludePath.bool: false, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_TextBtn_01, !h mGroupName.Str: CancelBtn}
+      - !h mIsIncludePath.bool: false
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: CountUp, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: CountDown, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: /L_ReleasedInsectNum_00
+        !h mGroupName.Str: InsectNum
     !h mUserName.Str: UI_PocketMenu
     !h mIsUniqueUserId.bool: false
     !h mAnimOperationParamBuffer[]: null

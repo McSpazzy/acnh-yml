@@ -55,10 +55,12 @@ root:
     !h mChristmasBasicRatio.s32: !l 80
     !h mPersonalSpaceReactionTime.s32: !l 90
     !h mSightLength.f32: 45.00000
+    !h 63083dad: !l 1
     !h mChristmasSmilingRatio.s32: !l 42
     !h mFtrSwitchResponseFrameMin.s32: !l 5
     !h mConversationRadiusL.f32: 8.80000
     !h mFtrSwitchResponseFrameMax.s32: !l 15
+    !h 71b042bf: !l 1
     !h mChristmasTakePhotoRatio.s32: !l 9
     !h mConversationTalkFrameMax.s32: !l 120
     !h mConversationTalkFrameMin.s32: !l 60
@@ -84,6 +86,7 @@ root:
     !h mCatchInsectMaxDist.f32: 35.00000
     !h mConflictQuitConcentrateTh.s32: !l 20
     !h mInterestGainRate.f32: 0.95000
+    !h a0ba7495: !l 1
     !h mChristmasInterestSmilingRatio.s32: !l 33
     !h mConflictStartLineOffset.f32: 0.00000
     !h mPlacementFieldRateHouse.s32: !l 40
@@ -133,4 +136,5 @@ root:
     !h mChristmasInterestExcitedRatio.s32: !l 35
     !h mCatchFollowInsectTurnAngle.f32: 45.00000
     !h mConcentrateInterest3to4H.s32: !l 0
+    !h fd73fcb4: !l 1
     !h mConflictInterestChangeRange.s32: !l -3

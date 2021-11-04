@@ -429,7 +429,7 @@ root:
           - 0.00000
           - 0.00000
           - 0.00000
-        !h mSize.f32: 35.00000
+        !h mSize.f32: 16.00000
         !h mDir.V3f:
           - 1.00000
           - 0.00000
@@ -437,6 +437,6 @@ root:
         !h mBindBoneName.Str: 
         !h mName.Str: DefaultName
         !h mFar.f32: 36.00000
-        !h mIntensity.f32: 8.00000
-        !h mFovy.f32: 1.04720
+        !h mIntensity.f32: 11.00000
+        !h mFovy.f32: 1.22173
         !h mBindModelName.Str: 

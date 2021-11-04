@@ -1,0 +1,27 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 33811ccc:
+    !h mParamsBuffer[]:
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - -0.02823
+            - 1.00000
+            - 1.00000
+            - 0.00322
+        !h mKey.Str: PutAwayCup
+        !h mFrame.s32: !l 60
+      - !h mCurvef.Curvef:
+          - !l 10
+          - - 0.00000
+            - 0.00000
+            - 1.00000
+            - 1.00000
+            - 1.00000
+            - 1.00000
+        !h mKey.Str: IdrMuseumCafe
+        !h mFrame.s32: !l 24

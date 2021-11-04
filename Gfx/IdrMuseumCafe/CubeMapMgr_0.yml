@@ -1,0 +1,11 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h CubeMapStageParam:
+    !h mIsEnableOverrideCapturePos.bool: true
+    !h mCapturePos.V3f:
+      - 155.00000
+      - 6.50000
+      - 160.00000

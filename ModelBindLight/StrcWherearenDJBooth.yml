@@ -1,0 +1,50 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 11817dfc:
+    - !h mLightType.Enum: なし
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h a655037a: false
+      !h mIsForceVisible.bool: false
+    - !h mLightType.Enum: なし
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h a655037a: false
+      !h mIsForceVisible.bool: false
+    - !h mLightType.Enum: スポットライト
+      !h mIsNightLight.bool: true
+      !h mPos.V3f:
+        - 0.00000
+        - -1.00000
+        - 9.10000
+      !h mLightColor.C4f:
+        - 1.00000
+        - 0.67000
+        - 0.45000
+        - 1.00000
+      !h mSize.f32: 2.00000
+      !h mColorOffset.C4f:
+        - 0.00000
+        - 0.00000
+        - 0.00000
+        - 0.00000
+      !h mDir.V3f:
+        - 0.00000
+        - 0.17200
+        - -0.07600
+      !h mBindBoneName.Str: Root
+      !h mFar.f32: 20.00000
+      !h mIntensity.f32: 6.00000
+      !h a655037a: false
+      !h mIsForceVisible.bool: false
+      !h mFovy.f32: 1.30900
+      !h mIsUseMaterialColor.bool: false

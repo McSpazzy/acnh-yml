@@ -1,0 +1,198 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h DynamicLightSceneParam:
+    !h mSpotParamArray[]:
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.20000
+          - 1.00000
+        !h mPos.V3f:
+          - 153.20000
+          - 24.00000
+          - 110.00000
+        !h mSize.f32: 21.00000
+        !h mDir.V3f:
+          - 0.00000
+          - -1.00000
+          - 0.00000
+        !h mBindBoneName.Str: 
+        !h mName.Str: カウンターライト00
+        !h mFar.f32: 32.00000
+        !h mIntensity.f32: 11.00000
+        !h mFovy.f32: 1.25664
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.20000
+          - 1.00000
+        !h mPos.V3f:
+          - 153.20000
+          - 24.00000
+          - 125.12500
+        !h mSize.f32: 21.00000
+        !h mDir.V3f:
+          - 0.00000
+          - -1.00000
+          - 0.00000
+        !h mBindBoneName.Str: 
+        !h mName.Str: カウンターライト01
+        !h mFar.f32: 32.00000
+        !h mIntensity.f32: 11.00000
+        !h mFovy.f32: 1.25664
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.20000
+          - 1.00000
+        !h mPos.V3f:
+          - 153.20000
+          - 24.00000
+          - 140.25000
+        !h mSize.f32: 21.00000
+        !h mDir.V3f:
+          - 0.00000
+          - -1.00000
+          - 0.00000
+        !h mBindBoneName.Str: 
+        !h mName.Str: カウンターライト02
+        !h mFar.f32: 32.00000
+        !h mIntensity.f32: 11.00000
+        !h mFovy.f32: 1.25664
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.30000
+          - 1.00000
+        !h mPos.V3f:
+          - 135.00000
+          - 40.00000
+          - 200.00000
+        !h mSize.f32: 34.00000
+        !h mDir.V3f:
+          - 0.00000
+          - -1.00000
+          - 0.00000
+        !h mBindBoneName.Str: 
+        !h mName.Str: 左前テーブル
+        !h mFar.f32: 48.00000
+        !h mIntensity.f32: 12.00000
+        !h mFovy.f32: 1.04720
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.30000
+          - 1.00000
+        !h mPos.V3f:
+          - 175.00000
+          - 40.00000
+          - 200.00000
+        !h mSize.f32: 34.00000
+        !h mDir.V3f:
+          - 0.00000
+          - -1.00000
+          - 0.00000
+        !h mBindBoneName.Str: 
+        !h mName.Str: 右前テーブル
+        !h mFar.f32: 48.00000
+        !h mIntensity.f32: 12.00000
+        !h mFovy.f32: 1.04720
+        !h mBindModelName.Str: 
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mColor.C4f:
+          - 1.00000
+          - 0.80000
+          - 0.20000
+          - 1.00000
+        !h mPos.V3f:
+          - 165.00000
+          - 30.00000
+          - 142.50000
+        !h mSize.f32: 29.00000
+        !h mDir.V3f:
+          - 0.00000
+          - -0.99334
+          - 0.11523
+        !h mBindBoneName.Str: 
+        !h mName.Str: レジ
+        !h mFar.f32: 35.00000
+        !h mIntensity.f32: 4.00000
+        !h mFovy.f32: 1.08210
+        !h mBindModelName.Str: 
+    !h mPointParamArray[]:
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mIsCandle.bool: false
+        !h mColor.C4f:
+          - 1.00000
+          - 0.90000
+          - 0.50000
+          - 1.00000
+        !h mPos.V3f:
+          - 108.50000
+          - 25.50000
+          - 152.50000
+        !h mRadiusOffset.f32: 1.00000
+        !h mSize.f32: 1.50000
+        !h mColorOffset.C4f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mCycleAR.f32: 0.09000
+        !h mBindBoneName.Str: 
+        !h mName.Str: 左壁ランプ
+        !h mCycleB.f32: 0.05000
+        !h mCycleBR.f32: 0.00300
+        !h mIntensity.f32: 20.00000
+        !h mRadius.f32: 19.00000
+        !h mCycleA.f32: 0.20000
+        !h mBindModelName.Str: 
+        !h mIsCandleColor.bool: false
+      - !h mIsNightLight.bool: false
+        !h mIsEnable.bool: true
+        !h mIsCandle.bool: false
+        !h mColor.C4f:
+          - 1.00000
+          - 0.90000
+          - 0.50000
+          - 1.00000
+        !h mPos.V3f:
+          - 190.00000
+          - 25.50000
+          - 152.50000
+        !h mRadiusOffset.f32: 1.00000
+        !h mSize.f32: 1.50000
+        !h mColorOffset.C4f:
+          - 0.00000
+          - 0.00000
+          - 0.00000
+          - 0.00000
+        !h mCycleAR.f32: 0.09000
+        !h mBindBoneName.Str: 
+        !h mName.Str: 右壁ランプ
+        !h mCycleB.f32: 0.05000
+        !h mCycleBR.f32: 0.00300
+        !h mIntensity.f32: 20.00000
+        !h mRadius.f32: 19.00000
+        !h mCycleA.f32: 0.20000
+        !h mBindModelName.Str: 
+        !h mIsCandleColor.bool: false

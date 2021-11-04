@@ -4247,3 +4247,609 @@ root:
               - 
               - 
         !h mPaletteSetName.Str: HalloweenOutside
+      - !h mEnvTimeTableArray[]:
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Night_OR
+              - 
+              - Inside_Structure_WherearenOffice0_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Twilight_OR
+              - Inside_Structure_WherearenOffice0_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Night_OR
+              - 
+              - Inside_Structure_WherearenOffice0_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Twilight_OR
+              - Inside_Structure_WherearenOffice0_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Night_OR
+              - 
+              - Inside_Structure_WherearenOffice0_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_WherearenOffice0_Twilight_OR
+              - Inside_Structure_WherearenOffice0_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Cloudy_OR
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Rainy_OR
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Rainy_OR
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Cloudy_OR
+              - Inside_Structure_Airport_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - Inside_Structure_Airport_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_Airport_Twilight_Rainy_OR
+              - Inside_Structure_Airport_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+        !h mPaletteSetName.Str: StructureInside_WherearenOffice0
+      - !h mEnvTimeTableArray[]:
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_OR
+              - Inside_Structure_MuseumCafe0_Dawn_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_OR
+              - Inside_Structure_MuseumCafe0_Night_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_OR
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_OR
+              - Inside_Structure_MuseumCafe0_Dawn_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_OR
+              - Inside_Structure_MuseumCafe0_Night_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_OR
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_OR
+              - Inside_Structure_MuseumCafe0_Dawn_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_OR
+              - Inside_Structure_MuseumCafe0_Night_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_OR
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_Cloudy_OR
+              - Inside_Structure_MuseumCafe0_Dawn_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumCafe0_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_Cloudy_OR
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_Rainy_OR
+              - Inside_Structure_MuseumCafe0_Dawn_Rainy_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_Rainy_OR
+              - Inside_Structure_MuseumCafe0_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_Rainy_OR
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_Rainy_OR
+              - Inside_Structure_MuseumCafe0_Dawn_Rainy_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_Rainy_OR
+              - Inside_Structure_MuseumCafe0_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_Rainy_OR
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_Cloudy_OR
+              - Inside_Structure_MuseumCafe0_Dawn_Cloudy_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_Cloudy_OR
+              - Inside_Structure_MuseumCafe0_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_Cloudy_OR
+          - !h ProbeSetTypeList[]:
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_BeforeDawn_Rainy_OR
+              - Inside_Structure_MuseumCafe0_Dawn_Rainy_OR
+              - 
+              - Inside_Structure_MuseumCafe0_Morning_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Afternoon_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Twilight_Rainy_OR
+              - Inside_Structure_MuseumCafe0_Night_Rainy_OR
+              - 
+              - 
+              - 
+              - Inside_Structure_MuseumCafe0_Midnight_Rainy_OR
+        !h mPaletteSetName.Str: StructureInside_MuseumCafe0
+      - !h mEnvTimeTableArray[]:
+          - !h ProbeSetTypeList[]:
+              - Commune_Midnight_Fine_OR
+              - 
+              - 
+              - 
+              - Commune_Midnight_Fine_OR
+              - Commune_Dawn_Fine_OR
+              - Commune_Dawn_Fine_OR
+              - Commune_Morning_Fine_OR
+              - 
+              - Commune_Forenoon_Fine_OR
+              - 
+              - 
+              - Afternoon_Fine_OR
+              - 
+              - 
+              - 
+              - Teatime_Fine_OR
+              - 
+              - Twilight_Fine_OR
+              - Commune_Night_Fine_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Commune_Midnight_OR
+              - 
+              - 
+              - 
+              - Commune_Midnight_OR
+              - Commune_Dawn_OR
+              - Commune_Dawn_OR
+              - Commune_Morning_OR
+              - 
+              - Commune_Forenoon_OR
+              - 
+              - 
+              - Afternoon
+              - 
+              - 
+              - 
+              - Teatime
+              - 
+              - Twilight
+              - Commune_Night_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Commune_Midnight_Cloudy_OR
+              - 
+              - 
+              - 
+              - Commune_Midnight_Cloudy_OR
+              - 
+              - Commune_Dawn_Cloudy_OR
+              - Commune_Morning_Cloudy_OR
+              - 
+              - Commune_Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_OR
+              - 
+              - 
+              - Twilight_Cloudy_OR
+              - Commune_Night_Cloudy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - Midnight_Cloudy_BeforeRainy_OR
+              - 
+              - Dawn_Cloudy_BeforeRainy_OR
+              - Morning_Cloudy_BeforeRainy_OR
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Afternoon_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - Twilight_Cloudy_BeforeRainy_OR
+              - Night_Cloudy_BeforeRainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_Rainy_OR
+              - Morning_Rainy_OR
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Afternoon_Rainy_OR
+              - 
+              - 
+              - Twilight_Rainy_OR
+              - Night_Rainy_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavyRain_OR
+              - Morning_HeavyRain_OR
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Afternoon_HeavyRain_OR
+              - 
+              - 
+              - Twilight_HeavyRain_OR
+              - Night_HeavyRain_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_Snow_OR
+              - 
+              - 
+              - 
+              - Midnight_Snow_OR
+              - 
+              - Dawn_Snow_OR
+              - Morning_Snow_OR
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Afternoon_Snow_OR
+              - 
+              - 
+              - Twilight_Snow_OR
+              - Night_Snow_OR
+              - 
+              - 
+              - 
+              - 
+          - !h ProbeSetTypeList[]:
+              - Midnight_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+              - 
+              - Night_HeavySnow_OR
+              - Morning_HeavySnow_OR
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Afternoon_HeavySnow_OR
+              - 
+              - 
+              - Twilight_HeavySnow_OR
+              - Night_HeavySnow_OR
+              - 
+              - 
+              - 
+              - 
+        !h mPaletteSetName.Str: CommuneIslandOutside

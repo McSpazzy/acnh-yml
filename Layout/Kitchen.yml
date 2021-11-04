@@ -1,0 +1,18 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h XLink:
+    !h mPartsParamBuffer[]:
+      - {!h mIsIncludePath.bool: true, !h 'mAnimOperationParamBuffer[]': null, !h mBaseOption.Bit: !l 0, !h mPath.Str: /L_SelWin, !h mGroupName.Str: SelectWindow}
+      - !h mIsIncludePath.bool: true
+        !h mAnimOperationParamBuffer[]:
+          - {!h mTagName.Str: EquipIn, !h mAnimOpeOption.Bit: !l 0}
+          - {!h mTagName.Str: EquipOut, !h mAnimOpeOption.Bit: !l 0}
+        !h mBaseOption.Bit: !l 0
+        !h mPath.Str: Btn
+        !h mGroupName.Str: Button
+    !h mUserName.Str: UI_CookingTable
+    !h mIsUniqueUserId.bool: false
+    !h mAnimOperationParamBuffer[]: null

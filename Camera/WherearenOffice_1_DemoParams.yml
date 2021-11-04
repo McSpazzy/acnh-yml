@@ -1,0 +1,83 @@
+Version: 4
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  !h 92433ee4:
+    !h mParamsBuffer[]:
+      - !h mDOFNearEnd.f32: 32.00000
+        !h mKey.Str: OpenMaterialsBox
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 0.00000
+          - 2.00000
+          - 0.00000
+        !h mDOFStart.f32: 290.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 90.00000
+        !h mAngle.V3f:
+          - 25.00000
+          - 22.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 39.00000
+        !h mDOFEnd.f32: 720.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: Party
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 0.00000
+          - 7.00000
+          - 0.00000
+        !h mDOFStart.f32: 110.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 95.00000
+        !h mAngle.V3f:
+          - 18.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 140.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: PartyCheers
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.80000
+        !h mOffset.V3f:
+          - 0.00000
+          - 13.00000
+          - 0.00000
+        !h mDOFStart.f32: 110.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 24.00000
+        !h mDistance.f32: 90.00000
+        !h mAngle.V3f:
+          - 13.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 140.00000
+      - !h mDOFNearEnd.f32: 0.00000
+        !h mKey.Str: PostTailorCeremony
+        !h mDOFVignettingBlurIntensity.f32: 0.00000
+        !h mDOFVignettingColorIntensity.f32: 0.00000
+        !h mOffset.V3f:
+          - -15.00000
+          - 2.00000
+          - 0.00000
+        !h mDOFStart.f32: 4840.00000
+        !h mDrumAngle.f32: 35.00000
+        !h mDOFIntensity.f32: 1.30000
+        !h mFovy.f32: 22.00000
+        !h mDistance.f32: 110.00000
+        !h mAngle.V3f:
+          - 20.00000
+          - 0.00000
+          - 0.00000
+        !h mDOFNearStart.f32: 0.00000
+        !h mDOFEnd.f32: 9000.00000
