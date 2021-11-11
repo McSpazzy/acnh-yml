@@ -5,10 +5,10 @@ HasReferenceNodes: False
 root:
   !h chn10:
     !h mCookingRangeLUZ.u8: !l 34
-    !h mWall: {!h mItemNameParam.u64: !l 5661}
+    !h mWall: {!h mItemNameParam.u64: {BaseID: 5661, UniqueID: 5661, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: RoomSpWallTropical00}}
     !h mDIYWorkbench:
       !h mUnitZ.u8: !l 36
-      !h mItemSaveParam: {!h mItemNameParam.u64: !ul 17180004199}
+      !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 135015, UniqueID: 3943, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrWorkbenchIronwood}}
       !h mUnitX.u8: !l 26
       !h mLayer.u8: !l 0
     !h mDIYRangeHeight.u8: !l 4
@@ -17,82 +17,82 @@ root:
     !h mCookingRangeLUX.u8: !l 26
     !h mKitchen:
       !h mUnitZ.u8: !l 36
-      !h mItemSaveParam: {!h mItemNameParam.u64: !l 134342}
+      !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 134342, UniqueID: 3270, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrIronwoodKitchen}}
       !h mUnitX.u8: !l 26
       !h mLayer.u8: !l 0
     !h mLifePoint.f32: 12.04582
     !h mHobbyPoint.f32: 26.06384
     !h mFtrList[]:
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5790}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 5790, UniqueID: 5790, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: NnpcRoomMarkerFtrFloor1x1}}
         !h mUnitX.u8: !l 28
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 136863}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 136863, UniqueID: 5791, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: NnpcRoomMarkerFtrFloor2x1}}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562962838324908}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 1708, UniqueID: 1708, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrRadicaseW}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 7868}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7868, UniqueID: 7868, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrSurfboard}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 17179877052}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7868, UniqueID: 7868, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrSurfboard}}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 4294975164}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7868, UniqueID: 7868, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrSurfboard}}
         !h mUnitX.u8: !l 28
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884909756}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7868, UniqueID: 7868, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrSurfboard}}
         !h mUnitX.u8: !l 32
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 21474844348}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7868, UniqueID: 7868, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrSurfboard}}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589942460}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7868, UniqueID: 7868, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrSurfboard}}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 198229}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 198229, UniqueID: 1621, Rotation: 3, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrVinylchair}}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12884903754}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 1866, UniqueID: 1866, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrMenuboard}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8590069710}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 135118, UniqueID: 4046, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrRattanTableS}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 203953}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 203953, UniqueID: 7345, Rotation: 3, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: RugSquareOldStrawL00}}
         !h mUnitX.u8: !l 28
         !h mLayer.u8: !l 6
       - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 69815}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 69815, UniqueID: 4279, Rotation: 1, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrIceCandy}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 571230653985}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 3617, UniqueID: 3617, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrFloat}}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 667}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 667, UniqueID: 667, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrIcemachine}}
         !h mUnitX.u8: !l 32
         !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 12885037239}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 135351, UniqueID: 4279, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrIceCandy}}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 1
-    !h mFloor: {!h mItemNameParam.u64: !l 7239}
-    !h mMusic: {!h mItemNameParam.u64: !l 2482}
+    !h mFloor: {!h mItemNameParam.u64: {BaseID: 7239, UniqueID: 7239, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: RoomTexFloorSandStar00}}
+    !h mMusic: {!h mItemNameParam.u64: {BaseID: 2482, UniqueID: 2482, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: mjk_DoubutsuNoShima}}
     !h mCookingRangeWidth.u8: !l 4
     !h mFloorRotate.u8: !l 0
     !h mDIYRangeLUX.u8: !l 26

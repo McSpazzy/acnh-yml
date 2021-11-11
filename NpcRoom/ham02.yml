@@ -5,10 +5,10 @@ HasReferenceNodes: False
 root:
   !h ham02:
     !h mCookingRangeLUZ.u8: !l 26
-    !h mWall: {!h mItemNameParam.u64: !l 5490}
+    !h mWall: {!h mItemNameParam.u64: {BaseID: 5490, UniqueID: 5490, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: RoomSpWallServer00}}
     !h mDIYWorkbench:
       !h mUnitZ.u8: !l 26
-      !h mItemSaveParam: {!h mItemNameParam.u64: !l 3122}
+      !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 3122, UniqueID: 3122, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrWorkbenchS}}
       !h mUnitX.u8: !l 31
       !h mLayer.u8: !l 0
     !h mDIYRangeHeight.u8: !l 4
@@ -17,86 +17,86 @@ root:
     !h mCookingRangeLUX.u8: !l 30
     !h mKitchen:
       !h mUnitZ.u8: !l 26
-      !h mItemSaveParam: {!h mItemNameParam.u64: !l 3270}
+      !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 3270, UniqueID: 3270, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrIronwoodKitchen}}
       !h mUnitX.u8: !l 30
       !h mLayer.u8: !l 0
     !h mLifePoint.f32: 11.12624
     !h mHobbyPoint.f32: 20.03520
     !h mFtrList[]:
       - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5790}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 5790, UniqueID: 5790, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: NnpcRoomMarkerFtrFloor1x1}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 5791}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 5791, UniqueID: 5791, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: NnpcRoomMarkerFtrFloor2x1}}
         !h mUnitX.u8: !l 30
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 562949953553177}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 131865, UniqueID: 793, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrComponentPro}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 1126}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 1126, UniqueID: 1126, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrServer}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 1126}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 1126, UniqueID: 1126, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrServer}}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 131947}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 131947, UniqueID: 875, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrBreaker}}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 4
       - !h mUnitZ.u8: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 665875}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 665875, UniqueID: 10515, Rotation: 10, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PosterNpcNmlRbt13}}
         !h mUnitX.u8: !l 33
         !h mLayer.u8: !l 4
       - !h mUnitZ.u8: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 657852}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 657852, UniqueID: 2492, Rotation: 10, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: mjk_Idol}}
         !h mUnitX.u8: !l 31
         !h mLayer.u8: !l 4
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 8589938717}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 4125, UniqueID: 4125, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrBookshelf}}
         !h mUnitX.u8: !l 34
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 26
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 7161}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7161, UniqueID: 7161, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrCardboardBedS}}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 30064778600}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7528, UniqueID: 7528, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrToolcart}}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 549755817478}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 3590, UniqueID: 3590, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrDesktopPC}}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 665874}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 665874, UniqueID: 10514, Rotation: 10, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: PosterNpcNmlRbt12}}
         !h mUnitX.u8: !l 29
         !h mLayer.u8: !l 4
       - !h mUnitZ.u8: !l 28
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 198367}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 198367, UniqueID: 1759, Rotation: 3, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrBooks}}
         !h mUnitX.u8: !l 36
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 30
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 7160}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 7160, UniqueID: 7160, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrCardboardTableL}}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 32
-        !h mItemSaveParam: {!h mItemNameParam.u64: !ul 687194769210}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 1850, UniqueID: 1850, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrLaptop}}
         !h mUnitX.u8: !l 27
         !h mLayer.u8: !l 1
       - !h mUnitZ.u8: !l 36
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 138231}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 138231, UniqueID: 7159, Rotation: 2, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrCardboardSofaL}}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 0
       - !h mUnitZ.u8: !l 22
-        !h mItemSaveParam: {!h mItemNameParam.u64: !l 929}
+        !h mItemSaveParam: {!h mItemNameParam.u64: {BaseID: 929, UniqueID: 929, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: FtrAirconditioner}}
         !h mUnitX.u8: !l 26
         !h mLayer.u8: !l 2
-    !h mFloor: {!h mItemNameParam.u64: !l 5067}
-    !h mMusic: {!h mItemNameParam.u64: !l 2492}
+    !h mFloor: {!h mItemNameParam.u64: {BaseID: 5067, UniqueID: 5067, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: RoomTexFloorPanel00}}
+    !h mMusic: {!h mItemNameParam.u64: {BaseID: 2492, UniqueID: 2492, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: mjk_Idol}}
     !h mCookingRangeWidth.u8: !l 4
     !h mFloorRotate.u8: !l 0
     !h mDIYRangeLUX.u8: !l 30

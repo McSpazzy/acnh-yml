@@ -6,7 +6,7 @@ root:
   !h bul03:
     !h mWall.u16: !l 75
     !h mCurtain.u16: !l 6
-    !h mDeco: {!h mItemNameParam.u64: !l 65534}
+    !h mDeco: {!h mItemNameParam.u64: {BaseID: 65534, UniqueID: 65534, Rotation: 0, ReBody: !l 0, ReFabric: !l 0, Data4: 0, ResName: None}}
     !h mRoof.u16: !l 71
     !h mShape.u16: !l 9
     !h mDoor.u16: !l 260
